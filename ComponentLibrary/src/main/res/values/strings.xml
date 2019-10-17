@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComponentLibrary</string>
+    <string name="loading">正在登录...</string>
+    <string name="user_call">拨打电话</string>
+    <string name="user_send_message">发送短信</string>
+    <string name="user_save">保存到本地通讯录</string>
+    <string name="user_copy">复制此号码</string>
+</resources>

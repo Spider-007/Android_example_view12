@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_ffffffff"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:id="@+id/layout_daiban_titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        skin:enable="true"
+        android:background="@color/ht_hred_title" >
+
+        <ImageView
+            android:id="@+id/btn_back"
+            style="@style/title_button"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            skin:enable="true"
+            android:background="@drawable/mx_btn_back"
+            android:onClick="onClickBack"
+            android:scaleType="center" />
+
+        <TextView
+            android:id="@+id/report_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            skin:enable="true"
+            android:textColor="@color/ht_title_text_color"
+            android:textSize="@dimen/title_size"
+            android:text="报表控件"/>
+        <ImageView
+            android:id="@+id/imageview_daiban_more"
+            style="@style/title_button"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:onClick="onClickRight"
+            android:background="@drawable/mx_btn_more"
+            />
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/ll_general_from_child"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fitsSystemWindows="true"
+        android:clipToPadding="true"
+        android:orientation="vertical" >
+    </LinearLayout>
+</LinearLayout>

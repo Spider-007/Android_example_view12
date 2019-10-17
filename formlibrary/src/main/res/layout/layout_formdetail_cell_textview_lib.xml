@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/corners_bg_white_press_stroke"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/form_fielditem_text"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="3dp"
+        android:gravity="center"
+        android:minHeight="@dimen/formdetail_minheight"
+        android:textColor="@color/color_55555555"
+        android:textSize="17sp"></TextView>
+
+    <TextView
+        android:id="@+id/form_fielditem_editvalue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/text_back"
+        android:gravity="center_vertical"
+        android:minHeight="@dimen/formdetail_minheight"
+        android:textColor="@color/color_55555555"
+        android:hint=""
+        android:layout_weight="1"
+        android:textSize="17sp"
+        android:visibility="invisible"></TextView>
+
+
+    <ImageView
+        android:id="@+id/form_fielditem_editimage"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center_vertical"
+        android:visibility="gone"
+        android:src="@drawable/ic_editflag" />
+
+</LinearLayout>

@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.imageselected.MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/layout_daiban_titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        skin:enable="true"
+        android:background="@color/ht_hred_title" >
+
+        <ImageView
+            android:id="@+id/btn_daiban_person"
+            style="@style/title_button"
+            android:layout_alignParentLeft="true"
+
+            android:background="@drawable/mx_btn_back"
+            android:scaleType="center" />
+
+        <TextView
+            android:id="@+id/daibantopTabIndicator_bbslist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:text="裁剪"/>
+        <TextView
+            android:id="@+id/tv_save"
+            style="@style/title_button"
+            android:layout_centerVertical="true"
+            android:background="@drawable/header_bar_btn_selector"
+            android:text="@string/people_save"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:layout_alignParentRight="true"
+            />
+    </RelativeLayout>
+
+    <com.htmitech.app.widget.ClipImageView
+        android:id="@+id/src_pic"
+        android:layout_below="@id/layout_daiban_titlebar"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <com.htmitech.app.widget.ClipView
+        android:id="@+id/clipview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/layout_daiban_titlebar" />
+    <ProgressBar
+        android:id="@+id/progress_"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="30dip"
+        android:layout_height="30dip"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone"
+        android:indeterminateDrawable="@anim/imofan_round_progress_bar_1" />
+</RelativeLayout>

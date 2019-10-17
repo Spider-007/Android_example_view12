@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mx_health_date_format_y_m_d">yyyy&#047;MM&#047;dd</string>
+</resources>

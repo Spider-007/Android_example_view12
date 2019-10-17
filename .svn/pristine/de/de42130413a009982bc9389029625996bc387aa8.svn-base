@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.htmitech.emportal.ui.detail.DetailActivityLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:arc="http://schemas.android.com/apk/res-auto"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_ffffffff"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/system_title"
+            layout="@layout/system_title"
+            skin:enable="true" />
+
+        <LinearLayout
+            android:id="@+id/ll_calendar_popup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            skin:enable="true">
+
+            <com.htmitech.emportal.ui.calendarwidget.calendar.CollapseCalendarView
+                android:id="@+id/calendar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                skin:enable="true" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#F0F0F0" />
+
+        <com.htmitech.MyView.EmptyLayout
+            android:id="@+id/empty_layout_root"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView
+                android:id="@+id/lv_schedule_list"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:divider="@color/color_daiban_yiban_back"
+                android:listSelector="@null"
+                android:scrollbars="none"
+                ptr:mx_ptrAnimationStyle="rotate"
+                ptr:mx_ptrHeaderSubTextColor="@color/black"
+                ptr:mx_ptrHeaderTextColor="@color/black"
+                ptr:mx_ptrMode="both" />
+
+        </com.htmitech.MyView.EmptyLayout>
+
+    </LinearLayout>
+
+    <com.htmitech.emportal.ui.widget.flatingactionButton.AddFloatingActionButton
+        android:id="@+id/function"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp"
+        android:layout_marginTop="100dp"
+        android:scaleType="center"
+        android:src="@drawable/btn_date_operation_add"
+        android:visibility="visible" />
+</com.htmitech.emportal.ui.detail.DetailActivityLayout>

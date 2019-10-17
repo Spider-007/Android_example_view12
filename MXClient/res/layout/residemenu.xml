@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_height="match_parent"
+    android:background="@color/color_bg">
+
+    <ImageView
+        android:id="@+id/iv_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop" />
+
+    <ImageView
+        android:id="@+id/iv_shadow"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/shadow"
+        android:scaleType="fitXY" />
+
+    <!--<ScrollView-->
+    <!--android:id="@+id/sv_left_menu"-->
+    <!--android:layout_width="200dp"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:paddingLeft="10dp"-->
+
+    <!--android:scrollbars="none">-->
+
+    <LinearLayout
+        android:id="@+id/sv_left_menu"
+        android:layout_width="200dp"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical"
+        android:layout_marginTop="35dp"
+        android:layout_marginBottom="25dp"
+        android:paddingLeft="10dp">
+
+        <RelativeLayout
+            android:id="@+id/slid_currentuser"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <com.htmitech.app.widget.RoundImageView
+                android:id="@+id/imageview_residemenu_avatar"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/img_default_avatar" />
+
+            <TextView
+                android:id="@+id/default_tv"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/textview_style"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="20dip"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/textview_currentUserName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="请登录"
+                android:textColor="@color/color_ffffffff"
+                android:textSize="@dimen/fontsize_heading17" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/btn_arrow_right" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/view_divider_height"
+            android:layout_marginTop="20dp"
+            android:background="@color/color_ff5d5d5d" />
+
+        <com.htmitech.app.widget.UserMessageScrollView
+            android:id="@+id/left_menu_scroll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:fadingEdge="none"
+            android:focusable="false"
+            android:overScrollMode="never"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:id="@+id/layout_left_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:orientation="vertical"></LinearLayout>
+        </com.htmitech.app.widget.UserMessageScrollView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/exitlogin_btn"
+                android:layout_width="match_parent"
+
+                android:layout_height="@dimen/common_btn_height"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="退出登录"
+                android:textColor="#ffffff"
+                android:textSize="18.0dip" />
+        </LinearLayout>
+
+    </LinearLayout>
+    <!--</ScrollView>-->
+
+    <!--<ScrollView-->
+        <!--android:id="@+id/sv_right_menu"-->
+        <!--android:layout_width="150dp"-->
+        <!--android:layout_height="fill_parent"-->
+        <!--android:layout_gravity="right"-->
+        <!--android:paddingRight="10dp"-->
+        <!--android:scrollbars="none">-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center_vertical"-->
+            <!--android:gravity="right"-->
+            <!--android:orientation="vertical">-->
+
+            <!--<LinearLayout-->
+                <!--android:id="@+id/layout_right_menu"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_gravity="center_vertical"-->
+                <!--android:gravity="right"-->
+                <!--android:orientation="vertical"></LinearLayout>-->
+        <!--</LinearLayout>-->
+    <!--</ScrollView>-->
+
+</FrameLayout>

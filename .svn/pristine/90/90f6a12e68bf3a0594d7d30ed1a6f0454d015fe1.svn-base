@@ -1,0 +1,285 @@
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/oa_login_textview"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="0dp"
+            android:gravity="center"
+            android:text="API_Url"
+            android:textSize="14sp" />
+
+        <AutoCompleteTextView
+            android:id="@+id/oa_login_AutoCompleteTextView"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:completionThreshold="2"
+            android:hint="请输入"
+            android:singleLine="true"
+            android:textColorHint="#AAAAAA"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/oa_login_button"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="0dp"
+            android:text="选"
+            android:textSize="9sp" />
+    </TableRow>
+    
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/api_textview"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="0dp"
+            android:gravity="center"
+            android:text="API_Dir"
+            android:textSize="14sp" />
+
+        <AutoCompleteTextView
+            android:id="@+id/api_autoCompleteTextView"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:completionThreshold="2"
+            android:hint="请输入"
+            android:singleLine="true"
+            android:textColorHint="#AAAAAA"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/api_button"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="0dp"
+            android:text="选"
+            android:textSize="9sp" />
+    </TableRow>
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/oa_debug_textview"
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="0dp"
+                android:gravity="center"
+                android:text="EMPM_Url"
+                android:textSize="14sp" />
+
+            <AutoCompleteTextView
+                android:id="@+id/oa_debug_autoCompleteTextView"
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="0dp"
+                android:completionThreshold="2"
+                android:hint="请输入"
+                android:singleLine="true"
+                android:textColorHint="#AAAAAA"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/oa_debug_button"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="0dp"
+                android:text="选"
+                android:textSize="9sp" />
+        </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/push_textview"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="0dp"
+            android:gravity="center"
+            android:text="EMI_Push"
+            android:textSize="14sp" />
+
+        <AutoCompleteTextView
+            android:id="@+id/push_autoCompleteTextView"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:completionThreshold="2"
+            android:hint="请输入"
+            android:singleLine="true"
+            android:textColorHint="#AAAAAA"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/push_button"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="0dp"
+            android:text="选"
+            android:textSize="9sp" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/im_textview"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="0dp"
+            android:gravity="center"
+            android:text="EMI_Http"
+            android:textSize="14sp" />
+
+        <AutoCompleteTextView
+            android:id="@+id/im_autoCompleteTextView"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:completionThreshold="2"
+            android:hint="请输入"
+            android:singleLine="true"
+            android:textColorHint="#AAAAAA"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/im_button"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="0dp"
+            android:text="选"
+            android:textSize="9sp" />
+    </TableRow>
+
+    
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:visibility="gone"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/softwarecode_textview"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="0dp"
+            android:gravity="center"
+            android:text="softwarecode"
+            android:textSize="14sp" />
+
+        <AutoCompleteTextView
+            android:id="@+id/softwarecode_autoCompleteTextView"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:completionThreshold="2"
+            android:hint="请输入"
+            android:singleLine="true"
+            android:textColorHint="#AAAAAA"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/softwarecode_button"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="0dp"
+            android:text="选"
+            android:textSize="9sp" />
+    </TableRow>
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:visibility="gone"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/serverip_textview"
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="0dp"
+                android:gravity="center"
+                android:text="serverIp"
+                android:textSize="14sp" />
+
+            <AutoCompleteTextView
+                android:id="@+id/serverip_autoCompleteTextView"
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="0dp"
+                android:completionThreshold="2"
+                android:hint="请输入"
+                android:singleLine="true"
+                android:textColorHint="#AAAAAA"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/serverip_button"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="0dp"
+                android:text="选"
+                android:textSize="9sp" />
+        </TableRow>
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+         >
+
+        <Button
+            android:id="@+id/ok_button"
+        	style="@style/RemoteButton"
+            android:layout_width="110dp"
+            android:layout_height="50dp"
+            android:text="确定"
+             />
+
+        <Button
+            android:id="@+id/cancel_button"
+            style="@style/RemoteButton"
+            android:layout_width="110dp"
+            android:layout_height="50dp"
+           	
+            android:text="取消" />
+	</LinearLayout>
+    
+    
+  </TableLayout>  
+  
+  
+    
+
+
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_ffffffff" >
+
+    <com.htmitech.emportal.ui.widget.BottomTabIndicator
+        android:id="@+id/main_bottom_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true" />
+
+    <com.htmitech.emportal.ui.widget.MainViewPager
+        android:id="@+id/main_viewpager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/main_bottom_bar" />
+
+</RelativeLayout>

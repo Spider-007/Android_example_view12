@@ -1,0 +1,73 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/railway_back" >
+
+    <com.htmitech.ztcustom.zt.view.CircleWaveView
+        android:id="@+id/circle_line"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/function"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/zt_htmitech_shezhi_1" />
+
+    <LinearLayout
+        android:id="@+id/ll_popupLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="140dp"
+        android:background="#002450"
+        android:visibility="gone" >
+
+        <fragment
+            android:id="@+id/fragment_summary"
+            android:name="com.htmitech.ztcustom.zt.fragment.DamageSummaryFragment"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_iv_down"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:visibility="gone"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/iv_down"
+            android:layout_width="50dp"
+            android:layout_height="13dp"
+            android:background="@drawable/zt_fragment_qiehuan" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_iv_up"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@+id/layout_time"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/iv_up"
+            android:layout_width="50dp"
+            android:layout_height="13dp"
+            android:background="@drawable/zt_fragment_qiehuan" />
+    </LinearLayout>
+
+   <include 
+       layout="@layout/zt_activity_damages_title"
+       android:layout_width="wrap_content"
+       android:id="@+id/layout_time"
+       android:layout_height="wrap_content"
+       />
+</RelativeLayout>

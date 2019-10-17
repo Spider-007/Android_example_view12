@@ -1,0 +1,118 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw600dp devices (e.g. 7" tablets) here.
+    -->
+    <!-- 标题栏右边图标的大小 -->
+    <dimen name="date_text_size">18sp</dimen>
+    <dimen name="generalinfomation_top_textsize">14sp</dimen>
+    <!-- 卡片上面的数字部分的字体大小 -->
+    <dimen name="kaipian_top_ll_height">49dp</dimen>
+    <!-- 探伤生产详细数据界面6个表格的viewpager的高 -->
+    <dimen name="title_right_toright">12dp</dimen>
+    <dimen name="fab_plus_icon_size">14dp</dimen>
+    <dimen name="fab_plus_icon_stroke">2dp</dimen>
+    <dimen name="fab_shadow_offset">3dp</dimen>
+    <dimen name="fab_shadow_radius">9dp</dimen>
+    <dimen name="fab_stroke_width">1dp</dimen>
+    <dimen name="fab_actions_spacing">16dp</dimen>
+    <dimen name="fab_labels_margin">8dp</dimen>
+
+
+    <!--计划兑现-->
+    <dimen name="homeHeight">120dp</dimen>
+    <dimen name="pland_cash_bottom_line">55dp</dimen>
+    <dimen name="planned_cash_rate_bottom">30dp</dimen>
+
+    <!-- for text style -->
+    <dimen name="fontsize_heading21">21sp</dimen>
+    <dimen name="fontsize_heading19">19sp</dimen>
+    <dimen name="fontsize_heading18">18sp</dimen>
+    <dimen name="fontsize_heading17">17sp</dimen>
+    <dimen name="fontsize_heading16">16sp</dimen>
+    <dimen name="fontsize_heading15">15sp</dimen>
+    <dimen name="fontsize_heading14">14sp</dimen>
+    <dimen name="fontsize_heading13">13sp</dimen>
+    <dimen name="fontsize_heading12">12sp</dimen>
+    <dimen name="fontsize_heading11">11sp</dimen>
+    <dimen name="fontsize_heading10">10sp</dimen>
+
+    <dimen name="view_divider_height">1px</dimen>
+    <dimen name="view_divider_height_2">2px</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+
+    <!-- 车间的表格宽度 -->
+    <dimen name="chejiantextsize">13sp</dimen>
+    <!-- 车间的字体大小 -->
+    <dimen name="tableline">2dp</dimen>
+    <!-- 车间的线大小 -->
+    <dimen name="dayreport_shaixuan_textsize">13sp</dimen>
+    <dimen name="complete_drawlayout_fragment_textsize">15sp</dimen>
+    <dimen name="complete_drawlayout_fragment_textwidth">80dp</dimen>
+    <dimen name="complete_drawlayout_fragment_textheight">30dp</dimen>
+    <dimen name="complete_drawlayout_fragment_textsize_jd">10sp</dimen>
+    <!-- 探伤完成情况各季度字体大小 -->
+    <dimen name="table_height">10dp</dimen>
+
+    <dimen name="kaipian_viewpager_height">90dp</dimen>
+    <!-- 卡片的高度 -->
+    <dimen name="kaipian_viewpager_width">250dp</dimen>
+    <!-- 卡片的宽度 -->
+    <dimen name="kaipian_ll_height">140dp</dimen>
+    <!-- 包裹卡片的ll的宽度 -->
+    <dimen name="kaipian_top_textsize">12sp</dimen>
+    <!-- 卡片上面的字体大小 -->
+    <dimen name="kaipian_main_textsize">12sp</dimen>
+    <!-- 探伤计划数字体大小 -->
+    <dimen name="kaipian_num_textsize">12sp</dimen>
+    <!-- 卡片上面蓝色部分高度 -->
+
+    <dimen name="tableheight">40dp</dimen>
+
+    <dimen name="chejiantablewidth">84dp</dimen>
+
+    <declare-styleable name="ZBWaterDropView">
+        <attr name="max_circle_radius" format="dimension" />
+        <attr name="min_circle_radius" format="dimension" />
+        <attr name="waterdrop_color" format="color" />
+        <attr name="topcircle_x" format="dimension" />
+        <attr name="topcircle_y" format="dimension" />
+        <attr name="bottomcircle_x" format="dimension" />
+        <attr name="bottomcircle_y" format="dimension" />
+    </declare-styleable>
+
+    <dimen name="login_input_left">20dp</dimen>
+    <dimen name="login_input_right">20dp</dimen>
+    <!-- 标题字体大小-->
+    <dimen name="title_height">40dp</dimen>
+    <!-- 标题栏右边筛选字体大小-->
+    <dimen name="title_textsize">20sp</dimen>
+    <!-- 增加减少日期按钮 -->
+    <dimen name="title_right_drawsize">35dp</dimen>
+    <!-- 标题栏高度-->
+    <dimen name="date_height">40dp</dimen>
+    <dimen name="quality_objection_top_textsize">14sp</dimen>
+    <!-- 标题栏右边图标距离有边框距离 -->
+    <dimen name="datesize">30dp</dimen>
+    <!-- 日期字体大小 -->
+    <dimen name="dayreport_list_text_size">14sp</dimen>
+    <!-- listview的字体大小 -->
+    <dimen name="title_shaixuan_textsize">18sp</dimen>
+
+    <dimen name="generalinfomation_top_height">40dp</dimen>
+    <dimen name="quality_objection_top_cell_width">120dp</dimen>
+    <dimen name="text_size_big">18sp</dimen>
+    <dimen name="text_size_nomal">16sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <!-- 导航点点的宽 -->
+    <dimen name="tanshangproduceprogress_detial_table_height">480dp</dimen>
+    <!-- 导航点点的高 -->
+    <dimen name="table_width">10dp</dimen>
+    <!-- 探伤生产详细数据界面6个表格的viewpager的高 -->
+    <dimen name="tanshangproduceprogress_point_paddingbottom">60dp</dimen>
+</resources>

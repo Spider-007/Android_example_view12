@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/allbackground"
+    tools:context="com.htmitech.ztcustom.zt.chinarailway.QualityObjectionActivity">
+
+    <RelativeLayout
+        android:id="@+id/ll_quality_objection_title_theme"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:layout_alignParentTop="true"
+        android:background="@color/title_color"
+        android:gravity="center_vertical">
+
+        <ImageButton
+            android:id="@+id/ib_quality_objection_back"
+            android:clickable="true"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:gravity="center"
+            android:src="@drawable/btn_back" />
+
+        <TextView
+            android:id="@+id/tv_quality_objection_title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/title_quality_objection"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/title_textsize" />
+
+        <Button
+            android:id="@+id/bt_quality_objection_right_top"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="8dp"
+            android:background="@color/transparent"
+            android:text="提报"
+            android:textColor="#F8F8F8"
+            android:textSize="@dimen/quality_objection_top_textsize"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <HorizontalScrollView
+        android:id="@+id/hs_quality_objection_top_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_quality_objection_title_theme"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/ll_quality_objection_top_item"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/generalinfomation_top_height"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:id="@+id/rl_quality_objection_tibaozongshu"
+                android:layout_width="@dimen/quality_objection_top_cell_width"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:text="提报总数"
+                    android:textColor="#FFF8F8F8"
+                    android:textSize="@dimen/generalinfomation_top_textsize" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="#FF3955D2"
+                    android:visibility="visible" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_quality_objection_fengongsishouli"
+                android:layout_width="@dimen/quality_objection_top_cell_width"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:text="分公司受理"
+                    android:textColor="#FFF8F8F8"
+                    android:textSize="@dimen/generalinfomation_top_textsize" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="#FF3955D2"
+                    android:visibility="gone" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_quality_objection_gangchangshouli"
+                android:layout_width="@dimen/quality_objection_top_cell_width"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:text="钢厂受理"
+                    android:textColor="#FFF8F8F8"
+                    android:textSize="@dimen/generalinfomation_top_textsize" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="#FF3955D2"
+                    android:visibility="gone" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_quality_objection_chuliqingkuang"
+                android:layout_width="@dimen/quality_objection_top_cell_width"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:text="处理情况"
+                    android:textColor="#FFF8F8F8"
+                    android:textSize="@dimen/generalinfomation_top_textsize" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="#FF3955D2"
+                    android:visibility="gone" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_quality_objection_fenxiyuanyin"
+                android:layout_width="@dimen/quality_objection_top_cell_width"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:text="分析原因"
+                    android:textColor="#FFF8F8F8"
+                    android:textSize="@dimen/generalinfomation_top_textsize" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="#FF3955D2"
+                    android:visibility="gone" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_quality_objection_chulijieguo"
+                android:layout_width="@dimen/quality_objection_top_cell_width"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:text="处理结果"
+                    android:textColor="#FFF8F8F8"
+                    android:textSize="@dimen/generalinfomation_top_textsize" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="#FF3955D2"
+                    android:visibility="gone" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_quality_objection_daiwanjie"
+                android:layout_width="@dimen/quality_objection_top_cell_width"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:text="待完结"
+                    android:textColor="#FFF8F8F8"
+                    android:textSize="@dimen/generalinfomation_top_textsize" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="#FF3955D2"
+                    android:visibility="gone" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_quality_objection_yiwanjie"
+                android:layout_width="@dimen/quality_objection_top_cell_width"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:text="已完结"
+                    android:textColor="#FFF8F8F8"
+                    android:textSize="@dimen/generalinfomation_top_textsize" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="#FF3955D2"
+                    android:visibility="gone" />
+
+            </RelativeLayout>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <com.htmitech.ztcustom.zt.view.MainViewPager
+        android:id="@+id/viewpager_quality_objection"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/hs_quality_objection_top_item">
+
+    </com.htmitech.ztcustom.zt.view.MainViewPager>
+
+
+</RelativeLayout>

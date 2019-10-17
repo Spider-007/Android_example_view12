@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\mx_slide_bottom_down.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\bundles\\debug\\res\\anim\\mx_slide_bottom_down.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\mx_mail_slide_out_to_bottom.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\bundles\\debug\\res\\anim\\mx_mail_slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\mx_mail_slide_in_from_top.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\bundles\\debug\\res\\anim\\mx_mail_slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\mx_mail_slide_out_to_top.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\bundles\\debug\\res\\anim\\mx_mail_slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\mx_mail_slide_in_left.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\bundles\\debug\\res\\anim\\mx_mail_slide_in_left.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\mx_mail_slide_out_right.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\bundles\\debug\\res\\anim\\mx_mail_slide_out_right.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\mx_slide_top_down.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\bundles\\debug\\res\\anim\\mx_slide_top_down.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\mx_slide_top_up.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\bundles\\debug\\res\\anim\\mx_slide_top_up.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\keyboard_anim_dismiss.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\bundles\\debug\\res\\anim\\keyboard_anim_dismiss.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\mx_loading.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\bundles\\debug\\res\\anim\\mx_loading.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\mx_slide_bottom_up.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\bundles\\debug\\res\\anim\\mx_slide_bottom_up.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\mx_mail_slide_out_left.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\bundles\\debug\\res\\anim\\mx_mail_slide_out_left.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\mx_mail_slide_in_from_bottom.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\bundles\\debug\\res\\anim\\mx_mail_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\mx_mail_slide_in_right.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\bundles\\debug\\res\\anim\\mx_mail_slide_in_right.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\keyboard_anim_start.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXKit\\build\\intermediates\\bundles\\debug\\res\\anim\\keyboard_anim_start.xml"
+    }
+]

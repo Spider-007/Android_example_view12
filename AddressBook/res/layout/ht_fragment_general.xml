@@ -1,0 +1,113 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EBEBEB"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/layout_daiban_titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        skin:enable="true"
+        android:background="@color/ht_hred_title" >
+
+        <ImageView
+            android:id="@+id/btn_daiban_person"
+            style="@style/title_button"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            skin:enable="true"
+            android:background="@drawable/mx_btn_back"
+            android:scaleType="center" />
+
+        <TextView
+            android:id="@+id/daibantopTabIndicator_bbslist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:text="通讯录"/>
+
+    </RelativeLayout>
+    <com.htmitech.app.widget.UserMessageScrollView
+        android:id="@+id/set_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fadingEdge="none"
+        android:layout_weight="1"
+        android:focusable="false"
+        android:overScrollMode="never"
+        android:background="@color/white"
+        android:scrollbars="none" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <LinearLayout
+                android:id="@+id/function_search"
+                android:layout_width="match_parent"
+                android:layout_height="40dip"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/layout_back_all">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/default_useravatar"
+                    android:scaleType="center" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="按姓名查找"
+                    android:layout_marginLeft="10dp"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="@color/black"
+                    android:layout_weight="1"
+                    />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:orientation="horizontal"
+                    android:src="@drawable/mx_submenu_down_normal_" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/function_book"
+                android:layout_width="match_parent"
+                android:layout_height="40dip"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/layout_back_all">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icon_personnel_selected"
+                    android:scaleType="center" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="公司通讯录"
+                    android:layout_marginLeft="10dp"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="@color/black"
+                    android:layout_weight="1"
+                    />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:orientation="horizontal"
+                    android:src="@drawable/mx_submenu_down_normal_" />
+            </LinearLayout>
+        </LinearLayout>
+    </com.htmitech.app.widget.UserMessageScrollView>
+</LinearLayout>

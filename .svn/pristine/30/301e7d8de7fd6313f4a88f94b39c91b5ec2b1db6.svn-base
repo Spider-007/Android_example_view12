@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical" >
+    <include
+        android:id="@+id/system_title"
+        layout="@layout/system_title"
+        android:visibility="gone"/>
+
+    <com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/listview_attachment"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="#00000000"
+        android:divider="@color/color_ffdcdcdc"
+        android:dividerHeight="@dimen/view_divider_height"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:listSelector="@null"
+        android:smoothScrollbar="false"
+        ptr:mx_ptrHeaderSubTextColor="#ff0000"
+        ptr:mx_ptrHeaderTextColor="#0000ff"
+        android:layout_below="@+id/system_title"
+        ptr:mx_ptrListViewExtrasEnabled="false"
+        ptr:mx_ptrMode="both"
+        ptr:mx_ptrScrollingWhileRefreshingEnabled="true" >
+    </com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView>
+
+</RelativeLayout>

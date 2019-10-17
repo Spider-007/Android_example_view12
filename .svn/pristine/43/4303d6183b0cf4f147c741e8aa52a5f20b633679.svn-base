@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:focusable="false"
+    android:clickable="true"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/ll_child_top"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/app_center_list_child_back"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="4dp"
+            android:layout_height="20dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="15dp"
+            android:background="#F9C80E" />
+
+        <TextView
+            android:id="@+id/tv_app_center_classify_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:singleLine="true"
+            android:text="办公应用"
+            android:textColor="@color/color_55555555"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:id="@+id/iv_app_center_classify_jt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:src="@drawable/btn_angle_up_circle" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_child"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_child_top"
+        android:focusable="false"
+        android:clickable="false"
+        >
+
+
+        <com.htmitech.emportal.ui.applicationcenter.DragGrid
+            android:id="@+id/gradview"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:clickable="true"
+            android:gravity="center"
+            android:listSelector="@android:color/transparent"
+            android:longClickable="true"
+            android:numColumns="3"
+            android:padding="1dp"
+            android:scrollbars="vertical"
+            android:stretchMode="columnWidth">
+
+            <!--android:layoutAnimation="@anim/ht_gridview_anim"-->
+        </com.htmitech.emportal.ui.applicationcenter.DragGrid>
+    </RelativeLayout>
+
+</RelativeLayout>

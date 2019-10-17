@@ -1,0 +1,21 @@
+cordova.define("com.minxing.kit.plugin.web.common.MXCommon",function(n,o,t){/*
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+*/
+var e=n("cordova/exec");n("cordova/platform");t.exports={getSSOToken:function(n,o){e(o,null,"MXCommon","getSSOToken",[n])},getCurrentUser:function(n){e(n,null,"MXCommon","getCurrentUser",[])},getServerUrl:function(n){e(n,null,"MXCommon","getServerUrl",[])},download:function(n,o,t,l){n=encodeURI(n),e(t,l,"MXCommon","download",[n,o])},getPersonInfo:function(n,o){e(o,null,"MXCommon","getPersonInfo",[n])},viewPersonInfo:function(n){e(null,null,"MXCommon","viewPersonInfo",[n])},call:function(n){e(null,null,"MXCommon","call",[n])},api:function(n,o,t){var o=n.success||o,t=n.error||t,l=n.complete;n.type=n.type||n.method,e(function(){o&&o.apply(n.context||this,arguments),l&&l.apply(n.context||this,arguments)},function(){t&&t.apply(n.context||this,arguments),l&&l.apply(n.context||this,arguments)},"MXCommon","api",[n])},ajax:function(n){var o=n.success,t=n.error,l=n.complete,a=n.headers=n.headers||{},c=function(){o&&o.apply(n.context||this,arguments),l&&l.apply(n.context||this,arguments)},u=function(){t&&t.apply(n.context||this,arguments),l&&l.apply(n.context||this,arguments)};if(n.contentType&&(a["Content-Type"]=n.contentType),n.dataType){var i;switch(n.dataType){case"xml":i="application/xml, text/xml, */*";break;case"html":i="text/html, */*";break;case"json":i="application/json, text/javascript, */*";break;case"text":i="text/plain, */*";break;default:i="*/*"}a.Accept=i}e(c,u,"MXCommon","ajax",[n])},loginWithToken:function(n,o,t,l,a,c){e(null,null,"MXCommon","loginWithToken",[n,o,t,l,a,c])},getWaterMarkUrl:function(n){e(n,null,"MXCommon","getWaterMarkUrl",[])},scanQRCode:function(n,o,t){e(o,t,"MXCommon","scanQRCode",[n])},lanuchApp:function(n,o){e(null,null,"MXCommon","lanuchApp",[n,o])},setAppUnreadCount:function(n,o){e(null,null,"MXCommon","setAppUnreadCount",[n,o])},setAppChatUnreadCount:function(n,o){e(null,null,"MXCommon","setAppChatUnreadCount",[n,o])},chooseImage:function(n,o,t,l){e(t,l,"MXCommon","chooseImage",[n,o])},uploadImage:function(n,o,t,l){e(t,l,"MXCommon","uploadImage",[n,o])},chooseFile:function(n,o,t,l){e(t,l,"MXCommon","chooseFile",[n,o])},uploadFile:function(n,o,t,l){e(t,l,"MXCommon","uploadFile",[n,o])},getLocation:function(n){e(n,null,"MXCommon","getLocation",[])},copyLink:function(){e(null,null,"MXCommon","copyLink",[])},favoriteLink:function(){e(null,null,"MXCommon","favoriteLink",[])},openBrowser:function(){e(null,null,"MXCommon","openBrowser",[])},browseImages:function(n,o){e(null,null,"MXCommon","browseImages",[n,o])},uploadLog:function(n,o){e(n,o,"MXCommon","uploadLog",[])},setGoBackListener:function(n){e(n,null,"MXCommon","setGoBackListener",[])}}});

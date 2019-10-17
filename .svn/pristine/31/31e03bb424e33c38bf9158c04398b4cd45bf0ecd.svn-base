@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TwoWayRattingBar">
+        <attr name="color_line_normal" format="color" />
+        <attr name="color_line_select" format="color" />
+        <attr name="stroke_width_normal" format="dimension" />
+        <attr name="stroke_width_select" format="dimension" />
+        <attr name="pro_one_two_way" format="boolean" />
+        <attr name="progress_icon" format="reference" />
+        <attr name="progress" format="reference" />
+        <attr name="text_size" format="dimension" />
+        <attr name="text_color" format="color" />
+    </declare-styleable>
+    <item name="tag_first" type="id" />
+    <item name="tag_second" type="id" />
+    <declare-styleable name="BarChartView">
+        <attr name="barchartCount" format="integer" />
+        <attr name="barchartDuration" format="integer" />
+        <attr name="barchartShape" format="reference" />
+        <attr name="barchartHeight" format="dimension" />
+        <attr name="barchartWidth" format="dimension" />
+        <attr name="barcharMarginLeft" format="dimension" />
+        <attr name="barcharBackColor" format="color" />
+    </declare-styleable>
+</resources>

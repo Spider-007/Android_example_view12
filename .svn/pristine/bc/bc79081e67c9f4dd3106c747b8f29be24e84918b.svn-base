@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <string-array name="mx_conversation_message_type_key">
+        <item>file</item>
+        <item>image</item>
+        <item>video</item>
+        <item>voice_file</item>
+        <item>share_link</item>
+    </string-array>
+    <string-array name="mx_conversation_message_type_value">
+        <item>[文件]</item>
+        <item>[图片]</item>
+        <item>[视频]</item>
+        <item>[语音]</item>
+        <item>[分享]</item>
+    </string-array>
+    <string-array name="mx_group_switcher">
+        <item>@string/mx_group_all_circle</item>
+        <item>@string/mx_group_my_circle</item>
+    </string-array>
+    <string-array name="mx_tab_net_switcher">
+        <item>我们的社区</item>
+        <item>相关社区</item>
+        <item>我的社区</item>
+    </string-array>
+    <string-array name="mx_tab_person_switcher">
+        <item>个人信息</item>
+        <item>@string/mx_work_circles</item>
+        <item>文件</item>
+    </string-array>
+    <string-array name="mx_tab_task_switcher">
+        <item>全部</item>
+        <item>完成</item>
+        <item>未完成</item>
+    </string-array>
+    <string-array name="mx_tab_topic_switcher">
+        <item>@string/mx_work_circles</item>
+        <item>文件</item>
+    </string-array>
+    <attr format="dimension|reference" name="childSize"/>
+    <attr name="direction">
+        <enum name="rightToLeft" value="0"/>
+        <enum name="bottomToTop" value="1"/>
+        <enum name="leftToRight" value="2"/>
+        <enum name="topToBottom" value="3"/>
+    </attr>
+    <attr format="float|reference" name="fromDegrees"/>
+    <attr name="position">
+        <enum name="left_top" value="0"/>
+        <enum name="left_bottom" value="1"/>
+        <enum name="right_top" value="2"/>
+        <enum name="right_bottom" value="3"/>
+    </attr>
+    <attr format="dimension" name="radius"/>
+    <attr format="float|reference" name="toDegrees"/>
+    <color name="allbackground">#000931</color>
+    <color name="card_main_textcolor">#002B53</color>
+    <color name="cardetails">#DEDDFD</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGray">#7B7B7B</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorcardtopll">#379BFD</color>
+    <color name="colortable">#3753cd</color>
+    <color name="dayreport_shaixuan">#00305E</color>
+    <color name="dayreport_shaixuan_yinying">#002C53</color>
+    <color name="drawer_back">#000931</color>
+    <color name="listview_click_color">#004D84</color>
+    <color name="listview_item_jiaoti_color">#00103d</color>
+    <color name="listview_line_color">#3753cd</color>
+    <color name="railway_year_month_data">#2C77CA</color>
+    <color name="shebei">#3a9bfc</color>
+    <color name="title_color">#002B53</color>
+    <declare-styleable name="AddFloatingActionButton"><attr format="color" name="fab_plusIconColor"/></declare-styleable>
+    <declare-styleable name="ArcLayout"><attr name="fromDegrees"/><attr name="toDegrees"/><attr name="childSize"/></declare-styleable>
+    <declare-styleable name="ArcMenu"><attr name="fromDegrees"/><attr name="toDegrees"/><attr name="childSize"/></declare-styleable>
+    <declare-styleable name="ArcMenu_2"><attr name="position"/><attr name="radius"/></declare-styleable>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/></declare-styleable>
+    <declare-styleable name="CustomTheme"><attr format="reference" name="gifViewStyle"/></declare-styleable>
+    <declare-styleable name="FloatingActionButton"><attr format="color" name="fab_colorPressed"/><attr format="color" name="fab_colorDisabled"/><attr format="color" name="fab_colorNormal"/><attr format="reference" name="fab_icon"/><attr format="enum" name="fab_size">
+            <enum name="normal" value="0"/>
+            <enum name="mini" value="1"/>
+        </attr><attr format="string" name="fab_title"/><attr format="boolean" name="fab_stroke_visible"/></declare-styleable>
+    <declare-styleable name="FloatingActionsMenu"><attr format="color" name="fab_addButtonColorPressed"/><attr format="color" name="fab_addButtonColorNormal"/><attr format="enum" name="fab_addButtonSize">
+            <enum name="normal" value="0"/>
+            <enum name="mini" value="1"/>
+        </attr><attr format="color" name="fab_addButtonPlusIconColor"/><attr format="boolean" name="fab_addButtonStrokeVisible"/><attr format="reference" name="fab_labelStyle"/><attr format="reference" name="fab_bitmap"/><attr format="enum" name="fab_labelsPosition">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr><attr format="enum" name="fab_expandDirection">
+            <enum name="up" value="0"/>
+            <enum name="down" value="1"/>
+            <enum name="left" value="2"/>
+            <enum name="right" value="3"/>
+        </attr></declare-styleable>
+    <declare-styleable name="GifView"><attr format="reference" name="gif"/><attr format="boolean" name="paused"/></declare-styleable>
+    <declare-styleable name="JazzyViewPager"><attr name="style">
+            <enum name="standard" value="0"/>
+            <enum name="tablet" value="1"/>
+            <enum name="cubein" value="2"/>
+            <enum name="cubeout" value="3"/>
+            <enum name="flipvertical" value="4"/>
+            <enum name="fliphorizontal" value="5"/>
+            <enum name="stack" value="6"/>
+            <enum name="zoomin" value="7"/>
+            <enum name="zoomout" value="8"/>
+            <enum name="rotateup" value="9"/>
+            <enum name="rotatedown" value="10"/>
+            <enum name="accordion" value="11"/>
+        </attr><attr format="boolean" name="fadeEnabled"/><attr format="boolean" name="outlineEnabled"/><attr format="color|reference" name="outlineColor"/></declare-styleable>
+    <declare-styleable name="PullToZoomListView"><attr format="reference" name="listHeadView"/><attr format="boolean" name="isHeadParallax"/></declare-styleable>
+    <declare-styleable name="PullToZoomScrollView"><attr format="reference" name="scrollHeadView"/><attr format="reference" name="scrollContentView"/><attr format="reference" name="scrollZoomView"/></declare-styleable>
+    <declare-styleable name="RayLayout"><attr format="dimension" name="leftHolderWidth"/></declare-styleable>
+    <declare-styleable name="SegmentedGroup"><attr format="dimension" name="sc_corner_radius"/><attr format="dimension" name="sc_border_width"/><attr format="color" name="sc_tint_color"/><attr format="color" name="sc_checked_text_color"/></declare-styleable>
+    <declare-styleable name="ViewPagerExtensions"><attr format="integer" name="fadeOutDelay"/><attr format="integer" name="fadeOutDuration"/><attr format="color" name="textColorSelected"/><attr format="color" name="lineColor"/><attr format="color" name="lineColorSelected"/><attr format="dimension" name="lineHeight"/><attr format="dimension" name="lineHeightSelected"/><attr format="color" name="dividerColor"/><attr format="dimension" name="dividerMarginTop"/><attr format="dimension" name="dividerMarginBottom"/><attr format="reference" name="dividerDrawable"/><attr format="dimension" name="outsideOffset"/></declare-styleable>
+    <declare-styleable name="ZBWaterDropView"><attr format="dimension" name="max_circle_radius"/><attr format="dimension" name="min_circle_radius"/><attr format="color" name="waterdrop_color"/><attr format="dimension" name="topcircle_x"/><attr format="dimension" name="topcircle_y"/><attr format="dimension" name="bottomcircle_x"/><attr format="dimension" name="bottomcircle_y"/></declare-styleable>
+    <declare-styleable name="roundedimageview"><attr format="dimension" name="border_thickness"/><attr format="color" name="border_inside_color"/><attr format="color" name="border_outside_color"/></declare-styleable>
+    <dimen name="chejiantablewidth">84dp</dimen>
+    <dimen name="chejiantextsize">13sp</dimen>
+    <dimen name="complete_drawlayout_fragment_textheight">30dp</dimen>
+    <dimen name="complete_drawlayout_fragment_textsize">15sp</dimen>
+    <dimen name="complete_drawlayout_fragment_textsize_jd">10sp</dimen>
+    <dimen name="complete_drawlayout_fragment_textwidth">80dp</dimen>
+    <dimen name="date_height">40dp</dimen>
+    <dimen name="date_text_size">18sp</dimen>
+    <dimen name="datesize">30dp</dimen>
+    <dimen name="dayreport_list_text_size">14sp</dimen>
+    <dimen name="dayreport_shaixuan_textsize">13sp</dimen>
+    <dimen name="fab_actions_spacing">16dp</dimen>
+    <dimen name="fab_labels_margin">8dp</dimen>
+    <dimen name="fab_plus_icon_size">14dp</dimen>
+    <dimen name="fab_plus_icon_stroke">2dp</dimen>
+    <dimen name="fab_shadow_offset">3dp</dimen>
+    <dimen name="fab_shadow_radius">9dp</dimen>
+    <dimen name="fab_stroke_width">1dp</dimen>
+    <dimen name="fontsize_heading10">10sp</dimen>
+    <dimen name="fontsize_heading12">12sp</dimen>
+    <dimen name="fontsize_heading13">13sp</dimen>
+    <dimen name="fontsize_heading14">14sp</dimen>
+    <dimen name="fontsize_heading15">15sp</dimen>
+    <dimen name="fontsize_heading16">16sp</dimen>
+    <dimen name="fontsize_heading17">17sp</dimen>
+    <dimen name="fontsize_heading18">18sp</dimen>
+    <dimen name="fontsize_heading19">19sp</dimen>
+    <dimen name="fontsize_heading21">21sp</dimen>
+    <dimen name="generalinfomation_top_height">40dp</dimen>
+    <dimen name="generalinfomation_top_textsize">14sp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="kaipian_ll_height">140dp</dimen>
+    <dimen name="kaipian_main_textsize">12sp</dimen>
+    <dimen name="kaipian_num_textsize">12sp</dimen>
+    <dimen name="kaipian_top_ll_height">49dp</dimen>
+    <dimen name="kaipian_top_textsize">12sp</dimen>
+    <dimen name="kaipian_viewpager_height">90dp</dimen>
+    <dimen name="kaipian_viewpager_width">250dp</dimen>
+    <dimen name="login_input_left">20dp</dimen>
+    <dimen name="login_input_right">20dp</dimen>
+    <dimen name="quality_objection_top_cell_width">120dp</dimen>
+    <dimen name="quality_objection_top_textsize">14sp</dimen>
+    <dimen name="table_height">10dp</dimen>
+    <dimen name="table_width">10dp</dimen>
+    <dimen name="tableheight">40dp</dimen>
+    <dimen name="tableline">2dp</dimen>
+    <dimen name="tanshangproduceprogress_detial_table_height">480dp</dimen>
+    <dimen name="tanshangproduceprogress_point_paddingbottom">60dp</dimen>
+    <dimen name="text_size_big">18sp</dimen>
+    <dimen name="text_size_nomal">16sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="title_height">40dp</dimen>
+    <dimen name="title_right_drawsize">35dp</dimen>
+    <dimen name="title_right_toright">12dp</dimen>
+    <dimen name="title_shaixuan_textsize">18sp</dimen>
+    <dimen name="title_textsize">20sp</dimen>
+    <dimen name="view_divider_height">1px</dimen>
+    <dimen name="view_divider_height_2">2px</dimen>
+    <item name="fab_expand_menu_button" type="id"/>
+    <item name="fab_label" type="id"/>
+    <item name="gridview" type="id"/>
+    <item name="scrollview" type="id"/>
+    <item name="tag_history" type="id"/>
+    <item name="tag_history_child" type="id"/>
+    <item name="tag_position" type="id"/>
+    <item name="tag_viewhoder" type="id"/>
+    <item name="webview" type="id"/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ZTCustom</string>
+    <string name="danwei">单位</string>
+    <string name="daochatanshangwc">道岔探伤完成</string>
+    <string name="hart_report_news">伤损实况通知播报</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="listfooterview_normal">查看更多</string>
+    <string name="listfooterview_ready">松开载入更多</string>
+    <string name="lisxx">历史信息</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">上拉加载更多...</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">正在加载...</string>
+    <string name="pull_to_refresh_from_bottom_release_label">放开加载更多...</string>
+    <string name="pull_to_refresh_pull_label">下拉刷新...</string>
+    <string name="pull_to_refresh_refreshing_label">正在刷新...</string>
+    <string name="pull_to_refresh_release_label">放开刷新...</string>
+    <string name="shangsxq">伤损详情</string>
+    <string name="tab_km">公里</string>
+    <string name="tab_root">根</string>
+    <string name="tab_ton">吨</string>
+    <string name="title_activity_ban_zu_day_report">BanZuDayReportActivity</string>
+    <string name="title_activity_che_jian_day_report">CheJianDayReportActivity</string>
+    <string name="title_activity_scan_for_down_load">ScanForDownLoadActivity</string>
+    <string name="title_activity_tan_shang_collect">TanShangCollectActivity</string>
+    <string name="title_activity_tan_shang_complete_sum">TanShangCompleteSumActivity</string>
+    <string name="title_activity_tan_shang_day_report">TanShangDayReportActivity</string>
+    <string name="title_activity_tan_shang_produce_details">TanShangProduceDetailsActivity</string>
+    <string name="title_dayreport">探伤工作日报动态</string>
+    <string name="title_file_manager">图片标题</string>
+    <string name="title_general_information">综合信息查询</string>
+    <string name="title_produceprogress">探伤生产进度动态</string>
+    <string name="title_quality_objection">质量异议</string>
+    <string name="title_tanshancompletesum">探伤完成情况汇总</string>
+    <string name="ts_qingkuang_number">情况汇总</string>
+    <string name="upgrade_network_disable">离线状态不能执行该操作</string>
+    <string name="upgrade_no_new_version">已是最新版本，无需升级</string>
+    <string name="zizh_title">子账号配置</string>
+    <string name="zizh_title_wei">子账号配置（未激活）</string>
+    <string name="zizh_yanzheng">验证</string>
+    <style name="ActionSheetDialogAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/zt_actionsheet_dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/zt_actionsheet_dialog_out</item>
+    </style>
+    <style name="ActionSheetDialogStyle" parent="@android:style/Theme.Dialog">
+
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 浮于Activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- Dialog以外的区域模糊效果 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- Dialog进入及退出动画 -->
+        <item name="android:windowAnimationStyle">@style/ActionSheetDialogAnimation</item>
+    </style>
+    <style name="AlertDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="CustomCheckBoxTheme" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/checkbox_style</item>
+    </style>
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style>
+    <style name="CustomProgressDialog" parent="@style/CustomDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Dialog_Anim">
+        <item name="android:windowEnterAnimation">@anim/fading_in</item>
+        <item name="android:windowExitAnimation">@anim/fading_out</item>
+    </style>
+    <style name="Dialog_Fullscreen">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/Dialog_Anim</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+    <style name="SampleTheme" parent="@android:style/Theme">
+        <item name="calendarViewStyle">@style/Widget.Holo.CalendarView</item>
+        <item name="datePickerStyle">@style/Widget.Holo.DatePicker</item>
+        <item name="numberPickerStyle">@style/NPWidget.Holo.NumberPicker</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Base" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="calendarViewStyle">@style/Widget.Holo.CalendarView</item>
+        <item name="datePickerStyle">@style/Widget.Holo.DatePicker</item>
+        <item name="numberPickerStyle">@style/NPWidget.Holo.NumberPicker</item>
+    </style>
+    <style name="Widget_GifView"/>
+    <style name="back_button">
+        <item name="android:background">@drawable/header_bar_btn_selector</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:minWidth">55dp</item>
+    </style>
+    <style name="htmitech_combobox" parent="@android:style/Widget.EditText">
+        <item name="android:background">@drawable/widget_eidittext</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="mydialog" parent="@android:style/Theme.Dialog">
+
+        <!-- 动画 -->
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="notification_text" parent="android:TextAppearance.StatusBar.EventContent"/>
+    <style name="popup_animation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/slide_bottom_up</item>
+        <item name="android:windowExitAnimation">@anim/slide_bottom_down</item>
+    </style>
+    <style name="slid_network_title">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">48dip</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">15.0dip</item>
+        <item name="android:background">@color/bg_grey_light</item>
+    </style>
+    <style name="title_button">
+        <item name="android:gravity">center</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:minWidth">55dp</item>
+    </style>
+</resources>

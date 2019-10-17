@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/system_title"
+        layout="@layout/system_title" />
+
+    <LinearLayout
+        android:id="@+id/ll_updownload_tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/system_title"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:id="@+id/rl_updownload_list"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="true">
+
+            <TextView
+                android:id="@+id/tv_updownload_sclb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="上传列表"
+                android:textColor="#666666"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_below="@id/tv_updownload_sclb"
+                android:layout_marginTop="17dp"
+                android:background="#FF3955D2"
+                android:visibility="visible" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_tv_updownload_finish_list"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="true">
+
+            <TextView
+                android:id="@+id/tv_updownload_ywc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="已完成列表"
+                android:textColor="#666666"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_below="@id/tv_updownload_ywc"
+                android:layout_marginTop="17dp"
+                android:background="#FF3955D2"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <com.htmitech_updown.updownloadmanagement.view.NoScrollViewPager
+        android:id="@+id/vp_updownlaod"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </com.htmitech_updown.updownloadmanagement.view.NoScrollViewPager>
+
+
+</LinearLayout>

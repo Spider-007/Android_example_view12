@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_root"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <Button
+            android:id="@+id/tab_daiban"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_white_left"
+            android:minWidth="60dp"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="待办"
+            android:textColor="@color/daiban_indicator_textcolor"
+            android:textSize="15sp"
+            skin:enable="true" />
+
+        <Button
+            android:id="@+id/tab_yiban"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_white_center"
+            android:minWidth="60dp"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="已办"
+            android:textColor="@color/daiban_indicator_textcolor"
+            android:textSize="15sp"
+            skin:enable="true" />
+
+        <Button
+            android:id="@+id/tab_yiban_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_white_right"
+            android:minWidth="60dp"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="已办"
+            android:textColor="@color/daiban_indicator_textcolor"
+            android:textSize="15sp"
+            android:visibility="gone"
+            skin:enable="true" />
+        <!--android:background="@drawable/corners_bg_center_tra"-->
+        <Button
+            android:id="@+id/tab_prevenans"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_white_right"
+            android:minWidth="60dp"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="关注"
+            android:textColor="@color/daiban_indicator_textcolor"
+            android:textSize="15sp"
+            android:visibility="gone"
+            skin:enable="true" />
+    </LinearLayout>
+
+</RelativeLayout>

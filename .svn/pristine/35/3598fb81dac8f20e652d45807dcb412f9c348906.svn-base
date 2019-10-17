@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.htmitech.proxy.activity.WebPluginActivity">
+
+    <include
+        android:id="@+id/system_title"
+        layout="@layout/system_title" />
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:id="@+id/webpluginProgressBar"
+        android:layout_width="match_parent"
+        android:layout_below="@id/layout_daiban_titlebar"
+        android:layout_height="5px"
+        android:progressDrawable="@drawable/progress_bar_states"
+        />
+
+    <org.apache.cordova.engine.mx.SystemWebView
+        android:id="@+id/webcordovawebview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+
+Isquid:S00108±")Either remove or fill this block of code.(”ı¾8Ş‰ÂõÜ-
+Ssquid:S1066÷"/Merge this if statement with the enclosing one.(¤•»Üûÿÿÿÿ8Ş‰ÂõÜ-
+nsquid:S2674¿"JCheck the return value of the "read" call to see how many bytes were read.(ë¥áïøÿÿÿÿ8Ş‰ÂõÜ-
+tsquid:S00116B"PRename this field "bt_gc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙßàËşÿÿÿÿ8Ş‰ÂõÜ-
+tsquid:S00116A"PRename this field "bt_lj" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ‚”êÿÿÿÿÿ8Ş‰ÂõÜ-
+squid:S00116J"[Rename this field "formLayout_lj_fh" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÅüÿÿÿÿ8Ş‰ÂõÜ-
+Wsquid:S1197¾"8Move the array designator from the variable to the type.(™â•©8Ş‰ÂõÜ-
+wsquid:S00116C"XRename this field "cash_rate_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ËÔŠ8Ş‰ÂõÜ-
+ysquid:S00116D"ZRename this field "same_montch_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ùƒ®8Ş‰ÂõÜ-
+}squid:S00116F"YRename this field "steel_mill_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îåñíıÿÿÿÿ8Ş‰ÂõÜ-
+fsquid:S00112‡"FDefine and throw a dedicated exception instead of using a generic one.(İŒÜ±8Ş‰ÂõÜ-
+rsquid:S00116G"TRename this field "ll_bottom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íµßp8Ş‰ÂõÜ-
+}squid:S00116E"YRename this field "cumulative_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙéÅõşÿÿÿÿ8Ş‰ÂõÜ-
+squid:S00116K"[Rename this field "formLayout_gc_fh" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰„ëÄıÿÿÿÿ8Ş‰ÂõÜ-
+psquid:S00116?"QRename this field "bt_dxl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¸¬8Ş‰ÂõÜ-
+osquid:S00116@"PRename this field "bt_dy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ŞİÊ8Ş‰ÂõÜ-
+zsquid:S00116H"[Rename this field "formLayout_pz_dx" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùç‚8Ş‰ÂõÜ-
+Gsquid:S1148Ù"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ş‰ÂõÜ-
+zsquid:S00116I"[Rename this field "formLayout_dy_fh" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÄÌ8Ş‰ÂõÜ-

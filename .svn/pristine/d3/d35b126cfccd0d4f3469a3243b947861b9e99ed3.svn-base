@@ -1,0 +1,74 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/mx_bg_grey_dark" >
+
+    <include
+        android:id="@+id/system_title"
+        layout="@layout/system_title" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/system_title"
+        android:layout_marginLeft="@dimen/mx_comm_container_marginboth"
+        android:layout_marginRight="@dimen/mx_comm_container_marginboth" >
+
+        <LinearLayout
+            style="@style/mx_mm_body"
+            android:padding="10dp" >
+
+            <EditText
+                android:id="@+id/oldPwd"
+                style="@style/mx_mm_line_edit_text"
+                android:inputType="textPassword"
+                android:paddingLeft="10dp"
+                android:drawableLeft="@drawable/mx_icon_login_passwd"
+                android:drawablePadding="5dp"
+                android:textColorHint="@color/mx_half_alpha_black"
+                android:hint="请输入旧密码" />
+
+            <EditText
+                android:id="@+id/newPwd"
+                style="@style/mx_mm_line_edit_text"
+                android:inputType="textPassword"
+                android:paddingLeft="10dp"
+                android:layout_marginTop="2dp"
+                android:drawableLeft="@drawable/mx_icon_login_passwd"
+                android:drawablePadding="5dip"
+                android:textColorHint="@color/mx_half_alpha_black"
+                android:hint="请输入新密码" />
+
+            <EditText
+                android:id="@+id/newPwdConfirm"
+                style="@style/mx_mm_line_edit_text"
+                android:inputType="textPassword"
+                android:paddingLeft="10dp"
+                android:layout_marginTop="2dp"
+                android:drawableLeft="@drawable/mx_icon_login_passwd"
+                android:drawablePadding="5dp"
+                android:textColorHint="@color/mx_half_alpha_black"
+                android:hint="请再次输入新密码" />
+
+            <LinearLayout
+                android:id="@+id/save_btn_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/save_btn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/mx_common_btn_height"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/mx_comm_blue_button"
+                    android:gravity="center"
+                    android:text="完成"
+                    android:textColor="@color/mx_white"
+                    android:textSize="18dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

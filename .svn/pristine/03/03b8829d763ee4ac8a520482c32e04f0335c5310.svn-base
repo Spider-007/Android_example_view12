@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_call"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:background="#000931"
+    android:descendantFocusability="blocksDescendants" >
+
+    <RelativeLayout
+        android:id="@+id/rl_report_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp" >
+        <ImageView
+            android:id="@+id/iv_inner_red"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+			android:layout_marginLeft="55dp"
+            android:src="@drawable/inner_red" />
+
+        <ImageView
+            android:id="@+id/iv_title_pic"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_alignParentLeft="true"
+            android:padding="5dp"
+            android:src="@drawable/rail" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@+id/iv_title_pic"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_title_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="哈局哈工段京哈线上行K100.104左股外部裂纹（轻伤）"
+                android:textColor="#ffffff"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tv_sign"
+                android:layout_width="100dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rect_gray"
+                android:textColor="#fff"
+                android:text="焊缝"
+                android:gravity="center"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_report_time"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:text="3:00"
+        android:textColor="#ffffff"
+        android:textSize="12sp" />
+
+</RelativeLayout>

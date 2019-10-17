@@ -1,0 +1,21 @@
+cordova.define("org.apache.cordova.file.Entry",function(t,e,o){function n(t,e,o,n,i,r){this.isFile=!!t,this.isDirectory=!!e,this.name=o||"",this.fullPath=n||"",this.filesystem=i||null,this.nativeURL=r||null}/*
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+*/
+var i=t("cordova/argscheck"),r=t("cordova/exec"),a=t("./FileError"),s=t("./Metadata");n.prototype.getMetadata=function(t,e){i.checkArgs("FF","Entry.getMetadata",arguments),r(t&&function(e){var o=new s({size:e.size,modificationTime:e.lastModifiedDate});t(o)},e&&function(t){e(new a(t))},"File","getFileMetadata",[this.toInternalURL()])},n.prototype.setMetadata=function(t,e,o){i.checkArgs("FFO","Entry.setMetadata",arguments),r(t,e,"File","setMetadata",[this.toInternalURL(),o])},n.prototype.moveTo=function(e,o,n,s){i.checkArgs("oSFF","Entry.moveTo",arguments);var l=s&&function(t){s(new a(t))},c=this.toInternalURL(),f=o||this.name;r(function(o){if(o){if(n){var i=o.isDirectory?new(t("./DirectoryEntry"))(o.name,o.fullPath,e.filesystem,o.nativeURL):new(t("org.apache.cordova.file.FileEntry"))(o.name,o.fullPath,e.filesystem,o.nativeURL);n(i)}}else l&&l(a.NOT_FOUND_ERR)},l,"File","moveTo",[c,e.toInternalURL(),f])},n.prototype.copyTo=function(e,o,n,s){i.checkArgs("oSFF","Entry.copyTo",arguments);var l=s&&function(t){s(new a(t))},c=this.toInternalURL(),f=o||this.name;r(function(o){if(o){if(n){var i=o.isDirectory?new(t("./DirectoryEntry"))(o.name,o.fullPath,e.filesystem,o.nativeURL):new(t("org.apache.cordova.file.FileEntry"))(o.name,o.fullPath,e.filesystem,o.nativeURL);n(i)}}else l&&l(a.NOT_FOUND_ERR)},l,"File","copyTo",[c,e.toInternalURL(),f])},n.prototype.toInternalURL=function(){if(this.filesystem&&this.filesystem.__format__)return this.filesystem.__format__(this.fullPath)},n.prototype.toURL=function(){return this.nativeURL?this.nativeURL:this.toInternalURL()||"file://localhost"+this.fullPath},n.prototype.toNativeURL=function(){return console.log("DEPRECATED: Update your code to use 'toURL'"),this.toURL()},n.prototype.toURI=function(){return console.log("DEPRECATED: Update your code to use 'toURL'"),this.toURL()},n.prototype.remove=function(t,e){i.checkArgs("FF","Entry.remove",arguments),r(t,e&&function(t){e(new a(t))},"File","remove",[this.toInternalURL()])},n.prototype.getParent=function(e,o){i.checkArgs("FF","Entry.getParent",arguments);var n=this.filesystem;r(e&&function(o){var i=t("./DirectoryEntry"),r=new i(o.name,o.fullPath,n,o.nativeURL);e(r)},o&&function(t){o(new a(t))},"File","getParent",[this.toInternalURL()])},o.exports=n});

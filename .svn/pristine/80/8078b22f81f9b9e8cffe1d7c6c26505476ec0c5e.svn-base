@@ -1,0 +1,147 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_margin="10dp"
+    android:background="@drawable/zt_adapter_card_back" >
+    <RelativeLayout
+        android:id="@+id/rl_top"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/kaipian_top_ll_height"
+        android:background="@drawable/card_shape_top"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+        <ImageView
+            android:id="@+id/iv_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_histroy" />
+        <TextView
+            android:id="@+id/tv_card_head_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="历史新旧伤"
+            android:layout_toRightOf="@id/iv_logo"
+            android:layout_centerVertical="true"
+            android:paddingLeft="@dimen/title_right_toright"
+            android:textColor="@color/white"
+            android:textSize="@dimen/fab_actions_spacing" />
+
+        <TextView
+            android:id="@+id/tv_history_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="10-19"
+            android:layout_marginRight="@dimen/fontsize_heading12"
+            android:textColor="@color/white"
+            android:layout_centerVertical="true"
+            android:textSize="@dimen/fab_actions_spacing"
+             />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rl_top"
+        android:layout_marginTop="@dimen/fontsize_heading12"
+        android:layout_marginBottom="@dimen/fontsize_heading12"
+        android:orientation="vertical"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            android:layout_marginLeft="12dp"
+
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="伤损程度："
+                android:textColor="#ffffff"
+                android:textSize="@dimen/fab_plus_icon_size" />
+            <TextView
+                android:id="@+id/tv_sscd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="大北京"
+                android:textColor="#ffffff"
+                android:textSize="@dimen/fab_plus_icon_size" />
+        </LinearLayout>
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:layout_marginLeft="12dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="检测员："
+            android:textColor="#ffffff"
+            android:textSize="@dimen/fab_plus_icon_size" />
+        <TextView
+            android:id="@+id/tv_jcy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="大北京"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/fab_plus_icon_size" />
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            android:layout_marginLeft="12dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="线路工区："
+                android:textColor="#ffffff"
+                android:textSize="@dimen/fab_plus_icon_size" />
+            <TextView
+                android:id="@+id/tv_xlgq"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="大北京"
+                android:textColor="#ffffff"
+                android:textSize="@dimen/fab_plus_icon_size" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="伤损详情："
+                android:textColor="#ffffff"
+                android:textSize="@dimen/fab_plus_icon_size" />
+            <TextView
+                android:id="@+id/tv_ssxq"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="大北京"
+                android:textColor="#ffffff"
+                android:textSize="@dimen/fab_plus_icon_size" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_chil_layout"
+        android:layout_below="@+id/ll_center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"/>
+
+</RelativeLayout>

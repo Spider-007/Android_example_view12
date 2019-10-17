@@ -1,0 +1,15 @@
+
+Nsquid:S1066ó"/Merge this if statement with the enclosing one.(ß¸é8ðñ’ùÜ-
+wsquid:S1450("`Remove the "FragmentContanier" field and declare it as a local variable in the relevant methods.(îÈ±ó
+qsquid:S1450#"ZRemove the "iv_date_cut" field and declare it as a local variable in the relevant methods.(¢ÁØÉ
+nsquid:S00116#"VRename this field "iv_date_cut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÁØÉ
+zsquid:S1450""^Remove the "imageButtonBack" field and declare it as a local variable in the relevant methods.(¢ðì®þÿÿÿÿ
+?squid:S1185l"(Remove this method to simply inherit it.(Ù«µ§
+Lsquid:S1068("5Remove this unused "FragmentContanier" private field.(îÈ±ó
+vsquid:S1450$"ZRemove the "iv_date_add" field and declare it as a local variable in the relevant methods.(”âû“ùÿÿÿÿ
+Vsquid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+tsquid:S00116("\Rename this field "FragmentContanier" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÈ±ó
+Gsquid:S1066–"/Merge this if statement with the enclosing one.(ËÄé©
+rsquid:S1450'"VRemove the "btClear" field and declare it as a local variable in the relevant methods.(¥úºýüÿÿÿÿ
+ssquid:S00116$"VRename this field "iv_date_add" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”âû“ùÿÿÿÿ
+>squid:S1185q"(Remove this method to simply inherit it.(¹§ 

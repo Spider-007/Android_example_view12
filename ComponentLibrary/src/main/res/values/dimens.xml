@@ -1,0 +1,11 @@
+<resources>
+
+	<dimen name="fab_margi_h">2dp</dimen>
+    <dimen name="top_btn_withOrHight">30dp</dimen>
+    <dimen name="leftOrRight_distance">10dp</dimen>
+    <dimen name="top_text_size">20sp</dimen>
+    <!-- 系统小号字 -->
+    <dimen name="max_textsize">18dp</dimen>
+    <dimen name="title_bar_height">48dp</dimen>
+    <dimen name="middle_textsize">16dp</dimen>
+</resources>

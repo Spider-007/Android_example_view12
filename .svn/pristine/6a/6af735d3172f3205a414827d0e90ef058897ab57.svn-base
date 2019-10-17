@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/corners_bg_white_press_stroke"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/form_fielditem_text"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:minHeight="50dp"
+        android:layout_gravity="center_vertical"
+        android:textIsSelectable="true"
+        android:gravity="center_vertical"
+        android:textColor="@color/color_55555555"
+        android:textSize="17sp"></TextView>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/form_fielditem_textView"
+            style="@style/htmitech_combobox"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:minHeight="50dp"
+            android:layout_gravity="center_vertical"
+            android:textIsSelectable="true"
+            android:gravity="center_vertical"
+            android:textColor="#ff000000"
+            android:textSize="17sp"
+            android:visibility="gone" />
+
+        <htmitech.com.componentlibrary.ComboBox
+            android:id="@+id/form_fielditem_editvalue"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="4dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:visibility="invisible">
+
+        </htmitech.com.componentlibrary.ComboBox>
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/form_fielditem_editimage"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginTop="2dp"
+        android:src="@drawable/ic_editflag"
+        android:visibility="gone" />
+
+</LinearLayout>

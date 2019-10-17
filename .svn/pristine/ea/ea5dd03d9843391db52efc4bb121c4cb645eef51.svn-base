@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_global_preferences.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\xml\\mx_mail_global_preferences.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_font_preferences.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\xml\\mx_mail_font_preferences.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_searchable.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\xml\\mx_mail_searchable.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_folder_settings_preferences.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\xml\\mx_mail_folder_settings_preferences.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\xml\\keyboard_symbol.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\xml\\keyboard_symbol.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\xml\\keyboard_numbers.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\xml\\keyboard_numbers.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\xml\\keyboard_word.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\xml\\keyboard_word.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\xml\\mx_web_config.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\xml\\mx_web_config.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_changelog_master.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\xml\\mx_mail_changelog_master.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_unread_widget_info.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\xml\\mx_mail_unread_widget_info.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_providers.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\xml\\mx_mail_providers.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_account_settings_preferences.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\xml\\mx_mail_account_settings_preferences.xml"
+    }
+]

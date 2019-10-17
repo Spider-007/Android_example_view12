@@ -1,0 +1,247 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:segmentedgroup="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- title -->
+
+    <include
+        android:id="@+id/system_title_pie"
+        layout="@layout/system_title" />
+    <!-- timebar -->
+
+
+    
+    
+    <LinearLayout
+        android:id="@+id/layout_pie_timebar"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#E9F3FF"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/before_button_pie"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/btn_prev_pre"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/supply_time_textview_pie"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="60"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="19sp" 
+            android:text="2015年"/>
+
+        <ImageButton
+            android:id="@+id/behind_button_pie"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/btn_next_pre"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <!-- 用抽屉叠加的控件 -->
+
+    <FrameLayout
+        android:id="@+id/framelayout_supplt_pie"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#000832" >
+		
+        <LinearLayout
+            android:id="@+id/slidingDrawer_content_ll"
+            android:layout_width="fill_parent"
+            android:layout_height="140dp"
+            android:background="#000832"
+            android:orientation="vertical"
+            android:padding="5dp" >
+
+            <!-- 抽屉覆盖的控件 -->
+
+            <LinearLayout
+                android:id="@+id/row_linear1"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_marginTop="8dp"
+                android:layout_weight="1"
+                android:background="@color/transparent"
+                android:orientation="horizontal" >
+
+                <ImageButton
+                    android:id="@+id/image_button_1"
+                     android:layout_width="0dp"
+                    android:layout_height="31dp"
+                     android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/project"
+                    android:visibility="visible" />
+
+                <ImageButton
+                    android:id="@+id/image_button_2"
+                    android:layout_width="0dp"
+                    android:layout_height="31dp"
+                     android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/steel"
+                    android:visibility="visible" />
+
+                <ImageButton
+                    android:id="@+id/image_button_3"
+                     android:layout_width="0dp"
+                    android:layout_height="31dp"
+                     android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/dailishang"
+                    android:visibility="visible" />
+
+                <ImageButton
+                    android:id="@+id/image_button_4"
+                    android:layout_width="0dp"
+                    android:layout_height="31dp"
+                     android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/guixing"
+                    android:visibility="visible" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/row_linear2"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                android:background="@color/transparent"
+                android:orientation="horizontal" >
+
+                <ImageButton
+                    android:id="@+id/image_button_5"
+                     android:layout_width="0dp"
+                    android:layout_height="31dp"
+                     android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/caizhi"
+                    android:visibility="gone" />
+
+                <ImageButton
+                    android:id="@+id/image_button_6"
+                     android:layout_width="0dp"
+                    android:layout_height="31dp"
+                     android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/changdu"
+                    android:visibility="visible" />
+
+                <ImageButton
+                    android:id="@+id/image_button_7"
+                     android:layout_width="0dp"
+                    android:layout_height="31dp"
+                     android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/speed"
+                    android:visibility="gone" />
+
+                <ImageButton
+                    android:id="@+id/image_button_8"
+                     android:layout_width="0dp"
+                    android:layout_height="31dp"
+                     android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/rechuli"
+                    android:visibility="visible" />
+                
+                <ImageButton
+                    android:id="@+id/image_button_9"
+                     android:layout_width="0dp"
+                    android:layout_height="31dp"
+                     android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/banshichu"
+                    android:visibility="visible" />
+                
+                 <ImageButton
+                    android:id="@+id/image_button_no1"
+                    android:layout_width="0dp"
+                    android:layout_height="31dp"
+                     android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/speed"
+                    android:visibility="invisible" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/row_linear3"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                android:background="@color/transparent"
+                android:orientation="horizontal" >
+
+                
+            </LinearLayout>
+        </LinearLayout>
+
+        
+        <SlidingDrawer
+            android:id="@+id/slidingDrawer_supplt_pie"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:content="@+id/content"
+            android:handle="@+id/layout_supplt" >
+
+            
+            
+            <include
+                android:id="@id/content"
+                layout="@layout/supply_content_pie" />
+
+            <LinearLayout
+                android:id="@+id/layout_supplt"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/drawer_back"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="33dp"
+                    android:background="@drawable/drop_down_bg"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:paddingBottom="1dp"
+                    android:paddingLeft="100dp"
+                    android:paddingRight="100dp"
+                    android:paddingTop="1dp" >
+
+                    <ImageView
+                        android:id="@+id/imageviewHandle_supplt_pie"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:paddingTop="8dp"
+                        android:src="@drawable/btn_drop" />
+                </LinearLayout>
+            </LinearLayout>
+        </SlidingDrawer>
+    </FrameLayout>
+
+</LinearLayout> <!-- sliding_bg  sliding_drawer -->

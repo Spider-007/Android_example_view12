@@ -1,0 +1,962 @@
+[
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_window_box_item_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_window_box_item_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_selector_red_bg.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_selector_red_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_selector_bg.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_selector_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_alert_btn_left_pressed.9.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\zt_alert_btn_left_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_btn_bg_grid_add_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_btn_bg_grid_add_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\alertdialog_single_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\alertdialog_single_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_chatting_footer_switcher_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_chatting_footer_switcher_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\fragment_gridview_adapter_down.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\ComponentLibrary\\unspecified\\res\\drawable\\fragment_gridview_adapter_down.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_rl_topic_bg.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\shape_rl_topic_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_word_del_layerlist.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_word_del_layerlist.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_search.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_search.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_btn_right_settings_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_btn_right_settings_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mm_trans.9.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mm_trans.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\combobox_false.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\ComponentLibrary\\unspecified\\res\\drawable\\combobox_false.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_bg_slid_item_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_bg_slid_item_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_unread_widget_icon.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_unread_widget_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_new_message_bottom_attach.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_new_message_bottom_attach.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_style_alert_dialog_special.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\textview_style_number.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\textview_style_number.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_chatting_setmode_keyboard_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_chatting_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\alertdialog_right_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\alertdialog_right_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\actionsheet_single_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_chatfrom_bg_voice.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_chatfrom_bg_voice.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_comm_white_button.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_comm_white_button.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_list_item_selector_highlight.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_list_item_selector_highlight.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_s_compose_addr_btn_error.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_s_compose_addr_btn_error.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\edittext_select_back_unfocused.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\edittext_select_back_unfocused.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_btn_trans.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_btn_trans.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\activity_text_buttom_back.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\activity_text_buttom_back.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_smile_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_smile_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_text_reply_background_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_text_reply_background_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_message_list_item_footer_background.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_message_list_item_footer_background.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_checkbox_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\btn_checkbox_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\application_center.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\application_center.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corners_bg_white_empty_little_stroke.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\ComponentLibrary\\unspecified\\res\\drawable\\corners_bg_white_empty_little_stroke.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_word_del_layerlist2.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_word_del_layerlist2.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_popup_window_item_right_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_popup_window_item_right_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_new_message_bottom_audio.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_new_message_bottom_audio.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\alertdialog_left_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\alertdialog_left_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_chatfrom_bg.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_chatfrom_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_determine_down.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\zt_determine_down.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_chatto_bg.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_chatto_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_background_round.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\btn_background_round.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\send_message.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\send_message.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mmfooter_textmenuicon_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mmfooter_textmenuicon_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_del_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_del_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_wheel_val.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_wheel_val.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_btn_left_settings_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_btn_left_settings_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_bg_edittext_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_bg_edittext_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\special_focus.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\special_focus.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sidebar_background_pressed.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\sidebar_background_pressed.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\pb_default.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\pb_default.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mm_title_btn_share.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mm_title_btn_share.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\activity_back_ht_color_baise.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\activity_back_ht_color_baise.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corners_bg_white_press_stroke.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\ComponentLibrary\\unspecified\\res\\drawable\\corners_bg_white_press_stroke.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_switch_track_unselected.9.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_switch_track_unselected.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\combobox_true_ismustinput.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\ComponentLibrary\\unspecified\\res\\drawable\\combobox_true_ismustinput.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_type_select_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_type_select_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_cancel_down.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\zt_cancel_down.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_thread_count_box_light.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_thread_count_box_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_btn_check_im_message_item.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_btn_check_im_message_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layout_selecter.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\layout_selecter.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\activity_text_back.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\activity_text_back.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress_bar_states.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_message_item_topic_bg.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_message_item_topic_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_unread_count_background.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_unread_count_background.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\from_input_native_bt_face.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\from_input_native_bt_face.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\combobox_false_ismustinput.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\ComponentLibrary\\unspecified\\res\\drawable\\combobox_false_ismustinput.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_chat_muti_forward_icon.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_chat_muti_forward_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_window_box_top_item_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_window_box_top_item_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_smiley_item_bg_s.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_smiley_item_bg_s.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_friendactivity_comment_icon.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_friendactivity_comment_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_chat_mute_notify.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_chat_mute_notify.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_chatting_footer_switcher_input_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_chatting_footer_switcher_input_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_alertdialog_right_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\zt_alertdialog_right_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_video_stop_download_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_video_stop_download_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_progress_green.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_progress_green.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_app_panel_shade.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_app_panel_shade.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_popup_window_item_middle_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_popup_window_item_middle_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\from_input_native_bt.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\from_input_native_bt.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_chatto_bg_voice.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_chatto_bg_voice.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\activity_text_back_not_pad.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\activity_text_back_not_pad.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_grid_list_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_grid_list_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_menu_reply_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_menu_reply_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_btn_style_alert_dialog_special.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_alertdialog_left_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\zt_alertdialog_left_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_backspace.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_backspace.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_ic_dialog.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_ic_dialog.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_btn_check_message_list_item.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_btn_check_message_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_preference_one_item.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_preference_one_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\combobox_true.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\ComponentLibrary\\unspecified\\res\\drawable\\combobox_true.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_switch_thumb_normal.9.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_switch_thumb_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_rect_circular.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_rect_circular.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_ocu_sub_menu_item_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_ocu_sub_menu_item_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_reply_bg.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_reply_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_menu_reply_all_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_menu_reply_all_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_space.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_space.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\choose_lanse.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\choose_lanse.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_quick_return_select.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\btn_quick_return_select.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_switch_track_selected.9.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_switch_track_selected.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\form_input_bg_selected.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\form_input_bg_selected.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\from_input_native_not_bt.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\from_input_native_not_bt.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_net_warn_detail_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_net_warn_detail_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\choose_lanse_down.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\choose_lanse_down.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\activity_residemenu_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\activity_residemenu_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\formradiobutton_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\formradiobutton_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\activity_app_center_back.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\activity_app_center_back.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_new_message_bottom_smiley.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_new_message_bottom_smiley.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_wheel_bg.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_wheel_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_thread_count_box_dark.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_thread_count_box_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_btn_style_alert_dialog_cancel.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_btn_style_alert_dialog_cancel.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_indicator_layout_page.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_indicator_layout_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_bg_edittext_radius_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_bg_edittext_radius_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\checkbox_style.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\checkbox_style.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_indicator_bg_top.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_indicator_bg_top.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_chat_muti_delete_icon.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_chat_muti_delete_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_actionsheet_single_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\zt_actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_bg.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\activity_back_ht_color.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\activity_back_ht_color.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_chatto_bg_app.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_chatto_bg_app.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_menu_delete_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_menu_delete_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_fragment_gridview_adapter.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\ComponentLibrary\\unspecified\\res\\drawable\\zt_fragment_gridview_adapter.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_left.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_left.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_menu_edit_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_menu_edit_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_list_bg_contact_dropdown_container.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_list_bg_contact_dropdown_container.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_alertdialog_single_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\zt_alertdialog_single_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\search_back.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\search_back.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_word_shift_layerlist.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_word_shift_layerlist.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_new_message_bottom_topic.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_new_message_bottom_topic.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_list_item_bg.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\btn_list_item_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_number_selector_bg.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_number_selector_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_chatting_setmode_voice_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_chatting_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\classify_dialog_back.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\classify_dialog_back.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_menu_tab_name_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_menu_tab_name_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_voice_to_icon_anim.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_voice_to_icon_anim.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_back_arrow_white_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\bg_back_arrow_white_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_grid_item_border_selected.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_grid_item_border_selected.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_video_recorder_start_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_video_recorder_start_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\formcheckbox_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\formcheckbox_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\toggle_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\toggle_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\home_layout_back.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\home_layout_back.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_checked_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_checked_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_done.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_done.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_btn_dialog.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_btn_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_actionsheet_bottom_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\zt_actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_new_message_bottom_at.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_new_message_bottom_at.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\buttom_message.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\buttom_message.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mm_chat_listitem.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mm_chat_listitem.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_btn_check_message_list_light.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_btn_check_message_list_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_editflag.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\ComponentLibrary\\unspecified\\res\\drawable\\ic_editflag.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_chatfrom_bg_app.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_chatfrom_bg_app.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_btn_check_message_list_dark.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_btn_check_message_list_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\classify_drawable.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\classify_drawable.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_list_bg_contact_dropdown_item.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_list_bg_contact_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mm_submenu_down.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mm_submenu_down.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_popup_window_item_left_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_popup_window_item_left_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_sd_checkbox.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_sd_checkbox.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_text_background_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_text_background_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_list_item_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_list_item_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_menu_all_read_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_menu_all_read_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_ic_notify_check_mail.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_ic_notify_check_mail.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\edittext_select_back.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\edittext_select_back.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\form_input_bg_required.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\form_input_bg_required.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_menu_compose_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_menu_compose_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_rectangle_regist_button_selector2.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\shape_rectangle_regist_button_selector2.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_btn_edit.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_btn_edit.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\textview_style.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\textview_style.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_grid_item_border.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_grid_item_border.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_comm_blue_button2.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_comm_blue_button2.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_list_bg_contact_dropdown_item_pressed.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_list_bg_contact_dropdown_item_pressed.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\submenu.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\submenu.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_webview_tab_refresh_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_webview_tab_refresh_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_progress_blue.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_progress_blue.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_comm_white_button_search.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_comm_white_button_search.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_new_message_bottom_video.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_new_message_bottom_video.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_chat_icon.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_chat_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_webview_tab_forward_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_webview_tab_forward_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\actionsheet_bottom_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_progress_horizontal.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_progress_horizontal.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_btn_bg_grid_remove_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_btn_bg_grid_remove_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_email_icon.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_email_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_black_textcolor_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\btn_black_textcolor_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_angle_up_circle.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\ComponentLibrary\\unspecified\\res\\drawable\\btn_angle_up_circle.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_voice_from_icon_anim.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_voice_from_icon_anim.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_word_shift_layerlist_da.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_word_shift_layerlist_da.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_appitem_del_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_appitem_del_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_delete.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_delete.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_circle_error_post_content_bg.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_circle_error_post_content_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\from_input_native_not_bt_face.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\from_input_native_not_bt_face.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_switch_thumb.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_switch_track.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_switch_track.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_determine.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\zt_determine.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_right.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_right.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\app_center_list_child_back.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\app_center_list_child_back.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_sms_icon.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_sms_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_divide_line.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_divide_line.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_indicator_bg_bottom.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_header_bar_btn_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_header_bar_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_radio_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_radio_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_health_praise_img_select.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_health_praise_img_select.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\text_back.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\text_back.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\cb_select.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\ComponentLibrary\\unspecified\\res\\drawable\\cb_select.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mm_submenu.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mm_submenu.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_cancel.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\zt_cancel.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_popup_menu_item_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_popup_menu_item_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\form_input_bg_must.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\form_input_bg_must.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_webview_bottom_panel.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_webview_bottom_panel.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_new_message_bottom_camera.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_new_message_bottom_camera.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\combobox_select.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\ComponentLibrary\\unspecified\\res\\drawable\\combobox_select.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mm_checkbox_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mm_checkbox_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\check_text.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\check_text.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_video_play_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_video_play_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_actionsheet_top_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\zt_actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mm_title_act_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mm_title_act_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_webview_tab_back_btn.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_webview_tab_back_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_call_icon.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_call_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\icon_forward.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\icon_forward.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_angle_down_circle.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\ComponentLibrary\\unspecified\\res\\drawable\\btn_angle_down_circle.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_selectable_item_background.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_selectable_item_background.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_trans_bg.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\zt_trans_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\header_arrow_right.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\ComponentLibrary\\unspecified\\res\\drawable\\header_arrow_right.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\check_layout.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\check_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_s_compose_addr_btn_to.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_s_compose_addr_btn_to.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\choose_queding.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\choose_queding.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_selector_blue_bg.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_selector_blue_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_s_list_bg_contact_dropdown.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_s_list_bg_contact_dropdown.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_health_msg_layout.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_health_msg_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\keyboard_shift.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\keyboard_shift.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_chat_muti_more_icon.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_chat_muti_more_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_radio_button.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_radio_button.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_fragment_detail_type_list_back.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\drawable\\zt_fragment_detail_type_list_back.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_actionsheet_middle_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\zt_actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\activity_residemenu_btn_down.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\activity_residemenu_btn_down.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zt_actionsheet_middle_pressed.9.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\drawable\\zt_actionsheet_middle_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_comm_blue_button.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_comm_blue_button.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_comm_red_button.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_comm_red_button.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_tab_bg.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_tab_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\widget_eidittext.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\ComponentLibrary\\unspecified\\res\\drawable\\widget_eidittext.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mx_mail_menu_forward_selector.xml",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\drawable\\mx_mail_menu_forward_selector.xml"
+    }
+]

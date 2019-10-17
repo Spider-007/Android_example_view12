@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\translate_down_current.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\translate_down_current.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_exit.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\zoom_exit.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\push_out_left.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\push_out_left.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\mx_slide_top_down.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\anim\\mx_slide_top_down.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\expand.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\expand.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\none.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\none.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_in.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_in_from_top.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\anim\\mx_mail_slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\popshow_anim.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\anim\\popshow_anim.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_in_left.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\anim\\mx_mail_slide_in_left.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\keyboard_anim_start.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\anim\\keyboard_anim_start.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\mx_loading.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\anim\\mx_loading.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\mx_slide_bottom_down.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\anim\\mx_slide_bottom_down.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\ComponentLibrary\\unspecified\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\imofan_round_progress_bar_baise.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\imofan_round_progress_bar_baise.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\pophidden_anim.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\anim\\pophidden_anim.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_in.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\ComponentLibrary\\unspecified\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\zt_score_business_query_exit.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\zt_score_business_query_exit.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_in_from_bottom.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\anim\\mx_mail_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_out_to_bottom.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\anim\\mx_mail_slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_enter.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\zoom_enter.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\collapse.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\collapse.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\translate_up_current.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\translate_up_current.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\imofan_round_progress_bar_1.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\ComponentLibrary\\unspecified\\res\\anim\\imofan_round_progress_bar_1.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\translate_up.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\translate_up.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\mx_slide_bottom_up.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\anim\\mx_slide_bottom_up.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_out.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_in_right.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\anim\\mx_mail_slide_in_right.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\cycle.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\shake_x.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\shake_x.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_bottom.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_bottom.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\fade.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\keyboard_anim_dismiss.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\anim\\keyboard_anim_dismiss.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\pull_in_right.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\pull_in_right.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_out_left.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\anim\\mx_mail_slide_out_left.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\activity_alpha_action_in.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\activity_alpha_action_in.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_out_right.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\anim\\mx_mail_slide_out_right.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\translate_down.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\translate_down.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_out_to_top.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\anim\\mx_mail_slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\zt_score_business_query_enter.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\anim\\zt_score_business_query_enter.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\anim\\mx_slide_top_up.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\anim\\mx_slide_top_up.xml"
+    }
+]

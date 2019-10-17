@@ -1,0 +1,7 @@
+
+Bsquid:S00108¼")Either remove or fill this block of code.(”ı¾
+gsquid:S2674É"JCheck the return value of the "read" call to see how many bytes were read.(ë¥áïøÿÿÿÿ
+Psquid:S1197È"8Move the array designator from the variable to the type.(™â•©
+Usquid:UnusedPrivateMethodr"0Remove this unused private "initControl" method.(ôî…ú
+@squid:S1148µ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+qsquid:S1450<"URemove the "userID" field and declare it as a local variable in the relevant methods.(³ ûÁÿÿÿÿÿ

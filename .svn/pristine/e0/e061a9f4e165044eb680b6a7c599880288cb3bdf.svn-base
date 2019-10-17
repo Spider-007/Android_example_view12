@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/allbackground"
+    android:orientation="vertical"
+    tools:context="com.htmitech.zt.chinarailway.QualityObjectionDetailsActivity">
+
+
+    <RelativeLayout
+        android:id="@+id/ll_quality_objection_detail_title_theme"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:background="#002B53">
+
+        <ImageButton
+            android:id="@+id/ibn_quality_objection_detail_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:gravity="center"
+            android:src="@drawable/btn_back" />
+
+        <TextView
+            android:id="@+id/tv_quality_objectiondetail_title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="40dp"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="质量异议"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/ll_quality_objection_detail_tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_quality_objection_detail_title_theme"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:id="@+id/rl_quality_objection_detail_jbxx"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="true">
+
+            <TextView
+                android:id="@+id/tv_quality_objection_detail_jbxx"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="基本信息"
+                android:textColor="#FFF8F8F8"
+                android:textSize="@dimen/generalinfomation_top_textsize" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_below="@id/tv_quality_objection_detail_jbxx"
+                android:layout_marginTop="16dp"
+                android:background="#FF3955D2"
+                android:visibility="visible" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_quality_objection_detail_clqk"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="true">
+
+            <TextView
+                android:id="@+id/tv_quality_objection_detail_clqk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="处理情况"
+                android:textColor="#FFF8F8F8"
+                android:textSize="@dimen/generalinfomation_top_textsize" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_below="@id/tv_quality_objection_detail_clqk"
+                android:layout_marginTop="16dp"
+                android:background="#FF3955D2"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_quality_objection_detail_dqlc"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="true">
+
+            <TextView
+                android:id="@+id/tv_quality_objection_detail_dqlc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="当前流程"
+                android:textColor="#FFF8F8F8"
+                android:textSize="@dimen/generalinfomation_top_textsize" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_below="@id/tv_quality_objection_detail_dqlc"
+                android:layout_marginTop="16dp"
+                android:background="#FF3955D2"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+    <com.htmitech.ztcustom.zt.view.MainViewPager
+        android:id="@+id/vp_welding_base"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/ll_quality_objection_detail_tab">
+
+    </com.htmitech.ztcustom.zt.view.MainViewPager>
+
+    <com.htmitech.ztcustom.zt.view.photoview.PhotoView
+        android:id="@+id/iv_quality_objection_detail_big_pic_all"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:clickable="true"
+        android:scaleType="centerInside"
+        android:visibility="gone" />
+
+</RelativeLayout>

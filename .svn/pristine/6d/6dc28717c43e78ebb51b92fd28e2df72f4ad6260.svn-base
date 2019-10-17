@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AddressBook.iml" filepath="$PROJECT_DIR$/AddressBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MXAndroid.iml" filepath="$PROJECT_DIR$/../MXAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MXClient/MXClient.iml" filepath="$PROJECT_DIR$/../MXClient/MXClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MXKit/MXKit.iml" filepath="$PROJECT_DIR$/../MXKit/MXKit.iml" />
+    </modules>
+  </component>
+</project>

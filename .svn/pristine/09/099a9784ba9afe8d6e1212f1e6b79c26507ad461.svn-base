@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lLayout_bg"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="@dimen/tableline"
+            android:layout_height="@dimen/tableheight"
+            android:layout_gravity="center"
+            android:background="@color/colortable"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tv_banzu_fenlei"
+            android:layout_width="@dimen/chejiantablewidth"
+            android:layout_height="@dimen/tableheight"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="分类"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/white"
+            android:textSize="@dimen/chejiantextsize" />
+
+        <com.htmitech.ztcustom.zt.view.hvlistview.InterceptScrollContainer
+            android:id="@+id/banzu_scroollContainter"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:focusable="false" >
+
+            <com.htmitech.ztcustom.zt.view.hvlistview.MyHScrollView
+                android:id="@+id/banzu_horizontalScrollView1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:scrollbars="none" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:focusable="false"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_banzu_gongzuoriqi"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="工作日期"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:visibility="gone"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_banzu_qidianlicheng"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:visibility="gone"
+                        android:text="起点里程"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_banzu_zongdianlicheng"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="起止里程（km）"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_banzu_gudaohao"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:ellipsize="end"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:text="股道号"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_banzu_daochahao"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:ellipsize="end"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:text="道岔号"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_banzu_gongzuoneirong"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="工作内容"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_banzu_ganggui"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="钢轨"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_banzu_changshanguanghan"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="厂闪光焊（个）"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_banzu_xianshanguanghan"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="现闪光焊（个）"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_banzu_lvrehan"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="铝热焊（个）"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_banzu_jiaguhanfeng"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="加固焊缝（个）"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_banzu_kedongxincha"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="可动心岔（组）"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_banzu_hejingangcha"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="合金钢岔（组）"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_banzu_gaomenggangcha"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="高锰钢岔（组）"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_banzu_weiwanchengyuanyin"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="未完成原因"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+                </LinearLayout>
+            </com.htmitech.ztcustom.zt.view.hvlistview.MyHScrollView>
+        </com.htmitech.ztcustom.zt.view.hvlistview.InterceptScrollContainer>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/tableline"
+        android:layout_gravity="center"
+        android:background="@color/colortable"
+        android:gravity="center" />
+
+</LinearLayout>

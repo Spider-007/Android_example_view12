@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!-- 这里因为父布局是HorizontalScrollView,所以宽度写match_parent不会生效-->
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="6dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/guanzhu_icon"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="11dp"
+            android:src="@drawable/icon_email" />
+
+        <TextView
+            android:id="@+id/tv_guanzhu_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:ellipsize="end"
+            android:text="关注的标题关注的标题关注的标题关注的题关注的题关注的题关注的题关注的题关注的题关注的题关注的题关注的题关注的题关注的题关注的题关注的题关注的标题关注的标题关注的标题"
+            android:maxLines="2"
+            android:textColor="#FF3C3C3C"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="提交人:"
+            android:textColor="@color/color_ff666666"
+            android:textSize="@dimen/fontsize_heading12" />
+
+        <TextView
+            android:id="@+id/tv_sendfrom"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:text="admin"
+            android:textColor="@color/color_ff666666"
+            android:textSize="@dimen/fontsize_heading12" />
+
+        <TextView
+            android:id="@+id/tv_guanzhu_flowname"
+            android:layout_width="wrap_content"
+            android:layout_height="17dp"
+            android:ellipsize="end"
+            android:maxLength="13"
+            android:text="关注的流关注的流关注"
+            android:textColor="#FF737373"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+
+        <TextView
+            android:id="@+id/tv_guanzhu_time"
+            android:layout_width="121dp"
+            android:layout_height="17dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp"
+            android:text="关注的时间"
+            android:textColor="#FF737373"
+            android:layout_weight="1"
+            android:textSize="12sp" />
+
+
+        <TextView
+            android:id="@+id/tv_doc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="查看正文 >"
+            android:textColor="@color/color_ff666666"
+            android:textSize="@dimen/fontsize_heading12" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/color_daiban_yiban_back" />
+</LinearLayout>

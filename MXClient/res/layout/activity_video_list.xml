@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.htmitech.video.activity.VideoListActivity">
+
+    <include
+        android:id="@+id/system_title"
+        layout="@layout/system_title" />
+
+    <com.htmitech.MyView.EmptyLayout
+        android:id="@+id/layout_search_no"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/layout_daiban_titlebar"
+        android:background="#FFF2F2F4">
+
+        <com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView
+            android:id="@+id/video_pulllist"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView>
+
+    </com.htmitech.MyView.EmptyLayout>
+
+</LinearLayout>

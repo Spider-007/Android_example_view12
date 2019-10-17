@@ -1,0 +1,97 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+     <LinearLayout 
+       android:id="@+id/ll_fn4_title_theme"
+       android:layout_width="match_parent"
+       android:layout_height="40dp"
+       android:layout_alignParentTop="true"
+       android:background="#001443"
+       android:orientation="horizontal">
+
+		 <ImageButton
+            android:id="@+id/ibn_fn5_back"
+            android:layout_marginLeft="5dp"
+			 android:layout_width="wrap_content"
+			 android:layout_height="match_parent"
+			 android:background="#00000000"
+			 android:gravity="center"
+			 android:src="@drawable/btn_back"/>
+
+       <TextView 
+           android:id="@+id/tv_fn4_title_name"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="40dp"
+           android:text="@string/hart_report_news"
+           android:layout_gravity="center"
+           android:textSize="18sp"
+           android:textColor="#ffffff"/>
+       <ImageButton
+		    android:id="@+id/ibn_message"
+		    android:layout_width="40dp"
+		    android:layout_height="30dp"
+		    android:layout_marginLeft="50dp"
+		    android:layout_marginTop="3dp"
+		     android:background="#001443"
+		    android:src="@drawable/tab_message_selector" />
+       <ImageButton
+		    android:id="@+id/ibn_report_search"
+		    android:layout_width="40dp"
+		    android:layout_height="30dp"
+		    android:layout_marginLeft="2dp"
+		    android:layout_marginTop="3dp"
+		     android:background="#001443"
+		    android:src="@drawable/search" />
+   </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_pager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/rg_menu"
+        android:layout_below="@+id/ll_fn4_title_theme" />
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_above="@+id/rg_menu"
+        android:background="#959595"/>
+
+    <RadioGroup
+        android:id="@+id/rg_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="#002b53"
+        android:orientation="horizontal"
+        android:paddingBottom="6dp"
+        android:paddingTop="6dp" >
+
+        <RadioButton
+            android:id="@+id/rb_report"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:checked="true"
+            android:drawableTop="@drawable/tab_reported_selector"
+            android:gravity="center"
+            android:text="报告"
+            android:textColor="@drawable/menu_text_color_selector" />
+
+        <RadioButton
+            android:id="@+id/rb_weld"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/tab_weld_selector"
+            android:gravity="center"
+            android:text="处置"
+            android:textColor="@drawable/menu_text_color_selector" />
+
+    </RadioGroup>
+
+</RelativeLayout>

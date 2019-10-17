@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_data1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="时间进度（月）"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/tv_progress1_persent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:text="25%(3月)"
+        android:textColor="#ffffff"
+        android:textSize="10sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <!-- <com.htmitech.zt.view.zgtw.LoadingImageView -->
+        <!-- android:id="@+id/iv_progressbar1" -->
+        <!-- android:layout_width="0dp" -->
+        <!-- android:layout_height="10dp" -->
+        <!-- android:layout_weight="4" /> -->
+
+        <ProgressBar
+            android:id="@+id/iv_progressbar1"
+            android:layout_width="0dp"
+            android:layout_height="10dp"
+            android:layout_weight="4"
+             android:indeterminateOnly="false"
+            android:indeterminateDrawable="@android:drawable/progress_indeterminate_horizontal"
+            android:progressDrawable="@drawable/progressbarclor" />
+        <TextView
+            android:id="@+id/tv_progressbar1_end"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="12月"
+            android:textColor="#ffffff"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_data2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="全年实施计划进度（公里）"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/tv_progress2_persent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:text="暂无数据"
+        android:textColor="#ffffff"
+        android:textSize="10sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <!-- <com.htmitech.zt.view.zgtw.LoadingImageView -->
+        <!-- android:id="@+id/iv_progressbar2" -->
+        <!-- android:layout_width="0dp" -->
+        <!-- android:layout_height="14dp" -->
+        <!-- android:layout_weight="4" /> -->
+
+        <ProgressBar
+            android:id="@+id/iv_progressbar2"
+            android:layout_width="0dp"
+            android:layout_height="10dp"
+            android:layout_weight="4"
+             android:indeterminateOnly="false"
+            android:indeterminateDrawable="@android:drawable/progress_indeterminate_horizontal"
+            android:progressDrawable="@drawable/progressbarclor"/>
+
+        <TextView
+            android:id="@+id/tv_progressbar2_end"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="暂无数据"
+            android:textColor="#ffffff"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_data3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="全年累计完成进度（公里）"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/tv_progress3_persent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:text="暂无数据"
+        android:textColor="#ffffff"
+        android:textSize="10sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <!-- <com.htmitech.zt.view.zgtw.LoadingImageView -->
+        <!-- android:id="@+id/iv_progressbar3" -->
+        <!-- android:layout_width="0dp" -->
+        <!-- android:layout_height="14dp" -->
+        <!-- android:layout_weight="4" /> -->
+
+        <ProgressBar
+            android:id="@+id/iv_progressbar3"
+            android:layout_width="0dp"
+            android:layout_height="10dp"
+            android:layout_weight="4"
+            android:indeterminateOnly="false"
+            android:indeterminateDrawable="@android:drawable/progress_indeterminate_horizontal"
+            android:progressDrawable="@drawable/progressbarclor" />
+
+        <TextView
+            android:id="@+id/tv_progressbar3_end"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="暂无数据"
+            android:textColor="#ffffff"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_ffffffff"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:id="@+id/layout_exception_titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/ht_hred_title"
+        skin:enable="true">
+
+        <ImageView
+            android:id="@+id/btn_exception_person_home"
+            style="@style/title_button"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/mx_btn_community_list_phone"
+            android:scaleType="center"
+            android:visibility="gone"
+            skin:enable="true" />
+
+        <ImageView
+            android:id="@+id/btn_exception_person"
+            style="@style/title_button"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/mx_btn_back"
+            android:scaleType="center"
+            skin:enable="true" />
+
+        <TextView
+            android:id="@+id/tv_exception_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="提醒中心"
+            android:textColor="@color/ht_title_text_color"
+            android:textSize="@dimen/max_textsize"
+            skin:enable="true" />
+
+
+        <ImageView
+            android:id="@+id/imageview_exception_more"
+            style="@style/title_button"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/mx_btn_more"
+            skin:enable="true" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_exception"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/layout_exception_titlebar"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+
+</RelativeLayout>

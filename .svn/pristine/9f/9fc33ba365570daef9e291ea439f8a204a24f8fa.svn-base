@@ -1,0 +1,63 @@
+if (isModule.toBoolean()) {
+    // 表示当前包生成的是jar/aar
+    apply plugin: 'com.android.library'
+} else {
+    // 表示当前项目中调试
+    apply plugin: 'com.android.application'
+}
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        if (!isModule.toBoolean()) {
+            applicationId "com.example.archivermodule"
+            versionCode 1
+            versionName "1.0"
+        }
+        minSdkVersion 16
+        targetSdkVersion 23
+
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+
+    sourceSets {
+
+        main {
+            if (!isModule.toBoolean()){
+                manifest.srcFile 'src/main/debug/AndroidManifest.xml'
+            }else{
+                manifest.srcFile 'src/main/release/AndroidManifest.xml'
+            }
+        }
+    }
+    lintOptions {
+        abortOnError false
+    }
+    buildTypes {
+        if (!isModule.toBoolean()) {
+            release {
+                minifyEnabled false
+                proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            }
+        }
+    }
+
+}
+
+repositories {
+    flatDir {
+        dirs '../ComponentLibrary/libs'
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile project(':ComponentLibrary')
+    compile files('libs/java-unrar-0.3.jar')
+
+}

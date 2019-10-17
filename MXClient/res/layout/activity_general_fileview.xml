@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bg_grey_dark">
+
+    <include
+        android:id="@+id/system_title"
+        layout="@layout/system_title" />
+
+    <htmitech.com.componentlibrary.SuperFileView
+        android:id="@+id/mSuperFileView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/system_title"
+        android:visibility="gone" />
+
+
+    <com.htmitech.app.widget.PhotoView
+        android:id="@+id/iv_photo"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_below="@id/system_title"
+        android:adjustViewBounds="true"
+        android:visibility="gone" />
+</RelativeLayout>

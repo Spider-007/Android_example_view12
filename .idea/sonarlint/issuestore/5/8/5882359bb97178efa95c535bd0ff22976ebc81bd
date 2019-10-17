@@ -1,0 +1,32 @@
+
+Nsquid:S1066”"/Merge this if statement with the enclosing one.(ß¸é8™Õ¢ûÜ-
+vsquid:S1450@"ZRemove the "iv_date_cut" field and declare it as a local variable in the relevant methods.(£±÷ßûÿÿÿÿ
+Gsquid:S1148¡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™Õ¢ûÜ-
+osquid:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıÕØ	
+~squid:S00116F"aRename this field "formLayout_generallast" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ÷ôúÿÿÿÿ
+tsquid:S00116D"\Rename this field "formLayout_twofix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÏÃ
+ssquid:S00116A"VRename this field "iv_date_add" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šòİıÿÿÿÿ
+qsquid:S00116C"YRename this field "formLayout_one" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ù“
+Gsquid:S1148™"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™Õ¢ûÜ-
+Gsquid:S1148è"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™Õ¢ûÜ-
+nsquid:S1450="WRemove the "inflater" field and declare it as a local variable in the relevant methods.(Ÿ†õ
+…squid:S00116E"hRename this field "formLayout_twonofixorthreefix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şæñíùÿÿÿÿ
+xsquid:S00116?"[Rename this field "tv_delivery_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥‹Äµúÿÿÿÿ
+Šsquid:S1450W"nRemove the "getUserDetailInformationRequest" field and declare it as a local variable in the relevant methods.(š£†Ïúÿÿÿÿ
+Wsquid:S1197Ù"8Move the array designator from the variable to the type.(™â•©8™Õ¢ûÜ-
+msquid:S1450\"WRemove the "tvSearch" field and declare it as a local variable in the relevant methods.(¦§Íx
+>squid:S1185o"(Remove this method to simply inherit it.(ºŠñ=
+jsquid:S00116G"RRename this field "ib_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚßÆ
+nsquid:S2674Ú"JCheck the return value of the "read" call to see how many bytes were read.(ë¥áïøÿÿÿÿ8™Õ¢ûÜ-
+]squid:UselessImportCheck,"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8Ö’„¼İ-
+Gsquid:S1148à"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™Õ¢ûÜ-
+Gsquid:S1148“"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™Õ¢ûÜ-
+Gsquid:S1148î"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™Õ¢ûÜ-
+Osquid:S1481•"0Remove this unused "projectName" local variable.(ã®©å8™Õ¢ûÜ-
+Csquid:S1068=",Remove this unused "inflater" private field.(Ÿ†õ
+Gsquid:S1148Ú"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™Õ¢ûÜ-
+vsquid:S1450A"ZRemove the "iv_date_add" field and declare it as a local variable in the relevant methods.(šòİıÿÿÿÿ
+nsquid:S00116B"VRename this field "tv_unit_one" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½“âü
+Gsquid:S1148§"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™Õ¢ûÜ-
+msquid:S1450G"VRemove the "ib_back" field and declare it as a local variable in the relevant methods.(ÚßÆ
+ssquid:S00116@"VRename this field "iv_date_cut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£±÷ßûÿÿÿÿ

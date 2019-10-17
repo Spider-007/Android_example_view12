@@ -1,0 +1,87 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/radio_option"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="45.0dip"
+        android:background="@drawable/mx_dialog_bg_complete"
+        android:orientation="vertical">
+
+        <com.minxing.kit.ui.widget.MXButton
+            android:id="@+id/operation_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/mx_circle_item_action_popup_margin_left_right"
+            android:layout_weight="1"
+            android:background="@null"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:text="@string/mx_operation"
+            android:textStyle="bold"
+            android:textColor="@color/mx_black"
+            android:textSize="@dimen/mx_circle_item_button_text_size" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/mx_common_divide_line"/>
+
+        <com.minxing.kit.ui.widget.MXButton
+            android:id="@+id/approve_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/mx_circle_item_action_popup_margin_left_right"
+            android:layout_weight="1"
+            android:background="@null"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:text="@string/mx_agree"
+            android:textColor="@color/mx_black"
+            android:textSize="@dimen/mx_circle_item_button_text_size" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/mx_common_divide_line"/>
+
+        <com.minxing.kit.ui.widget.MXButton
+            android:id="@+id/reject_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/mx_circle_item_action_popup_margin_left_right"
+            android:layout_weight="1"
+            android:background="@null"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:text="@string/mx_refuse"
+            android:textColor="@color/mx_black"
+            android:textSize="@dimen/mx_circle_item_button_text_size" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/mx_common_divide_line"/>
+
+        <com.minxing.kit.ui.widget.MXButton
+            android:id="@+id/cancel_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/mx_circle_item_action_popup_margin_left_right"
+            android:layout_weight="1"
+            android:background="@null"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:text="@string/mx_cancel"
+            android:textColor="@color/mx_black"
+            android:textSize="@dimen/mx_circle_item_button_text_size" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,21 @@
+cordova.define("org.apache.cordova.camera.camera",function(e,a,r){/*
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+*/
+var o=e("cordova/argscheck"),t=e("cordova/exec"),c=e("./Camera"),i={};for(var n in c)i[n]=c[n];i.getPicture=function(e,a,r){o.checkArgs("fFO","Camera.getPicture",arguments),r=r||{};var i=o.getValue,n=i(r.quality,50),p=i(r.destinationType,c.DestinationType.FILE_URI),u=i(r.sourceType,c.PictureSourceType.CAMERA),d=i(r.targetWidth,-1),g=i(r.targetHeight,-1),T=i(r.encodingType,c.EncodingType.JPEG),l=i(r.mediaType,c.MediaType.PICTURE),m=!!r.allowEdit,v=!!r.correctOrientation,y=!!r.saveToPhotoAlbum,s=i(r.popoverOptions,null),C=i(r.cameraDirection,c.Direction.BACK);t(e,a,"Camera","takePicture",[n,p,u,d,g,T,l,m,v,y,s,C])},i.cleanup=function(e,a){t(e,a,"Camera","cleanup",[])},r.exports=i});

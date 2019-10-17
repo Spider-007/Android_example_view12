@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ZTCustom</string>
+
+    <string name="ts_qingkuang_number">情况汇总</string>
+    <string name="danwei">单位</string>
+    <string name="shangsxq">伤损详情</string>
+    <string name="lisxx">历史信息</string>
+    <!-- add by heyang -->
+    <string name="hello_world">Hello world!</string>
+    <string name="title_produceprogress">探伤生产进度动态</string>
+    <string name="title_dayreport">探伤工作日报动态</string>
+    <string name="title_tanshancompletesum">探伤完成情况汇总</string>
+    <string name="title_general_information">综合信息查询</string>
+    <string name="title_quality_objection">质量异议</string>
+    <string name="title_file_manager">图片标题</string>
+    <string name="title_activity_tan_shang_produce_details">TanShangProduceDetailsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tan_shang_day_report">TanShangDayReportActivity</string>
+    <string name="title_activity_che_jian_day_report">CheJianDayReportActivity</string>
+    <string name="title_activity_tan_shang_collect">TanShangCollectActivity</string>
+    <string name="title_activity_tan_shang_complete_sum">TanShangCompleteSumActivity</string>
+    <string name="title_activity_ban_zu_day_report">BanZuDayReportActivity</string>
+    <string name="title_activity_scan_for_down_load">ScanForDownLoadActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- 中铁 -->
+    <string name="tab_root">根</string>
+    <string name="tab_ton">吨</string>
+    <string name="tab_km">公里</string>
+    <string name="upgrade_network_disable">离线状态不能执行该操作</string>
+    <string name="upgrade_no_new_version">已是最新版本，无需升级</string>
+    <string name="daochatanshangwc">道岔探伤完成</string>
+</resources>

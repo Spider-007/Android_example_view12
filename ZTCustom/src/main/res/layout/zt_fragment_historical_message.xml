@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/drawer_back" >
+
+    <com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/lv_card_list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:dividerHeight="20dp"
+        android:divider="@null"
+        android:scrollbars="none"
+        android:listSelector="@color/transparent"
+        android:layout_below="@+id/ll_fn5_title_theme"/>
+
+</RelativeLayout>

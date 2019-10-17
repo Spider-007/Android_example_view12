@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.ztcustom" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="15"
+        tools:overrideLibrary="android.support.v7.recyclerview" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application>
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.DamageSummaryActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+        <!-- 二期的 -->
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.DefectStatByActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.CardListActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.InjuriesDetailsActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.DefectStatByDataActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.GeneralInformationActivity" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.InjuryDisposeListActivity" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.InjuryDisposeListDetailActivity" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.DeliveryDynamicsActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.DeliveryDynamicsListDetailActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.QualityObjectionActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.QualityObjectionDetailsActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.QualityObjectionDealOverActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.QualityObjectionSubmitActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.FileManagerActivity" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.WeldingBaseActivity" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.WeldingBaseDetailActivity" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.CarVehicleActivity"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.QualityBookActivity" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.ServiceBookActivity" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.QualityObjectionDetailCLQKSubmitActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.CarVehicleDetailsActivity"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.QualityBookDetailActivity" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.QualityBookKeyWordsSearchActivity"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.QualityBookSearchNewsActivity" >
+        </activity>
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.QualityBookSituationActivity" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.RegisteActivity" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.ProduceProgressActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.TanShangProduceDetailsActivity"
+            android:label="@string/title_activity_tan_shang_produce_details" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.TanShangDayReportActivity"
+            android:label="@string/title_activity_tan_shang_day_report" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.CheJianDayReportActivity"
+            android:label="@string/title_activity_che_jian_day_report" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.TanShangCompleteSumActivity"
+            android:label="@string/title_activity_tan_shang_complete_sum" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.BanZuDayReportActivity"
+            android:label="@string/title_activity_ban_zu_day_report" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.DynamicActivity"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.DamageTypeActivity" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.DamageDetailDataActivity" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.ZBRealTimeBroadActivity"
+            android:label="@string/app_name" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.ZBSearchActivity" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.ZBRealTimeItemActivity" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.DynamicDetailDataActivity"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.ChilDaccountYZActivity" />
+        <activity android:name="com.htmitech.ztcustom.zt.chinarailway.ChilDaccountActivity" />
+        <activity
+            android:name="com.htmitech.ztcustom.zt.chinarailway.CarVehicleDetails2Activity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

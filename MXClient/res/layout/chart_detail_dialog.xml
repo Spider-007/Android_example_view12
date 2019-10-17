@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/rectangel_bg_white"
+    android:orientation="vertical"
+    android:padding="8dp" >
+
+    <TextView
+        android:id="@+id/chart_detail_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/color_ff555555"
+        android:textSize="16sp" />
+
+    <ListView
+        android:id="@+id/chart_detail_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="230dp"
+        android:layout_marginTop="4dp"
+        android:background="@color/color_ffffffff"
+        android:divider="@color/color_ffdcdcdc"
+        android:dividerHeight="@dimen/view_divider_height"
+        android:orientation="vertical" />
+
+    <Button
+        android:id="@+id/chart_detail_cancel"
+        android:layout_width="fill_parent"
+        android:layout_height="25dp"
+        android:layout_marginTop="7dp"
+        android:background="@drawable/btn_white"
+        android:textColor="@color/color_ff555555"
+        android:textSize="16sp" />
+
+</LinearLayout>

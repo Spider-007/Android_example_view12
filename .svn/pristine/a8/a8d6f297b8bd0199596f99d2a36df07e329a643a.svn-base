@@ -1,0 +1,21 @@
+cordova.define("org.apache.cordova.contacts.Contact",function(t,n,o){function e(t){var n=t.birthday;try{t.birthday=new Date(parseFloat(n))}catch(t){console.log("Cordova Contact convertIn error: exception creating date.")}return t}function i(t){var n=t.birthday;if(null!==n){if(!s.isDate(n))try{n=new Date(n)}catch(t){n=null}s.isDate(n)&&(n=n.valueOf()),t.birthday=n}return t}/*
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+*/
+var a=t("cordova/argscheck"),r=t("cordova/exec"),l=t("./ContactError"),s=t("cordova/utils"),c=function(t,n,o,e,i,a,r,l,s,c,u,h,d,v){this.id=t||null,this.rawId=null,this.displayName=n||null,this.name=o||null,this.nickname=e||null,this.phoneNumbers=i||null,this.emails=a||null,this.addresses=r||null,this.ims=l||null,this.organizations=s||null,this.birthday=c||null,this.note=u||null,this.photos=h||null,this.categories=d||null,this.urls=v||null};c.prototype.remove=function(t,n){a.checkArgs("FF","Contact.remove",arguments);var o=n&&function(t){n(new l(t))};null===this.id?o(l.UNKNOWN_ERROR):r(t,o,"Contacts","remove",[this.id])},c.prototype.clone=function(){function t(t){if(t)for(var n=0;n<t.length;++n)t[n].id=null}var n=s.clone(this);return n.id=null,n.rawId=null,t(n.phoneNumbers),t(n.emails),t(n.addresses),t(n.ims),t(n.organizations),t(n.categories),t(n.photos),t(n.urls),n},c.prototype.save=function(n,o){a.checkArgs("FFO","Contact.save",arguments);var c=o&&function(t){o(new l(t))},u=function(o){if(o){if(n){var i=t("./contacts").create(o);n(e(i))}}else c(l.UNKNOWN_ERROR)},h=i(s.clone(this));r(u,c,"Contacts","save",[h])},o.exports=c});

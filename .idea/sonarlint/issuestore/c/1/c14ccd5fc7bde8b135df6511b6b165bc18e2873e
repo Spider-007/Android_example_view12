@@ -1,0 +1,11 @@
+
+isquid:S00117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÁþÙ
+isquid:S00117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÁþÙ
+@squid:S1148Ó"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+asquid:HiddenFieldCheck˜">Rename "checkForms" which hides the field declared at line 29.(•ó¬­
+qsquid:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(•ó¬­
+vsquid:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯®½èùÿÿÿÿ
+usquid:S00116·"\Rename this field "general_pull_down" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒŠóú
+rsquid:S00116¸"TRename this field "tv_quxiao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¿Å´üÿÿÿÿ
+nsquid:S00116¹"URename this field "tv_queding" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äï†Ú
+gsquid:S00100Ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÐ“‹

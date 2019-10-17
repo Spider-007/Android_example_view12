@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_changelog_master.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_changelog_master.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\my_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9937cbb6e26341363888342a2af8b0c2f8551456\\output\\res\\xml\\my_background.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_folder_settings_preferences.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_folder_settings_preferences.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_unread_widget_info.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_unread_widget_info.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_changelog_master.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_changelog_master.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\edit_text_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\xml\\edit_text_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_global_preferences.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_global_preferences.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\keyboard_word.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\keyboard_word.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_searchable.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_searchable.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_providers.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_providers.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_global_preferences.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_global_preferences.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\keyboard_symbol.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\keyboard_symbol.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_account_settings_preferences.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_account_settings_preferences.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\edit_text_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\xml\\edit_text_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_providers.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_providers.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\keyboard_word.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\keyboard_word.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_account_settings_preferences.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_account_settings_preferences.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_font_preferences.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_font_preferences.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\my_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ce5ee4a78c4d0585110dfe82184760338f351b90\\output\\res\\xml\\my_background.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\keyboard_numbers.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\keyboard_numbers.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\keyboard_symbol.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\keyboard_symbol.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_web_config.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_web_config.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_unread_widget_info.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_unread_widget_info.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_folder_settings_preferences.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_folder_settings_preferences.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_searchable.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_searchable.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_mail_font_preferences.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_mail_font_preferences.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\keyboard_numbers.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\keyboard_numbers.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\xml\\mx_web_config.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\xml\\mx_web_config.xml"
+    }
+]

@@ -1,0 +1,20 @@
+
+Lsquid:EmptyStatementUsageCheck´"Remove this empty statement.(Åñ­õşÿÿÿÿ
+lsquid:S00116·"SRename this field "tv_banzu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãº‡€
+vsquid:S00116¹"XRename this field "ll_banzu_item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¢çşüÿÿÿÿ
+rsquid:S00116¿"TRename this field "tv_fenlei" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùâ¿åûÿÿÿÿ
+wsquid:S00116À"YRename this field "tv_gongzuoriqi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡öÅæùÿÿÿÿ
+tsquid:S00116Á"[Rename this field "tv_qidianlicheng" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¤¤ƒ
+|squid:S00116Â"^Rename this field "tv_zhongdianlicheng" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÚøÿÿÿÿ
+osquid:S00116Ã"VRename this field "tv_gudaohao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆú¬¸
+usquid:S00116Ä"WRename this field "tv_daochahao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìôÍŒÿÿÿÿÿ
+zsquid:S00116Å"\Rename this field "tv_gongzuoneirong" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„™ìøÿÿÿÿÿ
+ssquid:S00116Æ"URename this field "tv_ganggui" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±€Ä²ıÿÿÿÿ
+}squid:S00116Ç"_Rename this field "tv_changshanguanghan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ˆ‹ùÿÿÿÿ
+|squid:S00116È"^Rename this field "tv_xianshanguanghan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šòôúÿÿÿÿ
+ssquid:S00116É"URename this field "tv_lvrehan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åù²€şÿÿÿÿ
+ssquid:S00116Ê"ZRename this field "tv_jiaguhanfeng" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁåÅ•
+xsquid:S00116Ë"ZRename this field "tv_kedongxincha" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÇˆìûÿÿÿÿ
+xsquid:S00116Ì"ZRename this field "tv_hejingangcha" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿İ¶´üÿÿÿÿ
+zsquid:S00116Í"\Rename this field "tv_gaomenggangcha" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÓÖ§ùÿÿÿÿ
+~squid:S00116Î"`Rename this field "tv_weiwanchengyuanyin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ã¿”ÿÿÿÿÿ

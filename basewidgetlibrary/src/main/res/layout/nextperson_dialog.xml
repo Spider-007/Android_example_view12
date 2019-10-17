@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/rectangel_bg_white"
+    android:orientation="vertical"
+    android:padding="8dp" >
+
+    <TextView
+        android:id="@+id/nextcodedialog_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/color_ff555555"
+        android:layout_marginBottom="10dp"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/searchEt"
+        android:layout_width="fill_parent"
+        android:layout_height="38dp"
+        android:background="@drawable/corners_bg_white_press_bigangle"
+        android:enabled="true"
+        android:hint="输入查询关键字"
+        android:maxEms="10"
+        android:maxLines="1"
+        android:padding="8dp"
+        android:textSize="16sp" />
+
+    <ListView
+        android:id="@+id/listview_person"
+        android:layout_width="fill_parent"
+        android:layout_height="230dp"
+        android:layout_marginTop="4dp"
+        android:background="@color/color_ffffffff"
+        android:divider="@color/color_ffdcdcdc"
+        android:dividerHeight="@dimen/view_divider_height"
+        android:orientation="vertical" />
+
+     <LinearLayout
+         android:id="@+id/line_SelectfromAllusers"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="7dp"
+         android:gravity="center_horizontal"
+         android:orientation="horizontal"
+         android:visibility="visible" >
+
+         <Button
+             android:id="@+id/nextpersondialog_btn_selectfromallusers"
+             android:layout_width="fill_parent"
+             android:layout_height="35dp"
+             android:layout_marginLeft="20dp"
+             android:layout_marginRight="20dp"
+             android:background="@drawable/btn_style_alert_dialog_special"
+             android:text="从所有人员中选择"
+             android:textColor="@color/white"
+             android:textSize="16sp" />
+     </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="27dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/nextpersondialog_btn_confirm"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btn_white"
+            android:textColor="@color/color_ff555555"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/nextpersondialog_btn_clear"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btn_white"
+            android:textColor="@color/color_ff555555"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/nextpersondialog_btn_cancel"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btn_white"
+            android:textColor="@color/color_ff555555"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</LinearLayout>

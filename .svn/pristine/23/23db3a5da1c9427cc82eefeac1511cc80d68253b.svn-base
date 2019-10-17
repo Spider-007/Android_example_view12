@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\debug\\raw\\bi0116.json",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\raw\\bi0116.json"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\debug\\raw\\htmi_db.db",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\raw\\htmi_db.db"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\debug\\raw\\htmitech.db",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\AddressBook\\unspecified\\res\\raw\\htmitech.db"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\debug\\raw\\client.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\raw\\client.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\debug\\raw\\qrcode_completed.mp3",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\raw\\qrcode_completed.mp3"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\res\\merged\\debug\\raw\\client_2016.png",
+        "source": "F:\\AndroidProject\\Branch_2.5.8_dev\\httplibrary\\build\\intermediates\\exploded-aar\\Branch_2.5.8_dev\\MXKit\\4.0.0\\res\\raw\\client_2016.png"
+    }
+]

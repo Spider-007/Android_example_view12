@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/form_fielditem_option_username"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:minHeight="50dp"
+        android:paddingLeft="5dp"
+        android:text="淮政玮"
+        android:textColor="@color/ht_hred_title"
+        android:textIsSelectable="true"
+        android:textSize="19sp"
+        android:visibility="gone"
+        skin:enable="true" />
+
+    <LinearLayout
+        android:id="@+id/layout_yijian"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:layout_margin="@dimen/check_item_buttom3"
+        android:background="@drawable/text_back"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/form_fielditem_option"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:minHeight="40dp"
+            android:paddingLeft="5dp"
+            android:textColor="@color/color_55555555"
+            android:textIsSelectable="true"
+            android:textSize="19sp"
+            android:visibility="gone">
+            <!--  android:background = "@drawable/widget_eidittext" -->
+        </TextView>
+
+        <ImageView
+            android:id="@+id/form_fielditem_editimage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/btn_singnature"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textview_flowlist_timestamp"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:ellipsize="end"
+    android:gravity="center_vertical"
+    android:padding="6dp"
+    android:singleLine="true"
+    android:text="2015.05.30 13:22:21"
+    android:textColor="@color/color_ff555555"
+    android:textSize="15.0sp" />

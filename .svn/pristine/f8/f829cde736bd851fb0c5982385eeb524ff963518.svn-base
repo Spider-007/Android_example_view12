@@ -1,0 +1,80 @@
+<resources>
+
+    <dimen name="subapp_name">10sp</dimen>
+    <!-- 敏行用到的大小 begin -->
+    <dimen name="small_textsize">14dp</dimen>
+    <!-- 系统小号字 -->
+    <dimen name="max_textsize">18dp</dimen>
+    <!-- 系统大号字 -->
+    <dimen name="login_box_margin">250dp</dimen>
+    <dimen name="login_input_vertical_space">16dp</dimen>
+    <dimen name="login_input_left">10dp</dimen>
+    <dimen name="login_input_right">10dp</dimen>
+    <dimen name="middle_textsize">16dp</dimen>
+    <dimen name="new_red_btn_text_size">10dip</dimen>
+    <dimen name="common_btn_height">48dip</dimen>
+    <dimen name="title_bar_height">48dp</dimen>
+
+    <dimen name="pop_menu_margin">10dip</dimen>
+    <dimen name="title_arrow_space">6dp</dimen>
+    <dimen name="pop_menu_item_padding">12dip</dimen>
+    <!-- 敏行用到的大小 end -->
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="view_vertical_margin">10dp</dimen>
+
+    <integer name="default_loadingpic_duration">50</integer>
+    <integer name="default_loadingpic_c_duration">100</integer>
+    <integer name="default_loadingpic_d_duration">200</integer>
+
+    <!-- for text style -->
+    <dimen name="fontsize_heading21">21sp</dimen>
+    <dimen name="fontsize_heading19">19sp</dimen>
+    <dimen name="fontsize_heading18">18sp</dimen>
+    <dimen name="fontsize_heading17">17sp</dimen>
+    <dimen name="fontsize_heading16">16sp</dimen>
+    <dimen name="fontsize_heading15">15sp</dimen>
+    <dimen name="fontsize_heading14">14sp</dimen>
+    <dimen name="fontsize_heading13">13sp</dimen>
+    <dimen name="fontsize_heading12">12sp</dimen>
+    <dimen name="fontsize_heading10">10sp</dimen>
+
+    <!-- 通用： 页面小模块之间的垂直距离 -->
+    <dimen name="view_divider_height">1px</dimen>
+    <dimen name="view_divider_height_2">2px</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+
+    <item name="menuFromDegrees" format="float" type="dimen">0.0</item>
+    <item name="menuToDegrees" format="float" type="dimen">360.0</item>
+
+    <dimen name="menuChildSize">50dp</dimen>
+
+    <dimen name="fab_size_normal">56dp</dimen>
+    <dimen name="fab_size_mini">40dp</dimen>
+
+    <dimen name="fab_icon_size">24dp</dimen>
+
+    <dimen name="fab_plus_icon_size">14dp</dimen>
+    <dimen name="fab_plus_icon_stroke">2dp</dimen>
+
+    <dimen name="fab_shadow_offset">0dp</dimen>
+    <dimen name="fab_shadow_radius">9dp</dimen>
+
+    <dimen name="fab_stroke_width">1dp</dimen>
+
+    <dimen name="fab_actions_spacing">16dp</dimen>
+    <dimen name="fab_labels_margin">8dp</dimen>
+
+    <dimen name="radio_button_conner_radius">5dp</dimen>
+    <dimen name="radio_button_stroke_border">1dp</dimen>
+    <dimen name="document_empty_textsize">15sp</dimen>
+
+
+</resources>

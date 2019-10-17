@@ -1,0 +1,21 @@
+cordova.define("org.apache.cordova.battery-status.battery",function(e,t,n){function l(){return u.channels.batterystatus.numHandlers+u.channels.batterylow.numHandlers+u.channels.batterycritical.numHandlers}/*
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+*/
+var r=e("cordova"),a=e("cordova/exec"),s=5,i=20,o=function(){this._level=null,this._isPlugged=null,this.channels={batterystatus:r.addWindowEventHandler("batterystatus"),batterylow:r.addWindowEventHandler("batterylow"),batterycritical:r.addWindowEventHandler("batterycritical")};for(var e in this.channels)this.channels[e].onHasSubscribersChange=o.onHasSubscribersChange};o.onHasSubscribersChange=function(){1===this.numHandlers&&1===l()?a(u._status,u._error,"Battery","start",[]):0===l()&&a(null,null,"Battery","stop",[])},o.prototype._status=function(e){if(e&&(u._level!==e.level||u._isPlugged!==e.isPlugged)){if(null==e.level&&null!=u._level)return;r.fireWindowEvent("batterystatus",e),e.isPlugged||(u._level>s&&e.level<=s?r.fireWindowEvent("batterycritical",e):u._level>i&&e.level<=i&&r.fireWindowEvent("batterylow",e)),u._level=e.level,u._isPlugged=e.isPlugged}},o.prototype._error=function(e){console.log("Error initializing Battery: "+e)};var u=new o;n.exports=u});

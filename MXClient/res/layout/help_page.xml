@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null"
+    >
+
+    <ImageView
+        android:id="@+id/image_helppage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+    <Button
+        android:id="@+id/btn_helppage"
+        android:layout_width="42dp"
+        android:layout_height="22dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="39dp"
+        android:layout_alignParentRight="true"
+        android:background="@android:color/transparent"
+        />
+</RelativeLayout>

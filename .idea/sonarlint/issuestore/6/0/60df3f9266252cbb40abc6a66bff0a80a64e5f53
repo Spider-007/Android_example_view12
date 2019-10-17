@@ -1,0 +1,16 @@
+
+osquid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•”‡Ôùÿÿÿÿ
+osquid:S00117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôÿ¢¡øÿÿÿÿ
+osquid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ááùÿÿÿÿ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒß…¸
+Asquid:S1659<"%Declare "endTime" on a separate line.(§€ÁÉüÿÿÿÿ
+vsquid:S1450C"ZRemove the "layout_time" field and declare it as a local variable in the relevant methods.(øŞƒŒûÿÿÿÿ
+ksquid:S1450E"URemove the "userId" field and declare it as a local variable in the relevant methods.(¯ƒŠv
+vsquid:S001161"YRename this field "tv_detail_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»²äıÿÿÿÿ
+vsquid:S001162"YRename this field "layout_addview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÔÅÆøÿÿÿÿ
+psquid:S001165"XRename this field "tv_title_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãĞÄÄ
+ssquid:S00116C"VRename this field "layout_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øŞƒŒûÿÿÿÿ
+|squid:S1149Ò"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ìŒ¬€ıÿÿÿÿ
+psquid:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶‹¯˜
+usquid:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚÷«ÿÿÿÿÿ
+qsquid:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¨šú

@@ -1,0 +1,125 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sign_window"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@android:color/white"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp" >
+
+    <TextView
+        android:id="@+id/sign_prompt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="已签内容:"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:background="#f5f5f5" />
+    
+    <com.kinggrid.iapprevision.iAppRevisionEditView
+	  	android:id="@+id/revisionEditView"  
+	    android:layout_width="match_parent"   
+	    android:layout_height="200dp"
+	    android:layout_below="@id/sign_prompt"/> 
+    
+    <TableRow
+        android:id="@+id/btns_row2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center" >
+
+        <Button android:id="@+id/space_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="空格"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:gravity="center"
+            android:visibility="gone"/>
+        
+        <Button android:id="@+id/save_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="保存"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:gravity="center"/>
+        
+        <Button android:id="@+id/cancel_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="取消"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:gravity="center"/>
+        
+    </TableRow>
+    <TableRow
+        android:id="@+id/btns_row"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center" 
+        android:layout_above="@id/btns_row2">
+
+        <Button android:id="@+id/set_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="设置"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:gravity="center"/>
+        
+        <Button android:id="@+id/enter_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="回车"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:gravity="center"
+            android:visibility="gone"/>
+        
+        <Button android:id="@+id/clear_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="清空"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:gravity="center"/>
+        
+        <Button android:id="@+id/undo_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="撤销"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:gravity="center"/>
+        
+    </TableRow>
+    <RelativeLayout
+        android:id="@+id/writing_canvas_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:gravity="center"
+        android:layout_above="@id/btns_row"
+        android:background="@android:color/darker_gray" >
+            
+        <com.kinggrid.iapprevision.iAppRevisionView
+            android:id="@+id/demo_get_revision"
+            android:layout_width="400dp"
+            android:layout_height="400dp"/> 
+        
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/prompt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="签字区域:"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:background="#f5f5f5"
+        android:layout_above="@id/writing_canvas_layout" />
+    
+</RelativeLayout>

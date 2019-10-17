@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:id="@+id/ll_layout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/check_layout"
+            android:gravity="center_vertical"
+            android:layout_height="44dp">
+            <ImageView
+                android:id="@+id/iv_remove_choose"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <TextView
+                android:id="@+id/tv_clean_all"
+                style="@style/title_button"
+                android:text="清空筛选"
+                android:layout_marginLeft="10dp"
+                android:layout_centerVertical="true"
+                android:gravity="center_vertical"
+                android:layout_marginRight="10dp"/>
+        </RelativeLayout>
+        <TextView
+            android:id="@+id/tv_complete"
+            android:layout_width="80dp"
+            android:layout_height="fill_parent"
+            android:text="完成"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:background="#DC5656"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+</RelativeLayout>

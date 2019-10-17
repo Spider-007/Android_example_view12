@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\htmitech.db",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\raw\\htmitech.db"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\client.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\raw\\client.png"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\qrcode_completed.mp3",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\raw\\qrcode_completed.mp3"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\htmi_db.db",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\raw\\htmi_db.db"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\bi0116.json",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\raw\\bi0116.json"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\client_2016.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\raw\\client_2016.png"
+    }
+]

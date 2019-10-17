@@ -1,0 +1,25 @@
+
+Asquid:S1659 "*Declare "tv_down_name" on a separate line.(™ Π
+Esquid:S1068#"/Remove this unused "cis_xt_name" private field.(θό‰E
+osquid:S00116""RRename this field "pt_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ω Σ‡ÿÿÿÿÿ
+usquid:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(»¨ψÿÿÿÿ
+=squid:S16597"&Declare "downName" on a separate line.(λωγ
+Fsquid:S1659"/Declare "relativelayout_02" on a separate line.(«Ϊ΄
+tsquid:S00116"\Rename this field "relativelayout_02" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ϊ΄
+osquid:S00116 "WRename this field "tv_down_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ Π
+rsquid:S1450""VRemove the "pt_name" field and declare it as a local variable in the relevant methods.(Ω Σ‡ÿÿÿÿÿ
+Esquid:S1068#"/Remove this unused "cis_ps_name" private field.(θό‰E
+msquid:S00116#"VRename this field "cis_ps_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(θό‰E
+msquid:S00116 "URename this field "tv_up_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ Π
+psquid:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¬αΆ
+tsquid:S00116"\Rename this field "relativelayout_01" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ϊ΄
+Gsquid:S1068""+Remove this unused "xt_name" private field.(Ω Σ‡ÿÿÿÿÿ
+osquid:S00116!"WRename this field "ibn_fn5_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(΄†—‡
+<squid:S1659C"%Declare "status1" on a separate line.(—εϋφ
+Asquid:S1659""%Declare "pt_name" on a separate line.(Ω Σ‡ÿÿÿÿÿ
+?squid:S1659#")Declare "cis_ps_name" on a separate line.(θό‰E
+rsquid:S1450""VRemove the "xt_name" field and declare it as a local variable in the relevant methods.(Ω Σ‡ÿÿÿÿÿ
+osquid:S00116""RRename this field "xt_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ω Σ‡ÿÿÿÿÿ
+msquid:S00116#"VRename this field "cis_xt_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(θό‰E
+Gsquid:S1068""+Remove this unused "pt_name" private field.(Ω Σ‡ÿÿÿÿÿ
+Isquid:S16599"+Declare "mListDetails1" on a separate line.(¤ωΜν8†Ι‘Θέ-

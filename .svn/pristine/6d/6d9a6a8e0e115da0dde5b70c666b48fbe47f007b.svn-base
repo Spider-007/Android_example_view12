@@ -1,0 +1,32 @@
+// Generated code from Butter Knife. Do not modify!
+package com.htmitech.proxy.adapter;
+
+import android.view.View;
+import butterknife.ButterKnife.Finder;
+
+public class ScheduleListAdapter$ViewHolder$$ViewInjector {
+  public static void inject(Finder finder, final com.htmitech.proxy.adapter.ScheduleListAdapter.ViewHolder target, Object source) {
+    View view;
+    view = finder.findRequiredView(source, 2131362162, "field 'llScheduleRoot'");
+    target.llScheduleRoot = (android.widget.LinearLayout) view;
+    view = finder.findRequiredView(source, 2131362150, "field 'content'");
+    target.content = (android.widget.LinearLayout) view;
+    view = finder.findRequiredView(source, 2131362078, "field 'delete'");
+    target.delete = (android.widget.TextView) view;
+    view = finder.findRequiredView(source, 2131362137, "field 'tvTime'");
+    target.tvTime = (android.widget.TextView) view;
+    view = finder.findRequiredView(source, 2131362164, "field 'tvScheduleTitle'");
+    target.tvScheduleTitle = (android.widget.TextView) view;
+    view = finder.findRequiredView(source, 2131362163, "field 'tvFlag'");
+    target.tvFlag = (android.widget.TextView) view;
+  }
+
+  public static void reset(com.htmitech.proxy.adapter.ScheduleListAdapter.ViewHolder target) {
+    target.llScheduleRoot = null;
+    target.content = null;
+    target.delete = null;
+    target.tvTime = null;
+    target.tvScheduleTitle = null;
+    target.tvFlag = null;
+  }
+}

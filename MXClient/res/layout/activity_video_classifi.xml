@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.htmitech.video.activity.VideoClassifiActivity">
+
+    <include
+        android:id="@+id/system_title"
+        layout="@layout/system_title" />
+
+    <com.htmitech.MyView.EmptyLayout
+        android:id="@+id/layout_search_no"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFF2F2F4">
+
+        <ListView
+            android:id="@+id/lv_video_classifi"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </ListView>
+
+    </com.htmitech.MyView.EmptyLayout>
+</LinearLayout>

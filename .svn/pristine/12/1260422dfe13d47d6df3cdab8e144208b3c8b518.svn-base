@@ -1,0 +1,21 @@
+cordova.define("org.apache.cordova.inappbrowser.inappbrowser",function(e,n,r){function o(){this.channels={loadstart:t.create("loadstart"),loadstop:t.create("loadstop"),loaderror:t.create("loaderror"),exit:t.create("exit")}}/*
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+*/
+var i=e("cordova/exec"),t=e("cordova/channel"),c=e("cordova/modulemapper"),l=e("cordova/urlutil");o.prototype={_eventHandler:function(e){e&&e.type in this.channels&&this.channels[e.type].fire(e)},close:function(){i(null,null,"InAppBrowser","close",[])},show:function(){i(null,null,"InAppBrowser","show",[])},addEventListener:function(e,n){e in this.channels&&this.channels[e].subscribe(n)},removeEventListener:function(e,n){e in this.channels&&this.channels[e].unsubscribe(n)},executeScript:function(e,n){if(e.code)i(n,null,"InAppBrowser","injectScriptCode",[e.code,!!n]);else{if(!e.file)throw new Error("executeScript requires exactly one of code or file to be specified");i(n,null,"InAppBrowser","injectScriptFile",[e.file,!!n])}},insertCSS:function(e,n){if(e.code)i(n,null,"InAppBrowser","injectStyleCode",[e.code,!!n]);else{if(!e.file)throw new Error("insertCSS requires exactly one of code or file to be specified");i(n,null,"InAppBrowser","injectStyleFile",[e.file,!!n])}}},r.exports=function(e,n,r,t){if(window.frames&&window.frames[n]){return c.getOriginalSymbol(window,"open").apply(window,arguments)}e=l.makeAbsolute(e);var s=new o;t=t||{};for(var a in t)s.addEventListener(a,t[a]);var p=function(e){s._eventHandler(e)};return r=r||"",i(p,p,"InAppBrowser","open",[e,n,r]),s}});

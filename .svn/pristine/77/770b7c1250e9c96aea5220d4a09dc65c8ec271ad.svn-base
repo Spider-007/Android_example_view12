@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

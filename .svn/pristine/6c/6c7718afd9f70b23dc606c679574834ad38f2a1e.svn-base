@@ -1,0 +1,21 @@
+cordova.define("org.apache.cordova.dialogs.notification_android",function(o,t,i){/*
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+*/
+var n=o("cordova/exec");i.exports={activityStart:function(o,t){void 0===o&&void 0===t&&(o="Busy",t="Please wait..."),n(null,null,"Notification","activityStart",[o,t])},activityStop:function(){n(null,null,"Notification","activityStop",[])},progressStart:function(o,t){n(null,null,"Notification","progressStart",[o,t])},progressStop:function(){n(null,null,"Notification","progressStop",[])},progressValue:function(o){n(null,null,"Notification","progressValue",[o])}}});

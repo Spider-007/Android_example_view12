@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 316
+                    }
+                }
+            }
+        ]
+    }
+]

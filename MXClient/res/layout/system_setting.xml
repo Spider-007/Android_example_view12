@@ -1,0 +1,161 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bg_grey_dark" >
+
+    <include
+        android:id="@+id/system_title"
+        layout="@layout/system_title" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/system_title" >
+
+        <LinearLayout
+            android:id="@+id/message_notification"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            style="@style/bg_setting_item_narrow"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1.0"
+                android:drawableRight="@drawable/submenu"
+                android:text="@string/setting_message_notification"
+                android:textColor="@color/black"
+                android:textSize="@dimen/middle_textsize" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/mobil_contacts"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/message_notification"
+            style="@style/bg_setting_item_narrow"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1.0"
+                android:drawableRight="@drawable/submenu"
+                android:text="来电显示"
+                android:textColor="@color/black"
+                android:textSize="@dimen/middle_textsize" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/gesture_password"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/mobil_contacts"
+            style="@style/bg_setting_item_narrow"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1.0"
+                android:drawableRight="@drawable/submenu"
+                android:text="@string/setting_gesture_password"
+                android:textColor="@color/black"
+                android:textSize="@dimen/middle_textsize" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/change_password"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/gesture_password"
+            style="@style/bg_setting_item_narrow"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1.0"
+                android:drawableRight="@drawable/submenu"
+                android:text="@string/setting_change_password"
+                android:textColor="@color/black"
+                android:textSize="@dimen/middle_textsize" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/upgrade"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/change_password"
+            style="@style/bg_setting_item_narrow"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical" >
+
+                <TextView
+                    android:id="@+id/upgrade_desc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_weight="1.0"
+                    android:text="@string/version_upgrade"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/middle_textsize" />
+
+                <TextView
+                    android:id="@+id/newflag"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="5dp"
+                    android:layout_toRightOf="@id/upgrade_desc"
+                    android:background="@drawable/icon_red_pot_big"
+                    android:gravity="center"
+                    android:text="  new  "
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/new_red_btn_text_size"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@id/newflag"
+                    android:drawableRight="@drawable/submenu" />
+            </RelativeLayout>
+        </LinearLayout>
+        
+
+        <LinearLayout
+            android:id="@+id/exit_btn_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/upgrade"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/exit_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/common_btn_height"
+                android:layout_marginLeft="10.0dip"
+                android:layout_marginRight="10.0dip"
+                android:layout_marginTop="5dip"
+                android:background="@drawable/btn_style_alert_dialog_special"
+                android:gravity="center"
+                android:text="退出登录"
+                android:textColor="@color/white"
+                android:textSize="18.0dip" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

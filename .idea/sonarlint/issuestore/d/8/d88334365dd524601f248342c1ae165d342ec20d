@@ -1,0 +1,23 @@
+
+_squid:CallToDeprecatedMethod+"7Remove this use of "HttpRequestBase"; it is deprecated.(üàÏÇ
+jsquid:CallToDeprecatedMethod+"BRemove this use of "HttpEntityEnclosingRequest"; it is deprecated.(üàÏÇ
+_squid:CallToDeprecatedMethod-"2Remove this use of "HttpEntity"; it is deprecated.(…ÅŠŞıÿÿÿÿ
+dsquid:CallToDeprecatedMethod6"7Remove this use of "HttpRequestBase"; it is deprecated.(ŸäåÖıÿÿÿÿ
+dsquid:CallToDeprecatedMethod;"7Remove this use of "HttpRequestBase"; it is deprecated.(ŸäåÖıÿÿÿÿ
+dsquid:CallToDeprecatedMethodA"7Remove this use of "HttpRequestBase"; it is deprecated.(ŸäåÖıÿÿÿÿ
+bsquid:CallToDeprecatedMethodK"5Remove this use of "NameValuePair"; it is deprecated.(¯‡×ûûÿÿÿÿ
+]squid:CallToDeprecatedMethodP"5Remove this use of "NameValuePair"; it is deprecated.(ô–½™
+bsquid:CallToDeprecatedMethodR"5Remove this use of "NameValuePair"; it is deprecated.(ßëÏùÿÿÿÿ
+asquid:HiddenFieldCheck}":Rename "entity" which hides the field declared at line 45.(ÑÀºôùÿÿÿÿ
+_squid:CallToDeprecatedMethod}"2Remove this use of "HttpEntity"; it is deprecated.(ÑÀºôùÿÿÿÿ
+Qsquid:S4719":Replace Charset.forName() call with StandardCharsets.UTF_8(±™ÙR
+Tsquid:CallToDeprecatedMethod",Remove this use of "HTTP"; it is deprecated.(±™ÙR
+Zsquid:CallToDeprecatedMethod¦"2Remove this use of "HttpEntity"; it is deprecated.(ğäD
+[squid:CallToDeprecatedMethod«"2Remove this use of "HttpEntity"; it is deprecated.(áñšÌ
+Wsquid:CallToDeprecatedMethod±".Remove this use of "Header"; it is deprecated.(Çğÿ€
+Usquid:CallToDeprecatedMethod±",Remove this use of "HTTP"; it is deprecated.(Çğÿ€
+Usquid:CallToDeprecatedMethod²",Remove this use of "HTTP"; it is deprecated.(¶ª³
+ksquid:S2975¶"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë
+[squid:CallToDeprecatedMethod¹"2Remove this use of "HttpEntity"; it is deprecated.(Ü“èî
+[squid:CallToDeprecatedMethod¹"2Remove this use of "CloneUtils"; it is deprecated.(Ü“èî
+Fsquid:S2786¾")Remove this redundant "static" qualifier.(‹Õä—úÿÿÿÿ

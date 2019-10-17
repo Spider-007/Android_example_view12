@@ -1,0 +1,1966 @@
+[
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_accounts_password_prompt.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_accounts_password_prompt.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contact_search_name.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contact_search_name.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\list_dir_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\list_dir_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_type_thirdpart_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_type_thirdpart_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_schedule_main.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_schedule_main.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_sd_card_media_folder_preview_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_sd_card_media_folder_preview_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_change_topic.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_change_topic.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_new_message_sub_action.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_new_message_sub_action.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_video_status_from.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_video_status_from.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_cmcontact_person_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_cmcontact_person_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_actionbar_custom.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_actionbar_custom.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_item_biz_multi.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_item_biz_multi.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\keyboard_number_key_preview_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\keyboard_number_key_preview_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_webview_bottom_menu.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_webview_bottom_menu.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_message_view_header.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_message_view_header.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_public_grid.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_public_grid.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_item_biz_slot_bottom.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_item_biz_slot_bottom.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_send.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\layout\\activity_send.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_email_address_list_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_email_address_list_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_person_detail_me_qr.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_person_detail_me_qr.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_health_rankings_content_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_health_rankings_content_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_choose_user_details_commonly.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_choose_user_details_commonly.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_work_circle_menu_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_work_circle_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_option_menu_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_option_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_activity_user_details.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_activity_user_details.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_tab_app_center.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_tab_app_center.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_from_detail_data.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\layout\\ht_from_detail_data.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_empty.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\layout\\view_empty.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_vertical_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_vertical_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\adapter_child.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\layout\\adapter_child.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_detail.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_detail.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_empty_view.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_empty_view.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_crop__activity_crop.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_crop__activity_crop.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_interval_control_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_interval_control_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_photo.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_photo.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_type_poll_radio_button_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_type_poll_radio_button_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_chat_plugin_redpocket.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_chat_plugin_redpocket.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_entity_list_header.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_entity_list_header.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_contact_dropdown_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_contact_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_account_setup_check_settings.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_account_setup_check_settings.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_accounts.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_accounts.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_app_grid_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_app_grid_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_group_contact.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_group_contact.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_banner_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_banner_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_user_details_people.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_user_details_people.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\combobox_listview.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\ComponentLibrary\\unspecified\\res\\layout\\combobox_listview.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_choose_system.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_choose_system.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_autocomplete_select_contact.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_autocomplete_select_contact.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_type_task_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_type_task_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_common_large_avatar.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_common_large_avatar.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_messagedialog.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\layout\\layout_messagedialog.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_collections_list_item_file.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_collections_list_item_file.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_account_setup_basics.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_account_setup_basics.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_cmcontact_public_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_cmcontact_public_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_vip_contacts.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_vip_contacts.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_file_from.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_file_from.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_topic_switch_detail.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_topic_switch_detail.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_sd_card_media_folder_preview.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_sd_card_media_folder_preview.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_about.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_about.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_collections_search_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_collections_search_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_error.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\layout\\view_error.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_account_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_account_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_new_message_bottombar.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_new_message_bottombar.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\single_choice_popwindow.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\layout\\single_choice_popwindow.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_type_action_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_type_action_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_collections_list_item_video.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_collections_list_item_video.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_health_main_page_zoom_view.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_health_main_page_zoom_view.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_accessible_email_content.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_accessible_email_content.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_error_reason.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_error_reason.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_choose_user_details_jiegou.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_choose_user_details_jiegou.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_cmcontact_dept_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_cmcontact_dept_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_list_pull_footerview.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_list_pull_footerview.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_collections_list_item_image.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_collections_list_item_image.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_health_praise_me_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_health_praise_me_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_footer_custom_submenu.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_footer_custom_submenu.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_mail_search.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_mail_search.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_wizard_welcome.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_wizard_welcome.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contact_search.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contact_search.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_ocu_grid_view.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_ocu_grid_view.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\test_main.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\test_main.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_new_message_poll_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_new_message_poll_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_share_message_main.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_share_message_main.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_foropion_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_foropion_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\zt_layout_function.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\layout\\zt_layout_function.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_topic_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_topic_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\zt_view_actionsheet.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\zt_view_actionsheet.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_wizard_cancel.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_wizard_cancel.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\custom_main_page_marker_view.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\custom_main_page_marker_view.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_circle.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_circle.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_plugin_from.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_plugin_from.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\system_title.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\system_title.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_management.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_management.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_person_detail_name_only_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_person_detail_name_only_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_actionbar_indeterminate_progress_actionview.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_actionbar_indeterminate_progress_actionview.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_contact_address_box_simple.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_contact_address_box_simple.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_app_detail.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_app_detail.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_webview_top_right_menu_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_webview_top_right_menu_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_collections_list_item_voice.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_collections_list_item_voice.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_refresh_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_refresh_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_chat_health_ranking_msg_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_chat_health_ranking_msg_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_tab_circle.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_tab_circle.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_system_exit_menu_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_system_exit_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_sliding_account_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_sliding_account_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_health_main_page_content_view.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_health_main_page_content_view.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_textview_vertical_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_textview_vertical_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\photo_select_view.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\photo_select_view.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_photo6001_6002_6101_6102_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_photo6001_6002_6101_6102_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_album.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\layout_album.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_reply_popupwindow.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_reply_popupwindow.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_web_address.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_web_address.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\day_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\day_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_system_tab_switcher.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_system_tab_switcher.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_vip_message_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_vip_message_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_download_file_screen.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_download_file_screen.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\nextperson_dialog.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\layout\\nextperson_dialog.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_activity_people_add_update.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_activity_people_add_update.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_list_content_simple.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_list_content_simple.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_contact_address_box.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_contact_address_box.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_message_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_message_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_thread_list_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_thread_list_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_app_center_classify_dialog.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_app_center_classify_dialog.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_type_with_icon.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_type_with_icon.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_action_dialog_dimensiondoor.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_action_dialog_dimensiondoor.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_messages_list_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_messages_list_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_circle_search.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_circle_search.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_local_contact_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_local_contact_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_upgrade_databases.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_upgrade_databases.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_create_topic.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_create_topic.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_schedule_list_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_schedule_list_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_contactlist.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_contactlist.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_circle_comment_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_circle_comment_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_forward_menu_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_forward_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_message_list_item_footer.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_message_list_item_footer.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fan_zsjk_value.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\layout\\ht_fan_zsjk_value.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_file_click_pop_menu_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_file_click_pop_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\nextperson_list_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\ComponentLibrary\\unspecified\\res\\layout\\nextperson_list_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_netlist.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_netlist.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_frament_call_phone.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_frament_call_phone.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_system_tab_switcher_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_system_tab_switcher_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_pedometer_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_pedometer_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_choose_user_details_gaoji_adapter.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_choose_user_details_gaoji_adapter.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_new_message_sub_share.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_new_message_sub_share.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_frament_message_mobile.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_frament_message_mobile.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_select_poisition.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_select_poisition.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_voice_rcd_hint_window.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_voice_rcd_hint_window.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_message_compose_attachment.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_message_compose_attachment.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_chat_plugin_card.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_chat_plugin_card.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_schedule_search.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_schedule_search.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_reply_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_reply_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_sso_login_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_sso_login_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_new_message_sub_poll.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_new_message_sub_poll.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_pop_work_circle_group_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_pop_work_circle_group_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_webview.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_message.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_message.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_graph_group_conversation.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_graph_group_conversation.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_video_from.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_video_from.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_health_rankings.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_health_rankings.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_loading.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\layout\\layout_loading.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_topic_change_listheader.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_topic_change_listheader.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_person_detail_simple_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_person_detail_simple_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_loading.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\layout\\view_loading.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contact_message_screen.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contact_message_screen.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_image_details.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_image_details.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contact_list_menu_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contact_list_menu_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_me.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_me.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_contacts_config.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_contacts_config.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contacts_screen.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contacts_screen.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_media_selected_count.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_media_selected_count.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_to_be_add_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_to_be_add_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_titlebar1.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_titlebar1.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_local_contact_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_local_contact_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_pull_to_refresh_header_vertical.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_empty_message_view.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_empty_message_view.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_text_message_send_test.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_text_message_send_test.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_apk_download_notification.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_apk_download_notification.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_pic.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\layout_pic.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_footer_custom_submenu_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_footer_custom_submenu_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_menu_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_edit_account_change_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_edit_account_change_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_workcircle_group_setting.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_workcircle_group_setting.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_health_setting_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_health_setting_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_xlistview_header.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_xlistview_header.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_account_setup_outgoing.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_account_setup_outgoing.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_health_header.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_health_header.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_reply.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_reply.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_item_contact_list_footer.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_item_contact_list_footer.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_ui_custom_config.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_ui_custom_config.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_comm_attach_icon.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_comm_attach_icon.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_type_poll_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_type_poll_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\nextcode_dialog.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\layout\\nextcode_dialog.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_person_detail_simple.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_person_detail_simple.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_child_contactlist_adapter.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_child_contactlist_adapter.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_web.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_web.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_picture_from.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_picture_from.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_banner_item_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_banner_item_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_qrcode_capture.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_qrcode_capture.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_topic_list_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_topic_list_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_child_contactlist.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_child_contactlist.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_type_task_cell_complete.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_type_task_cell_complete.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_person_detail_simple_item_avatar.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_person_detail_simple_item_avatar.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wheel_date_picker.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\ComponentLibrary\\unspecified\\res\\layout\\wheel_date_picker.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fan_chart_view.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\layout\\ht_fan_chart_view.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_edittext_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_edittext_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_histogram.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\layout\\activity_histogram.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_debug.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_debug.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\image_select_dirlist.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\image_select_dirlist.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\keyboard_key_preview_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\keyboard_key_preview_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_voice_to.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_voice_to.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_message_view_crypto_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_message_view_crypto_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_web_dialog.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_web_dialog.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_progress_dialog.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_entity_detail_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_entity_detail_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_folder_list_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_folder_list_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_email_address_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_email_address_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_downloaded_file_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_downloaded_file_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_system_title.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_system_title.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_setting_dept_grid_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_setting_dept_grid_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_sliding_folder_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_sliding_folder_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_general_pull_down.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\ComponentLibrary\\unspecified\\res\\layout\\dialog_general_pull_down.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_action_member_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_action_member_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_search_result.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_search_result.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_sd_card_media_folder.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_sd_card_media_folder.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_account_setup_names.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_account_setup_names.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_unread_widget_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_unread_widget_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_user_details_file.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_user_details_file.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contact_noswitch_detail.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contact_noswitch_detail.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_new_message_sub_share_graph.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_new_message_sub_share_graph.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_folder_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_folder_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_wizard_setup.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_wizard_setup.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_from.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\layout\\activity_from.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_setting_change_name.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_setting_change_name.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_account_setup_composition.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_account_setup_composition.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_chat_health_praise_msg_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_chat_health_praise_msg_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_schedule_poi_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_schedule_poi_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_footer.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_footer.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_choose_pop.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_choose_pop.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_message_list_loading.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_message_list_loading.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contact_search_main.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contact_search_main.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_activity_main_book.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_activity_main_book.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_group_select.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_group_select.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_list_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_list_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_video_download.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_video_download.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_at_people.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_at_people.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_activity_people_message.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_activity_people_message.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_entity_att_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_entity_att_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_item_contact_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_item_contact_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_camera.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\view_camera.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_type_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_type_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_tab_contacts.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_tab_contacts.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_circle_search_result_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_circle_search_result_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_group_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_group_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_item_biz.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_item_biz.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_choose_account_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_choose_account_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_user_details_work.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_user_details_work.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_titlebar_docdetail.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_titlebar_docdetail.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_new_group_search.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_new_group_search.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_view_alertdialog.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\ComponentLibrary\\unspecified\\res\\layout\\ht_view_alertdialog.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_zoom_image_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_zoom_image_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_work_circle_task_complete_count.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_work_circle_task_complete_count.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_test.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_test.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_item_new_messages_hint.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_item_new_messages_hint.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_grid_attach_icon.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_grid_attach_icon.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fan_title_local.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\layout\\ht_fan_title_local.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_activity_main.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_activity_main.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_system_web_brower.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_system_web_brower.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contact_search_star.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contact_search_star.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_collections_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_collections_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contact_list_menu_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contact_list_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_message_list_fragment.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_message_list_fragment.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_opiontext_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_opiontext_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_cmcontact_vip_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_cmcontact_vip_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_group_select_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_group_select_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_chat_text_detail_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_chat_text_detail_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_activity_mail_setting.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_activity_mail_setting.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_edittext_vertical_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_edittext_vertical_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_item_biz_slot_header.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_item_biz_slot_header.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_textview_net_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_textview_net_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_file_imgae.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_file_imgae.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\adapter_child_right.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\layout\\adapter_child_right.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_schedule_detail.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_schedule_detail.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_group_contact_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_group_contact_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_activity_general_search.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_activity_general_search.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_item_placeholder.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_item_placeholder.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\item_dialog_cm_saveto.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\item_dialog_cm_saveto.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_plugin_to.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_plugin_to.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_frament_pop_delete_user.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_frament_pop_delete_user.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_progressdialog.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_progressdialog.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\combobox_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\ComponentLibrary\\unspecified\\res\\layout\\combobox_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_item_notification.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_item_notification.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_circle_comment_popupwindow.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_circle_comment_popupwindow.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_caijian.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\activity_caijian.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_search_list_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_search_list_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_entity_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_entity_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_message_list_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_message_list_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_video_to.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_video_to.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_combobox_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_combobox_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\zt_dialog_adapter.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\zt_dialog_adapter.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_simple_spinner_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_simple_spinner_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_calendar.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_calendar.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_xlistview_footer.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_xlistview_footer.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\week_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\week_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_activity_people_message_edit.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_activity_people_message_edit.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_phone_details.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_phone_details.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_wizard_next.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_wizard_next.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_attach_icon.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_attach_icon.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_error_post.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_error_post.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_widget_sliding_menu.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_widget_sliding_menu.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_new_message_task_option_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_new_message_task_option_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_nodata.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_nodata.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_pop_center.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_pop_center.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contact_detail_menu_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contact_detail_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_new_message_sub_thirdparty.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_new_message_sub_thirdparty.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_item_contact_list_header.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_item_contact_list_header.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_type_task_cell.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_type_task_cell.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_file_search.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_file_search.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_call_info_window.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_call_info_window.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_develop_tools.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_develop_tools.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_select_uploadfile_type_dialog.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_select_uploadfile_type_dialog.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_foldable_linearlayout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_foldable_linearlayout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contact_filelist_screen.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contact_filelist_screen.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main_page.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\activity_main_page.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_webview_top_right_menu.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_webview_top_right_menu.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_foropion2004.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_foropion2004.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_setting_account_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_setting_account_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_edit_identity.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_edit_identity.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_schedule_poi_search.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_schedule_poi_search.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_catalog_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_catalog_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_choose_user_details.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_choose_user_details.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_setting_people_grid_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_setting_people_grid_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_video_recorder_preview.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_video_recorder_preview.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_split_message_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_split_message_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_entity_receiver_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_entity_receiver_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_diagnostic.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_diagnostic.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_pop_center_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_pop_center_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_topic_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_topic_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_check_user_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_check_user_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_from_detail_data_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\layout\\ht_from_detail_data_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_newtabtitle_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\layout\\layout_newtabtitle_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_search_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_search_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_item_system.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_item_system.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_slider_preference_dialog.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_slider_preference_dialog.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_view_login_alertdialog.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_view_login_alertdialog.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_voice_from.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_voice_from.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_recipient_dropdown_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_recipient_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_message_view_attachment.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_message_view_attachment.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_cmcontact_public_grid_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_cmcontact_public_grid_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_thread_menu_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_thread_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_collections_list_item_text.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_collections_list_item_text.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_collections_list_item_header.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_collections_list_item_header.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_group_contact_footer.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_group_contact_footer.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main_activity.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_net_file_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_net_file_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_wizard_done.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_wizard_done.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_menu_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_new_message.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_new_message.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_pop_work_circle_category_group_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_pop_work_circle_category_group_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_announce.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_announce.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contact_search_mobile.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contact_search_mobile.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_appmsg_to.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_appmsg_to.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_search_result_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_search_result_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_net_file.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_net_file.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_photopreview.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\activity_photopreview.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_photopreview.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\view_photopreview.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_photoselector.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\activity_photoselector.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_tasklist.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_tasklist.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_new_message_poll_option_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_new_message_poll_option_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\calendar_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\calendar_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_entity_digest_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_entity_digest_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contacts_header_view.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contacts_header_view.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_draft_menu_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_draft_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\adapter_dialog_general_pull_down.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\ComponentLibrary\\unspecified\\res\\layout\\adapter_dialog_general_pull_down.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_net_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_net_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_choose_contactlist.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_choose_contactlist.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_pull_to_refresh_header_horizontal.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_from_title_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\layout\\ht_from_title_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_phone_call_window.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_phone_call_window.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_action_join_avatar.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_action_join_avatar.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_online_file.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_online_file.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_person_detail_me.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_person_detail_me.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_search.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_search.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_pop_work_circle_category_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_pop_work_circle_category_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_user_details_people_update.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_user_details_people_update.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_textview_vertical_net_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_textview_vertical_net_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_accounts_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_accounts_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\fragment_form_schedule.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\fragment_form_schedule.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_general.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_general.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_item_contact_choose_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_item_contact_choose_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_qianmingyijian_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_qianmingyijian_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fan_zsjk_value_buttom.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\layout\\ht_fan_zsjk_value_buttom.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_draft_topic_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_draft_topic_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\combobox_test.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\ComponentLibrary\\unspecified\\res\\layout\\combobox_test.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\grid_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_action_dialog_checkbox.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_action_dialog_checkbox.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_select_conversation.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_select_conversation.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_client_certificate_spinner.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_client_certificate_spinner.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_photo_header.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\select_photo_header.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_action_dialog.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_action_dialog.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\keyboard_key_board_popu.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\keyboard_key_board_popu.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_select_conversation_header.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_select_conversation_header.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_downloaded_file.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_downloaded_file.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_collections_list_item_link.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_collections_list_item_link.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_file_picker.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_file_picker.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_new_message_task_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_new_message_task_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_circle_at_people.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_circle_at_people.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_message_adapter.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_message_adapter.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_choose_contactlist_adapter.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_choose_contactlist_adapter.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_custom_menu_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_custom_menu_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_alertdialog.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\view_alertdialog.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_photoitem.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\layout_photoitem.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_account_setup_incoming.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_account_setup_incoming.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_picture_to.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_picture_to.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_item_from.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_item_from.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_setting_delete_grid_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_setting_delete_grid_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_account_setup_account_type.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_account_setup_account_type.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_setting_qr.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_setting_qr.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_tab_chat.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_tab_chat.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_tips_loading.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\ComponentLibrary\\unspecified\\res\\layout\\view_tips_loading.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_edittext_vertical_net_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_edittext_vertical_net_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_new_message_sub_text.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_new_message_sub_text.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contact_switch_detail.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contact_switch_detail.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_person_detail_simple_item_qr.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_person_detail_simple_item_qr.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_choose_identity_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_choose_identity_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_custom_menu_footer.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_custom_menu_footer.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_welcome_message.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_welcome_message.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_image.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_image.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_message_view_openpgp_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_message_view_openpgp_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_from_detail_data_item_text.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\layout\\ht_from_detail_data_item_text.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_file_pick_screen.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_file_pick_screen.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_message_compose_file_attachment.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_message_compose_file_attachment.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_health_setting_privacy_remind.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_health_setting_privacy_remind.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_message_compose.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_message_compose.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_account_setup_options.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_account_setup_options.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_person_detail_simple_public.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_person_detail_simple_public.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_user_details.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_user_details.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_adapter_call_phone_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_adapter_call_phone_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_circle_new_poll_select_num.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_circle_new_poll_select_num.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_download_file_plugin.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_download_file_plugin.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_item_biz_slot_middle.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_item_biz_slot_middle.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_new_message_sub_task.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_new_message_sub_task.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_color_picker_dialog.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_color_picker_dialog.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_list_divider_footer.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_list_divider_footer.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contact_list_selected_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contact_list_selected_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_smiley_grid_item_s.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_smiley_grid_item_s.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_group.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_group.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_setting.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_setting.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_edittext_net_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_edittext_net_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_account_setup.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_account_setup.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_loading.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_type_text_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_type_text_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_newtabindicator.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\layout\\layout_newtabindicator.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_common_progress_bar.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_common_progress_bar.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_appmsg_from.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_appmsg_from.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_share_menu_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_share_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_collections_list_item_thread.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_collections_list_item_thread.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_health_rankings_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_health_rankings_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_formdetail_cell_textview_lib.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\formlibrary\\unspecified\\res\\layout\\layout_formdetail_cell_textview_lib.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_accounts_folders_icons.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_accounts_folders_icons.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_popup_mutichoice.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_popup_mutichoice.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_item_to.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_item_to.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_request_confirm_dialog.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_request_confirm_dialog.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_wating_for_call.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_wating_for_call.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_cmcontact_option_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_cmcontact_option_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_message_type_annouce_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_message_type_annouce_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_dialog_cm_saveto.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_dialog_cm_saveto.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_file_picker_list_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_file_picker_list_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_draft.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_draft.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_textview_size.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_textview_size.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_system_change_password.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_system_change_password.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_thread_list.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_thread_list.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_sd_card_medial_folder_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_sd_card_medial_folder_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_from_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\Chartkit\\res\\layout\\ht_from_layout.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_health_main_page_head_view.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_health_main_page_head_view.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_plugin_alone.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_plugin_alone.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_file_to.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_file_to.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_video_recorder.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_video_recorder.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_setting_add_grid_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_setting_add_grid_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_net_file_complex_item.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_net_file_complex_item.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_activity_file_picker_empty.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_activity_file_picker_empty.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_contact_address.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_contact_address.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_activity_mail_setting_info.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_activity_mail_setting_info.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_mail_address_btn.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_mail_address_btn.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ht_fragment_choose_user_details_gaoji.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\layout\\ht_fragment_choose_user_details_gaoji.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_contact_list_menu_item_mail.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_contact_list_menu_item_mail.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_conversation_message_item_placeholder_big.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_conversation_message_item_placeholder_big.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_pop_work_circle.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_pop_work_circle.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_comm_draft_attach_icon.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_comm_draft_attach_icon.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_app_center_view.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_app_center_view.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mx_health_praise_me_layout.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\layout\\mx_health_praise_me_layout.xml"
+    }
+]

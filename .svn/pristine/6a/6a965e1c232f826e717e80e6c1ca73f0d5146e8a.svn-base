@@ -1,0 +1,47 @@
+// Generated code from Butter Knife. Do not modify!
+package com.htmitech.proxy.activity;
+
+import android.view.View;
+import butterknife.ButterKnife.Finder;
+
+public class SchedulePoiSearchActivity$$ViewInjector {
+  public static void inject(Finder finder, final com.htmitech.proxy.activity.SchedulePoiSearchActivity target, Object source) {
+    View view;
+    view = finder.findRequiredView(source, 2131362172, "field 'mapView'");
+    target.mapView = (com.amap.api.maps2d.MapView) view;
+    view = finder.findRequiredView(source, 2131362175, "field 'etSearch'");
+    target.etSearch = (android.widget.EditText) view;
+    view = finder.findRequiredView(source, 2131362174, "field 'llSearchRoot'");
+    target.llSearchRoot = (android.widget.LinearLayout) view;
+    view = finder.findRequiredView(source, 2131362169, "field 'lvScheduleList'");
+    target.lvScheduleList = (com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView) view;
+    view = finder.findRequiredView(source, 2131362178, "field 'tvCurrentValue'");
+    target.tvCurrentValue = (android.widget.TextView) view;
+    view = finder.findRequiredView(source, 2131362177, "field 'llCurrentRoot'");
+    target.llCurrentRoot = (android.widget.LinearLayout) view;
+    view = finder.findRequiredView(source, 2131362179, "field 'tvOftenLocation'");
+    target.tvOftenLocation = (android.widget.TextView) view;
+    view = finder.findRequiredView(source, 2131362176, "field 'tvCurrentKey'");
+    target.tvCurrentKey = (android.widget.TextView) view;
+    view = finder.findRequiredView(source, 2131363013, "field 'titleLeftButton'");
+    target.titleLeftButton = (android.widget.ImageButton) view;
+    view = finder.findRequiredView(source, 2131364162, "field 'scheduleTitleNameBack'");
+    target.scheduleTitleNameBack = (android.widget.TextView) view;
+    view = finder.findRequiredView(source, 2131362839, "field 'titleName'");
+    target.titleName = (android.widget.TextView) view;
+  }
+
+  public static void reset(com.htmitech.proxy.activity.SchedulePoiSearchActivity target) {
+    target.mapView = null;
+    target.etSearch = null;
+    target.llSearchRoot = null;
+    target.lvScheduleList = null;
+    target.tvCurrentValue = null;
+    target.llCurrentRoot = null;
+    target.tvOftenLocation = null;
+    target.tvCurrentKey = null;
+    target.titleLeftButton = null;
+    target.scheduleTitleNameBack = null;
+    target.titleName = null;
+  }
+}

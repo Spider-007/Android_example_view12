@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\res\\merged\\release\\xml\\mx_mail_providers.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\xml\\mx_mail_providers.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\res\\merged\\release\\xml\\keyboard_numbers.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\xml\\keyboard_numbers.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\res\\merged\\release\\xml\\mx_mail_searchable.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\xml\\mx_mail_searchable.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\res\\merged\\release\\xml\\mx_mail_font_preferences.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\xml\\mx_mail_font_preferences.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\res\\merged\\release\\xml\\mx_mail_unread_widget_info.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\xml\\mx_mail_unread_widget_info.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\res\\merged\\release\\xml\\mx_mail_folder_settings_preferences.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\xml\\mx_mail_folder_settings_preferences.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\res\\merged\\release\\xml\\mx_mail_changelog_master.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\xml\\mx_mail_changelog_master.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\res\\merged\\release\\xml\\mx_mail_global_preferences.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\xml\\mx_mail_global_preferences.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\res\\merged\\release\\xml\\mx_mail_account_settings_preferences.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\xml\\mx_mail_account_settings_preferences.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\res\\merged\\release\\xml\\mx_web_config.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\xml\\mx_web_config.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\res\\merged\\release\\xml\\keyboard_symbol.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\xml\\keyboard_symbol.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\res\\merged\\release\\xml\\keyboard_word.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\ComponentLibrary\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\xml\\keyboard_word.xml"
+    }
+]

@@ -1,0 +1,12 @@
+
+hsquid:S1301‚"KReplace this "switch" statement by "if" statements to increase readability.(ıŞ³‹ùÿÿÿÿ
+csquid:S00112V"FDefine and throw a dedicated exception instead of using a generic one.(—‚Òıÿÿÿÿ
+fsquid:S00119&"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(²’˜“øÿÿÿÿ
+fsquid:S00119&"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(²’˜“øÿÿÿÿ
+fsquid:S00119&"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(²’˜“øÿÿÿÿ
+]squid:S2142S"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ë‡åøùÿÿÿÿ
+gsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ë‡åøùÿÿÿÿ
+gsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ë‡åøùÿÿÿÿ
+bsquid:S00119“"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Øöï‰
+Esquid:S3398ğ"(Move this method into "InternalHandler".(±Š‘ûÿÿÿÿ

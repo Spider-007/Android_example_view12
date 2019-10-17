@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\btn_date_location.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xhdpi\\btn_date_location.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_launcher_round.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\prompt_warn.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-xhdpi-v4\\prompt_warn.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\img_no_add.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-xhdpi-v4\\img_no_add.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\btn_date_fast_today.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xhdpi\\btn_date_fast_today.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\icon_date_identifier_special.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xhdpi\\icon_date_identifier_special.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_arrow_right_normal.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xhdpi\\ic_arrow_right_normal.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\icon_tishi.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xhdpi\\icon_tishi.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\mx_btn_uploading_question.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xhdpi\\mx_btn_uploading_question.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_arrow_left_normal.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xhdpi\\ic_arrow_left_normal.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\img_empty_nodata.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xhdpi\\img_empty_nodata.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\btn_date_search.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xhdpi\\btn_date_search.png"
+    }
+]

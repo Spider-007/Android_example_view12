@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.htmitech.MyView.EmptyLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/emptyLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+        <com.htmitech.emportal.ui.detail.ObservableScrollView
+            android:id="@+id/sc_freement"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            >
+
+            <LinearLayout
+                android:id="@+id/linearlayout_formdetail"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:animateLayoutChanges="true"
+                android:background="#00000000"
+                android:orientation="vertical"></LinearLayout>
+        </com.htmitech.emportal.ui.detail.ObservableScrollView>
+
+
+
+
+</com.htmitech.MyView.EmptyLayout>

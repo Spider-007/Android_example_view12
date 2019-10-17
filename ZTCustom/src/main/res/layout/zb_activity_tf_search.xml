@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#002B53" >
+
+    <LinearLayout
+        android:id="@+id/rl_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="5dp"
+        android:background="#002B53"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/cancel_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:paddingLeft="5dp"
+            android:text="取消"
+            android:textColor="#26AEF1"
+            android:textSize="16sp" />
+
+        <ScrollView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_weight="5"
+            android:background="@drawable/name_et_shap"
+            android:fillViewport="true"
+            android:orientation="vertical"
+            android:scrollbars="vertical" >
+
+            <EditText
+                android:id="@+id/auto_edit"
+                android:layout_width="fill_parent"
+                android:layout_height="38dp"
+                android:layout_gravity="center"
+                android:layout_margin="12dp"
+                android:background="@color/transparent"
+                android:drawableLeft="@drawable/search1"
+                android:enabled="true"
+                android:hint="北京   铁路局"
+                android:maxEms="10"
+                android:maxLines="1"
+                android:textColor="#ffffff"
+                android:textSize="14sp" />
+        </ScrollView>
+
+        <Button
+            android:id="@+id/search_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:paddingRight="5dp"
+            android:text="搜索"
+            android:textColor="#26AEF1"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_gekai"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:text="关键词间以“空格”隔开"
+        android:textColor="#26AEF1"
+        android:textSize="15sp" />
+
+    <ListView
+        android:id="@+id/auto_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tv_gekai"
+        android:layout_marginTop="10dp"
+        android:cacheColorHint="#00000000"
+        android:clickable="false"
+        android:divider="#ffffff"
+        android:dividerHeight="0dp"
+        android:fadingEdge="none"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="right"
+        android:listSelector="#00000000"
+        android:paddingBottom="80dp"
+        android:scrollbars="none"
+        android:textColor="#fff" >
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/layout_clean_all"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@id/auto_listview"
+        android:layout_gravity="center_horizontal"
+        android:background="#002B53"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_margin="5dp"
+            android:background="#647E96" />
+
+        <TextView
+            android:id="@+id/tv_clean_all"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="清除全部"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:layout_margin="5dp"
+            android:background="#647E96" />
+    </LinearLayout>
+
+</RelativeLayout>

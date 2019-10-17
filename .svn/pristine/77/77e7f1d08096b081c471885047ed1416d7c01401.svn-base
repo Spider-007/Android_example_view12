@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\btn_slide_block.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\res\\drawable-mdpi\\btn_slide_block.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\edit_flag.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\res\\drawable-mdpi\\edit_flag.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\img_bg_line_short.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\res\\drawable-mdpi\\img_bg_line_short.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\img_trophy_finish.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\res\\drawable-mdpi\\img_trophy_finish.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\img_diamond_none.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\res\\drawable-mdpi\\img_diamond_none.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\img_bg_line_long.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\res\\drawable-mdpi\\img_bg_line_long.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\img_bg_my_chat.9.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\res\\drawable-mdpi\\img_bg_my_chat.9.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\img_bg_other_chat.9.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\res\\drawable-mdpi\\img_bg_other_chat.9.png"
+    }
+]

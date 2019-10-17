@@ -1,0 +1,73 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/huise"
+    tools:context=".BookActivity" >
+
+    <!-- <fragment -->
+    <!-- android:name="com.htmitech.fragment.AddressFragment" -->
+    <!-- android:id="@+id/article_fragment" -->
+    <!-- android:layout_width="fill_parent" -->
+    <!-- android:layout_height="fill_parent" /> -->
+    <RelativeLayout
+        android:id="@+id/layout_daiban_titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        skin:enable="true"
+        android:background="@color/ht_hred_title" >
+
+        <ImageView
+            android:id="@+id/btn_daiban_person"
+            style="@style/title_button"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            skin:enable="true"
+            android:background="@drawable/mx_btn_back"
+            android:scaleType="center" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/ht_title_text_color"
+            skin:enable="true"
+            android:textSize="18dp"
+            android:text=""/>
+
+
+
+        <TextView
+            android:id="@+id/tv_save"
+            style="@style/title_button"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textColor="@color/ht_title_text_color"
+            android:background="@drawable/header_bar_btn_selector"
+            android:textSize="18dp"
+            android:layout_marginRight="10dp"
+            skin:enable="true"
+            android:text="@string/people_save"/>
+    </RelativeLayout>
+    <EditText
+        android:id="@+id/et_value"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/layout_daiban_titlebar"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/send_message"/>
+
+    <ProgressBar
+        android:id="@+id/progress_"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="30dip"
+        android:layout_height="30dip"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone"
+        android:indeterminateDrawable="@anim/imofan_round_progress_bar_1" />
+</RelativeLayout>

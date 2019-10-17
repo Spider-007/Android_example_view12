@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\release\\raw\\qrcode_completed.mp3",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\raw\\qrcode_completed.mp3"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\release\\raw\\client.png",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\raw\\client.png"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\release\\raw\\client_2016.png",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\raw\\client_2016.png"
+    }
+]

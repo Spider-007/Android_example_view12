@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/tips_bg"
+    android:gravity="center" >
+    <View
+        android:layout_width="100.0dip"
+        android:layout_height="100.0dip"
+        android:layout_centerInParent="true" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical" >
+        <ProgressBar
+            android:id="@+id/progress_"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            android:indeterminateDrawable="@anim/imofan_round_progress_bar_1" />
+
+        <ProgressBar
+            android:id="@+id/progress_1"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+
+            android:layout_gravity="center"
+            android:indeterminateDrawable="@anim/imofan_round_progress_bar_baise" />
+        <TextView
+            android:id="@+id/tips_loading_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:lineSpacingExtra="3.0dip"
+            android:visibility="gone"
+            android:text="正在登录"
+            android:textColor="#ffffffff"
+            android:textSize="15.0sp" />
+    </LinearLayout>
+</RelativeLayout>

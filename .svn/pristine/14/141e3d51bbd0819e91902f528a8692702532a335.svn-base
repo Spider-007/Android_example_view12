@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:skin="http://schemas.android.com/android/skin"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@color/color_ffffffff"
+	android:orientation="vertical" >
+
+
+
+	<RelativeLayout
+		android:id="@+id/layout_daiban_titlebar"
+		android:layout_width="match_parent"
+		android:layout_height="@dimen/title_bar_height"
+		skin:enable="true"
+		android:background="@color/ht_hred_title" >
+
+		<ImageView
+			android:id="@+id/btn_daiban_person_home"
+			style="@style/title_button"
+			android:layout_alignParentLeft="true"
+			android:layout_centerVertical="true"
+			skin:enable="true"
+			android:scaleType="center"
+			android:visibility="gone"
+			android:background="@drawable/mx_btn_community_list_phone"
+			/>
+		<ImageView
+			android:id="@+id/btn_daiban_person"
+			style="@style/title_button"
+			android:layout_alignParentLeft="true"
+			android:layout_centerVertical="true"
+			skin:enable="true"
+			android:scaleType="center"
+			android:background="@drawable/mx_btn_back"
+			/>
+		<TextView
+			android:id="@+id/tv_daiban_title"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_centerInParent="true"
+			skin:enable="true"
+			android:visibility="gone"
+			android:textColor="@color/ht_title_text_color"
+			android:textSize="@dimen/title_size"/>
+		<com.htmitech.emportal.ui.widget.DaiBanTopTabIndicator
+			android:id="@+id/daiban_topTabIndicator_bbslist"
+			android:layout_width="wrap_content"
+			android:layout_marginTop="@dimen/fab_labels_margin"
+			android:layout_marginBottom="@dimen/fab_labels_margin"
+			android:layout_height="wrap_content"
+			android:layout_centerInParent="true" />
+
+		<ImageView
+			android:id="@+id/imageview_daiban_more"
+			style="@style/title_button"
+			android:layout_alignParentRight="true"
+			android:layout_centerVertical="true"
+			skin:enable="true"
+			android:background="@drawable/mx_btn_more"
+			/>
+	</RelativeLayout>
+
+	<com.htmitech.emportal.ui.widget.MainViewPager
+		android:id="@+id/daiban_viewpager_daiban"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_below="@id/layout_daiban_titlebar"
+		android:visibility="visible" />
+
+	<com.htmitech.emportal.ui.widget.LoadingView
+		android:id="@+id/loadingview_daiban_listview"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:clickable="true"
+		android:visibility="gone" />
+
+	<include
+		android:id="@+id/relativelayout_daiban_listview_error"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		layout="@layout/fragment_empty_app"
+		android:visibility="gone" />
+
+</RelativeLayout>

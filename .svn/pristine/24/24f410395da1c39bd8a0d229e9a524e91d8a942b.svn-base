@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 水规-->
+    <!--<string name="client_conf_http_cloudapi_host">http://123.56.161.177:8081</string>-->
+    <!--<string name="client_conf_http_host">http://123.57.162.16</string>-->
+    <!--<string name="client_conf_push_host">ssl://123.57.162.16:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.com.s20151126121009928</string>-->
+    <!--<string name="client_conf_http_cloudapidir">SGZY_v2</string>-->
+    <!--<string name="client_conf_buglycode">900028165</string>-->
+
+    <!--<string name="client_conf_http_cloudapi_host">http://220.231.22.40</string>-->
+    <!--<string name="client_conf_http_host">http://220.231.22.41</string>-->
+    <!--<string name="client_conf_push_host">ssl://220.231.22.41:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.com.s20151126121009928</string>-->
+    <!--<string name="client_conf_http_cloudapidir">SGZY_v2</string>-->
+    <!--<string name="client_conf_buglycode">900028165</string>-->
+    <!-- 水规测试开发环境-->
+    <!--<string name="client_conf_http_cloudapi_host">http://192.168.88.35:8081</string>-->
+    <!--<string name="client_conf_http_host">http://htrf.dscloud.me:8020</string>-->
+    <!--<string name="client_conf_push_host">ssl://htrf.dscloud.me:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.com.s20151126121009928</string>-->
+    <!--<string name="client_conf_http_cloudapidir">SGZY_v2</string>-->
+    <!--<string name="client_conf_buglycode">900028165</string>-->
+    <!--中核华辉-->
+    <!--<string name="client_conf_http_cloudapi_host">http://220.231.22.47</string>-->
+    <!--<string name="client_conf_http_host">http://220.231.22.48</string>-->
+    <!--<string name="client_conf_push_host">ssl://220.231.22.48:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.com.s20151126121009928</string>-->
+    <!--<string name="client_conf_http_cloudapidir">CloudApiZH</string>-->
+    <!--<string name="client_conf_buglycode">900028165</string>-->
+
+    <!--太原经信委-->
+    <!--<string name="client_conf_http_cloudapi_host">http://pda2.tyjw.gov.cn</string>-->
+    <!--<string name="client_conf_http_host">http://pda1.tyjw.gov.cn</string>-->
+    <!--<string name="client_conf_push_host">ssl://pda1.tyjw.gov.cn:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.com.s20151126121009928</string>-->
+    <!--<string name="client_conf_http_cloudapidir">CloudAPI</string>-->
+    <!--<string name="client_conf_buglycode">900028165</string>-->
+
+    <!--<string name="client_conf_http_emmappid">htmitech.com.s20151126121009928</string>-->
+    <!--<string name="client_conf_http_cloudapidir">SGZY_V2</string>-->
+    <!--<string name="client_conf_buglycode">900028165</string>-->
+
+    <!--公司正式的-->
+    <!--<string name="client_conf_http_cloudapi_host">http://220.231.22.55:8081</string>-->
+    <!--<string name="client_conf_http_host">http://220.231.22.55:8086</string>-->
+    <!--<string name="client_conf_push_host">ssl://220.231.22.55:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">cloudapihtgsoa</string>-->
+    <!--<string name="client_conf_buglycode">900028165</string>-->
+    <!--3.0-->
+    <!--<string name="client_conf_http_cloudapi_host">http://htrf.dscloud.me:8030</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://htrf.dscloud.me:8040</string>-->
+    <!--<string name="client_conf_http_host">http://htrf.dscloud.me:8020</string>-->
+    <!--<string name="client_conf_push_host">ssl://htrf.dscloud.me:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">CloudAPI_JZ13710</string>-->
+    <!--<string name="client_conf_buglycode">b1cdafdd5f</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://htrf.dscloud.me:8040/</string>-->
+
+    <!--晋中开发环境-->
+    <!--<string name="client_conf_http_cloudapi_host">http://htrf.dscloud.me:8030</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://htrf.dscloud.me:8040</string>-->
+    <!--<string name="client_conf_http_host">http://htrf.dscloud.me:8020</string>-->
+    <!--<string name="client_conf_push_host">ssl://htrf.dscloud.me:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">testv252</string>-->
+    <!--<string name="client_conf_buglycode">b1cdafdd5f</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://htrf.dscloud.me:8040/</string>-->
+
+    <!--山西省委-->
+    <!--<string name="client_conf_http_cloudapi_host">http://htrf.dscloud.me:8030</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://htrf.dscloud.me:9085</string>-->
+    <!--<string name="client_conf_http_host">http://htrf.dscloud.me:8020</string>-->
+    <!--<string name="client_conf_push_host">ssl://htrf.dscloud.me:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">sxsw252</string>-->
+    <!--<string name="client_conf_buglycode">b1cdafdd5f</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://htrf.dscloud.me:9085/</string>-->
+
+    <!--<string name="client_conf_http_cloudapi_host">http://192.168.88.35:8081</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://192.168.88.43:8080</string>-->
+    <!--<string name="client_conf_http_host">http://htrf.dscloud.me:8020</string>-->
+    <!--<string name="client_conf_push_host">ssl://htrf.dscloud.me:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">CloudApi_13710_real</string>-->
+    <!--<string name="client_conf_buglycode">b1cdafdd5f</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://192.168.88.43:8080/</string>-->
+    <!--公司测试-->
+    <!--<string name="client_conf_http_cloudapi_host">http://192.168.88.35:8081</string>
+    <string name="client_conf_http_empapi_host">http://192.168.88.43:8080</string>
+    <string name="client_conf_http_host">http://htrf.dscloud.me:8020</string>
+    <string name="client_conf_push_host">ssl://htrf.dscloud.me:1883</string>
+    <string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>
+    <string name="client_conf_http_cloudapidir">dev255</string>
+    <string name="client_conf_buglycode">b1cdafdd5f</string>
+    &lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;
+    <string name="serverip">http://192.168.88.43:8080/</string>-->
+
+  <!--      <string name="client_conf_http_cloudapi_host">http://htrf.dscloud.me:8030</string>
+            <string name="client_conf_http_empapi_host">http://htrf.dscloud.me:9085</string>
+            <string name="client_conf_http_host">http://htrf.dscloud.me:8020</string>
+            <string name="client_conf_push_host">ssl://htrf.dscloud.me:1883</string>
+            <string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>
+            <string name="client_conf_http_cloudapidir">sxsw252</string>
+            <string name="client_conf_buglycode">b1cdafdd5f</string>
+            &lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;
+            <string name="serverip">http://htrf.dscloud.me:9085/</string>-->
+
+    <!--<string name="client_conf_http_cloudapi_host">http://htrf.dscloud.me:4181</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://htrf.dscloud.me:8888</string>-->
+    <!--<string name="client_conf_http_host">http://htrf.dscloud.me:8020</string>-->
+    <!--<string name="client_conf_push_host">ssl://htrf.dscloud.me:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">SG_CloudApi</string>-->
+    <!--<string name="client_conf_buglycode">fb09271fdb</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://htrf.dscloud.me:8888/</string>-->
+    <!--<string name="client_conf_http_cloudapi_host">http://192.168.88.35:8081</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://htrf.dscloud.me:8083</string>-->
+    <!--<string name="client_conf_http_host">http://htrf.dscloud.me:8020</string>-->
+    <!--<string name="client_conf_push_host">ssl://htrf.dscloud.me:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">dev255</string>-->
+    <!--<string name="client_conf_buglycode">b1cdafdd5f</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://htrf.dscloud.me:8083/</string>-->
+
+    <!--<string name="client_conf_http_cloudapi_host">http://218.241.207.28:6666</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://218.241.207.28.8888</string>-->
+    <!--<string name="client_conf_http_host">http://218.241.207.28</string>-->
+    <!--<string name="client_conf_push_host">ssl://218.241.207.28:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">CloudApi</string>-->
+    <!--<string name="client_conf_buglycode">cff9c95c1e</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://218.241.207.28.8888/</string>-->
+
+    <!--<string name="client_conf_http_cloudapi_host">http://172.24.231.70:9999</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://172.24.231.70:8888</string>-->
+    <!--<string name="client_conf_http_host">http://172.24.231.70:8086</string>-->
+    <!--<string name="client_conf_push_host">ssl://172.24.231.70:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">gd_CloudApi</string>-->
+    <!--<string name="client_conf_buglycode">cff9c95c1e</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://172.24.231.70:8888/</string>-->
+
+
+    <!-- 公司测试43-->
+    <!--<string name="client_conf_http_cloudapi_host">http://117.107.142.55:8022</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://117.107.142.55:8024</string>-->
+    <!--<string name="client_conf_http_host">http://www.htmisoft.com:8086</string>-->
+    <!--<string name="client_conf_push_host">ssl://www.htmisoft.com:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">htyd_CloudApi</string>-->
+    <!--<string name="client_conf_buglycode">b1cdafdd5f</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://117.107.142.55:8024/</string >-->
+
+
+    <!--太急的配置-->
+
+    <!-- <string name="client_conf_http_cloudapi_host">http://117.107.142.55:8022</string>
+    <string name="client_conf_http_empapi_host">http://117.107.142.55:8024</string>
+    <string name="client_conf_http_host">http://www.htmisoft.com:8086</string>
+    <string name="client_conf_push_host">ssl://www.htmisoft.com:1883</string>
+    <string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>
+    <string name="client_conf_http_cloudapidir">htyd_CloudApi</string>
+    <string name="client_conf_buglycode">90029226</string>
+    &lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;
+    <string name="serverip">http://117.107.142.55:8024/</string>-->
+
+    <!--<string name="client_conf_http_cloudapi_host">http://117.107.142.55:8022</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://117.107.142.55:8024</string>-->
+    <!--<string name="client_conf_http_host">http://www.htmisoft.com:8086</string>-->
+    <!--<string name="client_conf_push_host">ssl://www.htmisoft.com:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">htyd_CloudApi</string>-->
+    <!--<string name="client_conf_buglycode">b1cdafdd5f</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://117.107.142.55:8024/</string>-->
+   <!-- <string name="client_conf_http_cloudapi_host">http://htrf.dscloud.me:4181</string>
+    <string name="client_conf_http_empapi_host">http://htrf.dscloud.me:8888</string>
+    <string name="client_conf_http_host">http://htrf.dscloud.me:8020</string>
+    <string name="client_conf_push_host">ssl://htrf.dscloud.me:1883</string>
+    <string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>
+    <string name="client_conf_http_cloudapidir">SG_CloudApi</string>
+    <string name="client_conf_buglycode">bb6cda141d</string>
+    &lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;
+    <string name="serverip">http://htrf.dscloud.me:8888/</string>-->
+    <!--<string name="client_conf_http_cloudapi_host">http://htrf.dscloud.me:8030</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://htrf.dscloud.me:38080</string>-->
+    <!--<string name="client_conf_http_host">http://htrf.dscloud.me:6880</string>-->
+    <!--<string name="client_conf_push_host">ssl://htrf.dscloud.me:6883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">ys_cloudapi</string>-->
+    <!--<string name="client_conf_buglycode">bb6cda141d</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://htrf.dscloud.me:38080/</string>-->
+
+
+    <!--<string name="client_conf_http_cloudapi_host">http://htrf.dscloud.me:8030</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://htrf.dscloud.me:58080</string>-->
+    <!--<string name="client_conf_http_host">http://htrf.dscloud.me:8020</string>-->
+    <!--<string name="client_conf_push_host">ssl://htrf.dscloud.me:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">ztryb_cloudapi</string>-->
+    <!--<string name="client_conf_buglycode">b1cdafdd5f</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://htrf.dscloud.me:58080/</string>-->
+
+    <!--<string name="client_conf_http_cloudapi_host">http://htrf.dscloud.me:8030</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://htrf.dscloud.me:8083</string>-->
+    <!--<string name="client_conf_http_host">http://htrf.dscloud.me:8020</string>-->
+    <!--<string name="client_conf_push_host">ssl://htrf.dscloud.me:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">dev255</string>-->
+    <!--<string name="client_conf_buglycode">b1cdafdd5f</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://htrf.dscloud.me:8083/</string>-->
+    <!--&lt;!&ndash;定制开发的地址&ndash;&gt;-->
+    <!--<string name="client_conf_dz_ip">http://htrf.dscloud.me:55050</string>-->
+    <string name="client_conf_http_cloudapi_host">http://111.33.90.17:8091</string>
+    <string name="client_conf_http_empapi_host">http://111.33.90.17:8092</string>
+    <string name="client_conf_http_host">http://111.33.90.17:8096</string>
+    <string name="client_conf_push_host">ssl://111.33.90.17:1883</string>
+    <string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>
+    <string name="client_conf_http_cloudapidir">ztcloudApi</string>
+    <string name="client_conf_buglycode">b1cdafdd5f</string>
+    <!--java端datacrub登录接口头信息传入服务器地址-->
+    <string name="serverip">http://111.33.90.17:8092/</string>
+    <!--定制开发的地址-->
+    <string name="client_conf_dz_ip"></string>
+
+    <!--<string name="client_conf_http_cloudapi_host">http://211.167.71.165:9999</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://211.167.71.165:8888</string>-->
+    <!--<string name="client_conf_http_host">http://211.167.71.165:8086</string>-->
+    <!--<string name="client_conf_push_host">ssl://211.167.71.165:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">gd_CloudApi</string>-->
+    <!--<string name="client_conf_buglycode">99965f1ac7</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://211.167.71.165:8888/</string>-->
+
+    <!--山西省委正式-->
+    <!--<string name="client_conf_http_cloudapi_host">http://202.97.139.84:8086</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://202.97.139.84:8086</string>-->
+    <!--<string name="client_conf_http_host">http://202.97.139.84:8086</string>-->
+    <!--<string name="client_conf_push_host">ssl://202.97.139.84:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">sxsw252</string>-->
+    <!--<string name="client_conf_buglycode">b1cdafdd5f</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://202.97.139.84:8086/</string>-->
+    <!--&lt;!&ndash;证书代理地址 &ndash;&gt;-->
+    <!--<string name="proxyUrl">http://192.168.0.76:8081</string>-->
+    <!--<string name="proxyUrl78">http://192.168.0.76:8084</string>-->
+    <!--&lt;!&ndash;证书网关地址（外网） &ndash;&gt;-->
+    <!--<string name="gatewayIp">202.97.139.84</string>-->
+    <!--&lt;!&ndash;是否启用证书 false为不启用 true为启用&ndash;&gt;-->
+    <!--<string name="isneedjit">true</string>-->
+
+
+    <!--东方市委-->
+    <!--<string name="client_conf_http_cloudapi_host">http://htrf.dscloud.me:8030</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://htrf.dscloud.me:8050</string>-->
+    <!--<string name="client_conf_http_host">http://htrf.dscloud.me:8020</string>-->
+    <!--<string name="client_conf_push_host">ssl://htrf.dscloud.me:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">testv250</string>-->
+    <!--<string name="client_conf_buglycode">b1cdafdd5f</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://htrf.dscloud.me:8050/</string>-->
+
+
+    <!--保利集团-->
+    <!--<string name="client_conf_http_cloudapi_host">http://192.168.88.72:9999</string>-->
+    <!--<string name="client_conf_http_empapi_host">http://192.168.88.72:8888</string>-->
+    <!--<string name="client_conf_http_host">http://htrf.dscloud.me:7171</string>-->
+    <!--<string name="client_conf_push_host">ssl:/htrf.dscloud.me:7172</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.s20160131172109507</string>-->
+    <!--<string name="client_conf_http_cloudapidir">CloudAPi</string>-->
+    <!--<string name="client_conf_buglycode">b1cdafdd5f</string>-->
+    <!--&lt;!&ndash;java端datacrub登录接口头信息传入服务器地址&ndash;&gt;-->
+    <!--<string name="serverip">http://192.168.88.72:8888/</string>-->
+
+
+    <!--<string name="client_conf_http_cloudapi_host">http://172.31.1.41:8081</string>
+    <string name="client_conf_http_host">http://172.31.1.42</string>
+    <string name="client_conf_push_host">ssl://172.31.1.42:1883</string>-->
+
+    <!--正式的-->
+    <!--    <string name="client_conf_http_emmappid">htmitech.com.s20151126121009928</string>
+        <string name="client_conf_http_cloudapidir">SGZY_V2</string>
+        <string name="client_conf_buglycode">900028165</string>-->
+    <!--V6-->
+    <!--<string name="client_conf_http_cloudapi_host">http://114.112.89.94:8081</string>-->
+    <!--<string name="client_conf_http_host">http://114.112.89.94:8086</string>-->
+    <!--<string name="client_conf_push_host">ssl://114.112.89.94:1883</string>-->
+    <!--<string name="client_conf_http_emmappid">htmitech.com.s20151126121009928</string>-->
+    <!--<string name="client_conf_http_cloudapidir">Product_V6_src</string>-->
+    <!--<string name="client_conf_buglycode">900028165</string>-->
+    <!---下载apk路径 -->
+    <string name="apk_url">http://pda2.tyjw.gov.cn/m/clients_file/sxjxwemportal.apk</string>
+
+    <!--首页风格配置，两个以上需将client_sidebar_homepage_style设为true-->
+    <!--没有风格，直接进入代办列表-->
+    <string name="client_homepage_layout_nothing">true</string>
+    <!--网格布局-->
+    <string name="client_homepage_layout_grid">false</string>
+    <!--磁贴布局-->
+    <string name="client_homepage_layout_tile">false</string>
+    <!--列表布局-->
+    <string name="client_homepage_layout_list">false</string>
+
+    <!--侧边栏配置-->
+    <!--首页风格切换-->
+    <string name="client_sidebar_homepage_style">true</string>
+    <!--新消息提醒-->
+    <string name="client_sidebar_notifications">true</string>
+    <!--手势密码-->
+    <string name="client_sidebar_gestures_password">true</string>
+    <!--常用意见-->
+    <string name="client_sidebar_common_opinions">true</string>
+    <!--应用中心-->
+    <string name="client_sidebar_application_center">true</string>
+    <!--我的收藏-->
+    <string name="client_sidebar_my_collection">true</string>
+    <!--版本信息-->
+    <string name="client_sidebar_version_information">true</string>
+    <!--资料中心-->
+    <string name="client_sidebar_data_center">false</string>
+    <!--平台指南-->
+    <string name="client_sidebar_platform_guide">false</string>
+    <!--联系客服-->
+    <string name="client_sidebar_customer_service">false</string>
+
+    <!--表单操作按钮配置 浮动 1  底部 0-->
+    <string name="client_form_operating_button">1</string>
+
+    <!--客户登录方式,默认不用修改 -->
+    <string name="client_server_grant_type">password</string>
+    <!--客户端侧边栏是否显示 -->
+    <string name="client_show_sliding">true</string>
+    <!--客户端侧边栏按钮是否显示 -->
+    <string name="client_show_handle">true</string>
+    <!--是否显示外部社区 -->
+    <string name="client_show_ext_network">true</string>
+    <!--通讯录里是否显示公众号 -->
+    <string name="client_show_contact_ocu">true</string>
+    <!--通讯录是否显示公司通讯录 -->
+    <string name="client_show_contact_company">true</string>
+    <!--通讯录是否显示群聊 -->
+    <string name="client_show_multi_chat">false</string>
+    <!--通讯录是否显示特别关注 -->
+    <string name="client_show_contact_vip">true</string>
+
+    <string name="client_show_mail">false</string>
+    <!--客户端公司敏信 右上角 +  扫一扫 -->
+    <string name="client_show_scan">true</string>
+    <!-- 是否显示设置-功能介绍 -->
+    <string name="client_show_introduction">false</string>
+    <!-- 是否设置手机号加密显示，起止位数 -->
+    <string name="client_encrypt_cellphone">4,7</string>
+
+    <!--敏行程序使用的SD卡目录 -->
+    <string name="client_conf_sdcard_root">/htmitech</string>
+    <!--android 程序的clientID -->
+    <string name="client_app_client_id">2</string>
+
+
+    <!--是否显示水印 -->
+    <string name="client_water_mark_enable">true</string>
+
+    <!-- 是否禁用工作圈发消息 -->
+    <!--<string name="client_circle_disable_text">true</string> -->
+    <!-- 是否禁用工作圈发任务 -->
+    <!--<string name="client_circle_disable_task">true</string> -->
+    <!-- 是否禁用工作圈发活动 -->
+    <!--<string name="client_circle_disable_action">true</string> -->
+    <!-- 是否禁用工作圈发投票-->
+    <!--<string name="client_circle_disable_poll">true</string> -->
+
+    <!-- 是否允许应用中心强制刷新，设置之后，当网络环境发生切换时，会强制刷新应用中心数据，适用于内外网数据分离 -->
+    <string name="client_app_center_force_refresh">true</string>
+    <!-- 是否禁用工作圈创建功能 -->
+    <!-- <string name="client_app_circle_create_disable">true</string> -->
+    <!-- 是否打开登录页面重置密码功能 -->
+    <!--<string name="client_login_reset_password">true</string> -->
+    <!-- 是否启用短信验证登录模式，启动之后，则不会再出现用户名密码登录 -->
+    <!--<string name="client_sms_password_login_enable">true</string> -->
+
+    <string name="client_debug">true</string>
+    <!--默认表单不折叠-->
+    <string name="isDefaultSlipltion">false</string>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher_round.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\prompt_warn.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\src\\main\\res\\mipmap-xhdpi\\prompt_warn.png"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\img_no_add.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\src\\main\\res\\mipmap-xhdpi\\img_no_add.png"
+    }
+]

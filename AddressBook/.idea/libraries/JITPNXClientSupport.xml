@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JITPNXClientSupport">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../MXClient/libs/JITPNXClientSupport.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

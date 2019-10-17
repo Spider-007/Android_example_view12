@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fl_root"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/ll_fn5_title_theme"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        skin:enable="true"
+        android:background="@color/ht_hred_title"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/ibn_fn5_back"
+            style="@style/title_button"
+            skin:enable="true"
+            android:background="@drawable/mx_btn_back" />
+
+        <TextView
+            android:id="@+id/tv_fn5_title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="异常提醒"
+            android:textColor="@color/ht_title_text_color"
+            skin:enable="true"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <com.htmitech.MyView.EmptyLayout
+        android:id="@+id/emptyLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <ListView
+            android:id="@+id/lv_childaccount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </ListView>
+
+    </com.htmitech.MyView.EmptyLayout>
+
+</LinearLayout>

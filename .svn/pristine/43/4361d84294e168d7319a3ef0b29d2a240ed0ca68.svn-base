@@ -1,0 +1,112 @@
+﻿{
+  "define": {
+    "title": {
+      "show": false,
+      "text": "|period_value|",
+      "textStyle": {
+        "fontWeight": "bold",
+        "color": "#000000",
+        "fontSize": "16"
+      },
+      "textAlign": "center",
+      "backgroundColor": "#FFFFFF"
+    },
+    "width": 0,
+    "wrap": false,
+    "align": "center",
+    "sortColumns": "dname,cbznum,cqwbjnum,ybjnum,zsnum",
+    "sortColumnColor": "#C6D2FC",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#555555",
+    "headRowTextStyle": {
+      "fontWeight": "bold",
+      "align": "center",
+      "color": "#F8F8F8",
+      "fontSize": "16"
+    },
+    "frozenColumnCount": 1,
+    "frozenRowCount": 1,
+    "frozenColumnColor": "#FFFFFF",
+    "mergeDefine": {
+      "firstColumnAutoMergeByRowValue": true
+    },
+    "rowColor": {
+      "headRowColor": "#0080FC",
+      "oddRowColorAlpha": "1",
+      "oddRowColor": "#000931",
+      "evenRowColorAlpha": "1",
+      "evenRowColor": "#00103D"
+    },
+    "textStyle": {
+      "fontWeight": "normal",
+      "color": "#F8F8F8",
+      "fontSize": "14"
+    },
+    "headerColumnStyle": {
+      "align": "left",
+      "textColor": "#ffffff"
+    },
+    "border": {
+      "borderWidth": "1",
+      "borderColor": "#3E5CE0",
+      "show": true,
+      "borderStyle": "fullLine"
+    },
+    "columns": [
+      {
+        "show": false,
+        "title": "机构编号",
+        "field": "orgcode",
+        "datatype": "string",
+        "width": 1,
+        "sort": "true",
+        "align": "left"
+      },
+      {
+        "show": true,
+        "title": "单位",
+        "field": "shortname",
+        "datatype": "string",
+        "width": 0.3,
+        "sort": "true",
+        "align": "center"
+      },
+      {
+        "show": true,
+        "title": "级别",
+        "field": "level",
+        "datatype": "string",
+        "width": 0.2,
+        "sort": "true",
+        "align": "center"
+      },
+      {
+        "show": true,
+        "title": "复核报警数量",
+        "field": "review",
+        "datatype": "string",
+        "width": 0.3,
+        "sort": "true",
+        "align": "center"
+      },
+      {
+        "show": true,
+        "title": "确认伤损数量",
+        "field": "ensureflaw",
+        "datatype": "string",
+        "width": 0.3,
+        "sort": "true",
+        "align": "center"
+      },
+      {
+        "show": true,
+        "title": "伤损检出率",
+        "field": "alarm_rate",
+        "datatype": "string",
+        "width": 0.3,
+        "sort": "true",
+        "align": "center"
+      }
+    ]
+  }
+}

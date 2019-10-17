@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_gravity="center_vertical"
+    android:background="@color/color_ffffffff"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tv_check"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/check_switch"
+        skin:enable="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="全选"
+        android:textColor="@color/color_333333"
+        android:textSize="@dimen/fontsize_heading15" />
+
+    <LinearLayout
+        android:id="@+id/ll_center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="合计："
+            android:textColor="@color/color_333333"
+            android:textSize="@dimen/fontsize_heading15" />
+
+        <TextView
+            android:id="@+id/tv_total_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:text="0"
+            android:visibility="gone"
+            android:textColor="@color/ht_hred_title"
+            android:textSize="@dimen/fontsize_heading15"
+            skin:enable="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:text="条"
+            android:visibility="gone"
+            android:textColor="@color/color_333333"
+            android:textSize="@dimen/fontsize_heading15" />
+
+        <TextView
+            android:id="@+id/tv_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:maxWidth="60dp"
+            android:text="0.0"
+            android:textColor="@color/ht_hred_title"
+            android:textSize="@dimen/fontsize_heading15"
+            skin:enable="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:text="吨"
+            android:textColor="@color/color_333333"
+            android:textSize="@dimen/fontsize_heading15" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_approval_number"
+        android:layout_width="110dp"
+        android:layout_height="match_parent"
+        android:background="@color/ht_hred_title"
+        android:gravity="center"
+        android:text="审批"
+        android:textColor="@color/white"
+        android:textSize="@dimen/fontsize_heading18"
+        skin:enable="true" />
+
+
+</LinearLayout>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="2dp"
+            android:layout_height="@dimen/tableheight"
+            android:background="@color/listview_line_color"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tv_detialsitem_1"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/tableheight"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="单位"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/chejiantextsize" />
+
+        <TextView
+            android:layout_width="2dp"
+            android:layout_height="@dimen/tableheight"
+            android:background="@color/listview_line_color"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tv_detialsitem_2"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/tableheight"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="单位"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/chejiantextsize" />
+
+        <TextView
+            android:layout_width="2dp"
+            android:layout_height="@dimen/tableheight"
+            android:background="@color/listview_line_color"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tv_detialsitem_3"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/tableheight"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="单位"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/chejiantextsize" />
+
+        <TextView
+            android:layout_width="2dp"
+            android:layout_height="@dimen/tableheight"
+            android:background="@color/listview_line_color"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tv_detialsitem_4"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/tableheight"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="单位"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/chejiantextsize" />
+
+        <TextView
+            android:layout_width="2dp"
+            android:layout_height="@dimen/tableheight"
+            android:background="@color/listview_line_color"
+            android:gravity="center" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/listview_line_color" />
+
+</LinearLayout>

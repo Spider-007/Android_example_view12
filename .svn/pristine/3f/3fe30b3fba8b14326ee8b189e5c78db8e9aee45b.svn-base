@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_launcher_round.png",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_launcher_round.png",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\ic_launcher.png"
+    }
+]

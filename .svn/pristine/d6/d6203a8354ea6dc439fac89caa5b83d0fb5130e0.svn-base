@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:tools="http://com.example.fragment/tools" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    tools:context="com.example.fragment.WeldFragment">
+
+    
+
+    <com.htmitech.ztcustom.zt.view.ZBWaterDropListView
+        android:id="@+id/lv_weld"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="#00000000"
+        android:clickable="false"
+        android:divider="#00000000"
+        android:dividerHeight="0dp"
+        android:fadingEdge="none"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="right"
+        android:listSelector="#00000000"
+        android:scrollbars="none"
+        android:textColor="#fff" />
+
+</RelativeLayout>

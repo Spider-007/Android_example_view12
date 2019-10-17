@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:arc="http://schemas.android.com/apk/res-auto"
+     xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_1"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/system_title_steel"
+        layout="@layout/system_title" />
+
+    <LinearLayout
+        android:id="@+id/layout_detail_timebar"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#E9F3FF" 
+        android:orientation="horizontal"
+        android:layout_below="@id/system_title_steel" 
+        >
+
+        <ImageButton
+            android:id="@+id/before_image_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/btn_prev_pre" />
+
+        <TextView
+            android:id="@+id/time_textview"
+            android:layout_width="0dp"
+            android:layout_weight="60"
+           	android:gravity="center"
+            android:textSize="19sp"
+            android:textColor="@color/black"
+        	android:layout_height="match_parent"/>
+
+        <ImageButton
+            android:id="@+id/behind_image_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/btn_next_pre" />
+
+    </LinearLayout>
+    
+
+
+    <com.astuetz.viewpager.extensions.ScrollingTabsView
+        android:id="@+id/scrolling_tabs"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="#0080FC"
+        android:layout_below="@id/layout_detail_timebar"  
+        />
+    
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        android:layout_below="@id/scrolling_tabs"   />
+    
+</RelativeLayout>

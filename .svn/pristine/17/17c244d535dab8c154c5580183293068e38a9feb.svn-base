@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_message_list_context.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\menu\\mx_mail_message_list_context.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_manage_identities_context.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\menu\\mx_mail_manage_identities_context.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_folder_list_option.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\menu\\mx_mail_folder_list_option.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_disabled_accounts_context.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\menu\\mx_mail_disabled_accounts_context.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_manage_identities_option.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\menu\\mx_mail_manage_identities_option.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_message_list_option.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\menu\\mx_mail_message_list_option.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_messages_list_option.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\menu\\mx_mail_messages_list_option.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_accounts_option.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\menu\\mx_mail_accounts_option.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_folder_context.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\menu\\mx_mail_folder_context.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_message_compose_option.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\menu\\mx_mail_message_compose_option.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_folder_select_option.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\menu\\mx_mail_folder_select_option.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_accounts_context.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\menu\\mx_mail_accounts_context.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\unspecified\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_message_list_item_context.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\menu\\mx_mail_message_list_item_context.xml"
+    }
+]

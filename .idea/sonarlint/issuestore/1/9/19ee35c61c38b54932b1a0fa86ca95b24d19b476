@@ -1,0 +1,12 @@
+
+fsquid:S2095¹"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(…Ğşµ
+@squid:S1148İ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148ß"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+wsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+psquid:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ÿ³ü
+Xsquid:S10753"ARefactor your code to get this URI from a customizable parameter.(×¬¼×
+]squid:S2142T"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]squid:S2147Ş"ECombine this catch with the one at line 220, which has the same body.(ï­£Ä
+\squid:S1858Ú"D"s" is already a string, there's no need to call "toString()" on it.(·å°ó
+Gsquid:S2093Ó"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

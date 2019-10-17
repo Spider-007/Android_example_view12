@@ -1,0 +1,2 @@
+include ':MXKit', ':AddressBook', ':formlibrary', ':ComponentLibrary', ':httplibrary', ':ArchiverModule', ':updownloadmanagement', ':schedulemanagerlibrary', ':basewidgetlibrary', ':ZTCustom', ':datapicker_library'
+include ':MXClient'

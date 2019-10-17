@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/allbackground"
+    android:orientation="vertical"
+    tools:context="com.htmitech.ztcustom.zt.chinarailway.QualityObjectionDealOverActivity">
+
+
+    <RelativeLayout
+        android:id="@+id/ll_quality_objection_deal_over_title_theme"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:layout_alignParentTop="true"
+        android:background="@color/title_color"
+        android:gravity="center_vertical">
+
+        <ImageButton
+            android:id="@+id/ib_quality_objection_deal_over_back"
+            android:clickable="true"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:gravity="center"
+            android:src="@drawable/btn_back" />
+
+        <TextView
+            android:id="@+id/tv_quality_objection_deal_over_title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/title_quality_objection"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/title_textsize" />
+
+        <Button
+            android:id="@+id/bt_quality_objection_deal_over_right_top"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="8dp"
+            android:background="@color/transparent"
+            android:text="提报"
+            android:textColor="#F8F8F8"
+            android:textSize="@dimen/quality_objection_top_textsize"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_quality_objection_deal_over_unit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_quality_objection_deal_over_title_theme"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="12dp"
+        android:text="分公司受理ddddd"
+        android:textColor="#D5D5D5"
+        android:textSize="12sp" />
+
+    <LinearLayout
+        android:id="@+id/ll_quality_objection_deal_over_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:id="@+id/bt_quality_objection_deal_over_select_all"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#F7F7F7"
+            android:paddingBottom="17dp"
+            android:paddingTop="17dp"
+            android:text="全选"
+            android:textColor="#818181"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/bt_quality_objection_deal_over_deal_or_over"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#2962FF"
+            android:paddingBottom="17dp"
+            android:paddingTop="17dp"
+            android:text="完结 （）"
+            android:textColor="#FFFFFF"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lv_quality_objection_deal_over"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/ll_quality_objection_deal_over_bottom"
+        android:layout_below="@id/tv_quality_objection_deal_over_unit"
+        android:layout_marginTop="12dp"
+        android:scrollbars="none">
+
+    </ListView>
+
+</RelativeLayout>

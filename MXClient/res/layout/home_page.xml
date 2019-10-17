@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/system_title_homeset"
+        layout="@layout/system_title" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/system_title_homeset"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager_homeset"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1" />
+
+        <LinearLayout
+            android:id="@+id/dot_homeset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:adjustViewBounds="true"
+            android:maxHeight="5dp"
+            android:orientation="horizontal"
+            android:scaleType="centerCrop"></LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_home_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/choose_queding"
+            android:gravity="center"
+            android:paddingBottom="@dimen/view_vertical_margin"
+            android:paddingTop="@dimen/view_vertical_margin"
+            android:text="切换风格"
+            android:textColor="@color/white"
+            android:textSize="15.0dip" />
+    </LinearLayout>
+
+
+</RelativeLayout>
+

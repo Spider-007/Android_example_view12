@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFF2F2F4" >
+    <com.htmitech.MyView.EmptyLayout
+        android:id="@+id/layout_search_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"
+        android:orientation="vertical">
+
+
+    </com.htmitech.MyView.EmptyLayout>
+
+     <!-- <com.handmark.pulltorefresh.library.PullToRefreshListView -->
+    <com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/listview_todo"
+
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        ptr:mx_ptrAnimationStyle="rotate"
+        ptr:mx_ptrHeaderSubTextColor="@color/black"
+        ptr:mx_ptrHeaderTextColor="@color/black"
+        ptr:mx_ptrMode="both"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:divider="@color/color_daiban_yiban_back"
+        android:dividerHeight="10dp"
+        android:listSelector="@null" >
+    </com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView>
+
+</RelativeLayout>

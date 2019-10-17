@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mobilereport.com.chatkit.myView.ColumnLayoutView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:lib="http://schemas.android.com/apk/res-auto"
+    android:layout_width="81dp"
+    android:layout_height="51dp"
+    android:background="@color/trans"
+    android:minHeight="@dimen/from_hight"
+    android:id="@+id/parentPanel"
+    android:focusable="false"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <mobilereport.com.chatkit.myView.MyTextView
+            android:id="@+id/tv_detail"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="內部裂紋"
+            android:enabled="false"
+            android:focusable="false"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/fragment_detail_list_back"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_line"
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:background="@color/huise" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_buttom_line"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@color/huise"
+        android:visibility="gone" />
+</mobilereport.com.chatkit.myView.ColumnLayoutView>

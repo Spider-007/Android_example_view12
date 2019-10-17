@@ -1,0 +1,47 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/allbackground"
+    tools:context="com.htmitech.ztcustom.zt.fragment.qualityobjectiondetailfragment.QualityObjectionDetailJBXXFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/ll_quality_objection_detail_title_theme"
+        android:orientation="vertical">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/vp_quality_objection_details"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <ListView
+            android:id="@+id/quality_objection_detail_listview"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:cacheColorHint="#00000000"
+            android:clickable="false"
+            android:divider="#00000000"
+            android:dividerHeight="0dp"
+            android:fadingEdge="none"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:listSelector="#00000000"
+            android:scrollbars="none"
+            android:textColor="#fff"></ListView>
+
+    </LinearLayout>
+
+    <com.htmitech.ztcustom.zt.view.photoview.PhotoView
+        android:id="@+id/iv_quality_objection_detail_big_pic"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:clickable="true"
+        android:scaleType="centerInside"
+        android:visibility="gone" />
+
+</FrameLayout>

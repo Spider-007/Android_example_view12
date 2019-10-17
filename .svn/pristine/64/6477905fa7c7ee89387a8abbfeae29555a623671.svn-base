@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_date_identifier_special_white.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xxhdpi\\icon_date_identifier_special_white.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\empty_pic.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xxhdpi\\empty_pic.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_date_identifier_normal_today.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xxhdpi\\icon_date_identifier_normal_today.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher_round.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

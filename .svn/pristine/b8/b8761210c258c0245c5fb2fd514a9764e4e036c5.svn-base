@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\popup_menu_common_word.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ce5ee4a78c4d0585110dfe82184760338f351b90\\output\\res\\menu\\popup_menu_common_word.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_message_compose_option.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_message_compose_option.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_manage_identities_option.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_manage_identities_option.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_folder_list_option.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_folder_list_option.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_folder_select_option.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_folder_select_option.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_message_list_item_context.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_message_list_item_context.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_manage_identities_context.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_manage_identities_context.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_folder_context.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_folder_context.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\tan_shang_complete_sum.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\menu\\tan_shang_complete_sum.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\scan_for_down_load.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\menu\\scan_for_down_load.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_messages_list_option.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_messages_list_option.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_manage_identities_option.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_manage_identities_option.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_message_list_context.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_message_list_context.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\tan_shang_complete_sum.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\menu\\tan_shang_complete_sum.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_folder_context.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_folder_context.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_accounts_option.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_accounts_option.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_folder_list_option.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_folder_list_option.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_accounts_context.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_accounts_context.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_message_compose_option.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_message_compose_option.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\annotation_option.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\menu\\annotation_option.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\ban_zu_day_report.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\menu\\ban_zu_day_report.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_message_list_option.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_message_list_option.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\popup_menu_common_word.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9937cbb6e26341363888342a2af8b0c2f8551456\\output\\res\\menu\\popup_menu_common_word.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\ban_zu_day_report.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\menu\\ban_zu_day_report.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_disabled_accounts_context.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_disabled_accounts_context.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_message_list_context.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_message_list_context.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_folder_select_option.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_folder_select_option.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\scan_for_down_load.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\menu\\scan_for_down_load.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_accounts_context.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_accounts_context.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\annotation_option.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\menu\\annotation_option.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_message_list_item_context.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_message_list_item_context.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_manage_identities_context.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_manage_identities_context.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_disabled_accounts_context.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_disabled_accounts_context.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_messages_list_option.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_messages_list_option.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_message_list_option.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_message_list_option.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\menu\\mx_mail_accounts_option.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\menu\\mx_mail_accounts_option.xml"
+    }
+]

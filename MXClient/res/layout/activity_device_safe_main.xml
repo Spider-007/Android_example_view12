@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F8F8"
+    tools:context="com.htmitech.proxy.activity.DeviceSafeMainActivity">
+
+    <include
+        android:id="@+id/system_title"
+        layout="@layout/system_title" />
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/system_title">
+
+        <LinearLayout
+            android:id="@+id/ll_bind_count"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:background="#ffffff"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_bind_count"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:minHeight="40dp"
+                android:textColor="#333333"
+                android:text="允许绑定的数量" />
+
+            <TextView
+                android:id="@+id/tv_bind_count_value"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableRight="@drawable/ic_arrow_right_normal"
+                android:gravity="center_vertical"
+                android:minHeight="40dp"
+                android:textColor="#9C9C9C"
+                android:text="无限制" />
+        </LinearLayout>
+       <View
+           android:id="@+id/view1"
+           android:layout_width="match_parent"
+           android:layout_height="1dp"
+           android:background="#E5E5E5"
+           android:layout_below="@+id/ll_bind_count"
+           />
+        <LinearLayout
+            android:id="@+id/ll_only_bind"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/view1"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:gravity="center_horizontal"
+            android:background="#ffffff"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_only_bind"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:minHeight="40dp"
+                android:textColor="#333333"
+                android:text="只允许绑定设备登录" />
+
+            <Switch
+                android:id="@+id/tv_only_bind_value"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:switchMinWidth="20dp"
+                android:thumbTextPadding="20dp"
+                android:gravity="center_vertical"
+                android:textOff=""
+                android:textOn=""
+                android:thumb="@drawable/thumb"
+                android:track="@drawable/track"
+                android:minWidth="40dp"
+                android:maxLength="40"
+
+                />
+        </LinearLayout>
+        <View
+            android:id="@+id/view2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#E5E5E5"
+            android:layout_below="@+id/ll_only_bind"
+            />
+        <LinearLayout
+            android:id="@+id/ll_bind_history"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/view2"
+            android:background="#ffffff"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_has_bind"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:minHeight="40dp"
+                android:textColor="#333333"
+                android:text="已绑定设备" />
+
+            <TextView
+                android:id="@+id/tv_has_bind_value"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:minHeight="40dp"
+                android:textColor="#9C9C9C"
+                android:text="0台" />
+        </LinearLayout>
+        <View
+            android:id="@+id/view"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#E5E5E5"
+            android:layout_below="@+id/ll_bind_history"
+            />
+        <TextView
+            android:id="@+id/split"
+            android:layout_below="@+id/view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:minHeight="40dp"
+            android:textSize="14sp"
+            android:textColor="#297BFB"
+            android:layout_marginLeft="8dp"
+            android:background="#F8F8F8"
+            android:text="登录设备历史记录" />
+        <com.htmitech.MyView.EmptyLayout
+            android:id="@+id/content_root"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/split">
+        <ListView
+            android:id="@+id/lv_device_list"
+            android:layout_below="@+id/split"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:cacheColorHint="#00000000"
+            android:listSelector="#00000000"
+            />
+        </com.htmitech.MyView.EmptyLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

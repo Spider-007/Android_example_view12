@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/drawer_back">
+    <LinearLayout
+        android:id="@+id/ll_fn5_title_theme"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/railway_back"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/ibn_fn5_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:gravity="center"
+            android:src="@drawable/btn_back" />
+
+        <TextView
+            android:id="@+id/tv_title_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="龙岩工务段"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/iv_shaixuan"
+            android:layout_width="70dp"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="5dp"
+            android:text="筛选"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:visibility="invisible"
+            />
+    </LinearLayout>
+    <com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/lv_card_list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:dividerHeight="20dp"
+        android:divider="@null"
+        android:listSelector="@color/transparent"
+        android:layout_below="@+id/ll_fn5_title_theme"/>
+    <ImageView
+        android:id="@+id/function"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/zt_htmitech_shezhi_1" />
+</RelativeLayout>

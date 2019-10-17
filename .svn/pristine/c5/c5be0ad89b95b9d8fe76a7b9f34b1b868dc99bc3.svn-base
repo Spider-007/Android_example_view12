@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:background="@drawable/corners_bg_white_press_stroke"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+    <ScrollView
+        android:id="@+id/sc_freement"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <htmitech.view.FormContainerView
+            android:id="@+id/linearlayout_formdetail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:animateLayoutChanges="true"
+            android:orientation="vertical"></htmitech.view.FormContainerView>
+
+    </ScrollView>
+
+</LinearLayout>

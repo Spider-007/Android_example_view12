@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/chart_layout"
+    android:background="@drawable/bg_1"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/system_title_chart"
+        layout="@layout/system_title" />
+    
+    <ScrollView 
+	    android:layout_width="match_parent" 
+	    android:layout_height="wrap_content" >  	
+
+    <LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"  >
+        
+        <FrameLayout
+        android:id="@+id/chart_framelayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+	 >
+    </FrameLayout>
+        
+    </LinearLayout>
+    
+</ScrollView>
+        	
+</LinearLayout>

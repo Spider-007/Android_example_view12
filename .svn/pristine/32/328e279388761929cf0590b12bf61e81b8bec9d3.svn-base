@@ -1,0 +1,21 @@
+cordova.define("org.apache.cordova.device.device",function(o,a,e){function n(){this.available=!1,this.platform=null,this.version=null,this.uuid=null,this.cordova=null,this.model=null,this.manufacturer=null;var o=this;r.onCordovaReady.subscribe(function(){o.getInfo(function(a){var e=l.version;o.available=!0,o.platform=a.platform,o.version=a.version,o.uuid=a.uuid,o.cordova=e,o.model=a.model,o.serial=a.serial,o.manufacturer=a.manufacturer||"unknown",r.onCordovaInfoReady.fire()},function(a){o.available=!1,t.alert("[ERROR] Error initializing Cordova: "+a)})})}/*
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+*/
+var i=o("cordova/argscheck"),r=o("cordova/channel"),t=o("cordova/utils"),c=o("cordova/exec"),l=o("cordova");r.createSticky("onCordovaInfoReady"),r.waitForInitialization("onCordovaInfoReady"),n.prototype.getInfo=function(o,a){i.checkArgs("fF","Device.getInfo",arguments),c(o,a,"Device","getDeviceInfo",[])},e.exports=new n});

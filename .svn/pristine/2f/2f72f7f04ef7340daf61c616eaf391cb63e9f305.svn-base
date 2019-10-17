@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="shebei">#3a9bfc</color>
+    <color name="drawer_back">#000931</color>
+    <color name="railway_year_month_data">#2C77CA</color>
+    <color name="colortable">#3753cd</color>
+    <color name="allbackground">#000931</color>
+    <color name="cardetails">#DEDDFD</color>
+    <color name="listview_line_color">#3753cd</color><!-- listview表格线的颜色 -->
+    <color name="listview_click_color">#004D84</color><!-- listview点击背景的颜色 -->
+    <color name="title_color">#002B53</color><!-- 标题栏的颜色 -->
+    <color name="colorGray">#7B7B7B</color>
+    <color name="listview_item_jiaoti_color">#00103d</color><!-- listivew的交替色 -->
+    <color name="colorcardtopll">#379BFD</color>
+    <color name="card_main_textcolor">#002B53</color><!-- 卡片字体颜色 -->
+    <!-- 表格的边界颜色 -->
+    <color name="dayreport_shaixuan">#00305E</color>
+    <!-- 单位日报筛选的fragment内 -->
+    <color name="dayreport_shaixuan_yinying">#002C53</color>
+
+    <color name="planned_rate_bar_qjht">#017DF7</color>
+    <color name="planned_rate_bar_ljfhs">#92d050</color>
+    <color name="planned_rate_bar_ljdhs">#e84710</color>
+    <color name="planned_rate_bar_sjfhs">#ff8a00</color>
+</resources>

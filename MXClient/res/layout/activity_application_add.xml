@@ -1,0 +1,115 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:id="@+id/layout_daiban_titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        skin:enable="true"
+        android:background="@color/ht_hred_title" >
+
+        <ImageView
+            android:id="@+id/btn_daiban_person"
+            style="@style/title_button"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            skin:enable="true"
+            android:background="@drawable/mx_btn_back"
+            android:scaleType="center" />
+
+        <TextView
+            android:id="@+id/daibantopTabIndicator_bbslist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/ht_title_text_color"
+            skin:enable="true"
+            android:textSize="18dp"
+            android:text="@string/add_applicationcenter"/>
+        <ImageView
+            android:id="@+id/iv_menu"
+            style="@style/title_button"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginRight="10dp"
+            skin:enable="true"
+            android:background="@drawable/mx_btn_add"
+            android:scaleType="center"
+            />
+        <TextView
+            android:id="@+id/complete"
+            style="@style/title_button"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:text="完成"
+            skin:enable="true"
+            android:visibility="gone"
+            android:layout_marginRight="10dp"
+            android:textColor="@color/ht_title_text_color"/>
+
+    </RelativeLayout>
+
+    <com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView
+
+        android:id="@+id/lv_app_add"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:divider="@color/transparent"
+        android:dividerHeight="0dp"
+        android:listSelector="@null"
+        android:layout_below="@+id/layout_daiban_titlebar"
+        ptr:mx_ptrAnimationStyle="rotate"
+        ptr:mx_ptrHeaderSubTextColor="@color/black"
+        ptr:mx_ptrHeaderTextColor="@color/black"
+        ptr:mx_ptrMode="both" >
+    </com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView>
+
+
+    <ProgressBar
+        android:id="@+id/progress_"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="30dip"
+        android:layout_height="30dip"
+        android:layout_centerInParent="true"
+        android:indeterminateDrawable="@anim/imofan_round_progress_bar_1" />
+
+    <LinearLayout
+        android:id="@+id/layout_search_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/img_no_add"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:textSize="15sp"
+            android:text="@string/seratch_not1"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textColor="#909090"
+            android:layout_gravity="center"
+            android:textSize="13sp"
+            android:text="@string/seratch_not2"/>
+    </LinearLayout>
+
+</RelativeLayout>

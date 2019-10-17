@@ -1,0 +1,176 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/allbackground">
+
+    <RelativeLayout
+        android:id="@+id/ll_produce_title_theme_banzu"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:layout_alignParentTop="true"
+        android:background="@color/title_color"
+        android:gravity="center_vertical" >
+
+        <ImageButton
+            android:id="@+id/ib_banzu_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:gravity="center"
+            android:src="@drawable/btn_back"
+            android:layout_marginLeft="5dp"
+             />
+
+        <TextView
+            android:id="@+id/tv_banzu_title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/title_dayreport"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/title_textsize" />
+
+        <ImageButton
+            android:id="@+id/ib_banzu_search"
+            android:layout_width="@dimen/title_right_drawsize"
+            android:layout_height="@dimen/title_right_drawsize"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/title_right_toright"
+            android:background="#002B53"
+            android:src="@drawable/mx_view_work_list_icon" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_banzu_top2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/date_height"
+        android:layout_marginTop="@dimen/title_height"
+        android:background="#ffffff"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+        <TextView
+            android:id="@+id/tv_banzu_title_data"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="2012年5月"
+            android:textColor="@color/black"
+            android:textSize="@dimen/date_text_size" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_banzu_nname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_banzu_top2"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="沈阳铁路局>沈阳工务段>XX探伤车间"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
+
+    <RelativeLayout
+        android:id="@+id/ll_banzu_table_top"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tv_banzu_nname"
+        android:layout_margin="10dp"
+        android:orientation="vertical" >
+
+        <include
+            android:id="@+id/i_banzuhead"
+            layout="@layout/banzu_day_report_item" />
+
+        <ListView
+            android:id="@+id/lv_banzu_table"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/i_banzuhead"
+            android:listSelector="#00000000"
+            android:scrollbars="none" >
+        </ListView>
+
+        <TextView
+            android:layout_width="@dimen/tableline"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@id/lv_banzu_table"
+            android:background="@color/colortable"
+            android:gravity="center" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/iv_banzu_i"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp"
+        android:clickable="true"
+        android:src="@drawable/htmitech_shezhi_1" />
+
+    <LinearLayout
+        android:id="@+id/ll_banzu_search_top"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#002C53"
+        android:clickable="true"
+        android:focusable="true"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp" >
+
+            <EditText
+                android:id="@+id/et_banzu_search"
+                android:layout_width="0dp"
+                android:layout_height="35dp"
+                android:layout_weight="6"
+                android:background="@drawable/chejiandayreport_top_search"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:id="@+id/tv_banzu_submit"
+                android:layout_width="0dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="确定" />
+
+            <TextView
+                android:id="@+id/tv_banzu_cancle"
+                android:layout_width="0dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="取消" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:paddingLeft="8dp"
+            android:text="关键词间以“空格”隔开"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+</RelativeLayout>

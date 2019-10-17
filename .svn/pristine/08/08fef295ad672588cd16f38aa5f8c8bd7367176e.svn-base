@@ -1,0 +1,21 @@
+cordova.define("org.apache.cordova.media.Media",function(t,i,o){function a(t){if("status"!=t.action)throw new Error("Unknown media action"+t.action);c.onStatus(t.status.id,t.status.msgType,t.status.value)}/*
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+*/
+var e=t("cordova/argscheck"),r=t("cordova/utils"),n=t("cordova/exec"),s={},c=function(t,i,o,a){e.checkArgs("SFFF","Media",arguments),this.id=r.createUUID(),s[this.id]=this,this.src=t,this.successCallback=i,this.errorCallback=o,this.statusCallback=a,this._duration=-1,this._position=-1,n(null,this.errorCallback,"Media","create",[this.id,this.src])};if(c.MEDIA_STATE=1,c.MEDIA_DURATION=2,c.MEDIA_POSITION=3,c.MEDIA_ERROR=9,c.MEDIA_NONE=0,c.MEDIA_STARTING=1,c.MEDIA_RUNNING=2,c.MEDIA_PAUSED=3,c.MEDIA_STOPPED=4,c.MEDIA_MSG=["None","Starting","Running","Paused","Stopped"],c.get=function(t){return s[t]},c.prototype.play=function(t){n(null,null,"Media","startPlayingAudio",[this.id,this.src,t])},c.prototype.stop=function(){var t=this;n(function(){t._position=0},this.errorCallback,"Media","stopPlayingAudio",[this.id])},c.prototype.seekTo=function(t){var i=this;n(function(t){i._position=t},this.errorCallback,"Media","seekToAudio",[this.id,t])},c.prototype.pause=function(){n(null,this.errorCallback,"Media","pausePlayingAudio",[this.id])},c.prototype.getDuration=function(){return this._duration},c.prototype.getCurrentPosition=function(t,i){var o=this;n(function(i){o._position=i,t(i)},i,"Media","getCurrentPositionAudio",[this.id])},c.prototype.startRecord=function(){n(null,this.errorCallback,"Media","startRecordingAudio",[this.id,this.src])},c.prototype.stopRecord=function(){n(null,this.errorCallback,"Media","stopRecordingAudio",[this.id])},c.prototype.release=function(){n(null,this.errorCallback,"Media","release",[this.id])},c.prototype.setVolume=function(t){n(null,null,"Media","setVolume",[this.id,t])},c.onStatus=function(t,i,o){var a=s[t];if(a)switch(i){case c.MEDIA_STATE:a.statusCallback&&a.statusCallback(o),o==c.MEDIA_STOPPED&&a.successCallback&&a.successCallback();break;case c.MEDIA_DURATION:a._duration=o;break;case c.MEDIA_ERROR:a.errorCallback&&a.errorCallback(o);break;case c.MEDIA_POSITION:a._position=Number(o);break;default:console.error&&console.error("Unhandled Media.onStatus :: "+i)}else console.error&&console.error("Received Media.onStatus callback for unknown media :: "+t)},o.exports=c,"android"===cordova.platformId||"amazon-fireos"===cordova.platformId){var l=t("cordova/channel");l.createSticky("onMediaPluginReady"),l.waitForInitialization("onMediaPluginReady"),l.onCordovaReady.subscribe(function(){n(a,undefined,"Media","messageChannel",[]),l.initializationComplete("onMediaPluginReady")})}});

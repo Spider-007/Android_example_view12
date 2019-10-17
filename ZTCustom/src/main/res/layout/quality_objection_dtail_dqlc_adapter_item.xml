@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="120dp"
+    android:background="@color/allbackground">
+
+
+    <RelativeLayout
+        android:id="@+id/rl_quality_objection_detail_dqlc_adapter_left"
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:background="#3854CF" />
+
+        <ImageView
+            android:id="@+id/iv_quality_objection_detail_dqlc_adapter_head"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:src="@drawable/icon_dqlc_finished" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_quality_objection_detail_dqlc_adapter_right"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:layout_toRightOf="@id/rl_quality_objection_detail_dqlc_adapter_left"
+        android:paddingBottom="10dp">
+
+        <TextView
+            android:id="@+id/tv_quality_objection_detail_dqlc_adapter_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="分公司受理"
+            android:textColor="#C7C7CA"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_quality_objection_detail_dqlc_adapter_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="2018年6月8日  10：15"
+            android:textColor="#C7C7CA"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_quality_objection_detail_dqlc_adapter_unit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_quality_objection_detail_dqlc_adapter_state"
+            android:layout_marginTop="8dp"
+            android:text="西南分公司"
+            android:textColor="#F8F8F8"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_quality_objection_detail_dqlc_adapter_detail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_quality_objection_detail_dqlc_adapter_unit"
+            android:layout_marginTop="8dp"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="顶顶顶"
+            android:textColor="#F8F8F8"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_quality_objection_detail_dqlc_adapter_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/tv_quality_objection_detail_dqlc_adapter_detail"
+            android:layout_marginTop="10dp"
+            android:text="提交人：张婷"
+            android:textColor="#F8F8F8"
+            android:textSize="12sp" />
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/iv_quality_objection_detail_dqlc_adapter_bottomline"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="50dp"
+        android:background="#3854CF" />
+
+</RelativeLayout>

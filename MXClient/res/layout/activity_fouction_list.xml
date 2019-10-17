@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bg_grey_dark">
+
+    <include
+        android:id="@+id/system_title"
+        layout="@layout/system_title" />
+
+    <com.htmitech.emportal.ui.daiban.minewidget.library.PullToRefreshListView
+        android:id="@+id/prlv_fouction"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:layout_below="@id/system_title">
+    </com.htmitech.emportal.ui.daiban.minewidget.library.PullToRefreshListView>
+
+</RelativeLayout>

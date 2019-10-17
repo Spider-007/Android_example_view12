@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-en-xhdpi-v4\\mx_comm_nodata.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\drawable-en-xhdpi-v4\\mx_comm_nodata.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-en-xhdpi-v4\\toggle_btn_unchecked.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\drawable-en-xhdpi-v4\\toggle_btn_unchecked.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-en-xhdpi-v4\\toggle_btn_checked.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\drawable-en-xhdpi-v4\\toggle_btn_checked.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-en-xhdpi-v4\\mx_icon_appstore_app_not_installed.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\drawable-en-xhdpi-v4\\mx_icon_appstore_app_not_installed.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-en-xhdpi-v4\\mx_app_center_banner_default_1.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\drawable-en-xhdpi-v4\\mx_app_center_banner_default_1.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-en-xhdpi-v4\\mx_mail_ic_email_attachment_flag.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\drawable-en-xhdpi-v4\\mx_mail_ic_email_attachment_flag.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-en-xhdpi-v4\\mx_work_circle_deleted.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\MXKit\\4.0.0\\res\\drawable-en-xhdpi-v4\\mx_work_circle_deleted.png"
+    }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/img_welcome04"
+    android:gravity="bottom|center_horizontal" >
+    
+    <TextView
+        android:id="@+id/start_btn"
+        android:layout_width="135dp"
+        android:layout_height="40dp"
+        android:padding="10.0dip"
+        android:layout_marginBottom="10.0dip"
+        android:background="@drawable/mx_comm_red_button"
+        android:text="登录"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="15.0dip" />
+</LinearLayout>

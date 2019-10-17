@@ -1,0 +1,117 @@
+﻿{
+  "define": {
+    "wrap": true,
+    "fit": true,
+    "headRowTextStyle": {
+      "fontWeight": "bold",
+      "color": "#F8F8F8",
+      "fontSize": "14",
+      "align": "center"
+    },
+    "width": "0",
+    "align": "center",
+    "columns": [
+      {
+        "field": "transmitbillid",
+        "title": "rowIndex",
+        "width": "1",
+        "show": true,
+        "datatype": "string"
+      },
+      {
+        "field": "sendingdate",
+        "title": " 发货日期 ",
+        "width": "0.31",
+        "show": true,
+        "textStyle": {
+          "color": "#F8F8F8",
+          "align": "center",
+          "fontSize": 14
+        },
+        "datatype": "string"
+      },
+      {
+        "field": "sendinggenshu",
+        "title": " 发货根数 ",
+        "width": "0.31",
+        "show": true,
+        "datatype": "string",
+        "textStyle": {
+          "color": "#F8F8F8",
+          "align": "center",
+          "fontSize": 14
+        }
+      },
+      {
+        "field": "sendingdunshu",
+        "title": " 发货吨数 ",
+        "width": "0.31",
+        "show": true,
+        "datatype": "string",
+        "textStyle": {
+          "color": "#F8F8F8",
+          "align": "center",
+          "fontSize": 14
+        }
+      }
+    ],
+    "specialTextStyle": {
+      "fieldTextStyle": [
+        {
+          "expression": {
+            "field": "tslx",
+            "compareType": "=",
+            "compareValue": "无法检测地段"
+          },
+          "affect": "row",
+          "textStyle": {
+            "color": "#F8B62D",
+            "fontSize": 14,
+            "fontWeight": "normal"
+          }
+        }
+      ]
+    },
+    "pageSize": 0,
+    "fit": true,
+    "watermark": {
+      "text": "",
+      "displayType": "repeat",
+      "textStyle": {
+        "fontWeight": " ",
+        "color": "#E5E5E5",
+        "fontSize": "20"
+      },
+      "show": true,
+      "type": "text",
+      "frozenShow": false
+    },
+    "showHeader": true,
+    "sortColumnColor": "#C1C1C1",
+    "textStyle": {
+      "fontWeight": "normal",
+      "color": "#cccccc",
+      "fontSize": "14"
+    },
+    "frozenColumnColor": "#00103D",
+    "frozenColumnCount": "1",
+    "mergeDefine": {
+      "firstColumnAutoMergeByRowValue": false
+    },
+    "border": {
+      "borderStyle": "fullLine",
+      "borderColor": "#3E5CE0",
+      "borderWidth": "1",
+      "show": true
+    },
+    "rowColor": {
+      "oddRowColorAlpha": 1,
+      "evenRowColor": "#00103D",
+      "evenRowColorAlpha": 1,
+      "oddRowColor": "#000931",
+      "headRowColor": "#0080FC"
+    }
+  },
+  "flag": true,
+  "msg": "调用成功！"
+}

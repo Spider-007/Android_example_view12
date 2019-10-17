@@ -1,0 +1,21 @@
+function jsCallBack(e){alert(e)}function onDeviceReady(){MXOAuth.initCheckSSOToken(jsCallBack)}cordova.define("com.minxing.kit.plugin.web.common.MXOAuth",function(e,t,n){/*
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+*/
+var o=e("cordova/exec");e("cordova/platform");n.exports={initCheckSSOToken:function(){o(null,null,"MXOAuth","initCheckSSOToken",[])}}}),document.addEventListener("deviceready",onDeviceReady,!1);var loginByCookie=function(){function e(e,t){document.cookie=e+"="+t}function t(e){for(var t,n=document.cookie.split("; "),o=0;o<n.length;o++){var i=n[o].split("=");e==i[0]&&(t=i[1])}return t}var n=document.querySelector("input[type=text]"),o=document.querySelector("input[type=password]"),i=document.querySelector("input[type=submit]"),c=location.host+location.pathname;i.addEventListener("click",function(){var t=(new Date).getTime(),i=n.value+","+o.value+","+t;e(c,i)},!1);var a=t(c);if(a){var u=a.split(",");((new Date).getTime()-Number(u[2]))/1e3<30||(n.value=u[0],o.value=u[1],i.click())}};

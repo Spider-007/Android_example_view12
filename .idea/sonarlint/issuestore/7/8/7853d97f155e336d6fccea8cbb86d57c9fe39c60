@@ -1,0 +1,17 @@
+
+Š squid:ForLoopCounterChangedCheckç"XRefactor the code in order to not assign to this loop counter from within the loop body.(°¯ûšÿÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckì"XRefactor the code in order to not assign to this loop counter from within the loop body.(²…î¸úÿÿÿÿ
+Jsquid:S1199Ç"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+;squid:S1148Û"#Use a logger to log this exception.(û“¢½
+psquid:S3008,"TRename this field "SLEEPTIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èàÎÒùÿÿÿÿ
+ksquid:S00116("SRename this field "PaintArc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¾Ë§
+usquid:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(îøàâøÿÿÿÿ
+asquid:HiddenFieldCheckR":Rename "height" which hides the field declared at line 42.(çÔÆæûÿÿÿÿ
+Bsquid:S00108")Either remove or fill this block of code.(”ı¾
+qsquid:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(²å«Í
+qsquid:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢Õ…„
+Asquid:S1125ª")Remove the literal "false" boolean value.(úßÄê
+qsquid:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ø¢Úê
+vsquid:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı´ğËüÿÿÿÿ
+^squid:S2142Ú"FEither re-interrupt this method or rethrow the "InterruptedException".(«çò£
+Asquid:S1125Ÿ")Remove the literal "false" boolean value.(úßÄê

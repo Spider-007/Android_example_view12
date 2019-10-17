@@ -1,0 +1,24 @@
+
+|squid:S1149œ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+Isquid:S1068"-Remove this unused "checkView" private field.(òóŸÿÿÿÿÿ
+csquid:S1301Ë"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•
+osquid:S00116Ó"WRename this field "layout_child" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß››`
+nsquid:S00117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æµÁåüÿÿÿÿ
+>squid:S1068#"'Remove this unused "edt" private field.(ÕİÒ§
+Nsquid:S1068$"2Remove this unused "mDocResultInfo" private field.(Ë³Šãşÿÿÿÿ
+Esquid:S1659h")Declare "indexColum2" on a separate line.(ÂÒìÔüÿÿÿÿ
+isquid:S001171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÆš­
+rsquid:S3923;"[Remove this conditional structure or edit its code blocks so that they're not all the same.(½±Ğ‚
+psquid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(£Æç
+|squid:S1149œ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+msquid:S00116""URename this field "EditFileds" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¦
+jsquid:S00117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùëÏƒ
+msquid:S00116"URename this field "input_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ‰øæ
+xsquid:S00115Ç"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îî ™ùÿÿÿÿ
+Lsquid:S1481h"0Remove this unused "indexColum1" local variable.(ÂÒìÔüÿÿÿÿ
+msquid:S2159á"VRemove this call to "equals"; comparisons between unrelated types always return false.(¸‰†`
+usquid:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ğÕ™ÿÿÿÿÿ
+xsquid:S00115Ç"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îî ™ùÿÿÿÿ
+Esquid:S1659h")Declare "indexColum1" on a separate line.(ÂÒìÔüÿÿÿÿ
+Esquid:S1068"".Remove this unused "EditFileds" private field.(ÿ¦
+nsquid:S00117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÄ’ôøÿÿÿÿ

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:layout_width="@dimen/tableline"
+        android:layout_height="@dimen/tableheight"
+        android:background="@color/colortable"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/tv_chejianitem_jhh"
+        android:layout_width="@dimen/chejiantablewidth"
+        android:layout_height="@dimen/tableheight"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="计划号"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/white"
+        android:textSize="@dimen/chejiantextsize" />
+
+    <com.htmitech.ztcustom.zt.view.hvlistview.InterceptScrollContainer
+        android:id="@+id/scroollContainter"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@id/tv_chejianitem_jhh"
+        android:focusable="false" >
+
+        <com.htmitech.ztcustom.zt.view.hvlistview.MyHScrollView
+            android:id="@+id/horizontalScrollView1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:focusable="false"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="@dimen/tableline"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:background="@color/colortable"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/tv_chejianitem_tsgq"
+                    android:layout_width="@dimen/chejiantablewidth"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="探伤工区"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/chejiantextsize" />
+
+                <TextView
+                    android:layout_width="@dimen/tableline"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:background="@color/colortable"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/tv_chejianitem_tsbz"
+                    android:layout_width="@dimen/chejiantablewidth"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="探伤班组"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/chejiantextsize" />
+
+                <TextView
+                    android:layout_width="@dimen/tableline"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:background="@color/colortable"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/tv_chejianitem_sblx"
+                    android:layout_width="@dimen/chejiantablewidth"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="设备类型"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/chejiantextsize" />
+
+                <TextView
+                    android:layout_width="@dimen/tableline"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:background="@color/colortable"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/tv_chejianitem_xb"
+                    android:layout_width="@dimen/chejiantablewidth"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="线别"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/chejiantextsize" />
+
+                <TextView
+                    android:layout_width="@dimen/tableline"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:background="@color/colortable"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/tv_chejianitem_xm"
+                    android:layout_width="@dimen/chejiantablewidth"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="线名"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/chejiantextsize" />
+
+                <TextView
+                    android:layout_width="@dimen/tableline"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:background="@color/colortable"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/tv_chejianitem_xingbie"
+                    android:layout_width="@dimen/chejiantablewidth"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="行别"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/chejiantextsize" />
+
+                <TextView
+                    android:layout_width="@dimen/tableline"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:background="@color/colortable"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/tv_chejianitem_qdlc"
+                    android:layout_width="@dimen/chejiantablewidth"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="起点里程"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/chejiantextsize" />
+
+                <TextView
+                    android:layout_width="@dimen/tableline"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:background="@color/colortable"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/tv_chejianitem_zdlc"
+                    android:layout_width="@dimen/chejiantablewidth"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="终点里程"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/chejiantextsize" />
+
+                <TextView
+                    android:layout_width="@dimen/tableline"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:background="@color/colortable"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/tv_chejianitem_tsbs"
+                    android:layout_width="@dimen/chejiantablewidth"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="探伤遍数"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/chejiantextsize" />
+
+                <TextView
+                    android:layout_width="@dimen/tableline"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:background="@color/colortable"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/tv_chejianitem_tsjhs"
+                    android:layout_width="@dimen/chejiantablewidth"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="探伤计划数"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/chejiantextsize" />
+
+                <TextView
+                    android:layout_width="@dimen/tableline"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:background="@color/colortable"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/tv_chejianitem_tsaps"
+                    android:layout_width="@dimen/chejiantablewidth"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="探伤安排数"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/chejiantextsize" />
+
+                <TextView
+                    android:layout_width="@dimen/tableline"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:background="@color/colortable"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/tv_chejianitem_tswcs"
+                    android:layout_width="@dimen/chejiantablewidth"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="探伤完成数"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/chejiantextsize" />
+
+                <TextView
+                    android:layout_width="@dimen/tableline"
+                    android:layout_height="@dimen/tableheight"
+                    android:layout_gravity="center"
+                    android:background="@color/colortable"
+                    android:gravity="center" />
+            </LinearLayout>
+        </com.htmitech.ztcustom.zt.view.hvlistview.MyHScrollView>
+    </com.htmitech.ztcustom.zt.view.hvlistview.InterceptScrollContainer>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/tableline"
+        android:layout_below="@id/scroollContainter"
+        android:layout_gravity="center"
+        android:background="@color/colortable"
+        android:gravity="center" />
+
+</RelativeLayout>

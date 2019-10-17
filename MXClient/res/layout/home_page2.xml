@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:id="@+id/parentLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <!--android:background="@drawable/bg_1"-->
+
+
+    <RelativeLayout
+        android:id="@+id/layout_home_titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/ht_hred_title"
+        skin:enable="true">
+
+        <ImageView
+            android:id="@+id/btn_home_person"
+            style="@style/title_button"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+
+            android:background="@drawable/mx_btn_community_list_phone"
+            android:scaleType="center"
+            skin:enable="true" />
+
+        <TextView
+            android:id="@+id/text_home_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:maxWidth="200dp"
+            android:singleLine="true"
+            android:text="首页"
+            android:textColor="@color/ht_title_text_color"
+            android:textSize="@dimen/max_textsize"
+            skin:enable="true" />
+        <ProgressBar
+            android:id="@+id/progress_"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="15dip"
+            android:layout_height="15dip"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/text_home_title"
+            android:visibility="gone"
+            android:indeterminateDrawable="@anim/imofan_round_progress_bar_1" />
+        <ImageView
+            android:id="@+id/protal_message_flag_metro"
+            android:layout_width="8dp"
+            android:layout_height="8dp"
+            android:layout_marginTop="12dp"
+            android:layout_toRightOf="@+id/text_home_title"
+            android:background="@drawable/img_point_new_information_style"
+            android:visibility="gone"
+            skin:enable="true" />
+
+        <ImageView
+            android:id="@+id/portal_flag_metro"
+            android:layout_width="20dp"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@+id/text_home_title"
+            android:background="@drawable/btn_arrow_down"
+            android:visibility="gone"
+            skin:enable="true" />
+
+        <ImageView
+            android:id="@+id/imageview_home_more"
+            style="@style/title_button"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/mx_btn_more"
+            skin:enable="true" />
+
+
+    </RelativeLayout>
+
+    <com.htmitech.MyView.EmptyLayout
+        android:id="@+id/empty_parent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:id="@+id/parent_frame_layout"
+            android:layout_width="match_parent"
+            android:layout_height="130dp">
+
+            <com.htmitech.MyView.LoopViewPager
+                android:id="@+id/viewpager"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent" />
+
+            <TextView
+                android:id="@+id/binnername"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="bottom"
+                android:background="@color/trans"
+                android:gravity="center_vertical"
+                android:paddingLeft="20dp"
+                android:textColor="@color/white"
+                android:textSize="16dip" /> 
+
+            <LinearLayout
+                android:id="@+id/dot_ll"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="right|bottom"
+                android:layout_marginRight="5dp"
+                android:gravity="center_vertical|right"
+                android:orientation="horizontal">
+            </LinearLayout>
+        </FrameLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/home_page_bg"
+            android:layout_below="@+id/parent_frame_layout">
+
+            <com.htmitech.app.widget.UserMessageScrollView
+                android:id="@+id/scroll_metro"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fillViewport="false">
+
+                <LinearLayout
+                    android:id="@+id/metro_ll"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" />
+
+            </com.htmitech.app.widget.UserMessageScrollView>
+
+            <ProgressBar
+                android:id="@+id/viewProgress"
+                style="?android:attr/progressBarStyleSmall"
+                android:layout_width="30dip"
+                android:layout_height="30dip"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:indeterminate="false"
+                android:indeterminateDrawable="@anim/ht_imofan_round_progress_bar_1" />
+        </RelativeLayout>
+
+    </com.htmitech.MyView.EmptyLayout>
+</LinearLayout>
+

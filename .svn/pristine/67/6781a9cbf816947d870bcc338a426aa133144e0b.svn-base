@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/ll_layout"
+    tools:context=".ui.daiban.MineListFragment">
+
+    <com.htmitech.emportal.ui.widget.NewTopTabIndicator
+        android:id="@+id/topTabIndicator_mine"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" />
+    <ImageView
+        android:id="@+id/imageview_mine_divider"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/view_divider_height"
+        android:background="@color/color_ffdcdcdc" />
+
+    <com.htmitech.emportal.ui.widget.MainViewPager
+        android:id="@+id/viewPager_mine"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:focusable="false" >
+    </com.htmitech.emportal.ui.widget.MainViewPager>
+
+</LinearLayout>

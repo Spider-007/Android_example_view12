@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lLayout_bg"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="@dimen/tableline"
+            android:layout_height="@dimen/tableheight"
+            android:layout_gravity="center"
+            android:background="@color/colortable"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tv_complete_xianbie"
+            android:layout_width="@dimen/chejiantablewidth"
+            android:layout_height="@dimen/tableheight"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="线别"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/white"
+            android:textSize="@dimen/chejiantextsize" />
+
+        <com.htmitech.ztcustom.zt.view.hvlistview.InterceptScrollContainer
+            android:id="@+id/complete_scroollContainter"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:focusable="false" >
+
+            <com.htmitech.ztcustom.zt.view.hvlistview.MyHScrollView
+                android:id="@+id/complete_horizontalScrollView1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:scrollbars="none" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:focusable="false"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_complete_gg"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="钢轨"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_complete_csgh"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="厂闪光焊"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_complete_xsgh"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="现闪光焊"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_complete_qyh"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="气压焊"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_complete_lrh"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="铝热焊"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_complete_jghf"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="加固焊缝"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_complete_kdxc"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="可动心岔"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_complete_hjgc"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="合金钢岔"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_complete_gmgc"
+                        android:layout_width="@dimen/chejiantablewidth"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="高锰钢岔"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/chejiantextsize" />
+
+                    <TextView
+                        android:layout_width="@dimen/tableline"
+                        android:layout_height="@dimen/tableheight"
+                        android:layout_gravity="center"
+                        android:background="@color/colortable"
+                        android:gravity="center" />
+                </LinearLayout>
+            </com.htmitech.ztcustom.zt.view.hvlistview.MyHScrollView>
+        </com.htmitech.ztcustom.zt.view.hvlistview.InterceptScrollContainer>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/tableline"
+        android:layout_gravity="center"
+        android:background="@color/colortable"
+        android:gravity="center" />
+
+</LinearLayout>

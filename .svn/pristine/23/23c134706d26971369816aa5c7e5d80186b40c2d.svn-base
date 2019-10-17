@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-en-xhdpi-v4\\mx_mail_ic_email_attachment_flag.png",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-en-xhdpi-v4\\mx_mail_ic_email_attachment_flag.png"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-en-xhdpi-v4\\mx_work_circle_deleted.png",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-en-xhdpi-v4\\mx_work_circle_deleted.png"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-en-xhdpi-v4\\mx_app_center_banner_default_1.png",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-en-xhdpi-v4\\mx_app_center_banner_default_1.png"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-en-xhdpi-v4\\toggle_btn_checked.png",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-en-xhdpi-v4\\toggle_btn_checked.png"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-en-xhdpi-v4\\mx_icon_appstore_app_not_installed.png",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-en-xhdpi-v4\\mx_icon_appstore_app_not_installed.png"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-en-xhdpi-v4\\toggle_btn_unchecked.png",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-en-xhdpi-v4\\toggle_btn_unchecked.png"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-en-xhdpi-v4\\mx_comm_nodata.png",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-en-xhdpi-v4\\mx_comm_nodata.png"
+    }
+]

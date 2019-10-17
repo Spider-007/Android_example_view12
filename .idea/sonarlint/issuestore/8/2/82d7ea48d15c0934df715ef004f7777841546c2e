@@ -1,0 +1,10 @@
+
+œsquid:S1862§"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(àÉÉl
+ssquid:S1450$"WRemove the "listview" field and declare it as a local variable in the relevant methods.(Ïª·ÿÿÿÿÿ
+jsquid:S1450%"SRemove the "data" field and declare it as a local variable in the relevant methods.(××£
+lsquid:S1450("VRemove the "ibnBack" field and declare it as a local variable in the relevant methods.(…õÇQ
+msquid:S1450,"VRemove the "isShare" field and declare it as a local variable in the relevant methods.(İçµ…
+tsquid:S00116+"\Rename this field "tv_fn4_title_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›…“‚
+_squid:HiddenFieldCheckb"8Rename "data" which hides the field declared at line 37.(àôªØşÿÿÿÿ
+usquid:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(àôªØşÿÿÿÿ
+psquid:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùãÒ

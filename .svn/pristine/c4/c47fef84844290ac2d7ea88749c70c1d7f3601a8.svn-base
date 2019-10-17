@@ -1,0 +1,21 @@
+cordova.define("org.apache.cordova.file-transfer.FileTransfer",function(e,r,o){function n(e){var r=new d;return r.lengthComputable=e.lengthComputable,r.loaded=e.loaded,r.total=e.total,r}function a(e){var r=/^https?\:\/\/(?:(?:(([^:@\/]*)(?::([^@\/]*))?)?@)?([^:\/?#]*)(?::(\d*))?).*$/,o=r.exec(e);return o&&o[1]}function t(e){var r=null;if(window.btoa){var o=a(e);if(o){r={name:"Authorization",value:"Basic "+window.btoa(o)}}}return r}/*
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+*/
+var l=e("cordova/argscheck"),i=e("cordova/exec"),s=e("./FileTransferError"),d=e("org.apache.cordova.file.ProgressEvent"),u=0,c=function(){this._id=++u,this.onprogress=null};c.prototype.upload=function(e,r,o,d,u,c){l.checkArgs("ssFFO*","FileTransfer.upload",arguments);var f=null,p=null,h=null,v=null,y=!0,m=null,g=null,F=t(r);F&&(r=r.replace(a(r)+"@",""),u=u||{},u.headers=u.headers||{},u.headers[F.name]=F.value),u&&(f=u.fileKey,p=u.fileName,h=u.mimeType,m=u.headers,g=u.httpMethod||"POST",g="PUT"==g.toUpperCase()?"PUT":"POST",null===u.chunkedMode&&"undefined"==typeof u.chunkedMode||(y=u.chunkedMode),v=u.params?u.params:{});var w=d&&function(e){var r=new s(e.code,e.source,e.target,e.http_status,e.body,e.exception);d(r)},T=this;i(function(e){"undefined"!=typeof e.lengthComputable?T.onprogress&&T.onprogress(n(e)):o&&o(e)},w,"FileTransfer","upload",[e,r,f,p,h,v,c,y,m,this._id,g])},c.prototype.download=function(r,o,d,u,c,f){l.checkArgs("ssFF*","FileTransfer.download",arguments);var p=this,h=t(r);h&&(r=r.replace(a(r)+"@",""),f=f||{},f.headers=f.headers||{},f.headers[h.name]=h.value);var v=null;f&&(v=f.headers||null),i(function(r){if("undefined"!=typeof r.lengthComputable){if(p.onprogress)return p.onprogress(n(r))}else if(d){var o=null;r.isDirectory?o=new(e("org.apache.cordova.file.DirectoryEntry")):r.isFile&&(o=new(e("org.apache.cordova.file.FileEntry"))),o.isDirectory=r.isDirectory,o.isFile=r.isFile,o.name=r.name,o.fullPath=r.fullPath,o.filesystem=new FileSystem(r.filesystemName||(r.filesystem==window.PERSISTENT?"persistent":"temporary")),o.nativeURL=r.nativeURL,d(o)}},u&&function(e){var r=new s(e.code,e.source,e.target,e.http_status,e.body,e.exception);u(r)},"FileTransfer","download",[r,o,c,this._id,v])},c.prototype.abort=function(){i(null,null,"FileTransfer","abort",[this._id])},o.exports=c});

@@ -1,0 +1,9 @@
+
+Psquid:S1197ê"8Move the array designator from the variable to the type.(™â•©
+@squid:S1148å"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+qsquid:S1450>"URemove the "userID" field and declare it as a local variable in the relevant methods.(³ ûÁÿÿÿÿÿ
+Dsquid:S1185O"(Remove this method to simply inherit it.(Ç™²“øÿÿÿÿ
+@squid:S1148º"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Msquid:S10688"6Remove this unused "mHTMRDataTableTemp" private field.(Žž±°
+?squid:S1185I"(Remove this method to simply inherit it.(ˆÏ€¶
+gsquid:S2674ë"JCheck the return value of the "read" call to see how many bytes were read.(ë¥áïøÿÿÿÿ

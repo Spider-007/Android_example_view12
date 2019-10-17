@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp"
+    android:layout_gravity="center">
+
+            
+    <EditText
+        android:id="@+id/password_edit"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="20dip"
+        android:layout_marginRight="20dip"
+        android:scrollHorizontally="true"
+        android:password="true"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+     <CheckBox
+	        android:id="@+id/is_show_pwd"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textSize="20sp"
+	        android:text="输入可见"
+	        android:checked="false"
+	        android:layout_marginTop="20dp"
+	        android:layout_below="@id/password_edit"
+	        android:layout_centerHorizontal="true"/>
+        
+</RelativeLayout>

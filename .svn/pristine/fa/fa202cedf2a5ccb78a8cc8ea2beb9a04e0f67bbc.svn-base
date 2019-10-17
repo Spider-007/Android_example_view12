@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:background="@drawable/activity_app_center_back" >
+
+    <com.htmitech.app.widget.XCRoundRectImageView
+        android:id="@+id/iv_app_center_add"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/icon_app_centre_normal"
+        android:layout_marginLeft="10dp"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:contentDescription="@string/hello_world"
+        android:scaleType="fitCenter"
+        />
+    <TextView
+        android:id="@+id/tv_app_center_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_centerInParent="true"
+        android:layout_weight="1"
+        android:layout_marginLeft="10dp"
+        android:text="dddd"
+        android:textSize="@dimen/fontsize_heading14"/>
+    <CheckBox
+        android:id="@+id/cb_app_center_select"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/formcheckbox_selector"
+        android:layout_marginRight="10dp"
+        android:focusable="false"
+        android:button="@null"/>
+
+</LinearLayout>

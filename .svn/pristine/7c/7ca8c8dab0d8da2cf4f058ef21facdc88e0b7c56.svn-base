@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_line"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:background="@color/color_fff8f8f8" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:id="@+id/rl_not_classify"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp">
+            <TextView
+                android:id="@+id/tv_back"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/application_center"
+                android:visibility="gone" />
+            <ImageView
+                android:id="@+id/iv_icon"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical|right"
+                android:layout_marginBottom="@dimen/check_item_buttom5"
+                android:layout_marginTop="@dimen/check_item_buttom5"
+                android:layout_weight="0"
+
+                />
+
+            <TextView
+                android:id="@+id/angle_nulber"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/textview_style_number"
+                android:gravity="center"
+                android:text="13"
+                android:textColor="@color/white"
+                android:textSize="@dimen/check_item_buttom"
+                android:visibility="gone" />
+
+
+            <ImageView
+                android:id="@+id/img_no_installed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/img_no_installed"
+                android:visibility="gone" />
+
+            <com.htmitech.emportal.ui.applicationcenter.CircleProgressView
+                android:id="@+id/circleProgressbar"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerInParent="true"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/rl_clasify"
+            android:layout_marginLeft="10dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp">
+
+            <com.htmitech.MyView.ClassifyView
+                android:id="@+id/classify_view"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/classify_drawable"
+                android:orientation="vertical"
+                />
+
+            <TextView
+                android:id="@+id/class_angle_nulber"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/textview_style_number"
+                android:gravity="center"
+                android:text="13"
+                android:textColor="@color/white"
+                android:textSize="@dimen/check_item_buttom"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="7dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="7dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_name"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:text="所有代办"
+                android:singleLine="true"
+                android:textColor="@color/color_ff333333"
+                android:textSize="@dimen/fontsize_heading15" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/iv_right"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="12dp"
+            android:layout_weight="0"
+            android:src="@drawable/icon_right_arrows" />
+
+    </LinearLayout>
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="62dp"
+        android:background="@color/color_ffe0e0e0" />
+</LinearLayout>

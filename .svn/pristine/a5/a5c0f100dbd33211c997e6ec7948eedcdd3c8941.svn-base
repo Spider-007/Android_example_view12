@@ -1,0 +1,278 @@
+<!DOCTYPE html >
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script type="text/javascript" src="js/lib/jquery-2.1.4.js"></script>
+    <script type="text/javascript" src="js/common/HTEvent_org.js"></script>
+    <script type="text/javascript" src="js/common/HTEvent_config.js"></script>
+    <script type="text/javascript" src="js/common/HTWEUI_view.js"></script>
+    <script type="text/javascript" src="js/common/HTEvent_form.js"></script>
+    <script type="text/javascript" src="js/util/HTEvent_util.js"></script>
+    <script type="text/javascript" src="js/util/htrf_view.js"></script>
+
+    <script type="text/javascript" src="js/example_qingjia.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="style/weui/css/weui.css"/>
+    <link rel="stylesheet" type="text/css" href="style/weui/css/weui.min.dialg.css">
+    <link rel="stylesheet" type="text/css" href="style/weui/css/jquery-weui.css">
+
+    <script type="text/javascript" src="style/weui/js/weUI.js"></script>
+    <script type="text/javascript" src="style/weui/js/jquery-weui.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="style/weui/css/htrf_view.css">
+
+    <style type="text/css">
+        table{ border-collapse:collapse;}
+        table td{
+            border:1px solid rgba(31, 27, 47, 0.65);
+        }
+        .td1{
+            border: none;
+        }
+        .tdtext{
+            color: #0d0d0d;
+
+        }
+        .td_my_hidden {
+            position: absolute;
+            visibility: hidden;/* 占据空间，无法点击 */
+
+        }
+    </style>
+    <title>请假流程 1108</title>
+</head>
+<style type="text/css">
+</style>
+
+<body ontouchstart>
+<div class="page">
+
+
+<table cellspacing="0" cellpadding="0" width="100%" align="center" bgcolor="#ffffff" border="0">
+    <tbody>
+
+    <tr align= "center">
+        <td class="td1">
+            <table
+                    bordercolor="#ff0000" cellspacing="0" cellpadding="0" width="96%" align="center" border="0" style="border-collapse: collapse">
+                <tbody>
+                <tr>
+                    <td align="center" width="17%"><font class="tdtext" >申 请 人</font></td>
+                    <td width="33%" >
+                        <div class="td_my_hidden">
+                            [@CREATORNAME]
+                        </div>
+
+                    </td>
+                    <td align="center" width="17%"><font class="tdtext" >申请部门</font></td>
+                    <td width="33%">
+                        <div class="td_my_hidden">
+                            [@DEPT]
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center"><font class="tdtext" >申请时间</font></td>
+                    <td colspan="2">
+                        <div class="td_my_hidden">
+                            [@CREATETIME]
+                        </div>
+                    </td>
+                    <td align="center">
+                        <div class="td_my_hidden">
+                            [@DAY]
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center"><font class="tdtext" >开始日期</font></td>
+                    <td>
+                        <div class="td_my_hidden">
+                            [@STARTDATE]
+                        </div>
+                    </td>
+                    <td colspan="2">
+                        <div class="td_my_hidden">
+                            [@STARTTIME]
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center"><font class="tdtext" >结束日期</font></td>
+                    <td>
+                        <div class="td_my_hidden">
+                            [@ENDDATE]
+                        </div>
+                    </td>
+                    <td colspan="2">
+                        <div class="td_my_hidden">
+                            [@ENDTIME]
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center"><font class="tdtext" >申请类型</font></td>
+                    <td colspan="3" style="word-break : break-all; ">
+                        <div class="td_my_hidden">
+                            [@F_TYPE]
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center"><font class="tdtext" >请假事由</font></td>
+                    <td colspan="3" style="word-break : break-all; ">
+                        <div class="td_my_hidden">
+                            [@CONTENT]
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td  align="center" width="17%"><font class="tdtext">上级主管审批</font></td>
+                    <td colspan="3">
+                        <div class="td_my_hidden">
+                            [@OPINION]
+                        </div>
+                    </td>
+                </tr>
+                <tr name="js_categoryInner_YJ" class="changeTr_YJ" >
+                    <td  align="center" width="17%"><font class="tdtext">其它领导审批</font></td>
+                    <td colspan="3" width="83%">
+                        <div class="td_my_hidden">
+                            [@NOTE]
+                        </div>
+                    </td>
+                </tr >
+
+                <tr name="js_categoryInner_YJ" class="changeTr_YJ" >
+                    <td  align="center" width="17%"><font class="tdtext">考勤员审核</font></td>
+                    <td colspan="3" width="83%">
+                        <div class="td_my_hidden">
+                            [@SHENHE]
+                        </div>
+                    </td>
+                </tr>
+
+                </tbody>
+            </table>
+
+        </td>
+    </tr>
+
+    </tbody>
+
+</table>
+
+    <div class="td_my_hidden">
+    [@TITLE]
+    [@ID]
+    [@HIDDEN]
+    </div>
+
+</div>
+<!-- 引入js文件 star-->
+<!--[@SCRIPTDOC]-->
+<!-- 引入js文件 end -->
+<script>
+    //打开表单加载时间
+    document.addEventListener("deviceready", onDeviceReady, false);
+
+    function mydomain() {
+    //[@SCRIPT_DOMAIN]
+
+    }
+
+    //引入js star
+    //[@SCRIPT]
+    //引入js end
+
+
+</script>
+<!-- 表单自定义 js 方法 -->
+<script>
+    init();
+    function init(){
+        document.getElementById(formId+"_DAY_suffix").innerHTML+="天";
+
+        document.getElementById(formId+"_STARTDATE").onchange = countDay;
+        document.getElementById(formId+"_ENDDATE").onchange = countDay;
+
+        if(document.getElementsByName(formId+"_STARTTIME").length>0){
+            for(var j=0;j<document.getElementsByName(formId+"_STARTTIME").length;j++){
+                document.getElementsByName(formId+"_STARTTIME")[j].onclick = countDay;
+            }
+        }
+        if(document.getElementsByName(formId+"_ENDTIME").length>0){
+            for(var j=0;j<document.getElementsByName(formId+"_ENDTIME").length;j++){
+                document.getElementsByName(formId+"_ENDTIME")[j].onclick = countDay;
+            }
+        }
+    };
+
+
+    function countDay(){
+
+        var stardate = document.getElementById(formId+"_STARTDATE").value;
+        var enddate = document.getElementById(formId+"_ENDDATE").value;
+        if(checkEmpty(stardate)&&checkEmpty(enddate)){
+
+
+
+//            日期时间不为空
+            var starttime="",endtime="";
+            if(document.getElementsByName(formId+"_STARTTIME").length>0){//单选，多选，下啦等
+
+                for(var j=0;j<document.getElementsByName(formId+"_STARTTIME").length;j++ ){
+                    if(document.getElementsByName(formId+"_STARTTIME")[j].checked){
+                        starttime+=document.getElementsByName(formId+"_STARTTIME")[j].value+";";
+                    }
+                }
+                if(document.getElementsByName(formId+"_STARTTIME").length>0 && checkEmpty(starttime)){
+                    starttime = starttime.substring(0,starttime.length-1);
+                }
+            }
+            if(document.getElementsByName(formId+"_ENDTIME").length>0){//单选，多选，下啦等
+
+                for(var j=0;j<document.getElementsByName(formId+"_ENDTIME").length;j++ ){
+                    if(document.getElementsByName(formId+"_ENDTIME")[j].checked){
+                        endtime+=document.getElementsByName(formId+"_ENDTIME")[j].value+";";
+                    }
+                }
+                if(document.getElementsByName(formId+"_ENDTIME").length>0 && checkEmpty(endtime)){
+                    endtime = endtime.substring(0,endtime.length-1);
+                }
+            }
+
+
+            //计算
+            if(checkEmpty(starttime) && checkEmpty(endtime)){
+                var diff = DateDiff(enddate,stardate);
+                if(diff < 0){
+                    diff=0;
+                    dialog('错误提示',"请假开始时间不能小区请假结束时间");
+                }else{
+                    if(starttime == "上午"){
+                        diff = diff*1 + 1;
+                    }else{
+                        diff = diff*1 + 0.5;
+                    }
+                    if(endtime == "上午"){
+                        diff = diff*1 - 0.5;
+                    }else{
+                    }
+                    if(diff<=0){
+                        diff=0;
+                        dialog('错误提示',"请假天数错误，请检查请假日期。");
+                    }
+                }
+                document.getElementById(formId+"_DAY").value = diff;
+            }
+        }
+    }
+    function _onChange(){
+        countDay();
+    }
+</script>
+
+</body>
+
+</html>

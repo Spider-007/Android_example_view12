@@ -1,0 +1,334 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000931"
+    tools:context=".MainActivity" >
+
+    <RelativeLayout
+        android:id="@+id/ll_produce_title_theme"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:layout_alignParentTop="true"
+        android:background="@color/title_color"
+        android:gravity="center_vertical" >
+
+        <ImageButton
+            android:id="@+id/ib_produce_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:gravity="center"
+            android:src="@drawable/btn_back" />
+
+        <TextView
+            android:id="@+id/tv_produce_title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:text="@string/title_produceprogress"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/title_textsize" />
+
+        <TextView
+            android:id="@+id/tv_produce_shaixuan"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/title_right_toright"
+            android:background="#002B53"
+            android:gravity="center"
+            android:text="筛选"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_produce_top2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/date_height"
+        android:layout_marginTop="@dimen/title_height"
+        android:background="#E9F3FF"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+        <ImageView
+            android:id="@+id/iv_produce_cut"
+            android:layout_width="@dimen/datesize"
+            android:layout_height="@dimen/datesize"
+            android:src="@drawable/date_left" />
+
+        <TextView
+            android:id="@+id/tv_produce_title_data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="2012年5月"
+            android:textColor="@color/black"
+            android:textSize="@dimen/date_text_size" />
+
+        <ImageView
+            android:id="@+id/iv_produce_add"
+            android:layout_width="@dimen/datesize"
+            android:layout_height="@dimen/datesize"
+            android:src="@drawable/date_right" />
+    </LinearLayout>
+
+    <com.htmitech.ztcustom.zt.view.zgtw.ScrollViewExtend
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/ll_produce_top2"
+        android:background="#000931"
+        android:fillViewport="true"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/ll_top"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:orientation="vertical" >
+
+                <include
+                    android:id="@+id/topimage1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    layout="@layout/top_item" >
+                </include>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_middle"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:orientation="vertical"
+                android:paddingTop="10dp" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#2B3254"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical" >
+
+                        <Button
+                            android:id="@+id/bt_1"
+                            android:layout_width="100dp"
+                            android:layout_height="0dp"
+                            android:layout_weight="15"
+                            android:background="@android:color/transparent"
+                            android:text="年累安排"
+                            android:textColor="#fff"
+                            android:textSize="11sp"
+                            android:visibility="invisible" />
+
+                        <TextView
+                            android:id="@+id/tv_bt1_bottom"
+                            android:layout_width="100dp"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:background="#0080FD"
+                            android:visibility="invisible" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical" >
+
+                        <Button
+                            android:id="@+id/bt_2"
+                            android:layout_width="100dp"
+                            android:layout_height="0dp"
+                            android:layout_weight="15"
+                            android:background="@android:color/transparent"
+                            android:text="年累完成"
+                            android:textColor="#fff"
+                            android:textSize="11sp"
+                            android:visibility="invisible" />
+
+                        <TextView
+                            android:id="@+id/tv_bt2_bottom"
+                            android:layout_width="100dp"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:background="#0080FD"
+                            android:visibility="invisible" />
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/tv_arror"
+                            android:layout_width="100dp"
+                            android:layout_height="40dp"
+                            android:layout_alignParentRight="true"
+                            android:gravity="center"
+                            android:paddingRight="30dp"
+                            android:text="进度详情"
+                            android:textColor="#ffffff"
+                            android:textSize="11sp" >
+                        </TextView>
+
+                        <ImageView
+                            android:id="@+id/iv_arror"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_gravity="center"
+                            android:paddingRight="5dp"
+                            android:src="@drawable/arrow" />
+
+                        <ImageView
+                            android:id="@+id/iv_arror_pre"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_gravity="center"
+                            android:paddingRight="5dp"
+                            android:src="@drawable/arrow_pre"
+                            android:visibility="gone" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/ll_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#000931" >
+
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/vp_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:background="#2B3254"
+                    android:visibility="gone" />
+
+                <LinearLayout
+                    android:id="@+id/ll_point"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/vp_container"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:visibility="gone"
+                    android:background="#2B3254" >
+
+                    <ImageView
+                        android:id="@+id/iv_progressproduce_vppoint1"
+                        android:layout_width="@dimen/table_width"
+                        android:layout_height="@dimen/table_height"
+                        android:layout_marginBottom="2dp" />
+
+                    <ImageView
+                        android:id="@+id/iv_progressproduce_vppoint2"
+                        android:layout_width="@dimen/table_width"
+                        android:layout_height="@dimen/table_height"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginBottom="2dp" />
+                </LinearLayout>
+
+                <!--<FrameLayout-->
+                    <!--android:id="@+id/fl_container"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="300dp"-->
+                    <!--android:background="#2B3254"-->
+                    <!--android:visibility="gone" >-->
+                <!--</FrameLayout>-->
+
+                <com.htmitech.ztcustom.zt.view.zgtw.ChildViewPager
+                    android:id="@+id/vp_circle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/ll_point"
+                    android:background="@color/allbackground" >
+                </com.htmitech.ztcustom.zt.view.zgtw.ChildViewPager>
+
+                <TextView
+                    android:id="@+id/tv_cont"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:paddingRight="30dp"
+                    android:paddingTop="20dp"
+                    android:text="asdf"
+                    android:textColor="#ffffff"
+                    android:visibility="gone" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/vp_circle"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:paddingBottom="@dimen/tanshangproduceprogress_point_paddingbottom" >
+
+                    <ImageView
+                        android:id="@+id/iv_progressproduce_point1"
+                        android:layout_width="@dimen/table_width"
+                        android:layout_height="@dimen/table_height"
+                        android:padding="2dp" />
+
+                    <ImageView
+                        android:id="@+id/iv_progressproduce_point2"
+                        android:layout_width="@dimen/table_width"
+                        android:layout_height="@dimen/table_height"
+                        android:layout_marginLeft="4dp"
+                        android:padding="2dp" />
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </com.htmitech.ztcustom.zt.view.zgtw.ScrollViewExtend>
+
+    <ImageView
+        android:id="@+id/iv_productprogress_i"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp"
+        android:clickable="true"
+        android:src="@drawable/htmitech_shezhi_1" />
+
+    <LinearLayout
+        android:id="@+id/ll_product_shaixuan_wai"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:background="#b0000000"
+        android:clickable="true"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:id="@+id/ll_product_shaixuan"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="40dp"
+            android:clickable="true"
+            android:orientation="vertical"
+            android:visibility="gone" >
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

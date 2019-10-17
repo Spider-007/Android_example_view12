@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:from="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.htmitech.ztcustom.zt.fragment.weldingbasefragment.WeldingBaseXMFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/tv_welding_base_xm_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="15dp"
+        android:text="项目"
+        android:textColor="#F8F8F8"
+        android:textSize="12dp" />
+
+    <mobilereport.com.chatkit.myView.FromLayout
+        android:id="@+id/fromlayout_welding_base_xm"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        from:from_text_align="center"
+        from:from_title="新发折断数量"
+        from:from_title_back="#00000000"
+        from:from_title_text_align="center"
+        from:from_title_text_color="#FFF8F8F8"
+        from:from_title_text_size="16sp"
+        from:from_watermark_back_color="#C5C1AA"
+        from:from_watermark_displayType="repeat"
+        from:from_watermark_show="false"
+        from:from_watermark_text="">
+
+    </mobilereport.com.chatkit.myView.FromLayout>
+
+
+</LinearLayout>

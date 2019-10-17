@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\mx_mm_pref_summary.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\color\\mx_mm_pref_summary.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\mx_mm_list_textcolor_one.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\color\\mx_mm_list_textcolor_one.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\text_calendar.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\color\\text_calendar.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\mx_mm_title_btn_text.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\color\\mx_mm_title_btn_text.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\text_calendar_out_month.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\color\\text_calendar_out_month.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\mx_contact_search_text.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\color\\mx_contact_search_text.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\mx_mm_style_two_btn_text.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\color\\mx_mm_style_two_btn_text.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\mx_btn_settings_text_selector.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\color\\mx_btn_settings_text_selector.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\text_calendar_week.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\color\\text_calendar_week.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\text_calendar_week_out_month.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\src\\main\\res\\color\\text_calendar_week_out_month.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\mx_btn_text.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\color\\mx_btn_text.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\mx_c_black_to_white.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\color\\mx_c_black_to_white.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\mx_chat_pop_muti_textcolor.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\color\\mx_chat_pop_muti_textcolor.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\mx_slid_item_text.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\color\\mx_slid_item_text.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\mx_mail_init_btn_text.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\color\\mx_mail_init_btn_text.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\mx_mm_pref_title.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\color\\mx_mm_pref_title.xml"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\debug\\color\\mx_mm_list_textcolor_two.xml",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\MXKit\\4.0.0\\res\\color\\mx_mm_list_textcolor_two.xml"
+    }
+]

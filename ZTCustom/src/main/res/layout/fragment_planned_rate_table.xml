@@ -1,0 +1,239 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:from="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/allbackground"
+    android:orientation="vertical"
+    tools:context="com.htmitech.ztcustom.zt.fragment.plannedcashratefragment.PlannedRateTableFragment">
+
+    <TextView
+        android:id="@+id/tv_planned_rate_table_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:gravity="center" />
+
+    <LinearLayout
+        android:id="@+id/ll_planned_rate_table_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/pland_cash_bottom_line"
+        android:layout_alignParentBottom="true"
+        android:background="@color/planned_bottom_color"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+
+        <LinearLayout
+            android:id="@+id/bt_planned_rate_table_dxl"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/planned_bottom_color"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingTop="10dp"
+            android:textColor="@color/white">
+
+            <ImageView
+                android:id="@+id/cash_rate_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/cash_rate" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/planned_bottom_color"
+                android:text="兑现率"
+                android:textColor="@color/white"
+                android:textSize="@dimen/fontsize_heading12" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/bt_planned_rate_table_dy"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/planned_bottom_color"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingTop="10dp"
+            android:textColor="@color/white">
+
+            <ImageView
+                android:id="@+id/same_montch_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/same_montch" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/planned_bottom_color"
+                android:text="当月"
+                android:textColor="@color/white"
+                android:textSize="@dimen/fontsize_heading12" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/bt_planned_rate_table_lj"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/planned_bottom_color"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingTop="10dp"
+            android:textColor="@color/white">
+
+            <ImageView
+                android:id="@+id/cumulative_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/cumulative" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/planned_bottom_color"
+                android:text="累计"
+                android:textColor="@color/white"
+                android:textSize="@dimen/fontsize_heading12" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/bt_planned_rate_table_gc"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/planned_bottom_color"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingTop="10dp"
+            android:textColor="@color/white">
+
+            <ImageView
+                android:id="@+id/steel_mill_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/steel_mill" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/planned_bottom_color"
+                android:text="钢厂"
+                android:textColor="@color/white"
+                android:textSize="@dimen/fontsize_heading12" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <mobilereport.com.chatkit.myView.FromLayout
+        android:id="@+id/fromlayout_planned_rate_table_pz_dx"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/ll_planned_rate_table_bottom"
+        android:layout_below="@id/tv_planned_rate_table_title"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="10dp"
+        android:background="@color/allbackground"
+        android:orientation="vertical"
+        android:visibility="gone"
+        from:from_text_align="center"
+        from:from_title="新发折断数量"
+        from:from_title_back="#00000000"
+        from:from_title_text_align="center"
+        from:from_title_text_color="#FFF8F8F8"
+        from:from_title_text_size="16sp"
+        from:from_watermark_back_color="#C5C1AA"
+        from:from_watermark_displayType="repeat"
+        from:from_watermark_show="false"
+        from:from_watermark_text="水印背景">
+
+    </mobilereport.com.chatkit.myView.FromLayout>
+
+    <mobilereport.com.chatkit.myView.FromLayout
+        android:id="@+id/fromlayout_planned_rate_table_dy_fh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/ll_planned_rate_table_bottom"
+        android:layout_below="@id/tv_planned_rate_table_title"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="10dp"
+        android:background="@color/allbackground"
+        android:orientation="vertical"
+        android:visibility="gone"
+        from:from_text_align="center"
+        from:from_title="新发折断数量"
+        from:from_title_back="#00000000"
+        from:from_title_text_align="center"
+        from:from_title_text_color="#FFF8F8F8"
+        from:from_title_text_size="16sp"
+        from:from_watermark_back_color="#C5C1AA"
+        from:from_watermark_displayType="repeat"
+        from:from_watermark_show="false"
+        from:from_watermark_text="水印背景">
+
+    </mobilereport.com.chatkit.myView.FromLayout>
+
+    <mobilereport.com.chatkit.myView.FromLayout
+        android:id="@+id/fromlayout_planned_rate_table_lj_fh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/ll_planned_rate_table_bottom"
+        android:layout_below="@id/tv_planned_rate_table_title"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="10dp"
+        android:background="@color/allbackground"
+        android:orientation="vertical"
+        android:visibility="gone"
+        from:from_text_align="center"
+        from:from_title="新发折断数量"
+        from:from_title_back="#00000000"
+        from:from_title_text_align="center"
+        from:from_title_text_color="#FFF8F8F8"
+        from:from_title_text_size="16sp"
+        from:from_watermark_back_color="#C5C1AA"
+        from:from_watermark_displayType="repeat"
+        from:from_watermark_show="false"
+        from:from_watermark_text="水印背景">
+
+    </mobilereport.com.chatkit.myView.FromLayout>
+
+    <mobilereport.com.chatkit.myView.FromLayout
+        android:id="@+id/fromlayout_planned_rate_table_gc_fh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/ll_planned_rate_table_bottom"
+        android:layout_below="@id/tv_planned_rate_table_title"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="10dp"
+        android:background="@color/allbackground"
+        android:orientation="vertical"
+        android:visibility="gone"
+        from:from_text_align="center"
+        from:from_title="新发折断数量"
+        from:from_title_back="#00000000"
+        from:from_title_text_align="center"
+        from:from_title_text_color="#FFF8F8F8"
+        from:from_title_text_size="16sp"
+        from:from_watermark_back_color="#C5C1AA"
+        from:from_watermark_displayType="repeat"
+        from:from_watermark_show="false"
+        from:from_watermark_text="水印背景">
+
+    </mobilereport.com.chatkit.myView.FromLayout>
+
+</RelativeLayout>

@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_save.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_save.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_submit.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_submit.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_finish.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_finish.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_takeback.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_takeback.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_else.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_else.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_date_search.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\btn_date_search.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\zt_loading.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\zt_loading.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\img_empty_nodata.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\img_empty_nodata.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_edit.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_edit.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\fab_bg_normal.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\fab_bg_normal.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_return.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_return.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_attention.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_attention.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\icon_date_identifier_special.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\icon_date_identifier_special.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_read.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_read.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_universally.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_universally.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\img_page_none.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\img_page_none.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_delete.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_delete.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_date_operation_add.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\btn_date_operation_add.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_special_finish.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_special_finish.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_yuezhi.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_yuezhi.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\fab_bg_mini.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\fab_bg_mini.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_date_fast_today.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\btn_date_fast_today.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\ic_launcher_round.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\ic_loading.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\ic_loading.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\ic_arrow_left_normal.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\ic_arrow_left_normal.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_share.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_share.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_update.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_update.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\img_no_wifi.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\img_no_wifi.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\ic_arrow_right_normal.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\ic_arrow_right_normal.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_data.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_data.png"
+    },
+    {
+        "merged": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\btn_action_screening.png",
+        "source": "F:\\schedule259\\schedulemanagerlibrary\\build\\intermediates\\exploded-aar\\schedule259\\basewidgetlibrary\\unspecified\\res\\mipmap-hdpi-v4\\btn_action_screening.png"
+    }
+]

@@ -1,0 +1,1745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.htmitech.emportal"
+    android:versionCode="531011088"
+    android:versionName="5.3.10.11088">
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19"
+        tools:overrideLibrary="mobilereport.com.chatkit,com.kinggrid.apprevision,top.zibin.luban" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true" />
+
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_VIDEO" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- K9 Start -->
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+    <!-- Needed to mark a contact as contacted -->
+    <uses-permission android:name="org.thialfihar.android.apg.permission.READ_KEY_DETAILS" />
+    <uses-permission android:name="com.minxing.permission.signature" />
+    <uses-permission android:name="com.htmitech.emportal.ggpt.permission.SIGNIGNATURE" />
+
+    <permission
+        android:name="com.htmitech.emportal.ggpt.permission.SIGNIGNATURE"
+        android:protectionLevel="signature" />
+    <permission
+        android:name="com.minxing.permission.signature"
+        android:protectionLevel="signature" />
+
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+
+    <!-- K9 end -->
+    <application
+        android:name=".HtmitechApplication"
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher1"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:persistent="true"
+        android:theme="@style/Theme.Base1">
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="6aea547cebd0da8695558bac8ae5116e" />
+        <meta-data
+            android:name="android.max_aspect"
+            android:value="2.1" />
+
+        <activity
+            android:name="com.minxing.client.LoadingActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBarWithBackGround">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.contacts.ContactActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.contacts.ContactOcuActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.appcenter.AppCenterActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.appcenter.AppCenterSelectActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.htmitech.proxy.activity.ChilDaccountActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.htmitech.proxy.activity.ChilDaccountYZActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.htmitech.addressbook.BookActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.addressbook.UserChooseActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.addressbook.PeopleMessageActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.addressbook.PeopleMessageEditActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.addressbook.PhotoActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.addressbook.UserDetailsActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.addressbook.UserDetailsChildActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.addressbook.GeneralFunctionSearchActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.htmitech.addressbook.GeneralFunctionActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.addressbook.InitWebView"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- popUp webView -->
+        <activity
+            android:name="com.minxing.kit.plugin.web.MXPopUpWebActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@style/activity_bg_translucent" />
+
+        <service android:name=".service.BookService" />
+        <service android:name=".service.UpdateService" />
+        <service android:name=".ui.homepage.PortalMessageService" />
+        <!-- 定位需要的服务 使用2.0的定位需要加上这个 -->
+        <service android:name="com.amap.api.location.APSService" />
+        <service android:name=".ui.homepage.PortalMessageService" />
+        <service
+            android:name="com.htmitech.proxy.services.UpgradeFromDatabaseServices"
+            android:enabled="true"
+            android:exported="false" />
+        <!--
+        <activity
+            android:name="com.htmitech.emportal.ui.main.MainActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        -->
+        <!-- 我的修改 -->
+
+        <activity
+            android:name=".setting.AutoCompleteActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.detail.OpinionInputActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.TranslucentParent"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".ui.detail.DetailActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 添加应用中心 -->
+        <activity
+            android:name=".ui.applicationcenter.ApplicationCenterActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 添加应用中心 第二种方式 -->
+        <activity
+            android:name=".ui.applicationcenter.ApplicationCenterListActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 2015-8-17 -->
+        <activity
+            android:name=".ui.detail.DetailActivity2"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.homepage.PortalHomeFragmentActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.detail.StartDetailActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.htnativestartformplugin.activity.StartDetailActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".ui.setting.OpinionEditActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.TranslucentParent"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name=".ui.plugin.oamodel.OAModelFragmentActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+        <!-- 敏行 begin -->
+        <activity
+            android:name="com.minxing.kit.ui.widget.gallery.ConversationImageDetailActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.plugin.android.dignostic.DiagnosticActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.client.LoginActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible|adjustPan" />
+        <activity
+            android:name="com.minxing.client.activity.SystemSettingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.client.activity.SystemFunctionIntrodutionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.client.activity.SystemSettingMessageNotificationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.client.activity.SystemSettingDisturbActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.client.activity.SystemNewsActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.client.activity.SystemDiagnosisActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.client.activity.SystemSettingGesturePasswordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.client.activity.GesturePasswordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.client.ClientTabActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.minxing.client.activity.LaunchShareActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:label="@string/share_label_send_to_chat"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="image/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND_MULTIPLE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="image/*" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.minxing.client.activity.LaunchShareCircleActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:label="@string/share_label_send_to_circle"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="image/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND_MULTIPLE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="image/*" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.minxing.client.activity.LaunchApp2AppActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent">
+            <intent-filter>
+                <action android:name="com.minxing.client.app2app.launcher" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name="com.minxing.client.receiver.MXKitPushReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.minxing.kit.outside.push.message" />
+            </intent-filter>
+        </receiver>
+
+        <!-- demo start -->
+        <activity
+            android:name="com.minxing.client.demo.SystemAppDemoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.client.demo.SystemAppDemoAppInfo"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.client.demo.SystemAppDemoShareActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.client.demo.SystemAppDemoCircle"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.client.demo.SystemAppDemoChatActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.client.demo.SystemAppDemoPersonCenterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.client.demo.SystemAppDemoAppCenterViewActivity"
+            android:screenOrientation="portrait" />
+        <!-- demo end -->
+
+
+        <!-- 敏行Kit start -->
+        <activity
+            android:name="com.minxing.kit.ui.chat.MXChatActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.ui.contacts.MXContactsActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.ui.appcenter.MXAppCenterActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.ui.circle.MXCircleActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.AddPersonalContactActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.ContactQueryByMobileActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.ContactQueryByNameActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.ContactQueryByStarActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.GroupContactActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.GraphGroupConversationActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.ContactDetailPublicActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.ContactPublicGridActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.ContactDetailMeActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.ContactDetailMeQRActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.WorkCircleMyFavActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.WorkCircleMyMessageActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.WorkCircleMyFileActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.ContactSearchActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.SystemMeActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.WaitForCallActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.WorkcircleSettingChangeNameActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.ContactDetailActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.NewMessageTextActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.GroupActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.GroupMembersActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.GroupSelectActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.MessageTopicChangeActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.NewMessageActionActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.NewMessageTaskActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.NewMessageTaskItemActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.NewMessagePollActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.NewMessagePollItemActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.minxing.kit.internal.common.NetFileActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.NewMessageThirdParty"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.NetListActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.UpdateMessageActionActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.UpdateMessageTaskActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.MessageReplyActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.NewMessageShareActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.NewMessageShareGraphActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.DownloadedFileActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationAnnounceActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationFileSearchActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationCatalogActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationSearchActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationSearchListActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationWebViewActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.ImageDetailsActivity"
+            android:configChanges="keyboardHidden|orientation|locale" />
+        <activity
+            android:name="com.minxing.kit.internal.common.MXCollectionActivity"
+            android:configChanges="keyboardHidden|orientation|locale" />
+        <activity
+            android:name="com.minxing.kit.internal.common.MXCollectionSearchActivity"
+            android:configChanges="keyboardHidden|orientation|locale" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationMessageCameraActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationMessageRecordPreviewActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationSettingActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationSettingAllUserActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationSettingChangeNameActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationSettingQRCodeActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.filepicker.TestFilePickerActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.filepicker.FilePickerActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.OnlineFileActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.AboutActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.MessageDetailActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.CircleTopicsListActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.GalleryActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.GalleryGroupActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.qr.CaptureActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.mail.MailThreadListActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.mail.MailThreadActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.mail.MailDraftActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.LargeAvatarActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.EditAccountChangeItemActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.LocalContactListActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.view.crop.CropImageActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.SystemChangePasswordActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.DebugActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationSelecterActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.api.internal.App2AppBlankActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.minxing.mxinterface.app2app.blank" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.minxing.kit.internal.circle.CircleAtPersonActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationAtPersonActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.circle.TopicsDetailActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.SystemWebViewActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.ContactsConfigActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.plugin.web.MXWebActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:enabled="true"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="http" />
+                <data android:scheme="https" />
+                <data android:scheme="about" />
+                <data android:scheme="javascript" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="http" />
+                <data android:scheme="https" />
+                <data android:scheme="inline" />
+                <data android:mimeType="text/html" />
+                <data android:mimeType="text/plain" />
+                <data android:mimeType="application/xhtml+xml" />
+                <data android:mimeType="application/vnd.wap.xhtml+xml" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.minxing.kit.ui.appcenter.AppsAddActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.ui.appcenter.AppDetailActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.ui.circle.CircleSearchActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.contact.VipContactActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.im.ConversationVipMessageListActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.internal.common.UICustomActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+
+        <!-- add in 5.2.9 -->
+        <!-- <activity -->
+        <!-- android:name="com.minxing.kit.ui.widget.gallery.ConversationImageDetailActivity" -->
+        <!-- android:configChanges="keyboardHidden|orientation|locale" -->
+        <!-- android:screenOrientation="portrait" /> -->
+        <activity
+            android:name="com.minxing.kit.plugin.android.dignostic.DignosticActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+
+        <receiver android:name="com.minxing.kit.internal.core.NetWorkStateMonitorReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.minxing.kit.internal.core.OSSystemEventMonitorReceiver"
+            android:permission="android.permission.RECEIVE_BOOT_COMPLETED">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.minxing.kit.internal.core.PushDataHandleService" />
+        <service
+            android:name="com.minxing.kit.internal.core.PushConnectService"
+            android:process=":push" />
+
+        <receiver
+            android:name="com.minxing.kit.internal.push.PushReceiver"
+            android:permission="com.minxing.permission.signature">
+            <intent-filter>
+                <action android:name="com.minxing.kit.push.service.launch" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.minxing.kit.push.service.launch.alarm" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.minxing.kit.internal.receiver.PhoneStatReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.PHONE_STATE" />
+                <action android:name="android.intent.action.NEW_OUTGOING_CALL" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 敏行Kit end -->
+
+
+        <!-- K9 Start -->
+
+        <meta-data
+            android:name="android.app.default_searchable"
+            android:value="com.minxing.kit.mail.k9.activity.Search" />
+
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.Accounts"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait"
+            android:uiOptions="splitActionBarWhenNarrow">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <data android:mimeType="application/x-k9settings" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.setup.Prefs"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait"
+            android:taskAffinity="com.minxing.kit.mail.k9.activity.setup.Prefs" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.setup.WelcomeMessage"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.setup.FontSizeSettings"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.setup.AccountSetupBasics"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.setup.AccountSetupAccountType"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.setup.AccountSetupIncoming"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.setup.AccountSetupComposition"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.setup.AccountSetupOutgoing"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.setup.AccountSetupOptions"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.setup.AccountSetupNames"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.ChooseFolder"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.K9Dialog" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.ChooseIdentity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.K9Dialog" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.ManageIdentities"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.EditIdentity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.NotificationDeleteConfirmation"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:excludeFromRecents="true"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:taskAffinity=""
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+             XXX Note: this activity is hacked to ignore config changes,
+             since it doesn't currently handle them correctly in code.
+        -->
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.setup.AccountSetupCheckSettings"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.setup.AccountSettings"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.setup.FolderSettings"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.FolderList"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait"
+            android:uiOptions="splitActionBarWhenNarrow">
+            <intent-filter>
+
+                <!-- This action is only to allow an entry point for launcher shortcuts -->
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.MessageList"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait">
+            <intent-filter>
+
+                <!-- This action is only to allow an entry point for launcher shortcuts -->
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <data
+                    android:host="messages"
+                    android:scheme="email" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.MessageCompose"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:enabled="false"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.SENDTO" />
+
+                <data android:scheme="mailto" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <data android:mimeType="*/*" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND_MULTIPLE" />
+
+                <data android:mimeType="*/*" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <data android:scheme="mailto" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+        <!-- Search Activity - searchable -->
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.Search"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait"
+            android:uiOptions="splitActionBarWhenNarrow">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/mx_mail_searchable" />
+        </activity>
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.LauncherShortcuts"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.CREATE_SHORTCUT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.AccessibleEmailContentActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.EmailAddressList"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.MailSearchActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+
+        <receiver
+            android:name="com.minxing.kit.mail.k9.service.BootReceiver"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.net.conn.BACKGROUND_DATA_SETTING_CHANGED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.android.sync.SYNC_CONN_STATUS_CHANGED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.fsck.k9.service.BroadcastReceiver.scheduleIntent" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.minxing.kit.mail.k9.service.RemoteControlReceiver"
+            android:enabled="true"
+            android:permission="com.fsck.k9.permission.REMOTE_CONTROL">
+            <intent-filter>
+                <action android:name="com.fsck.k9.K9RemoteControl.set" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.fsck.k9.K9RemoteControl.requestAccounts" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.minxing.kit.mail.k9.service.CoreReceiver"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="com.fsck.k9.service.CoreReceiver.wakeLockRelease" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.minxing.kit.mail.k9.service.StorageReceiver"
+            android:enabled="true">
+            <intent-filter>
+
+                <!--
+android.intent.action.MEDIA_MOUNTED
+
+     * Broadcast Action:  External media is present and mounted at its mount point.
+     * The path to the mount point for the removed media is contained in the Intent.mData field.
+     * The Intent contains an extra with name "read-only" and Boolean value to indicate if the
+     * media was mounted read only.
+                -->
+                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+                <!--
+MEDIA_EJECT and MEDIA_UNMOUNTED are not defined here: they have to be dynamically registered
+otherwise it would make K-9 start at the wrong time
+                -->
+                <data android:scheme="file" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.htmitech.proxy.BroadcastReceiver.AlarmReceiver">
+            <intent-filter>
+                <action android:name="com.htmitech.proxy.BroadcastReceiver.AlarmReceiver" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.htmitech.proxy.BroadcastReceiver.AlarmFromNotifycationReceiver">
+            <intent-filter>
+                <action android:name="com.htmitech.proxy.BroadcastReceiver.AlarmFromNotifycationReceiver" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.htmitech.proxy.BroadcastReceiver.BootReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.minxing.kit.mail.k9.service.MailService"
+            android:enabled="true" />
+        <service
+            android:name="com.minxing.kit.mail.k9.service.NotificationActionService"
+            android:enabled="true" />
+        <service
+            android:name="com.minxing.kit.mail.k9.service.PushService"
+            android:enabled="true" />
+        <service
+            android:name="com.minxing.kit.mail.k9.service.PollService"
+            android:enabled="true" />
+        <service
+            android:name="com.minxing.kit.mail.k9.service.RemoteControlService"
+            android:enabled="true"
+            android:permission="com.fsck.k9.permission.REMOTE_CONTROL" />
+        <service
+            android:name="com.minxing.kit.mail.k9.service.SleepService"
+            android:enabled="true" />
+
+        <provider
+            android:name="com.minxing.kit.mail.k9.provider.AttachmentProvider"
+            android:authorities="com.fsck.k9.mx.attachmentproviderggpt"
+            android:exported="false"
+            android:grantUriPermissions="true"
+            android:multiprocess="false" />
+        <provider
+            android:name="com.minxing.kit.mail.k9.provider.MessageProvider"
+            android:authorities="com.fsck.k9.mx.messageproviderggpt"
+            android:exported="false"
+            android:grantUriPermissions="true"
+            android:multiprocess="true" />
+        <provider
+            android:name="com.minxing.kit.mail.k9.provider.EmailProvider"
+            android:authorities="com.fsck.k9.mx.provider.emailggpt"
+            android:exported="false" />
+
+        <!--
+        <receiver android:name="com.minxing.kit.mail.k9.provider.UnreadWidgetProvider" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/mx_mail_unread_widget_info" />
+        </receiver>
+        -->
+
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.UnreadWidgetConfiguration"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.minxing.kit.mail.k9.activity.UpgradeDatabases"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.AppLoadingActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+
+        <service
+            android:name="com.minxing.kit.mail.k9.service.DatabaseUpgradeService"
+            android:exported="false" />
+
+        <activity
+            android:name="com.minxing.kit.mail.account.AccountSetupActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.setting.MailSettingActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.minxing.kit.mail.setting.MailSettingInfoActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait" />
+        <!-- K9 End -->
+
+        <service
+            android:name="com.umeng.update.net.DownloadingService"
+            android:process=":DownloadingService" />
+
+        <activity
+            android:name="com.umeng.update.UpdateDialogActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="56664379e0f55acb5f0084e7" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="website" />
+
+        <receiver
+            android:name=".push.HTPushReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.minxing.kit.outside.push.message" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".ui.document.DocumentMainActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.document.DocumentAndNodeListActivity"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:windowSoftInputMode="adjustPan|stateHidden"/>
+        <activity
+            android:name=".ui.daiyue.DaiYueFragmentActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".ui.daiban.DaiBanFragmentActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name=".ui.circle.CircleFragmentActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.communication.CommunicationFragmentActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+
+        <service android:name=".service.DownAuthorService" />
+
+        <activity
+            android:name=".ui.helppage.HelpActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.TranslucentParent"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".ui.homepage.HomePage"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".ui.homepage.HomeGridSysle"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".ui.homepage.HomeGridListSysle"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".ui.homepage.HomeSet"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.activity.WebPluginActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".ui.commonoptions.OptionSelectActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".ui.commonoptions.OptionNewActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.TranslucentParent"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".ui.commonoptions.OptionEditActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.TranslucentParent"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".ui.detail.H5StartDetailActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".ui.applicationcenter.ApplicationCenterAddActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".ui.applicationcenter.AppCenterAddMessageActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.activity.TextViewSizeActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.activity.StatisticalReportActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.htcommonformplugin.activity.InitFormFragmentActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.htcommonformplugin.activity.AddCenterSelectActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.activity.PortalSwitchActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.activity.PlatformLead"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.activity.ClearCacheActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.activity.ConnectionActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.activity.ScanForDownLoadActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.htcommonformplugin.activity.GeneralFormChildActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- <receiver android:name="com.htmitech.emportal.ui.plugin.h5.StartFormPlugin$Receiver"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="com.xiazdong"/> -->
+        <!-- </intent-filter> -->
+        <!-- </receiver> -->
+
+        <receiver
+            android:name=".ui.plugin.h5.StartFormPlugin$Receiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.xiazdong" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name=".ui.detail.H5StartDetailActivity$Receiver1"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.tijiao" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name="com.htmitech.proxy.activity.H5UniversalActivity" />
+        <activity
+            android:name=".ui.announcement.AnnouncementListActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".ui.announcement.AnnouncementDetailActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 通用表单相关 -->
+        <activity
+            android:name="com.htmitech.htcommonformplugin.activity.TodoDetalActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.htcommonformplugin.activity.GeneralFormDetalActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 问题反馈意见 -->
+        <activity
+            android:name="com.htmitech.proxy.activity.FeedBackActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.activity.BarLineReportActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.activity.PicReportActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.activity.DrawPaneActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.htworkflowformpluginnew.activity.InitWorkFlowFormActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.TranslucentParent"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.htworkflowformpluginnew.activity.MuliteRouteSelectPeopleActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.TranslucentParent"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.htworkflowformpluginnew.activity.OpinionInputActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.TranslucentParent"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.htworkflowformpluginnew.activity.OptionEditActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.TranslucentParent"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.htworkflowformpluginnew.activity.OptionNewActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.TranslucentParent"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.htworkflowformpluginnew.activity.WorkFlowAddCenterSelectActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.TranslucentParent"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.htworkflowformpluginnew.activity.WorkFlowFormChildActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.TranslucentParent"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.htworkflowformpluginnew.activity.WorkFlowFormDetalActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.htworkflowformplugin.activity.WorkFlowAddCenterSelectActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.htworkflowformplugin.activity.WorkFlowFormChildActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.htworkflowformplugin.activity.WorkFlowFormDetalActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.activity.DeviceSafeMainActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.activity.DeviceVerifyPasswordActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.activity.DeviceAuditPhotoActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.activity.DeviceAuditProgressActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.proxy.util.DialogActivity"
+            android:configChanges="fontScale|layoutDirection|locale"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/mydialog"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.htmitech.video.activity.VideoClassifiActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="com.htmitech.video.activity.VideoListActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.video.activity.VideoDetailActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="com.htmitech.video.activity.VideoDetailActivity" />
+        <activity
+            android:name="com.htmitech.video.activity.VideoListActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="com.htmitech.video.activity.VideoListActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="activity.ScheduleSearchActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="activity.ScheduleDetailActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="activity.SchedulePoiSearchActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name=".ui.document.DocumentSerchMainActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.htmitech.htexceptionmanage.activity.InitManageExceptionActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="com.htmitech.video.activity.VideoListActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.htexceptionmanage.activity.ManageExceptionDetalActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="com.htmitech.video.activity.VideoListActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.htexceptionmanage.activity.ManageExceptionChildActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="com.htmitech.video.activity.VideoListActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.htexceptionmanage.activity.ManageExceptionAddCenterSelectActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="com.htmitech.video.activity.VideoListActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.proxy.activity.ZWLoginActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.proxy.activity.SettingActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+
+        <activity
+            android:name="com.htmitech_updown.updownloadmanagement.UpDownLoadActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.proxy.activity.GeneralFileViewActivity"
+            android:label="com.htmitech.proxy.activity.GeneralFileViewActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.htworkflowformpluginnew.activity.WebSearchActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.htmitech.proxy.activity.SearchActivity"
+            android:label="com.htmitech.proxy.activity.SearchActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.htmitech.proxy.activity.ReportDetailActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="com.htmitech.video.activity.VideoListActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="activity.ScheduleMainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity android:name="com.htmitech.proxy.activity.FilePickerActivity"></activity>
+        <activity
+            android:name="com.minxing.client.activity.ChangeUserPasswordActivity"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.htmitech.htworkflowformpluginnew.activity.UnrarListView"
+            android:screenOrientation="portrait"
+            android:launchMode="singleTask"
+            android:windowSoftInputMode="adjustPan|stateHidden"></activity>
+
+
+        <activity
+            android:name=".ui.chart.ListChartActivity"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name=".ui.chart.ArcLineChartActivity"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.htmitech.emportal.ui.plugin.report.CopyOfsupplyActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".ui.plugin.report.PieChartActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.plugin.report.TableChartActivity"
+            android:configChanges="keyboardHidden|orientation" />
+
+    </application>
+
+</manifest>

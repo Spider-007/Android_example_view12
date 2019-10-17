@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+	xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bg_grey_dark" >
+
+    <RelativeLayout
+        android:id="@+id/layout_ocu_titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+		skin:enable="true"
+        android:background="@color/ht_hred_title" >
+
+		<ImageView
+		    android:id="@+id/btn_ocu_person"
+		    style="@style/title_button"
+		    android:layout_alignParentLeft="true"
+		    android:layout_centerVertical="true"
+			skin:enable="true"
+		    android:background="@drawable/mx_btn_back"
+		    android:scaleType="center" />
+		  
+        <TextView
+            android:id="@+id/btn_ocu_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="功能号"
+			skin:enable="true"
+        	android:textColor="@color/ht_title_text_color"
+        	android:textSize="@dimen/fontsize_heading19" />
+
+        <ImageView
+            android:id="@+id/imageview_ocu_add"
+            style="@style/title_button"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/mx_btn_add"
+			skin:enable="true"
+            android:scaleType="center" />
+    </RelativeLayout>
+
+    <com.minxing.kit.ui.contacts.ContactOcuView
+        android:id="@+id/ocu_grid_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/layout_ocu_titlebar" />
+
+</RelativeLayout>

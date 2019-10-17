@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:arc="http://schemas.android.com/apk/res-auto"
+     xmlns:fab="http://schemas.android.com/apk/res-auto"
+	xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000832"
+    android:id="@+id/linearlayout_chart">
+    
+    <com.htmitech.emportal.ui.widget.flatingactionButton.FloatingActionsMenu
+ 	    android:id="@+id/chart_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+		skin:enable="true"
+        fab:fab_addButtonColorNormal="@color/white"
+        fab:fab_addButtonColorPressed="@color/ht_hred_title"
+        fab:fab_addButtonPlusIconColor="@color/half_black"
+        fab:fab_labelStyle="@style/menu_labels_style"
+         >
+ 	    </com.htmitech.emportal.ui.widget.flatingactionButton.FloatingActionsMenu>
+</RelativeLayout>

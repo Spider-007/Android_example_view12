@@ -1,0 +1,15 @@
+
+Ksquid:S1481„"-Remove this unused "upMillis" local variable.(ôĞ98‡Ø¿õÜ-
+Isquid:S00108“")Either remove or fill this block of code.(”ı¾8±öêúÜ-
+nsquid:S2674Ÿ"JCheck the return value of the "read" call to see how many bytes were read.(ë¥áïøÿÿÿÿ8±öêúÜ-
+{squid:S1450-"XRemove the "imgSearch" field and declare it as a local variable in the relevant methods.(â ÔØşÿÿÿÿ8‡Ø¿õÜ-
+Wsquid:S1197"8Move the array designator from the variable to the type.(™â•©8±öêúÜ-
+xsquid:S14504"ZRemove the "iv_date_cut" field and declare it as a local variable in the relevant methods.(¢ÁØÉ8‡Ø¿õÜ-
+Gsquid:S1148‘"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‡Ø¿õÜ-
+zsquid:S001165"VRename this field "iv_date_add" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”âû“ùÿÿÿÿ8‡Ø¿õÜ-
+Gsquid:S1148‹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‡Ø¿õÜ-
+}squid:S14505"ZRemove the "iv_date_add" field and declare it as a local variable in the relevant methods.(”âû“ùÿÿÿÿ8‡Ø¿õÜ-
+Ssquid:S1066ì"/Merge this if statement with the enclosing one.(Ñïñ©üÿÿÿÿ8‡Ø¿õÜ-
+usquid:S001164"VRename this field "iv_date_cut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÁØÉ8‡Ø¿õÜ-
+zsquid:S001166"VRename this field "REQUESTCODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¹˜Çÿÿÿÿÿ8‡Ø¿õÜ-
+Usquid:S1481ˆ"6Remove this unused "currentTimeMillis" local variable.(çÂØÛ8‡Ø¿õÜ-

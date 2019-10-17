@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fl_root"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+   <RelativeLayout
+        android:id="@+id/ll_fn5_title_theme"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+       skin:enable="true"
+        android:background="@color/ht_hred_title"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/ibn_fn5_back"
+            style="@style/title_button"
+            android:background="@drawable/mx_btn_back" />
+
+        <TextView
+            android:id="@+id/tv_fn5_title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="@string/zizh_title_wei"
+            skin:enable="true"
+            android:textColor="@color/ht_title_text_color"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <com.htmitech.app.widget.UserMessageScrollView
+        android:id="@+id/set_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:fadingEdge="none"
+        android:focusable="false"
+        android:overScrollMode="never"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:id="@+id/layoutfirst"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:orientation="vertical" >
+
+            <!-- <ImageView /> -->
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/activity_horizontal_margin"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:background="@drawable/bg_login_input"
+                android:layout_marginTop="30dp"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/username"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="@dimen/login_input_left"
+                    android:layout_marginRight="@dimen/login_input_right"
+                    android:background="@color/transparent"
+                    android:drawableLeft="@drawable/icon_login_account"
+                    android:drawablePadding="5dp"
+                    android:hint="请输入业务系统登录账号"
+                    android:singleLine="true"
+                    android:textColor="@color/half_alpha_black"
+                    android:textColorHint="@color/half_alpha_black"
+                    android:textSize="@dimen/max_textsize" />
+
+                <EditText
+                    android:id="@+id/password"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="@dimen/login_input_left"
+                    android:layout_marginRight="@dimen/login_input_right"
+                    android:background="@color/transparent"
+                    android:drawableLeft="@drawable/icon_login_passwd"
+                    android:drawablePadding="5dip"
+                    android:hint="******"
+                    android:inputType="textPassword"
+                    android:singleLine="true"
+                    android:textColor="@color/half_alpha_black"
+                    android:textColorHint="@color/half_alpha_black"
+                    android:textSize="@dimen/max_textsize" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/activity_horizontal_margin"
+                android:layout_marginBottom="150dp"
+                android:layout_marginLeft="@dimen/login_input_left"
+                android:layout_marginRight="@dimen/login_input_right"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/login_btn"
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:background="@color/ht_hred_title"
+                    android:enabled="false"
+                    android:text="@string/zizh_yanzheng"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/max_textsize" />
+            </LinearLayout>
+        </LinearLayout>
+    </com.htmitech.app.widget.UserMessageScrollView>
+
+</LinearLayout>

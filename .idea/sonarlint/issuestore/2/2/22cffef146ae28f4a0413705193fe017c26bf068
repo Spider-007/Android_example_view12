@@ -1,0 +1,11 @@
+
+qsquid:S14504"URemove the "userID" field and declare it as a local variable in the relevant methods.(³ ûÁÿÿÿÿÿ
+@squid:S1185Í"(Remove this method to simply inherit it.(ˆÏ€¶
+?squid:S1185>"(Remove this method to simply inherit it.(ßìê¯
+Psquid:S1197Ú"8Move the array designator from the variable to the type.(™â•©
+gsquid:S2674Û"JCheck the return value of the "read" call to see how many bytes were read.(ë¥áïøÿÿÿÿ
+Ÿsquid:S2681ó"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(çÂØÛ
+@squid:S1148÷"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Esquid:S1185Ó"(Remove this method to simply inherit it.(Ç™²“øÿÿÿÿ
+dsquid:S3973ñ"GUse indentation to denote the code conditionally executed by this "if".(Ò¹¬ÿÿÿÿÿ
+Bsquid:S00108Î")Either remove or fill this block of code.(”ı¾

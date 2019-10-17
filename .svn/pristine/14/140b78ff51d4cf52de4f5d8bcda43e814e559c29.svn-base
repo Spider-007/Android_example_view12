@@ -1,0 +1,17 @@
+// Generated code from Butter Knife. Do not modify!
+package com.htmitech.scheduleDetail.activity;
+
+import android.view.View;
+import butterknife.ButterKnife.Finder;
+
+public class ScheduleDetailActivity$$ViewInjector {
+  public static void inject(Finder finder, final com.htmitech.scheduleDetail.activity.ScheduleDetailActivity target, Object source) {
+    View view;
+    view = finder.findRequiredView(source, 2131361974, "field 'tvErrorWarning'");
+    target.tvErrorWarning = (android.widget.TextView) view;
+  }
+
+  public static void reset(com.htmitech.scheduleDetail.activity.ScheduleDetailActivity target) {
+    target.tvErrorWarning = null;
+  }
+}

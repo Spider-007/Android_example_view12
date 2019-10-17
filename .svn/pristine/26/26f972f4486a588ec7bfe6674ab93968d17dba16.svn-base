@@ -1,0 +1,195 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/allbackground"
+    android:orientation="vertical"
+    tools:context="com.htmitech.ztcustom.zt.fragment.plannedcashratefragment.PlannedRateHomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/ll_fragment_planned_rate_home_pz"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="4">
+
+                <ImageView
+                    android:layout_width="@dimen/homeHeight"
+                    android:layout_height="@dimen/homeHeight"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/pie_001" />
+
+                <TextView
+                    android:id="@+id/tv_PZ_DX_one"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="00.00"
+                    android:textColor="@color/white"
+                    android:textSize="15sp" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:textColor="@color/planned_text_color"
+                android:text="配置计划兑现率" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/colorcardtopll" />
+
+        <LinearLayout
+            android:id="@+id/ll_fragment_planned_rate_home_dy"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="4">
+
+                <ImageView
+                    android:layout_width="@dimen/homeHeight"
+                    android:layout_height="@dimen/homeHeight"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/pie_002" />
+
+                <TextView
+                    android:id="@+id/tv_DY_PZ_FH_two"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="00.00"
+                    android:textColor="@color/planned_text_color"
+                    android:textSize="15sp" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:textColor="@color/planned_text_color"
+                android:text="当月配置计划发货情况" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorcardtopll" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/ll_fragment_planned_rate_home_lj"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="4">
+
+                <ImageView
+                    android:layout_width="@dimen/homeHeight"
+                    android:layout_height="@dimen/homeHeight"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/pie_003" />
+
+                <TextView
+                    android:id="@+id/tv_LJ_PZ_FH_three"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="00.00"
+                    android:textColor="@color/white"
+                    android:textSize="15sp" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:textColor="@color/planned_text_color"
+
+                android:text="累计配置计划发货情况" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/colorcardtopll" />
+
+        <LinearLayout
+            android:id="@+id/ll_fragment_planned_rate_home_gc"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="4">
+
+                <ImageView
+                    android:layout_width="@dimen/homeHeight"
+                    android:layout_height="@dimen/homeHeight"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/pie_004" />
+
+                <TextView
+                    android:id="@+id/tv_GC_SJ_FH_four"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="00.00"
+                    android:textColor="@color/white"
+                    android:textSize="15sp" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:textColor="@color/planned_text_color"
+                android:text="钢厂实际发货情况" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

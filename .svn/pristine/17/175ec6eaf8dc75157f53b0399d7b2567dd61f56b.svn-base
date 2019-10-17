@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\zt_score_business_query_enter.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\zt_score_business_query_enter.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\translate_down_current.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\translate_down_current.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_enter.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\zoom_enter.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\zt_score_business_query_exit.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\zt_score_business_query_exit.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_in_from_bottom.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\anim\\mx_mail_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\translate_up.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\translate_up.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_out.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\mx_slide_bottom_down.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\anim\\mx_slide_bottom_down.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\activity_alpha_action_in.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\activity_alpha_action_in.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\mx_slide_top_down.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\anim\\mx_slide_top_down.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_out_left.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\anim\\mx_mail_slide_out_left.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\collapse.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\collapse.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\keyboard_anim_start.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\anim\\keyboard_anim_start.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_out_to_top.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\anim\\mx_mail_slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_in_from_top.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\anim\\mx_mail_slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_exit.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\zoom_exit.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\expand.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\expand.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\push_out_left.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\push_out_left.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_in_left.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\anim\\mx_mail_slide_in_left.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_in.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_out_right.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\anim\\mx_mail_slide_out_right.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\imofan_round_progress_bar_1.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\imofan_round_progress_bar_1.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_out_to_bottom.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\anim\\mx_mail_slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_in.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\mx_slide_top_up.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\anim\\mx_slide_top_up.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\keyboard_anim_dismiss.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\anim\\keyboard_anim_dismiss.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\popshow_anim.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\popshow_anim.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\pull_in_right.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\pull_in_right.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\fade.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\pophidden_anim.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\pophidden_anim.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\mx_mail_slide_in_right.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\anim\\mx_mail_slide_in_right.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\translate_up_current.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\translate_up_current.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\mx_loading.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\anim\\mx_loading.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\none.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\none.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\translate_down.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\translate_down.xml"
+    },
+    {
+        "merged": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\ArchiverModule\\build\\intermediates\\res\\merged\\debug\\anim\\mx_slide_bottom_up.xml",
+        "source": "F:\\Android\\Wroking\\Branch_2.5.8_dev_\\MXKit\\build\\intermediates\\bundles\\default\\res\\anim\\mx_slide_bottom_up.xml"
+    }
+]

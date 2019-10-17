@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_no_installed.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\img_no_installed.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\more_pressed.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\more_pressed.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_new.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\img_new.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_diamond_none.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\img_diamond_none.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_contacts_selected_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_contacts_selected_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_home_normal_blue.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_home_normal_blue.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mx_btn_setting.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\mx_btn_setting.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_unfold_selected.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_unfold_selected.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_view.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\btn_view.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fab_bg_mini.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\fab_bg_mini.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_change.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\btn_change.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_page_none.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\img_page_none.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_list_computer.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_list_computer.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_check_blue.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\img_check_blue.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_home_normal_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_home_normal_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_trophy_finish.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\img_trophy_finish.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_list_phone.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_list_phone.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_empty_nodata.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\img_empty_nodata.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_contacts_normal_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_contacts_normal_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_home_selected_blue.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_home_selected_blue.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_bottombar_circle_selected_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_bottombar_circle_selected_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_circle_selected_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_circle_selected_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_bottombar_chat_normal_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_bottombar_chat_normal_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_bottombar_todo_selected_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_bottombar_todo_selected_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_loss.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_loss.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_fab_star.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\ic_fab_star.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_hide_normal.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_hide_normal.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edit_flag.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\edit_flag.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_bg_line_short.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\img_bg_line_short.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mx_btn_add.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\mx_btn_add.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_arrow_down.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\btn_arrow_down.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_blacklist.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_blacklist.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_todo_normal_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_todo_normal_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mx_btn_more.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\mx_btn_more.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_check_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\img_check_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mx_btn_sns_new.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\mx_btn_sns_new.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_circle_normal_blue.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_circle_normal_blue.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_singnature.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\btn_singnature.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_bottombar_home_selected_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_bottombar_home_selected_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mx_btn_back.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\mx_btn_back.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_check.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_check.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_bottombar_home_normal_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_bottombar_home_normal_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_unfinished.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_unfinished.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_windows_close.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\btn_windows_close.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_bottombar_contacts_normal_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_bottombar_contacts_normal_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_take_photo.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\img_take_photo.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fab_bg_normal.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\fab_bg_normal.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mx_btn_multi_chat.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\mx_btn_multi_chat.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mx_btn_community_list_phone.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\mx_btn_community_list_phone.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_windows_bg.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\img_windows_bg.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_chat_selected_blue.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_chat_selected_blue.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_circle_selected_blue.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_circle_selected_blue.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_todo_selected_blue.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_todo_selected_blue.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_bg_my_chat.9.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\img_bg_my_chat.9.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mx_btn_single_setting.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\mx_btn_single_setting.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_bottombar_contacts_selected_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_bottombar_contacts_selected_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mx_btn_close.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\mx_btn_close.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_app_centre_normal.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_app_centre_normal.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_binding.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_binding.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_bottombar_chat_selected_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_bottombar_chat_selected_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\more.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\more.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mx_btn_mail_new_phone.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\mx_btn_mail_new_phone.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_chat_normal_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_chat_normal_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_bottombar_todo_normal_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_bottombar_todo_normal_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_finished.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_finished.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_slide_block.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\btn_slide_block.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\green_thumb.xml",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\green_thumb.xml"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_circle_normal_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_circle_normal_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_contacts_normal_blue.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_contacts_normal_blue.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_chat_normal_blue.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_chat_normal_blue.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_list_paid.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_list_paid.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_todo_selected_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_todo_selected_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_contacts_selected_blue.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_contacts_selected_blue.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_chat_selected_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_chat_selected_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_bg_line_long.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\img_bg_line_long.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_bottombar_circle_normal_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_bottombar_circle_normal_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_home_selected_red.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_home_selected_red.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_no_wifi.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\img_no_wifi.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_bg_other_chat.9.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\exploded-aar\\MXAndroid_V2_DevEvn_Branch\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\img_bg_other_chat.9.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mx_btn_single_chat.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\mx_btn_single_chat.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_no_binding.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\icon_no_binding.png"
+    },
+    {
+        "merged": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_todo_normal_blue.png",
+        "source": "F:\\SVN_V3_EMP\\Src\\Android\\java_dev2.5.7\\MXAndroid_V2_DevEvn_Branch\\MXClient\\res\\drawable-mdpi\\tab_todo_normal_blue.png"
+    }
+]

@@ -1,0 +1,154 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/allbackground"
+    tools:context=".TanShangCompleteSumActivity" >
+
+    <RelativeLayout
+        android:id="@+id/ll_tanshangcompletesum_title_theme"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:layout_alignParentTop="true"
+        android:background="@color/title_color"
+        android:gravity="center_vertical" >
+
+        <ImageButton
+            android:id="@+id/ib_tanshangcompletesum_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:gravity="center"
+            android:src="@drawable/btn_back" />
+
+        <TextView
+            android:id="@+id/tv_tanshangcompletesum_title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/title_tanshancompletesum"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/title_textsize" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_tanshangcompletesum_top2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/date_height"
+        android:layout_marginTop="@dimen/title_height"
+        android:background="#ffffff"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+        <ImageView
+            android:id="@+id/iv_tanshangcompletesum_cut"
+            android:layout_width="@dimen/datesize"
+            android:layout_height="@dimen/datesize"
+            android:src="@drawable/date_left" />
+
+        <TextView
+            android:id="@+id/tv_tanshangcompletesum_title_data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="2012年5月"
+            android:textColor="@color/black"
+            android:textSize="@dimen/date_text_size" />
+
+        <ImageView
+            android:id="@+id/iv_tanshangcompletesum_add"
+            android:layout_width="@dimen/datesize"
+            android:layout_height="@dimen/datesize"
+            android:clickable="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/date_right" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_completesum_drawlayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ll_tanshangcompletesum_top2"
+        android:orientation="vertical"
+        android:visibility="gone" >
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_completesum_drawlayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/ll_tanshangcompletesum_top2"
+        android:background="#000931" >
+
+        <LinearLayout
+            android:id="@+id/ll_completesum_drawlayout_up"
+            android:layout_width="match_parent"
+            android:layout_height="23dp"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_completesum_drawlayout"
+                android:layout_width="50dp"
+                android:layout_height="13dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/zt_fragment_qiehuan" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_completesum_kapian"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/kaipian_ll_height"
+            android:layout_below="@id/ll_completesum_drawlayout_up" >
+
+            <include layout="@layout/content_main" />
+        </RelativeLayout>
+
+        <!-- 固定首行首列的listview -->
+
+        <RelativeLayout
+            android:id="@+id/ll_completesum_table_top"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/rl_completesum_kapian"
+            android:layout_marginTop="10dp"
+            android:gravity="center" >
+
+            <include
+                android:id="@+id/i_completehead"
+                layout="@layout/complete_sum_list_item" />
+
+            <ListView
+                android:id="@+id/lv_complete_table"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/i_completehead"
+                android:listSelector="#00000000"
+                android:scrollbars="none" >
+            </ListView>
+
+            <TextView
+                android:layout_width="@dimen/tableline"
+                android:layout_height="match_parent"
+                android:layout_alignBottom="@id/lv_complete_table"
+                android:background="@color/colortable"
+                android:gravity="center" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/iv_completesum_i"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp"
+        android:clickable="true"
+        android:src="@drawable/htmitech_shezhi_1" />
+
+</RelativeLayout>

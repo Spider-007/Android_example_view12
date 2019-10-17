@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.htmitech.emportal.ui.detail.DetailActivityLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:arc="http://schemas.android.com/apk/res-auto"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    skin:enable="true"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_ffffffff"
+    android:orientation="vertical">
+
+
+    <include
+        android:id="@+id/layout_detail_titlebar"
+        layout="@layout/layout_titlebar_docdetail" />
+
+    <TextView
+        android:id="@+id/tv_error_warning"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#000000"
+        android:gravity="center_vertical"
+        android:text="请设置开始时间晚于当前时间！"
+        android:textColor="#FFFFFF"
+       android:drawablePadding="12dp"
+        android:paddingLeft="10dp"
+        android:layout_below="@+id/layout_detail_titlebar"
+        android:drawableLeft="@drawable/icon_tishi"
+        android:visibility="gone"
+        android:textSize="14sp" />
+
+    <com.htmitech.MyView.EmptyLayout
+        android:id="@+id/emptyLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tv_error_warning">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.htmitech.emportal.ui.widget.NewTopTabIndicator
+                android:id="@+id/topTabIndicator_detail"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center" />
+
+            <ImageView
+                android:id="@+id/imageview_detail_divider"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/view_divider_height"
+                android:background="@color/color_ffdcdcdc" />
+
+            <com.htmitech.emportal.ui.widget.MainViewPager
+                android:id="@+id/viewPager_qarank"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:focusable="false"></com.htmitech.emportal.ui.widget.MainViewPager>
+
+            <HorizontalScrollView
+                android:id="@+id/hs_scrollview"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_alignParentBottom="true"
+                android:fillViewport="true"
+                android:scrollbarAlwaysDrawHorizontalTrack="false"
+                android:scrollbars="none"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:id="@+id/layout_buttom"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dip"
+                    android:layout_gravity="center_vertical"
+                    android:background="@color/white"
+                    android:orientation="horizontal"
+                    android:visibility="gone" />
+            </HorizontalScrollView>
+
+
+        </LinearLayout>
+
+        <com.htmitech.emportal.ui.widget.LoadingView
+            android:id="@+id/loadingview_detail"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@id/layout_detail_titlebar"
+            android:clickable="true"
+            android:visibility="gone" />
+
+        <!--  	<include layout="@layout/menu_right_bottom" />  -->
+
+        <!--<com.htmitech.htmioa.ui.widget.flatingactionButton.FloatingActionsMenu -->
+        <!--android:id="@+id/multiple_actions"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_alignParentRight="true"-->
+        <!--android:layout_alignParentEnd="true"-->
+        <!--fab:fab_addButtonColorNormal="#6fb7ff"-->
+        <!--fab:fab_addButtonColorPressed="@color/white_pressed"-->
+        <!--fab:fab_addButtonPlusIconColor="@color/half_black"-->
+        <!--fab:fab_labelStyle="@style/menu_labels_style"-->
+        <!--android:layout_marginBottom="16dp"-->
+        <!--android:layout_marginRight="16dp"-->
+        <!--android:layout_marginEnd="16dp"-->
+        <!--android:visibility="gone"-->
+        <!-->-->
+        <!-- -->
+        <!--</com.htmitech.htmioa.ui.widget.flatingactionButton.FloatingActionsMenu>-->
+        <!-- -->
+
+
+        <com.htmitech.emportal.ui.widget.flatingactionButton.AddFloatingActionButton
+            android:id="@+id/function"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="20dp"
+            android:layout_marginTop="100dp"
+            android:scaleType="center"
+            android:src="@drawable/btn_operation_homelabel_off"
+            android:visibility="gone" />
+    </com.htmitech.MyView.EmptyLayout>
+    <!--     <com.htmitech.htmioa.ui.widget.capricorn.ArcMenu
+            android:id="@+id/arc_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:visibility="gone"
+            arc:childSize="@dimen/menuChildSize"
+            arc:fromDegrees="@dimen/menuFromDegrees"
+            arc:toDegrees="@dimen/menuToDegrees" />   -->
+
+</com.htmitech.emportal.ui.detail.DetailActivityLayout>

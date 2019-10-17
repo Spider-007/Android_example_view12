@@ -1,0 +1,132 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bg_grey_dark">
+
+    <include
+        android:id="@+id/system_title"
+        layout="@layout/system_title" />
+
+    <RelativeLayout
+        android:id="@+id/ll_delete_item_top"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/ht_hred_title"
+        android:gravity="center_vertical"
+        android:visibility="gone"
+        skin:enable="true">
+
+        <Button
+            android:id="@+id/bt_delete_item_canle"
+            android:layout_width="@dimen/title_bar_height"
+            android:layout_height="@dimen/title_bar_height"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:background="#00000000"
+            android:text="取消"
+            android:textColor="@color/ht_title_text_color"
+            android:textSize="16sp"
+            skin:enable="true" />
+
+        <Button
+            android:id="@+id/bt_delete_item_selectall"
+            android:layout_width="@dimen/title_bar_height"
+            android:layout_height="@dimen/title_bar_height"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="#00000000"
+            android:text="全选"
+            android:textColor="@color/ht_title_text_color"
+            android:textSize="16sp"
+            skin:enable="true" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/search_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/system_title"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="1dp"
+        android:paddingRight="1dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:background="@drawable/mx_bg_edittext_selector"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:focusable="false"
+                android:src="@drawable/mx_search_bar_icon_normal" />
+
+            <EditText
+                android:id="@+id/editText_keyword"
+                android:layout_width="0dip"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="@dimen/mx_contact_searchBar_edit_marginleft"
+                android:layout_weight="1.0"
+                android:background="@null"
+                android:hint="请输入文件名称关键字搜索"
+                android:imeOptions="actionSearch"
+                android:singleLine="true"
+                android:textSize="14dp" />
+
+            <ImageView
+                android:id="@+id/remove_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/mx_comm_delete_up" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <com.htmitech.MyView.EmptyLayout
+        android:id="@+id/ll_doucment_gride_emptey"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/search_layout">
+
+        <LinearLayout
+            android:id="@+id/ll_delete_item"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/title_bar_height"
+            android:layout_alignParentBottom="true"
+            android:background="@color/ht_hred_title"
+            android:orientation="vertical"
+            android:visibility="gone"
+            skin:enable="true">
+
+            <Button
+                android:id="@+id/bt_delete_item"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/title_bar_height"
+                android:layout_gravity="center_horizontal"
+                android:background="#00000000"
+                android:text="清除缓存"
+                android:textColor="@color/ht_title_text_color"
+                android:textSize="16sp"
+                skin:enable="true" />
+
+        </LinearLayout>
+
+        <com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView
+            android:id="@+id/listview_documentnode"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@id/ll_delete_item"
+            android:layout_below="@id/search_layout"
+            android:divider="@null"
+            android:listSelector="#00000000"></com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView>
+
+    </com.htmitech.MyView.EmptyLayout>
+</RelativeLayout>

@@ -1,0 +1,17 @@
+<resources>
+	<dimen name="login_input_vertical_space">16dp</dimen>
+    <dimen name="login_input_left">10dp</dimen>
+    <dimen name="login_input_right">10dp</dimen>
+    
+    <dimen name="max_textsize">20dp</dimen>
+    <dimen name="middle_textsize">16dp</dimen>
+    <dimen name="title_arrow_space">6dp</dimen>
+
+    <dimen name="subapp_name">13sp</dimen>
+    
+    
+    
+    
+    
+	
+</resources>

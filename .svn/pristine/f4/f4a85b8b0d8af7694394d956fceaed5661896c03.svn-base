@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:tools="http://com.example.fragment/tools" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="#000931"
+    tools:context="com.example.fragment.ReportFragment">
+
+    
+
+    <com.htmitech.ztcustom.zt.view.ZBWaterDropListView
+        android:id="@+id/lv_report"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="#00000000"
+        android:clickable="false"
+        android:divider="#00000000"
+        android:dividerHeight="0dp"
+        android:fadingEdge="none"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="right"
+        android:background="#000931"
+        android:listSelector="#00000000"
+        android:scrollbars="none"
+        android:textColor="#fff" />
+	<TextView 
+	    android:id="@+id/tv_no_value"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:text="暂无数据"
+	    android:textColor="@color/white"
+	    android:gravity="center"
+	    android:textSize="@dimen/date_text_size"
+	    />
+</RelativeLayout>

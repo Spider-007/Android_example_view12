@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mx_bg_grey_dark"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/system_title"
+        layout="@layout/mx_system_title" />
+
+    <LinearLayout
+        android:id="@+id/conversatin_invite_done"
+        style="@style/mx_bg_setting_item_checkbox_conversation_setting_no_border"
+        android:layout_marginTop="15dp"
+        android:background="@color/mx_white"
+        android:visibility="visible">
+
+        <com.minxing.kit.ui.widget.MXVariableTextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1.0"
+            android:text="@string/mx_label_group_invite"
+            android:textColor="@color/mx_black" />
+
+        <Switch
+            android:id="@+id/conversatin_invite_check"
+            style="@style/mx_switch_custom_style"
+            android:layout_gravity="center" />
+    </LinearLayout>
+
+
+    <com.minxing.kit.ui.widget.MXVariableTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dip"
+        android:layout_marginRight="20dip"
+        android:textSize="13dp"
+        android:layout_marginTop="5dip"
+        android:text="@string/mx_label_group_invite_tip"
+        android:textColor="@color/mx_dark_gray" />
+
+
+    <LinearLayout
+        android:id="@+id/conversatin_admin_right_transfer"
+        style="@style/mx_bg_setting_item_is_divide"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp">
+
+        <com.minxing.kit.ui.widget.MXVariableTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/mx_label_group_admin_right_transfer"
+            android:textColor="@color/mx_black" />
+
+        <com.minxing.kit.ui.widget.MXVariableTextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1.0"
+            android:drawablePadding="10dip"
+            android:drawableRight="@drawable/mx_mm_submenu"
+            android:ellipsize="end"
+            android:gravity="right"
+            android:singleLine="true"
+            android:textColor="@color/mx_darkgrey" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,272 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000931"
+    android:fitsSystemWindows="true">
+
+    <RelativeLayout
+        android:id="@+id/ll_produce_title_theme"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:layout_alignParentTop="true"
+        android:background="@color/title_color"
+        android:gravity="center_vertical" >
+
+        <ImageButton
+            android:id="@+id/ib_dayreport_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:gravity="center"
+            android:src="@drawable/btn_back" />
+
+        <TextView
+            android:id="@+id/tv_dayreport_title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/title_dayreport"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/title_textsize" />
+
+        <TextView
+            android:id="@+id/ib_dayreport_shaixuan"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/title_right_toright"
+            android:background="#002B53"
+            android:gravity="center"
+            android:text="筛选"
+            android:textSize="@dimen/title_shaixuan_textsize" />
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/ll_dayreport_top2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/date_height"
+        android:layout_marginTop="@dimen/title_height"
+        android:background="#ffffff"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+        <ImageView
+            android:id="@+id/iv_dayreport_cut"
+            android:layout_width="@dimen/datesize"
+            android:layout_height="@dimen/datesize"
+            android:src="@drawable/date_left" />
+
+        <TextView
+            android:id="@+id/tv_dayreport_title_data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="2012年5月"
+            android:textColor="@color/black"
+            android:textSize="@dimen/date_text_size" />
+
+        <ImageView
+            android:id="@+id/iv_dayreport_add"
+            android:layout_width="@dimen/datesize"
+            android:layout_height="@dimen/datesize"
+            android:clickable="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/date_right" />
+    </LinearLayout>
+	<LinearLayout
+        android:id="@+id/layout_iv_up"
+        android:layout_width="match_parent"
+        android:layout_height="23dp"
+        android:layout_below="@id/ll_dayreport_top2"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/iv_up"
+            android:layout_width="50dp"
+            android:layout_height="13dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/zt_fragment_qiehuan" />
+    </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/rl_kapian"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/kaipian_ll_height"
+        android:layout_below="@id/layout_iv_up" >
+
+        <include layout="@layout/content_main" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_dayreport_table_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rl_kapian"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="10dp"
+        android:background="#0080FC"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="2dp"
+            android:layout_height="@dimen/tableheight"
+            android:layout_gravity="center"
+            android:background="@color/listview_line_color"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tv_dayreport_1"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/tableheight"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="单位"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/chejiantextsize" />
+
+        <TextView
+            android:layout_width="2dp"
+            android:layout_height="@dimen/tableheight"
+            android:layout_gravity="center"
+            android:background="@color/listview_line_color"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tv_dayreport_2"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/tableheight"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="年初计划数"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/chejiantextsize" />
+
+        <TextView
+            android:layout_width="2dp"
+            android:layout_height="@dimen/tableheight"
+            android:layout_gravity="center"
+            android:background="@color/listview_line_color"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tv_dayreport_3"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/tableheight"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="实施计划数"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/chejiantextsize" />
+
+        <TextView
+            android:layout_width="2dp"
+            android:layout_height="@dimen/tableheight"
+            android:layout_gravity="center"
+            android:background="@color/listview_line_color"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tv_dayreport_4"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/tableheight"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="实际完成数"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/chejiantextsize" />
+
+        <TextView
+            android:layout_width="2dp"
+            android:layout_height="@dimen/tableheight"
+            android:layout_gravity="center"
+            android:background="@color/listview_line_color"
+            android:gravity="center" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/fl_dayreport"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_dayreport_table_top" >
+
+        <ListView
+            android:id="@+id/lv_dayreport_table"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:listSelector="#00000000"
+            android:scrollbars="none"></ListView>
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/iv_dayreport_i"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp"
+        android:clickable="true"
+        android:src="@drawable/htmitech_shezhi_1" />
+
+    <LinearLayout
+        android:id="@+id/ll_dayreport_shaixuan_wai"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:background="#b0000000"
+        android:clickable="true"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:id="@+id/ll_dayreport_shaixuan"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="40dp"
+            android:clickable="true"
+            android:orientation="vertical"
+            android:visibility="gone" >
+        </LinearLayout>
+    </LinearLayout>
+	<LinearLayout
+        android:id="@+id/ll_popupLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#002450"
+        android:layout_marginTop="@dimen/chejiantablewidth"
+        android:visibility="gone" >
+
+        <fragment
+            android:id="@+id/fragment_summary"
+            android:name="com.htmitech.ztcustom.zt.fragment.DamageSummaryFragment"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+    </LinearLayout>
+    
+	   <LinearLayout
+        android:id="@+id/layout_iv_down"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:visibility="gone"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/iv_down"
+            android:layout_width="50dp"
+            android:layout_height="13dp"
+            android:background="@drawable/zt_fragment_qiehuan" />
+    </LinearLayout>
+</RelativeLayout>

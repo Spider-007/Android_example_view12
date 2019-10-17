@@ -1,0 +1,217 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_title"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/title_bar_height"
+    android:background="@color/ht_hred_title"
+    android:gravity="center_vertical"
+    skin:enable="true">
+
+    <!-- 左侧按钮 -->
+
+    <ImageButton
+        android:id="@+id/title_left_button"
+        style="@style/title_button"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/mx_btn_back"
+        skin:enable="true" />
+
+    <ImageButton
+        android:id="@+id/title_left_button_home"
+        style="@style/title_button"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/mx_btn_community_list_phone"
+        android:visibility="gone"
+        skin:enable="true" />
+    \
+
+    <ImageButton
+        android:id="@+id/title_left_button_x"
+        style="@style/title_button"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/mx_mail_ic_action_cancel_dark"
+        android:visibility="gone"
+        skin:enable="true" />
+
+    <TextView
+        android:id="@+id/schedule_title_name_back"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@+id/title_left_button"
+        android:ellipsize="end"
+        android:gravity="center_vertical"
+        android:singleLine="true"
+        android:textColor="@color/ht_title_text_color"
+        android:textSize="@dimen/max_textsize"
+        skin:enable="true" />
+
+    <TextView
+        android:id="@+id/schedule_title_name_home"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/title_left_button_home"
+        android:layout_weight="1.0"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:singleLine="true"
+        android:text="123"
+        android:textColor="@color/ht_title_text_color"
+        android:textSize="@dimen/max_textsize"
+        android:visibility="gone"
+        skin:enable="true" />
+
+    <TextView
+        android:id="@+id/title_left_text_button"
+        style="@style/title_button"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:text="取消"
+        android:textColor="@color/ht_title_text_color"
+        android:visibility="gone"
+        skin:enable="true" />
+
+
+    <LinearLayout
+        android:id="@+id/middle_title"
+        android:layout_width="200dip"
+        android:layout_height="fill_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:clickable="true"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/title_name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1.0"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:singleLine="true"
+            android:textColor="@color/ht_title_text_color"
+            android:textSize="@dimen/max_textsize"
+            skin:enable="true" />
+
+        <ProgressBar
+            android:id="@+id/loading_progess"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <!-- 右侧按钮 -->
+
+    <LinearLayout
+        android:id="@+id/ll_schedule_right"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <Button
+            android:id="@+id/bt_schedule_todat"
+            android:layout_width="44dp"
+            android:layout_height="45dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/btn_date_fast_today"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:visibility="gone"
+            skin:enable="true" />
+
+        <Button
+            android:id="@+id/bt_schedule_search"
+            android:layout_width="44dp"
+            android:layout_height="45dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/btn_date_search"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:visibility="gone"
+            skin:enable="true" />
+
+        <TextView
+            android:id="@+id/tv_right_reset"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1.0"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="重置"
+            android:textColor="@color/ht_title_text_color"
+            android:textSize="@dimen/middle_textsize"
+            android:visibility="gone"
+            skin:enable="true" />
+
+        <TextView
+            android:id="@+id/tv_right_complete"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1.0"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="完成"
+            android:textColor="@color/ht_title_text_color"
+            android:textSize="@dimen/middle_textsize"
+            android:visibility="gone"
+            skin:enable="true" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/title_right_button"
+        style="@style/title_button"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/btn_quick_return"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:visibility="gone"
+        skin:enable="true" />
+
+    <ImageButton
+        android:id="@+id/title_right_image_button"
+        style="@style/title_button"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/mx_btn_add"
+        android:visibility="gone"
+        skin:enable="true" />
+
+    <ImageButton
+        android:id="@+id/title_right_image_button_send"
+        style="@style/title_button"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/mx_btn_uploading_question"
+        android:visibility="gone"
+        skin:enable="true" />
+
+    <TextView
+        android:id="@+id/title_right_text_button"
+        style="@style/title_button"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:text="完成"
+        android:textColor="@color/ht_title_text_color"
+        android:visibility="gone"
+        skin:enable="true" />
+</RelativeLayout>

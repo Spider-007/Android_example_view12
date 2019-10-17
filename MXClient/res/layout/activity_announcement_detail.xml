@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.htmitech.emportal.ui.detail.DetailActivityLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:arc="http://schemas.android.com/apk/res-auto"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_ffffffff"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/title_bar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/from_hight"
+            skin:enable="true"
+            android:background="@color/ht_hred_title"
+            android:minHeight="50dp">
+            <ImageView
+                android:id="@+id/iv_anndetail_back"
+                style="@style/title_button"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                skin:enable="true"
+                android:scaleType="center"
+                android:background="@drawable/mx_btn_back"
+                />
+
+            <TextView
+                android:id="@+id/tv_anndetail_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:singleLine="true"
+                android:maxWidth="200dp"
+                skin:enable="true"
+                android:textColor="@color/ht_title_text_color"
+                android:textSize="17sp" />
+
+
+        </RelativeLayout>
+
+        <com.htmitech.MyView.EmptyLayout
+            android:id="@+id/emptyLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/title_bar">
+
+            <WebView
+                android:id="@+id/wv_anndetail"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"></WebView>
+
+            <com.htmitech.emportal.ui.widget.flatingactionButton.AddFloatingActionButton
+                android:id="@+id/function"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_margin="20dp"
+                android:layout_marginTop="100dp"
+                android:scaleType="center"
+                android:src="@drawable/btn_operation_homelabel_off"
+                android:visibility="visible" />
+        </com.htmitech.MyView.EmptyLayout>
+
+    </LinearLayout>
+</com.htmitech.emportal.ui.detail.DetailActivityLayout>

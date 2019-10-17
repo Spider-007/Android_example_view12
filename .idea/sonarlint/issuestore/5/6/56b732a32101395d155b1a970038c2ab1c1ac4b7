@@ -1,0 +1,44 @@
+
+\squid:CallToDeprecatedMethod "4Remove this use of "HttpResponse"; it is deprecated.(ˆ„õn
+Usquid:CallToDeprecatedMethodº",Remove this use of "HTTP"; it is deprecated.(õ›¾’
+vsquid:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬Éò¥ÿÿÿÿÿ
+csquid:CallToDeprecatedMethodx"6Remove this use of "SchemeRegistry"; it is deprecated.(¦Ñ°ìüÿÿÿÿ
+`squid:CallToDeprecatedMethodv"3Remove this use of "HttpVersion"; it is deprecated.(Å÷ú©úÿÿÿÿ
+`squid:CallToDeprecatedMethodg"9Remove this use of "ConnManagerParams"; it is deprecated.(¬¼Éy
+jsquid:ModifiersOrderCheck:"EReorder the modifiers to comply with the Java Language Specification.(–àôë
+`squid:CallToDeprecatedMethodq"8Remove this use of "ConnPerRouteBean"; it is deprecated.(Šé®Ä
+^squid:CallToDeprecatedMethod¨"5Remove this use of "HeaderElement"; it is deprecated.(·¢™»
+Vsquid:CallToDeprecatedMethodÄ".Remove this use of "Scheme"; it is deprecated.(¼«ï&
+^squid:CallToDeprecatedMethod–"5Remove this use of "ClientContext"; it is deprecated.(™ÇŒ›
+asquid:CallToDeprecatedMethod­"9Remove this use of "ConnManagerParams"; it is deprecated.(ÉÏ¬f
+dsquid:CallToDeprecatedMethode"7Remove this use of "BasicHttpParams"; it is deprecated.(‡†ßØşÿÿÿÿ
+[squid:CallToDeprecatedMethod "3Remove this use of "HttpContext"; it is deprecated.(ˆ„õn
+psquid:ModifiersOrderCheck¾"EReorder the modifiers to comply with the Java Language Specification.(×ë˜øÿÿÿÿ
+^squid:CallToDeprecatedMethod¡"5Remove this use of "HttpException"; it is deprecated.(­¯óİ
+asquid:CallToDeprecatedMethod•"3Remove this use of "CookieStore"; it is deprecated.(´–²ªÿÿÿÿÿ
+fsquid:CallToDeprecatedMethodp"9Remove this use of "ConnManagerParams"; it is deprecated.(àüÁûıÿÿÿÿ
+asquid:CallToDeprecatedMethodr"9Remove this use of "ConnManagerParams"; it is deprecated.(åÖ‡
+fsquid:CallToDeprecatedMethod~"9Remove this use of "DefaultHttpClient"; it is deprecated.(ëŸ©Öÿÿÿÿÿ
+bsquid:CallToDeprecatedMethodn":Remove this use of "HttpProtocolParams"; it is deprecated.(Ÿê“
+Gsquid:S1066“"/Merge this if statement with the enclosing one.(¥éá¥
+ksquid:ModifiersOrderCheckÊ"EReorder the modifiers to comply with the Java Language Specification.(ÈÑÇ×
+\squid:CallToDeprecatedMethod¦".Remove this use of "Header"; it is deprecated.(­´™¼øÿÿÿÿ
+`squid:CallToDeprecatedMethodÍ"2Remove this use of "HttpClient"; it is deprecated.(¹”½óúÿÿÿÿ
+psquid:S2293Ë"YReplace the type specification in this constructor call with the diamond operator ("<>").( Í>
+psquid:ModifiersOrderCheckÀ"EReorder the modifiers to comply with the Java Language Specification.(ıİæÎüÿÿÿÿ
+psquid:ModifiersOrderCheckÉ"EReorder the modifiers to comply with the Java Language Specification.(‘¬Äôüÿÿÿÿ
+\squid:CallToDeprecatedMethod‡"3Remove this use of "HttpRequest"; it is deprecated.(’İû¤
+[squid:CallToDeprecatedMethod¢"2Remove this use of "HttpEntity"; it is deprecated.(ß…Ãæ
+Csquid:S1172H",Remove this unused method parameter "index".(àÌÄ¹
+^squid:CallToDeprecatedMethod‰"5Remove this use of "HttpException"; it is deprecated.(­¯óİ
+asquid:CallToDeprecatedMethod<"9Remove this use of "DefaultHttpClient"; it is deprecated.(‚ø»
+csquid:CallToDeprecatedMethodx"6Remove this use of "SchemeRegistry"; it is deprecated.(¦Ñ°ìüÿÿÿÿ
+hsquid:CallToDeprecatedMethod¡":Remove this use of "HttpProtocolParams"; it is deprecated.(œ¶Î‹ÿÿÿÿÿ
+psquid:CallToDeprecatedMethod~"CRemove this use of "ThreadSafeClientConnManager"; it is deprecated.(ëŸ©Öÿÿÿÿÿ
+asquid:CallToDeprecatedMethodˆ"3Remove this use of "HttpContext"; it is deprecated.(Õ˜è‘ıÿÿÿÿ
+bsquid:CallToDeprecatedMethody":Remove this use of "PlainSocketFactory"; it is deprecated.(Ş—Ü¬
+gsquid:CallToDeprecatedMethodv":Remove this use of "HttpProtocolParams"; it is deprecated.(Å÷ú©úÿÿÿÿ
+[squid:CallToDeprecatedMethod="3Remove this use of "HttpContext"; it is deprecated.(×°Ñà
+\squid:CallToDeprecatedMethodÑ".Remove this use of "Scheme"; it is deprecated.(®´–İøÿÿÿÿ
+Vsquid:CallToDeprecatedMethody".Remove this use of "Scheme"; it is deprecated.(Ş—Ü¬
+`squid:CallToDeprecatedMethod="8Remove this use of "BasicHttpContext"; it is deprecated.(×°Ñà

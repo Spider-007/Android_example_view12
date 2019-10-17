@@ -1,0 +1,6 @@
+alter("121");
+var cordovaScript = document.querySelector('script[src="cordova.js"]');
+if(!cordovaScript){
+	alter(123);
+};
+alert("456");

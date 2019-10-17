@@ -1,0 +1,32 @@
+// Generated code from Butter Knife. Do not modify!
+package com.htmitech.proxy.activity;
+
+import android.view.View;
+import butterknife.ButterKnife.Finder;
+
+public class ScheduleSearchActivity$$ViewInjector {
+  public static void inject(Finder finder, final com.htmitech.proxy.activity.ScheduleSearchActivity target, Object source) {
+    View view;
+    view = finder.findRequiredView(source, 2131362182, "field 'etSearchContent'");
+    target.etSearchContent = (android.widget.EditText) view;
+    view = finder.findRequiredView(source, 2131362183, "field 'tvSearchCancel'");
+    target.tvSearchCancel = (android.widget.TextView) view;
+    view = finder.findRequiredView(source, 2131362181, "field 'llSearchHeader'");
+    target.llSearchHeader = (android.widget.LinearLayout) view;
+    view = finder.findRequiredView(source, 2131362180, "field 'flSearchRoot'");
+    target.flSearchRoot = (android.widget.FrameLayout) view;
+    view = finder.findRequiredView(source, 2131362184, "field 'lvScheduleSearchList'");
+    target.lvScheduleSearchList = (com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView) view;
+    view = finder.findRequiredView(source, 2131362168, "field 'emptyLayoutRoot'");
+    target.emptyLayoutRoot = (com.htmitech.MyView.EmptyLayout) view;
+  }
+
+  public static void reset(com.htmitech.proxy.activity.ScheduleSearchActivity target) {
+    target.etSearchContent = null;
+    target.tvSearchCancel = null;
+    target.llSearchHeader = null;
+    target.flSearchRoot = null;
+    target.lvScheduleSearchList = null;
+    target.emptyLayoutRoot = null;
+  }
+}

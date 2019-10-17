@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="18.5dp"
+    android:layout_marginBottom="2dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginTop="2dp">
+
+    <LinearLayout
+        android:id="@+id/ll_bar_line_legend"
+        android:layout_width="20dp"
+        android:layout_height="15dp"
+        android:layout_marginLeft="6dp"
+        android:layout_centerVertical="true"
+        android:background="@color/black"
+        android:orientation="horizontal"></LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_bar_line_legend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/ll_bar_line_legend"
+        android:layout_marginLeft="5dp"
+        android:text="bar_1" />
+
+</RelativeLayout>

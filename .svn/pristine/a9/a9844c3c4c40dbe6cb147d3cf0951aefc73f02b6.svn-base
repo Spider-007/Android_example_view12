@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.htmitech.emportal.ui.detail.DetailActivityLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:arc="http://schemas.android.com/apk/res-auto"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_ffffffff"
+    android:orientation="vertical">
+
+
+    <include
+        android:id="@+id/layout_detail_titlebar"
+        layout="@layout/layout_titlebar_docdetail" />
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:id="@+id/webpluginProgressBar"
+        android:layout_width="match_parent"
+        android:layout_below="@id/layout_detail_titlebar"
+        android:layout_height="5px"
+        android:progressDrawable="@drawable/progress_bar_states"
+        />
+    <com.htmitech.MyView.EmptyLayout
+        android:id="@+id/emptyLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/layout_detail_titlebar">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:id="@+id/imageview_detail_divider"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/view_divider_height"
+                android:background="@color/color_ffdcdcdc" />
+
+            <org.apache.cordova.engine.mx.SystemWebView
+                android:id="@+id/cordovaWebView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                />
+            <HorizontalScrollView
+                android:id="@+id/hs_scrollview"
+                android:layout_width="fill_parent"
+                android:fillViewport="true"
+                android:scrollbars="none"
+                android:scrollbarAlwaysDrawHorizontalTrack="false"
+                android:layout_alignParentBottom="true"
+                android:visibility="gone"
+                android:layout_height="50dip">
+                <LinearLayout
+                    android:id="@+id/layout_buttom"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dip"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_vertical"
+                    android:visibility="gone"
+                    android:background="@color/white"/>
+            </HorizontalScrollView>
+
+        </LinearLayout>
+
+        <com.htmitech.emportal.ui.widget.LoadingView
+            android:id="@+id/loadingview_detail5"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@id/layout_detail_titlebar"
+            android:clickable="true"
+            android:visibility="gone" />
+
+        <com.htmitech.emportal.ui.widget.flatingactionButton.AddFloatingActionButton
+            android:id="@+id/function5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="20dp"
+            android:layout_marginTop="100dp"
+            android:scaleType="center"
+            android:src="@drawable/btn_operation_homelabel_off"
+            android:visibility="gone" />
+    </com.htmitech.MyView.EmptyLayout>
+
+</com.htmitech.emportal.ui.detail.DetailActivityLayout>

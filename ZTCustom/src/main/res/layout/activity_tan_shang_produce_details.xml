@@ -1,0 +1,99 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/allbackground"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/ll_produce_title_theme"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#002B53"
+        android:gravity="center_vertical" >
+
+        <ImageButton
+            android:id="@+id/ib_produce_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:gravity="center"
+            android:src="@drawable/btn_back" />
+
+        <TextView
+            android:id="@+id/tv_produce_title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:text="@string/title_produceprogress"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_tanshang_produce_details"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/tanshangproduceprogress_detial_table_height"
+        android:layout_below="@id/ll_produce_title_theme"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp" >
+    </android.support.v4.view.ViewPager>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/vp_tanshang_produce_details"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingTop="10dp" >
+
+        <ImageView
+            android:id="@+id/iv_progressdetial_point1"
+            android:layout_width="@dimen/table_width"
+            android:layout_height="@dimen/table_height"
+            android:padding="2dp" />
+
+        <ImageView
+            android:id="@+id/iv_progressdetial_point2"
+            android:layout_width="@dimen/table_width"
+            android:layout_height="@dimen/table_height"
+            android:padding="2dp" />
+
+        <ImageView
+            android:id="@+id/iv_progressdetial_point3"
+            android:layout_width="@dimen/table_width"
+            android:layout_height="@dimen/table_height"
+            android:padding="2dp" />
+
+        <ImageView
+            android:id="@+id/iv_progressdetial_point4"
+            android:layout_width="@dimen/table_width"
+            android:layout_height="@dimen/table_height"
+            android:padding="2dp" />
+
+        <ImageView
+            android:id="@+id/iv_progressdetial_point5"
+            android:layout_width="@dimen/table_width"
+            android:layout_height="@dimen/table_height"
+            android:padding="2dp" />
+
+        <ImageView
+            android:id="@+id/iv_progressdetial_point6"
+            android:layout_width="@dimen/table_width"
+            android:layout_height="@dimen/table_height"
+            android:padding="2dp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_progress_detial_i"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp"
+        android:clickable="true"
+        android:src="@drawable/htmitech_shezhi_1" />
+
+</RelativeLayout>

@@ -1,0 +1,21 @@
+cordova.define("org.apache.cordova.file.fileSystems-roots",function(e){/*
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+*/
+var l=null,o=e("./FileSystem"),n=e("cordova/exec");e("./fileSystems").getFs=function(e,s){function t(n){l={};for(var t=0;t<n.length;++t){var i=n[t],a=new o(i.filesystemName,i);l[a.name]=a}s(l[e])}l?s(l[e]):n(t,null,"File","requestAllFileSystems",[])}});

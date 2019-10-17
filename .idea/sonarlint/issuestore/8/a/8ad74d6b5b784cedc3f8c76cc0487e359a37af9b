@@ -1,0 +1,10 @@
+
+lsquid:S00116	"TRename this field "defect_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Šß
+ssquid:S00116
+"VRename this field "defect_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùåŠÁûÿÿÿÿ
+qsquid:S00116"TRename this field "sscd_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÓ èúÿÿÿÿ
+rsquid:S00116"URename this field "check_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÈ¬ùüÿÿÿÿ
+vsquid:S00116"YRename this field "check_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¼Äÿÿÿÿÿ
+lsquid:S00116"TRename this field "xlgq_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö˜¿ä
+ssquid:S00116"VRename this field "defect_desc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø²Şõüÿÿÿÿ
+qsquid:S00116"YRename this field "defect_cz_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î·¡€

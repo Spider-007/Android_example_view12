@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white" >
+
+    <include
+        android:id="@+id/system_title"
+        layout="@layout/system_title" />
+
+    <com.htmitech.MyView.EmptyLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/el_layout"
+        android:layout_below="@id/system_title">
+        <com.htmitech.MyView.DragGrid
+            android:id="@+id/center_gridview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/white"
+            android:padding="1dp"
+            android:gravity="center"
+            android:listSelector="@android:color/transparent"
+            android:scrollbars="vertical"
+            android:stretchMode="columnWidth"
+            android:layoutAnimation="@anim/ht_gridview_anim"
+            android:numColumns="3" >
+        </com.htmitech.MyView.DragGrid>
+    </com.htmitech.MyView.EmptyLayout>
+
+
+    <!--
+    <com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/listview_todo"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/system_title"
+        android:divider="@null"
+        android:listSelector="@null" >
+    </com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView>
+    -->
+
+</RelativeLayout>

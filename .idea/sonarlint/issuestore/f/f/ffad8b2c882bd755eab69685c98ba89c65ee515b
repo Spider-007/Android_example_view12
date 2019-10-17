@@ -1,0 +1,8 @@
+
+osquid:S00116""WRename this field "tv_clean_all" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÎö¿
+xsquid:S00116!"[Rename this field "layout_clean_all" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¹íıÿÿÿÿ
+rsquid:S1450""[Remove the "tv_clean_all" field and declare it as a local variable in the relevant methods.(ÖÎö¿
+rsquid:S1450 "VRemove the "mCancel" field and declare it as a local variable in the relevant methods.(û­½„ùÿÿÿÿ
+tsquid:S1450"]Remove the "mSearchButtoon" field and declare it as a local variable in the relevant methods.(Àÿàí
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿªÓ¼ùÿÿÿÿ
+ssquid:S1450"\Remove the "mAutoListView" field and declare it as a local variable in the relevant methods.(Àòà

@@ -1,0 +1,2754 @@
+[
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_tab_bg.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_tab_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\app_center_list_child_back.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\app_center_list_child_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_check_message_list_item.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_check_message_list_item.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_popup_window_item_left_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_popup_window_item_left_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_back_ht_color_baise.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_back_ht_color_baise.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_list_item_selector_highlight.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_list_item_selector_highlight.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_residemenu_btn_down.xml",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_residemenu_btn_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_trans_bg.png",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_trans_bg.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\dayreport_shaixuan_noseleted_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\dayreport_shaixuan_noseleted_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\carvehicle_redline_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\carvehicle_redline_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_progress_green.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_progress_green.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_radio_button.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_radio_button.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text2_selector.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text2_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_gridview_adapter.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_fragment_gridview_adapter.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_check.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\zt_check.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_space.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_space.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_new_message_bottom_camera.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_new_message_bottom_camera.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_bottom_selector.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\combobox_false_ismustinput.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\combobox_false_ismustinput.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_trans_bg.png",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_trans_bg.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_actionsheet_middle_pressed.9.png",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_actionsheet_middle_pressed.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\classify_dialog_back.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\classify_dialog_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_word_shift_layerlist_da.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_word_shift_layerlist_da.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\quality_objection_detail_viewpager_textview_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\quality_objection_detail_viewpager_textview_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_delete.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_delete.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\classify_drawable.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\classify_drawable.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_word_del_layerlist.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_word_del_layerlist.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mm_submenu.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mm_submenu.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroud_shap_while.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\backgroud_shap_while.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\quality_objection_detail_viewpager_textview_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\quality_objection_detail_viewpager_textview_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_done.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_done.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_webview_tab_refresh_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_webview_tab_refresh_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_new_message_bottom_camera.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_new_message_bottom_camera.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\carvehicle_greydot_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\carvehicle_greydot_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_style_alert_dialog_special.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_single_selector.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_pressed_mid_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_pressed_mid_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_bg_edittext_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_bg_edittext_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatting_footer_switcher_input_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatting_footer_switcher_input_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\search_back.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\search_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_delete.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\btn_delete.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_qiehuan.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_qiehuan.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_bg.xml",
+        "source": "F:\\ZTGG3\\datapicker_library\\build\\intermediates\\bundles\\default\\res\\drawable\\shape_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\qualitybook_numsearch_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\qualitybook_numsearch_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_friendactivity_comment_icon.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_friendactivity_comment_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_back_ht_color.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_back_ht_color.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chat_mute_notify.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chat_mute_notify.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_gridview_adapter_down.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_gridview_adapter_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background_holo_dark.xml",
+        "source": "F:\\ZTGG\\datapicker_library\\build\\intermediates\\bundles\\default\\res\\drawable\\item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_menu_tab_name_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_menu_tab_name_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_email_icon.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_email_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_word_del_layerlist2.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_word_del_layerlist2.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_indicator_bg_bottom.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\toggle_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_cancel.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_cancel.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\quality_objection_submit_edit_layler_list.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\quality_objection_submit_edit_layler_list.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_day_button_pressed.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_day_button_pressed.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\kinggrid_components_thumbnail_top.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\kinggrid_components_thumbnail_top.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_bg_edittext_radius_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_bg_edittext_radius_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_comm_red_button.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_comm_red_button.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatting_setmode_keyboard_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatting_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_text_color_selector.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\menu_text_color_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_back_ht_color_baise.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_back_ht_color_baise.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\dayreport_shaixuan_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\dayreport_shaixuan_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\search_back.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\search_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mm_submenu_down.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mm_submenu_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_menu_compose_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_menu_compose_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_angle_down_circle.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_angle_down_circle.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_switch_track_selected.9.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_switch_track_selected.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\toggle_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_alert_btn_left_pressed.9.png",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_alert_btn_left_pressed.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mm_submenu_down.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mm_submenu_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\quality_objection_detail_submit_edittext_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\quality_objection_detail_submit_edittext_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_back_.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\zt_back_.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_single_selector.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\alertdialog_single_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_voice_to_icon_anim.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_voice_to_icon_anim.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_webview_tab_back_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_webview_tab_back_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_select_back_unfocused.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\edittext_select_back_unfocused.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_video_recorder_start_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_video_recorder_start_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_video_stop_download_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_video_stop_download_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_btn_check_message_list_dark.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_btn_check_message_list_dark.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_window_box_top_item_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_window_box_top_item_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_residemenu_btn.xml",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_residemenu_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_new_message_bottom_at.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_new_message_bottom_at.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_indicator_bg_bottom.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\buttom_message.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\buttom_message.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_net_warn_detail_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_net_warn_detail_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\home_layout_back.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\home_layout_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_special.xml",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_comm_blue_button.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_comm_blue_button.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_comm_white_button_search.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_comm_white_button_search.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_text_buttom_back.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_text_buttom_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_day.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_day.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_selectable_item_background.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_selectable_item_background.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_new_message_bottom_video.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_new_message_bottom_video.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_list_item_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_list_item_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_bg_grid_remove_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_bg_grid_remove_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\classify_drawable.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\classify_drawable.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\pb_default.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\pb_default.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_lanse_down.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\choose_lanse_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_word_shift_layerlist_da.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_word_shift_layerlist_da.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_reported_selector.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\tab_reported_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_new_message_bottom_attach.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_new_message_bottom_attach.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_word_del_layerlist.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_word_del_layerlist.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_list_bg_contact_dropdown_container.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_list_bg_contact_dropdown_container.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_text.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\flag_text.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_list_bg_contact_dropdown_container.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_list_bg_contact_dropdown_container.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\carvehicle_reddot_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\carvehicle_reddot_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_text_back.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_text_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_comm_red_button.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_comm_red_button.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\form_input_bg_must.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\form_input_bg_must.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text3_selector.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text3_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\fragment_gridview_adapter_down.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\fragment_gridview_adapter_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_smiley_item_bg_s.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_smiley_item_bg_s.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\sidebar_background.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_back_ht_color.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_back_ht_color.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_appitem_del_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_appitem_del_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_app_panel_shade.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_app_panel_shade.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_white_empty_little_stroke.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_white_empty_little_stroke.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_new_message_bottom_topic.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_new_message_bottom_topic.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_background_round.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_background_round.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_voice_to_icon_anim.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_voice_to_icon_anim.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_thread_count_box_light.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_thread_count_box_light.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rl_topic_bg.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\shape_rl_topic_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_ic_dialog.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_ic_dialog.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\ZTGG3\\datapicker_library\\build\\intermediates\\bundles\\default\\res\\drawable\\list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\card_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\card_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_right_selector.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\alertdialog_right_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_new_message_bottom_attach.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_new_message_bottom_attach.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_unpressed_right_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_unpressed_right_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_shift.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_shift.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_single_selector.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\alertdialog_single_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_single_selector.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_thread_count_box_light.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_thread_count_box_light.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_text_background_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_text_background_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_smiley_item_bg_s.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_smiley_item_bg_s.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_s_compose_addr_btn_to.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_s_compose_addr_btn_to.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_grid_item_border_selected.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_grid_item_border_selected.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangel_bg_white.xml",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\rectangel_bg_white.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_left.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_left.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_signature.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ce5ee4a78c4d0585110dfe82184760338f351b90\\output\\res\\drawable\\bg_signature.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_alert_btn_left_pressed.9.png",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_alert_btn_left_pressed.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_text_back_not_pad.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_text_back_not_pad.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatting_footer_switcher_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatting_footer_switcher_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_queding.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\choose_queding.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\car_search.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\car_search.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\form_input_bg_required.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\form_input_bg_required.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\demosountersign.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ce5ee4a78c4d0585110dfe82184760338f351b90\\output\\res\\drawable\\demosountersign.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\eben_border_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\eben_border_bottom.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_qiehuan.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_qiehuan.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_day_button_unpressed.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_day_button_unpressed.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\app_center_list_child_back.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\app_center_list_child_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background_pressed.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\sidebar_background_pressed.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_new_message_bottom_audio.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_new_message_bottom_audio.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text1_selector.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text1_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_gridview_adapter.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_fragment_gridview_adapter.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_day.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_day.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_grid_item_border_selected.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_grid_item_border_selected.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_type_select_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_type_select_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_menu_delete_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_menu_delete_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chat_mute_notify.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chat_mute_notify.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_preference_one_item.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_preference_one_item.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_quick_return_select.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_quick_return_select.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\combobox_true.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\combobox_true.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_switch_track_selected.9.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_switch_track_selected.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chat_muti_more_icon.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chat_muti_more_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\application_center.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\application_center.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_day_button_pressed.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_day_button_pressed.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatto_bg_app.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatto_bg_app.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_webview_bottom_panel.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_webview_bottom_panel.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_grid_item_border.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_grid_item_border.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_pressed_left_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_pressed_left_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_adapter_card_back.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\zt_adapter_card_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_quick_return_select.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_quick_return_select.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_rect_circular.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_rect_circular.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_health_msg_layout.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_health_msg_layout.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\from_input_native_not_bt.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\from_input_native_not_bt.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_app_center_back.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_app_center_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_lanse.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\choose_lanse.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\kinggrid_components_thumbnail_top.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\kinggrid_components_thumbnail_top.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\check_text.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\check_text.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mm_trans.9.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mm_trans.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\eben_border_null.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\eben_border_null.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\combobox_false_ismustinput.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\combobox_false_ismustinput.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text1up_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text1up_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatto_bg_app.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatto_bg_app.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_style.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\textview_style.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_grid_list_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_grid_list_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_lanse_down.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\choose_lanse_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatfrom_bg_voice.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatfrom_bg_voice.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chat_muti_forward_icon.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chat_muti_forward_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_video_play_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_video_play_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mm_chat_listitem.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mm_chat_listitem.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_bottom_selector.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_s_list_bg_contact_dropdown.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_s_list_bg_contact_dropdown.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_adapter_card_back.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\zt_adapter_card_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_switch_thumb.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_loading.xml",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\refresh_loading.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\word_name_kg.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9937cbb6e26341363888342a2af8b0c2f8551456\\output\\res\\drawable\\word_name_kg.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_health_msg_layout.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_health_msg_layout.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_ic_notify_check_mail.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_ic_notify_check_mail.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_number_selector_bg.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_number_selector_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_trans.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_trans.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\po_seekbar.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\po_seekbar.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_ic_notify_check_mail.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_ic_notify_check_mail.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\pb_default.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\pb_default.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green.xml",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_green.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\ZTGG\\datapicker_library\\build\\intermediates\\bundles\\default\\res\\drawable\\list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\send_message.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\send_message.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\demosountersign.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9937cbb6e26341363888342a2af8b0c2f8551456\\output\\res\\drawable\\demosountersign.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_message_item_topic_bg.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_message_item_topic_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_popup_window_item_right_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_popup_window_item_right_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_health_praise_img_select.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_health_praise_img_select.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\combobox_true_ismustinput.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\combobox_true_ismustinput.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\from_input_native_bt.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\from_input_native_bt.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_message_list_item_footer_background.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_message_list_item_footer_background.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_actionsheet_single_selector.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\zt_actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_selecter.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\layout_selecter.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_forward.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\icon_forward.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_white_press.xml",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_white_press.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\carvehicle_dashed_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\carvehicle_dashed_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\text_back.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\text_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_divide_line.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_divide_line.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_message_selector.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\tab_message_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\video_formcheckbox_selector.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\video_formcheckbox_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\sidebar_background.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\eben_border_right.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\eben_border_right.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_header_bar_btn_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_header_bar_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatfrom_bg_voice.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatfrom_bg_voice.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_style.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\checkbox_style.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_actionsheet_middle_selector.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\zt_actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_btn_check_message_list_light.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_btn_check_message_list_light.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\quality_objection_deal_over_checkbox_seletor.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\quality_objection_deal_over_checkbox_seletor.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_popup_menu_item_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_popup_menu_item_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_search.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_search.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text3pressed_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text3pressed_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_list_bg_contact_dropdown_item_pressed.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_list_bg_contact_dropdown_item_pressed.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_right_selector.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\alertdialog_right_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\carvehicle_greydot_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\carvehicle_greydot_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_btn_edit.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_btn_edit.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\dayreport_shaixuan_button.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\dayreport_shaixuan_button.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\img_circle.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\img_circle.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\quality_objection_common_adatper_state_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\quality_objection_common_adatper_state_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\card_shape_top.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\card_shape_top.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\check_layout.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\check_layout.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_check_im_message_item.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_check_im_message_item.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_check_im_message_item.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_check_im_message_item.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_call_icon.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_call_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\record_microphone.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\record_microphone.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\eben_border_right.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\eben_border_right.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_wheel_val.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_wheel_val.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\combobox_select.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\combobox_select.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_popup_window_item_right_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_popup_window_item_right_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_video_play_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_video_play_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_popup_window_item_middle_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_popup_window_item_middle_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_list_bg_contact_dropdown_item_pressed.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_list_bg_contact_dropdown_item_pressed.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\kinggrid_bg_toolbar.jpg",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\kinggrid_bg_toolbar.jpg"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_webview_tab_forward_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_webview_tab_forward_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mm_checkbox_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mm_checkbox_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rl_topic_bg.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\shape_rl_topic_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\form_input_bg_must_style_local.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\form_input_bg_must_style_local.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_text_reply_background_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_text_reply_background_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\fragment_gridview_adapter_down.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\fragment_gridview_adapter_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_select_back.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\edittext_select_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_style_alert_dialog_cancel.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_style_alert_dialog_cancel.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_btn_dialog.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_btn_dialog.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\kinggrid_components_thumbnail_corner.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\kinggrid_components_thumbnail_corner.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mm_title_btn_share.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mm_title_btn_share.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_right_settings_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_right_settings_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_editflag.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ic_editflag.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_day_down.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_day_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_header_bar_btn_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_header_bar_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_health_praise_img_select.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_health_praise_img_select.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\combobox_false.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\combobox_false.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_angle_up_circle.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_angle_up_circle.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_webview_bottom_panel.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_webview_bottom_panel.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\img_progressbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\img_progressbar.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_bg_slid_item_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_bg_slid_item_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\from_input_native_bt_face.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\from_input_native_bt_face.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_white_press_bigangle.xml",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_white_press_bigangle.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_message_selector.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\tab_message_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_sms_icon.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_sms_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_menu_reply_all_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_menu_reply_all_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_right.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_right.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_special.xml",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_text_color_selector.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\menu_text_color_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_new_message_bottom_audio.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_new_message_bottom_audio.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_menu_all_read_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_menu_all_read_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_appitem_del_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_appitem_del_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\check_text.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\check_text.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\classify_dialog_back.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\classify_dialog_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_done.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_done.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\ht_imofan_round_progress_bar_1.xml",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ht_imofan_round_progress_bar_1.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\special_focus.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\special_focus.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_message_list_item_footer_background.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_message_list_item_footer_background.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_tablecell_bg.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\layout_tablecell_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_gridview_adapter_down.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_gridview_adapter_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_delete_press.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\btn_delete_press.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_alertdialog_single_selector.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_alertdialog_single_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_bg_edittext_radius_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_bg_edittext_radius_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatto_bg.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatto_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_delete_normal.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\btn_delete_normal.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_annot_text_dialog.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\bg_annot_text_dialog.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\login_button.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_style_alert_dialog_special.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatfrom_bg.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatfrom_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_indicator_bg_top.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_indicator_bg_top.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chat_muti_more_icon.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chat_muti_more_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_preference_one_item.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_preference_one_item.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\play_back.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\play_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_radio_button.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_radio_button.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_new_message_bottom_topic.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_new_message_bottom_topic.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chat_muti_delete_icon.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chat_muti_delete_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_window_box_item_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_window_box_item_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_smile_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_smile_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_delete.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\btn_delete.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\eben_border_bottom_color.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\eben_border_bottom_color.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text2up_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text2up_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_selector_blue_bg.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_selector_blue_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\card_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\card_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chat_icon.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chat_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbarclor.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\progressbarclor.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_window_box_top_item_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_window_box_top_item_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_residemenu_btn_down.xml",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_residemenu_btn_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_editflag.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ic_editflag.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_popup_menu_item_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_popup_menu_item_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_video_stop_download_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_video_stop_download_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mm_title_act_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mm_title_act_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\form_input_bg_selected.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\form_input_bg_selected.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_ocu_sub_menu_item_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_ocu_sub_menu_item_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_number_selector_bg.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_number_selector_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_left.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_left.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_radio_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_radio_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_determine.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_determine.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_green.xml",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_green.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\video_formcheckbox_selector.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\video_formcheckbox_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_bg_slid_item_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_bg_slid_item_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_actionsheet_bottom_selector.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\zt_actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_sms_icon.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_sms_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_years_down.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_years_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\application_center.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\application_center.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\carvehicle_dashed_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\carvehicle_dashed_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_alertdialog_right_selector.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_alertdialog_right_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\name_et_shap.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\name_et_shap.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\home_layout_back.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\home_layout_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_video_recorder_start_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_video_recorder_start_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_list_item_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_list_item_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_comm_white_button_search.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_comm_white_button_search.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\record_microphone_bj.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\record_microphone_bj.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_white_press_stroke.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_white_press_stroke.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_switch_thumb_normal.9.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_switch_thumb_normal.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\formradiobutton_selector.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\formradiobutton_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatto_bg_voice.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatto_bg_voice.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_sound.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\flag_sound.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_green.xml",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_green.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_search.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_search.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white.xml",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_white.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\special_focus.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\special_focus.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green.xml",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_green.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text1up_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text1up_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_switch_track_unselected.9.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_switch_track_unselected.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_switch_track_unselected.9.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_switch_track_unselected.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_pressed_mid_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_pressed_mid_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_green_press.xml",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_green_press.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_month_down.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_month_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\combobox_true.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\combobox_true.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_alertdialog_right_selector.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_alertdialog_right_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_unpressed_right_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_unpressed_right_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\form_input_bg_must_local.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\form_input_bg_must_local.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_bg_grid_add_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_bg_grid_add_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_selecter.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\layout_selecter.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_green_press.xml",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_green_press.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_window_box_item_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_window_box_item_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_indicator_layout_page.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_indicator_layout_page.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroud_shap_while.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\backgroud_shap_while.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text3pressed_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text3pressed_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\formcheckbox_selector.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\formcheckbox_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_style_alert_dialog_cancel.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_style_alert_dialog_cancel.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_month_down.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_month_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_detail_type_list_back.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d159da872bd8a8a3ffe113606c5671264bbdfd2\\output\\res\\drawable\\zt_fragment_detail_type_list_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\eben_border_bottom_color.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\eben_border_bottom_color.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_select_back.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\edittext_select_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_progress_horizontal.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_progress_horizontal.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_menu_tab_name_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_menu_tab_name_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_loading.xml",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\refresh_loading.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_dropdown.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\icon_dropdown.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_style_number.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\textview_style_number.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_unpressed_left_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_unpressed_left_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_message_item_topic_bg.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_message_item_topic_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_actionsheet_middle_selector.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\zt_actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_space.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_space.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_popup_window_item_middle_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_popup_window_item_middle_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_day_down.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_day_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_unpressed_mid_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_unpressed_mid_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_btn_check_message_list_light.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_btn_check_message_list_light.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rectangle_regist_button_selector2.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\shape_rectangle_regist_button_selector2.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatfrom_bg_app.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatfrom_bg_app.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_ocu_sub_menu_item_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_ocu_sub_menu_item_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_black_alpha.xml",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_black_alpha.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rectangle_regist_button_selector2.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\shape_rectangle_regist_button_selector2.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_actionsheet_middle_pressed.9.png",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_actionsheet_middle_pressed.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_list_item_selector_highlight.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_list_item_selector_highlight.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_menu_reply_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_menu_reply_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text1pressed_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text1pressed_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_webview_tab_forward_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_webview_tab_forward_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mm_title_btn_share.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mm_title_btn_share.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\img_circle.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\img_circle.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text3up_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text3up_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_backspace.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_backspace.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mm_checkbox_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mm_checkbox_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_alertdialog_single_selector.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_alertdialog_single_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_weld_selector.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\tab_weld_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_years.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_years.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_email_icon.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_email_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_progress_blue.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_progress_blue.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_menu_edit_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_menu_edit_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\play_back.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\play_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_app_center_back.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_app_center_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_selector_red_bg.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_selector_red_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_selectable_item_background.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_selectable_item_background.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\kinggrid_components_thumbnail_corner.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\kinggrid_components_thumbnail_corner.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_black_alpha.xml",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_black_alpha.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_s_list_bg_contact_dropdown.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_s_list_bg_contact_dropdown.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_sound.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\flag_sound.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_pressed_left_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_pressed_left_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\from_input_native_bt.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\from_input_native_bt.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_delete_normal.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\btn_delete_normal.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_back_arrow_white_selector.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\bg_back_arrow_white_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_wheel_bg.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_wheel_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_bg.xml",
+        "source": "F:\\ZTGG\\datapicker_library\\build\\intermediates\\bundles\\default\\res\\drawable\\shape_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_list_item_bg.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_list_item_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_left_settings_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_left_settings_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_gray.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\rect_gray.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_progress_blue.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_progress_blue.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_grid_item_border.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_grid_item_border.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_delete_press.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\btn_delete_press.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_wheel_bg.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_wheel_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_black_textcolor_selector.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_black_textcolor_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_new_message_bottom_video.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_new_message_bottom_video.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text3up_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text3up_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatfrom_bg_app.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatfrom_bg_app.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\po_seekbar.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\po_seekbar.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_annot_text_dialog.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\bg_annot_text_dialog.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_lanse.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\choose_lanse.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatto_bg_voice.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatto_bg_voice.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\kinggrid_components_thumbnail_left.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\kinggrid_components_thumbnail_left.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_checkbox_selector.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_checkbox_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\dayreport_shaixuan_button.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\dayreport_shaixuan_button.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_cancel.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_cancel.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_queding.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\choose_queding.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_black_textcolor_selector.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_black_textcolor_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_list_bg_contact_dropdown_item.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_list_bg_contact_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\buttom_message.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\buttom_message.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_gray.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\rect_gray.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_switch_track.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_switch_track.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_progress_horizontal.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_progress_horizontal.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_text_back_not_pad.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_text_back_not_pad.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\from_input_native_bt_face.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\from_input_native_bt_face.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_pressed_right_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_pressed_right_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\from_input_native_not_bt_face.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\from_input_native_not_bt_face.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_light.xml",
+        "source": "F:\\ZTGG\\datapicker_library\\build\\intermediates\\bundles\\default\\res\\drawable\\list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_white_press.xml",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_white_press.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_signature.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9937cbb6e26341363888342a2af8b0c2f8551456\\output\\res\\drawable\\bg_signature.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_white_press_bigangle.xml",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_white_press_bigangle.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_cancel_down.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_cancel_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_menu_forward_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_menu_forward_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_shift.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_shift.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_month.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_month.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_call_icon.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_call_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_menu_reply_all_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_menu_reply_all_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_new_message_bottom_at.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_new_message_bottom_at.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_actionsheet_single_selector.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\zt_actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text2pressed_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text2pressed_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\form_input_bg_selected.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\form_input_bg_selected.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\header_arrow_right.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\header_arrow_right.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_bg_grid_remove_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_bg_grid_remove_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_determine_down.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_determine_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_commbox.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\bg_commbox.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_grid_list_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_grid_list_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatting_footer_switcher_input_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatting_footer_switcher_input_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_white_press_stroke.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_white_press_stroke.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\submenu.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\submenu.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_reply_bg.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_reply_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text2pressed_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text2pressed_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mmfooter_textmenuicon_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mmfooter_textmenuicon_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_sd_checkbox.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_sd_checkbox.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_circle_error_post_content_bg.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_circle_error_post_content_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_background_round.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_background_round.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background_holo_dark.xml",
+        "source": "F:\\ZTGG3\\datapicker_library\\build\\intermediates\\bundles\\default\\res\\drawable\\item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_select.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\cb_select.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\text_back.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\text_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_white.xml",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_white.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_commbox.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\bg_commbox.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_left_settings_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_left_settings_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_btn_check_message_list_dark.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_btn_check_message_list_dark.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_reply_bg.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_reply_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_style_number.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\textview_style_number.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_light.xml",
+        "source": "F:\\ZTGG3\\datapicker_library\\build\\intermediates\\bundles\\default\\res\\drawable\\list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_menu_forward_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_menu_forward_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_back_arrow_white_selector.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\bg_back_arrow_white_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_trans.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_trans.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_left_selector.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\alertdialog_left_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_pressed_right_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_pressed_right_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_back_.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\zt_back_.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_del_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_del_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_unread_count_background.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_unread_count_background.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_eidittext.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\widget_eidittext.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_menu_edit_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_menu_edit_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_divide_line.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_divide_line.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\qualitybook_searched_news.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\qualitybook_searched_news.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_s_compose_addr_btn_to.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_s_compose_addr_btn_to.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_years_down.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_years_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_detail_type_list_back.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b0c37f87824e00a2c61f4f7a41eb8db2f416a6db\\output\\res\\drawable\\zt_fragment_detail_type_list_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_menu_reply_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_menu_reply_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\quality_objection_submit_edit_layler_list.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\quality_objection_submit_edit_layler_list.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_checked_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_checked_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_btn_dialog.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_btn_dialog.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_friendactivity_comment_icon.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_friendactivity_comment_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatting_setmode_voice_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatting_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_app_panel_shade.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_app_panel_shade.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_radio_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_radio_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white.xml",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_white.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\form_input_bg_must.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\form_input_bg_must.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_determine_down.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_determine_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_selector_bg.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_selector_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mmfooter_textmenuicon_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mmfooter_textmenuicon_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\form_input_bg_must_local.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\form_input_bg_must_local.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_angle_down_circle.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_angle_down_circle.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_webview_tab_refresh_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_webview_tab_refresh_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\kinggrid_bg_toolbar.jpg",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\kinggrid_bg_toolbar.jpg"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_menu_delete_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_menu_delete_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_comm_blue_button.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_comm_blue_button.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\carvehicle_redline_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\carvehicle_redline_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_switch_thumb_normal.9.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_switch_thumb_normal.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_eidittext.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\widget_eidittext.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_new_message_bottom_smiley.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_new_message_bottom_smiley.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\card_shape_top.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\card_shape_top.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_menu_compose_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_menu_compose_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_tab_bg.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_tab_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_del_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_del_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_forward.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\icon_forward.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_backspace.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_backspace.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_new_message_bottom_smiley.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_new_message_bottom_smiley.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_ic_dialog.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_ic_dialog.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_wheel_val.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_wheel_val.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\dayreport_shaixuan_noseleted_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\dayreport_shaixuan_noseleted_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text2_selector.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text2_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\eben_border_null.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\eben_border_null.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_white.xml",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_white.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_comm_white_button.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_comm_white_button.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_popup_window_item_left_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_popup_window_item_left_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_list_bg_contact_dropdown_item.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_list_bg_contact_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_unpressed_left_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_unpressed_left_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_check_message_list_item.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_check_message_list_item.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_s_compose_addr_btn_error.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_s_compose_addr_btn_error.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_rect_circular.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_rect_circular.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_net_warn_detail_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_net_warn_detail_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_angle_up_circle.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_angle_up_circle.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chat_muti_forward_icon.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chat_muti_forward_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background_holo_light.xml",
+        "source": "F:\\ZTGG\\datapicker_library\\build\\intermediates\\bundles\\default\\res\\drawable\\item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_voice_from_icon_anim.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_voice_from_icon_anim.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\carvehicle_reddot_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\carvehicle_reddot_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\quality_objection_detail_submit_edittext_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\quality_objection_detail_submit_edittext_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_dropdown.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\icon_dropdown.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_alertdialog_left_selector.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_alertdialog_left_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\name_et_shap.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\name_et_shap.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background_pressed.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\sidebar_background_pressed.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\header_bar_btn_selector.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\header_bar_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\quality_objection_deal_over_checkbox_seletor.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\quality_objection_deal_over_checkbox_seletor.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_checked_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_checked_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_word_shift_layerlist.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_word_shift_layerlist.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_bg_grid_add_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_bg_grid_add_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_indicator_layout_page.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_indicator_layout_page.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\combobox_select.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\combobox_select.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_years.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_years.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_weld_selector.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\tab_weld_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_switch_track.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_switch_track.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_cancel_down.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_cancel_down.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_actionsheet_top_selector.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\zt_actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\from_input_native_not_bt_face.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\from_input_native_not_bt_face.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_text.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\flag_text.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_sd_checkbox.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_sd_checkbox.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\quality_objection_common_adatper_state_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\quality_objection_common_adatper_state_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_thread_count_box_dark.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_thread_count_box_dark.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_text_reply_background_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_text_reply_background_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_select.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\cb_select.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_select_back_unfocused.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\edittext_select_back_unfocused.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_right.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_right.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_unread_widget_icon.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_unread_widget_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\word_name_kg.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ce5ee4a78c4d0585110dfe82184760338f351b90\\output\\res\\drawable\\word_name_kg.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_alertdialog_left_selector.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_alertdialog_left_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\dayreport_shaixuan_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\dayreport_shaixuan_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_btn_edit.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_btn_edit.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_text_buttom_back.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_text_buttom_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_selector_blue_bg.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_selector_blue_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_residemenu_btn.xml",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_residemenu_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\formcheckbox_selector.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\formcheckbox_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\form_input_bg_required.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\form_input_bg_required.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\eben_border_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8341bf3392efe87883cee151a0c6ab7119cda19c\\output\\res\\drawable\\eben_border_bottom.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text3_selector.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text3_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_type_select_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_type_select_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_text_background_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_text_background_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_circle_error_post_content_bg.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_circle_error_post_content_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\record_microphone.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\record_microphone.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatfrom_bg.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatfrom_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_switch_thumb.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_reported_selector.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\tab_reported_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_checkbox_selector.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_checkbox_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_left_selector.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\alertdialog_left_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_fragment_month.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\zt_fragment_month.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\header_arrow_right.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\header_arrow_right.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_thread_count_box_dark.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_thread_count_box_dark.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\qualitybook_searched_news.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\qualitybook_searched_news.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\kinggrid_components_thumbnail_left.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\kinggrid_components_thumbnail_left.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatting_setmode_keyboard_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatting_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_comm_white_button.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_comm_white_button.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_bg_edittext_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_bg_edittext_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\login_button.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_word_del_layerlist2.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_word_del_layerlist2.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\header_bar_btn_selector.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\header_bar_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbarclor.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\progressbarclor.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg_white_empty_little_stroke.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corners_bg_white_empty_little_stroke.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatting_setmode_voice_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatting_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_voice_from_icon_anim.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_voice_from_icon_anim.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_smile_btn.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_smile_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text1pressed_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text1pressed_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_delete.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_delete.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatto_bg.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatto_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_determine.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\zt_determine.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mm_title_act_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mm_title_act_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_actionsheet_bottom_selector.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\zt_actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background_holo_light.xml",
+        "source": "F:\\ZTGG3\\datapicker_library\\build\\intermediates\\bundles\\default\\res\\drawable\\item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_text_back.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\activity_text_back.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text1_selector.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text1_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_comm_blue_button2.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_comm_blue_button2.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\combobox_false.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\combobox_false.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\img_progressbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\081fc8d29f29708228737a78f4a78441b7dfb137\\output\\res\\drawable\\img_progressbar.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chatting_footer_switcher_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chatting_footer_switcher_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_tablecell_bg.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\layout_tablecell_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\record_microphone_bj.xml",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\record_microphone_bj.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_day_button_unpressed.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_day_button_unpressed.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_unread_widget_icon.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_unread_widget_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_progress_green.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_progress_green.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chat_icon.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chat_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\combobox_true_ismustinput.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\combobox_true_ismustinput.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\check_layout.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\check_layout.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_drawlayout_text2up_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\complete_drawlayout_text2up_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mm_chat_listitem.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mm_chat_listitem.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangel_bg_white.xml",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\rectangel_bg_white.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_selector_bg.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_selector_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\qualitybook_numsearch_shape.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\qualitybook_numsearch_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_style.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\checkbox_style.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mm_trans.9.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mm_trans.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\form_input_bg_must_style_local.xml",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\form_input_bg_must_style_local.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_unread_count_background.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_unread_count_background.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\send_message.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\send_message.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\newfindinjury_unpressed_mid_shape.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\newfindinjury_unpressed_mid_shape.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mm_submenu.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mm_submenu.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\submenu.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\submenu.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_webview_tab_back_btn.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_webview_tab_back_btn.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_list_item_bg.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_list_item_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_s_compose_addr_btn_error.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_s_compose_addr_btn_error.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\ht_imofan_round_progress_bar_1.xml",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ht_imofan_round_progress_bar_1.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\from_input_native_not_bt.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\from_input_native_not_bt.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_check.xml",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable\\zt_check.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\formradiobutton_selector.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\formradiobutton_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_indicator_bg_top.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_indicator_bg_top.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_style.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable\\textview_style.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_selector_red_bg.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_selector_red_bg.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_mail_menu_all_read_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_mail_menu_all_read_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_comm_blue_button2.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_comm_blue_button2.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\zt_actionsheet_top_selector.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\zt_actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_chat_muti_delete_icon.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_chat_muti_delete_icon.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\mx_btn_right_settings_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\mx_btn_right_settings_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\car_search.xml",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable\\car_search.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_word_shift_layerlist.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable\\keyboard_word_shift_layerlist.xml"
+    }
+]

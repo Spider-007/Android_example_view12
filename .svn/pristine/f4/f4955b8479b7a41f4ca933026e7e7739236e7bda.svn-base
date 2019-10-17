@@ -1,0 +1,104 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#E5E5E5" >
+
+
+    <RelativeLayout
+        android:id="@+id/layout_daiban_titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        skin:enable="true"
+        android:background="@color/ht_hred_title" >
+
+        <ImageView
+            android:id="@+id/iv_back1"
+            style="@style/title_button"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            skin:enable="true"
+            android:background="@drawable/mx_btn_back"
+            android:scaleType="center" />
+
+        <TextView
+            android:id="@+id/daibantopTabIndicator_bbslist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/ht_title_text_color"
+            skin:enable="true"
+            android:textSize="18dp"
+            android:text="@string/add_applicationcenter"/>
+
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/layout_center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_below="@+id/layout_daiban_titlebar">
+        <com.htmitech.app.widget.XCRoundRectImageView
+            android:id="@+id/xc_pic_logo"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/icon_app_centre_normal"
+            android:layout_margin="8dp"
+
+            />
+        <TextView
+            android:id="@+id/tv_app_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="13710"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/layout_buttom_app"
+        android:layout_below="@+id/layout_center"
+        android:layout_width="match_parent"
+        android:layout_margin="8dp"
+        android:background="@color/white"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:text="@string/function_jieshao"
+            android:padding="8dp"
+
+            />
+        <TextView
+            android:id="@+id/tv_jieshao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:text="@string/function_jieshao"
+            android:padding="8dp"
+            />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/exitlogin_btn"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/layout_buttom_app"
+        android:layout_height="@dimen/common_btn_height"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_style_alert_dialog_special"
+        android:gravity="center"
+        android:text="@string/function_anzhuang"
+        android:textColor="@color/white"
+        android:textSize="18.0dip" />
+
+</RelativeLayout>

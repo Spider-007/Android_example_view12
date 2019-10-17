@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+
+        <ImageView
+            android:id="@+id/iv_upload_file_finish_delete_up_adapter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="12dp"
+            android:src="@drawable/ic_docx" />
+
+        <RelativeLayout
+            android:id="@+id/rl_upload_file_finish_delete_up_adapter_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true">
+
+            <CheckBox
+                android:id="@+id/cb_upload_file_finish_delete_up_right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:button="@drawable/checkbox_selector" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_upload_file_finish_delete_up_adapter_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="12dp"
+            android:layout_toLeftOf="@id/rl_upload_file_finish_delete_up_adapter_right"
+            android:layout_toRightOf="@id/iv_upload_file_finish_delete_up_adapter"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="待办标题"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_upload_file_finish_delete_up_adapter_information"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_upload_file_finish_delete_up_adapter_title"
+            android:layout_marginBottom="12dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="6dp"
+            android:layout_toLeftOf="@id/rl_upload_file_finish_delete_up_adapter_right"
+            android:layout_toRightOf="@id/iv_upload_file_finish_delete_up_adapter"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="工作流-表单签批 230.00KB/500.52KB"
+            android:textColor="#666666"
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

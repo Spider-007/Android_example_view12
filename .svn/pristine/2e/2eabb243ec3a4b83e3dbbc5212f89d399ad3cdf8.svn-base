@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<calendar.widget.WeekView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    skin:enable="true"
+    android:paddingBottom="2dp">
+
+    <include layout="@layout/day_layout" />
+    <include layout="@layout/day_layout" />
+    <include layout="@layout/day_layout" />
+    <include layout="@layout/day_layout" />
+    <include layout="@layout/day_layout" />
+    <include layout="@layout/day_layout" />
+    <include layout="@layout/day_layout" />
+
+</calendar.widget.WeekView>

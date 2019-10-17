@@ -1,0 +1,117 @@
+﻿{
+  "define": {
+    "wrap": true,
+    "fit": true,
+    "headRowTextStyle": {
+      "fontWeight": "bold",
+      "color": "#F8F8F8",
+      "fontSize": "14",
+      "align": "center"
+    },
+    "width": "0",
+    "align": "center",
+    "columns": [
+      {
+        "field": "projcettypeno",
+        "title": "rowIndex",
+        "width": "1",
+        "show": true,
+        "datatype": "string"
+      },
+      {
+        "field": "projcettypename",
+        "title": " 项目类型 ",
+        "width": "0.33",
+        "show": true,
+        "textStyle": {
+          "color": "#F8F8F8",
+          "align": "center",
+          "fontSize": 14
+        },
+        "datatype": "string"
+      },
+      {
+        "field": "yearsumvalue",
+        "title": " 年累计发货 ",
+        "width": "0.33",
+        "show": true,
+        "datatype": "string",
+        "textStyle": {
+          "color": "#F8F8F8",
+          "align": "center",
+          "fontSize": 14
+        }
+      },
+      {
+        "field": "monthsumvalue",
+        "title": " 当月发货 ",
+        "width": "0.33",
+        "show": true,
+        "datatype": "string",
+        "textStyle": {
+          "color": "#F8F8F8",
+          "align": "center",
+          "fontSize": 14
+        }
+      }
+    ],
+    "specialTextStyle": {
+      "fieldTextStyle": [
+        {
+          "expression": {
+            "field": "tslx",
+            "compareType": "=",
+            "compareValue": "无法检测地段"
+          },
+          "affect": "row",
+          "textStyle": {
+            "color": "#F8B62D",
+            "fontSize": 14,
+            "fontWeight": "normal"
+          }
+        }
+      ]
+    },
+    "pageSize": 0,
+    "fit": true,
+    "watermark": {
+      "text": "",
+      "displayType": "repeat",
+      "textStyle": {
+        "fontWeight": " ",
+        "color": "#E5E5E5",
+        "fontSize": "20"
+      },
+      "show": true,
+      "type": "text",
+      "frozenShow": false
+    },
+    "showHeader": true,
+    "sortColumnColor": "#C1C1C1",
+    "textStyle": {
+      "fontWeight": "normal",
+      "color": "#cccccc",
+      "fontSize": "14"
+    },
+    "frozenColumnColor": "#000931",
+    "frozenColumnCount": "1",
+    "mergeDefine": {
+      "firstColumnAutoMergeByRowValue": false
+    },
+    "border": {
+      "borderStyle": "fullLine",
+      "borderColor": "#3E5CE0",
+      "borderWidth": "1",
+      "show": true
+    },
+    "rowColor": {
+      "oddRowColorAlpha": 1,
+      "evenRowColor": "#00103D",
+      "evenRowColorAlpha": 2,
+      "oddRowColor": "#00103D",
+      "headRowColor": "#0161FF"
+    }
+  },
+  "flag": true,
+  "msg": "调用成功！"
+}

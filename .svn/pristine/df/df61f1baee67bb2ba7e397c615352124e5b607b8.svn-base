@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:gravity="center_horizontal"
+    android:layout_gravity="center_horizontal"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/tab_indicator_first"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        skin:enable="true"
+        android:gravity="center"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp"
+        android:singleLine="true"
+        android:textColor="@color/color_ff555555"
+        android:textSize="15sp" />
+
+    <ImageView
+        android:id="@+id/imageview_newtabindicator_cursor"
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:layout_gravity="center"
+        android:scaleType="matrix"
+        skin:enable="true"
+        android:visibility="gone"
+        android:background="@color/ht_hred_title" />
+</LinearLayout>
+

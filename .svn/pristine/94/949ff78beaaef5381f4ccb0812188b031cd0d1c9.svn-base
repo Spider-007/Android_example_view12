@@ -1,0 +1,98 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+
+    <LinearLayout
+        android:id="@+id/edit_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@color/transparent"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="65dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="65dp">
+
+            <TextView
+                android:id="@+id/tv_back"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/application_center"
+                android:visibility="gone"/>
+            <ImageView
+                android:id="@+id/icon_iv"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerInParent="true"
+                android:contentDescription="@string/hello_world"
+                android:scaleType="fitCenter"
+                />
+            <com.htmitech.emportal.ui.applicationcenter.CircleProgressView
+                android:id="@+id/circleProgressbar"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerInParent="true"
+                android:visibility="gone"
+                />
+
+            <TextView
+                android:id="@+id/angle_nulber"
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"
+                android:minWidth="15dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/textview_style_number"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:textColor="@color/white"
+                android:gravity="center"
+                android:visibility="gone"
+                android:textSize="@dimen/check_item_buttom"
+                />
+        </RelativeLayout>
+
+
+        <TextView
+            android:id="@+id/name_tv"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:singleLine="true"
+            android:textColor="@color/buttom_color"
+            android:textSize="@dimen/subapp_name" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/img_no_installed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:visibility="gone"
+        android:src="@drawable/img_no_installed"
+        />
+
+    <ImageView
+        android:id="@+id/delet_iv"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignLeft="@id/edit_ll"
+        android:layout_alignTop="@id/edit_ll"
+        android:contentDescription="@string/hello_world"
+        android:padding="8dp"
+        android:clickable="true"
+        android:scaleType="fitCenter"
+        android:src="@drawable/edit_flag"
+        android:visibility="gone" />
+
+
+
+
+</RelativeLayout>

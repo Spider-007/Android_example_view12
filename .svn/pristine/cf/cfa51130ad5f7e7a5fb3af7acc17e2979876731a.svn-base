@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="right" >
+
+    <LinearLayout
+        android:id="@+id/btn_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="12dip"
+        android:background="@drawable/tip_background"
+        android:orientation="vertical" >
+
+         <!-- 发布消息 -->
+        <LinearLayout
+            android:id="@+id/popbtn_send_text"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/popup_menu_item_selector"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                style="@style/menu_pop_item"
+                android:layout_width="wrap_content"
+                android:layout_height="0.0dip"
+                android:layout_weight="1.0" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/message_type_text" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/circle_menu_send_text"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/fontsize_heading18" />
+            </LinearLayout>
+        </LinearLayout>
+        
+        
+           
+        
+          
+          <!-- 创建任务 -->
+         <ImageView
+            android:id="@+id/line_create_task"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/view_divider_height"
+            android:layout_marginLeft="@dimen/pop_menu_margin"
+            android:layout_marginRight="@dimen/pop_menu_margin"
+            android:background="@color/color_ff5d5d5d" />
+          <LinearLayout
+            android:id="@+id/popbtn_create_task"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/popup_menu_item_selector"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                style="@style/menu_pop_item"
+                android:layout_width="wrap_content"
+                android:layout_height="0.0dip"
+                android:layout_weight="1.0" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/message_type_task" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/circle_menu_create_task"
+                    android:textColor="@color/white"
+                     android:textSize="@dimen/fontsize_heading18"/>
+            </LinearLayout>
+        </LinearLayout>
+        
+      
+        
+            <!-- 组织活动 -->
+             <ImageView
+            android:id="@+id/line_activity"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/view_divider_height"
+            android:layout_marginLeft="@dimen/pop_menu_margin"
+            android:layout_marginRight="@dimen/pop_menu_margin"
+            android:background="@color/color_ff5d5d5d" />
+          <LinearLayout
+            android:id="@+id/popbtn_activity"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/popup_menu_item_selector"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                style="@style/menu_pop_item"
+                android:layout_width="wrap_content"
+                android:layout_height="0.0dip"
+                android:layout_weight="1.0" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/message_type_activity" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/circle_menu_activity"
+                    android:textColor="@color/white"
+                     android:textSize="@dimen/fontsize_heading18" />
+            </LinearLayout>
+        </LinearLayout>
+
+       
+        
+ 		<!-- 发起投票 -->
+ 		 <ImageView
+            android:id="@+id/line_poll"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/view_divider_height"
+            android:layout_marginLeft="@dimen/pop_menu_margin"
+            android:layout_marginRight="@dimen/pop_menu_margin"
+            android:background="@color/color_ff5d5d5d" />
+        <LinearLayout
+            android:id="@+id/popbtn_poll"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/popup_menu_item_selector"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                style="@style/menu_pop_item"
+                android:layout_width="wrap_content"
+                android:layout_height="0.0dip"
+                android:layout_weight="1.0" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/message_type_poll" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/circle_menu_poll"
+                    android:textColor="@color/white"
+                     android:textSize="@dimen/fontsize_heading18"/>
+            </LinearLayout>
+        </LinearLayout>
+          
+          
+      
+         
+         <!-- 发起聊天 -->
+           <ImageView
+            android:id="@+id/line_new_conversation"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/view_divider_height"
+            android:layout_marginLeft="@dimen/pop_menu_margin"
+            android:layout_marginRight="@dimen/pop_menu_margin"
+            android:background="@color/color_ff5d5d5d" />
+        <LinearLayout
+            android:id="@+id/popbtn_new_conversation"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/popup_menu_item_selector"
+            android:orientation="vertical" >
+			
+            <LinearLayout
+                style="@style/menu_pop_item"
+                android:layout_width="wrap_content"
+                android:layout_height="0.0dip"
+                android:layout_weight="1.0" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/icon_menu_im" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/top_right_start_conversation"
+                    android:textColor="@color/white"
+                     android:textSize="@dimen/fontsize_heading18" />
+            </LinearLayout>
+        </LinearLayout>
+
+      
+
+        <!-- 发起添加联系人 -->
+         <ImageView
+            android:id="@+id/line_add_contact"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/view_divider_height"
+            android:layout_marginLeft="@dimen/pop_menu_margin"
+            android:layout_marginRight="@dimen/pop_menu_margin"
+            android:background="@color/color_ff5d5d5d" />
+        <LinearLayout
+            android:id="@+id/popbtn_add_contact"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/popup_menu_item_selector"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                style="@style/menu_pop_item"
+                android:layout_width="wrap_content"
+                android:layout_height="0.0dip"
+                android:layout_weight="1.0" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/icon_menu_new_contact" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/top_right_add_contact"
+                    android:textColor="@color/white"
+                     android:textSize="@dimen/fontsize_heading18" />
+            </LinearLayout>
+        </LinearLayout>
+        
+        
+         
+        
+		<!-- 通讯录 -->
+	    <ImageView
+             android:id="@+id/line_contacts"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/view_divider_height"
+            android:layout_marginLeft="@dimen/pop_menu_margin"
+            android:layout_marginRight="@dimen/pop_menu_margin"
+            android:background="@color/color_ff5d5d5d" />
+        <LinearLayout
+            android:id="@+id/popbtn_contacts"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/popup_menu_item_selector"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                style="@style/menu_pop_item"
+                android:layout_width="wrap_content"
+                android:layout_height="0.0dip"
+                android:layout_weight="1.0" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/tab_contacts" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/tab_contacts"
+                    android:textColor="@color/white"
+                     android:textSize="@dimen/fontsize_heading18" />
+            </LinearLayout>
+        </LinearLayout>
+        
+       
+         
+        <!-- 应用中心 -->
+         <ImageView
+             android:id="@+id/line_appcenter"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/view_divider_height"
+            android:layout_marginLeft="@dimen/pop_menu_margin"
+            android:layout_marginRight="@dimen/pop_menu_margin"
+            android:background="@color/color_ff5d5d5d" />
+        <LinearLayout
+            android:id="@+id/popbtn_appcenter"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/popup_menu_item_selector"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                style="@style/menu_pop_item"
+                android:layout_width="wrap_content"
+                android:layout_height="0.0dip"
+                android:layout_weight="1.0" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/tab_appcenter" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/tab_appcenter"
+                    android:textColor="@color/white"
+                     android:textSize="@dimen/fontsize_heading18" />
+            </LinearLayout>
+        </LinearLayout>
+        
+        <!-- 扫一扫 -->
+         <ImageView
+            android:id="@+id/line_scan_divider"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/view_divider_height"
+            android:layout_marginLeft="@dimen/pop_menu_margin"
+            android:layout_marginRight="@dimen/pop_menu_margin"
+            android:background="@color/color_ff5d5d5d" 
+            android:visibility="visible" />
+        
+         <LinearLayout
+            android:id="@+id/popbtn_scan"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/popup_menu_item_selector"
+            android:orientation="vertical"
+            android:visibility="visible" >
+
+            <LinearLayout
+                style="@style/menu_pop_item"
+                android:layout_width="wrap_content"
+                android:layout_height="0.0dip"
+                android:layout_weight="1.0" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/icon_menu_scan_qr_code" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/top_right_scan"
+                    android:textColor="@color/white"
+                     android:textSize="@dimen/fontsize_heading18" />
+            </LinearLayout>
+        </LinearLayout>
+        
+         
+        <!-- 工作分享 -->
+        <ImageView
+            android:id="@+id/line_new_circle_message"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/view_divider_height"
+            android:layout_marginLeft="@dimen/pop_menu_margin"
+            android:layout_marginRight="@dimen/pop_menu_margin"
+            android:background="@color/color_ff5d5d5d" />
+        <LinearLayout
+            android:id="@+id/popbtn_new_circle_message"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/popup_menu_item_selector"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                style="@style/menu_pop_item"
+                android:layout_width="wrap_content"
+                android:layout_height="0.0dip"
+                android:layout_weight="1.0" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/icon_menu_sns" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/top_right_circle_message"
+                    android:textColor="@color/white"
+                     android:textSize="@dimen/fontsize_heading18" />
+            </LinearLayout>
+        </LinearLayout>
+        
+        
+       
+        
+        
+    </LinearLayout>
+
+</LinearLayout>

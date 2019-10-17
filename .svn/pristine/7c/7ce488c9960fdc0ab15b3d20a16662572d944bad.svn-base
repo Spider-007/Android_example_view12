@@ -1,0 +1,202 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/context_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+     >
+    
+    
+    <!-- 视图 -->
+    <LinearLayout
+        android:id="@+id/main_content"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/drawer_back"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/row_ll_one"
+            android:layout_width="fill_parent"
+        	android:layout_height="0dp"
+        	android:layout_weight="1"
+            android:orientation="horizontal" >
+            
+            <LinearLayout
+                android:id="@+id/view_ll_1"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <FrameLayout
+                    android:id="@+id/view_frame_1"
+                    android:background="@color/transparent"
+                    android:layout_width="160dp"
+                    android:layout_height="160dp" />
+
+                <TextView
+                    android:id="@+id/view_text_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="建设单位    "
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+            
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="fill_parent"
+                android:background="#00186A" />
+            
+            <LinearLayout
+                android:id="@+id/view_ll_2"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <FrameLayout
+                    android:id="@+id/view_frame_2"
+                    android:background="@color/transparent"
+                    android:layout_width="160dp"
+                    android:layout_height="160dp" />
+                
+                <TextView
+                    android:id="@+id/view_text_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="建设单位    "
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+            
+        </LinearLayout>
+
+<!--         分割线 -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#00186A" />
+
+        <LinearLayout
+          	android:layout_width="fill_parent"
+        	android:layout_height="0dp"
+        	android:layout_weight="1"
+            android:id="@+id/row_ll_two"
+            android:orientation="horizontal" >
+            
+            <LinearLayout
+                android:id="@+id/view_ll_3"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <FrameLayout
+                    android:id="@+id/view_frame_3"
+                    android:background="@color/transparent"
+                    android:layout_width="160dp"
+                    android:layout_height="160dp" />
+                
+                <TextView
+                    android:id="@+id/view_text_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="建设单位    "
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+            
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="fill_parent"
+                android:background="#00186A" />
+            
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:id="@+id/view_ll_4"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <FrameLayout
+                    android:id="@+id/view_frame_4"
+                    android:background="@color/transparent"
+                    android:layout_width="160dp"
+                    android:layout_height="160dp" />
+                
+                <TextView
+                    android:id="@+id/view_text_4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="建设单位    "
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+            
+        </LinearLayout>
+        
+    </LinearLayout>
+
+    <!-- 底部tab -->
+    <RadioGroup
+        android:id="@+id/tab_menu"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_bottombar_blue"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/rb_ton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:background="@drawable/tab_bg"
+            android:button="@null"
+            android:drawableTop="@drawable/tab_ton_selector"
+            android:gravity="center_horizontal|bottom"
+            android:paddingTop="2dp"
+            android:text="吨"
+            android:textColor="@drawable/menu_tab_name_selector" />
+
+        <RadioButton
+            android:id="@+id/rb_root"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:background="@drawable/tab_bg"
+            android:button="@null"
+            android:drawableTop="@drawable/tab_root_selector"
+            android:gravity="center_horizontal|bottom"
+            android:paddingTop="2dp"
+            android:text="根"
+            android:textColor="@drawable/menu_tab_name_selector" />
+
+        <RadioButton
+            android:id="@+id/rb_km"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:background="@drawable/tab_bg"
+            android:button="@null"
+            android:drawableTop="@drawable/tab_km_selector"
+            android:gravity="center_horizontal|bottom"
+            android:paddingTop="2dp"
+            android:text="公里"
+            android:textColor="@drawable/menu_tab_name_selector" />
+    </RadioGroup>
+
+</LinearLayout>

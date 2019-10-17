@@ -1,0 +1,55 @@
+
+Gsquid:S1066ù"/Merge this if statement with the enclosing one.(Ó¦ÕÏ
+Fsquid:S1066¨"/Merge this if statement with the enclosing one.(ßÓşV
+Nsquid:S2589‚"7Remove this expression which always evaluates to "true"(Ì´ûg
+Tsquid:S2589š"7Remove this expression which always evaluates to "true"(×ĞÉ¼üÿÿÿÿ
+Osquid:S2589å"7Remove this expression which always evaluates to "true"(ç£­
+Tsquid:S2589ë"7Remove this expression which always evaluates to "true"(â¨‹şıÿÿÿÿ
+jsquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‹¹ç
+jsquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚‘
+@squid:S1148ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+usquid:S1450D"YRemove the "imgbtnBack" field and declare it as a local variable in the relevant methods.(Êèìíşÿÿÿÿ
+rsquid:S1450E"VRemove the "btnSure" field and declare it as a local variable in the relevant methods.(÷İïÈøÿÿÿÿ
+msquid:S1450V"VRemove the "intent1" field and declare it as a local variable in the relevant methods.(çÑıº
+rsquid:S1450\"VRemove the "intent2" field and declare it as a local variable in the relevant methods.(ş‹Œ³øÿÿÿÿ
+msquid:S1450_"VRemove the "intent3" field and declare it as a local variable in the relevant methods.(˜‘Ï—
+qsquid:S1450a"ZRemove the "mImgvDelete" field and declare it as a local variable in the relevant methods.(ù›†£
+…squid:S1450c"iRemove the "builderlinearLayoutManager" field and declare it as a local variable in the relevant methods.(ñòøÌûÿÿÿÿ
+…squid:S1450d"nRemove the "receivegoodslinearLayoutManager" field and declare it as a local variable in the relevant methods.(éš«–
+…squid:S1450f"iRemove the "stationlinearLayoutManager" field and declare it as a local variable in the relevant methods.(‰±«ûÿÿÿÿ
+osquid:S1450j"XRemove the "rv_serach" field and declare it as a local variable in the relevant methods.(óÌğ÷
+ssquid:S1450t"\Remove the "mShouldScroll" field and declare it as a local variable in the relevant methods.(Ë´²¤
+qsquid:S1450u"ZRemove the "mToPosition" field and declare it as a local variable in the relevant methods.(ƒÇ“
+tsquid:S00116S"\Rename this field "BUILDERRESULTCODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­àûâ
+}squid:S00116T"`Rename this field "RECEIVEGOODSESULTCODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÈ»•ıÿÿÿÿ
+ysquid:S00116U"\Rename this field "STATIONRESULTCODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÒ›ªüÿÿÿÿ
+qsquid:S00116i"TRename this field "sv_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şúë…ıÿÿÿÿ
+lsquid:S00116j"TRename this field "rv_serach" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÌğ÷
+ksquid:S00116k"TRename this field "iv_serach" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Œ“#
+qsquid:S00116l"TRename this field "tv_serach" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’½”Äşÿÿÿÿ
+ksquid:S00116z"SRename this field "tv_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¾·
+usquid:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(©·–×ıÿÿÿÿ
+psquid:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıãñø
+psquid:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïÚé½
+usquid:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹ Ù„ÿÿÿÿÿ
+usquid:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡¾ß€ıÿÿÿÿ
+usquid:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ªÀÜûÿÿÿÿ
+usquid:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì´ñƒıÿÿÿÿ
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ¸ûøûÿÿÿÿ
+vsquid:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(´…¥ıÿÿÿÿ
+qsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(²å­
+dsquid:HiddenFieldCheckà"<Rename "jsdwname" which hides the field declared at line 82.(¾ÙËºûÿÿÿÿ
+\squid:S1858á"D"s" is already a string, there's no need to call "toString()" on it.(Ë¦Õö
+\squid:S1858á"D"s" is already a string, there's no need to call "toString()" on it.(Ë¦Õö
+dsquid:HiddenFieldCheck‡"<Rename "shdwname" which hides the field declared at line 91.(˜ìİ€úÿÿÿÿ
+asquid:S1858ˆ"D"s" is already a string, there's no need to call "toString()" on it.(–Š“áşÿÿÿÿ
+asquid:S1858ˆ"D"s" is already a string, there's no need to call "toString()" on it.(–Š“áşÿÿÿÿ
+bsquid:HiddenFieldCheck£":Rename "dzname" which hides the field declared at line 94.(×¤åøüÿÿÿÿ
+asquid:S1858¤"D"s" is already a string, there's no need to call "toString()" on it.(ü¬±°ıÿÿÿÿ
+asquid:S1858¤"D"s" is already a string, there's no need to call "toString()" on it.(ü¬±°ıÿÿÿÿ
+Zsquid:HiddenFieldCheckÍ"7Rename "id" which hides the field declared at line 110.(ãÿÆ¸
+Hsquid:S1068F",Remove this unused "etSearch" private field.(‘¼Ø§øÿÿÿÿ
+Fsquid:S1068a"/Remove this unused "mImgvDelete" private field.(ù›†£
+?squid:S1068m"(Remove this unused "name" private field.(Ë¥¼
+Hsquid:S1068t"1Remove this unused "mShouldScroll" private field.(Ë´²¤
+Fsquid:S1068u"/Remove this unused "mToPosition" private field.(ƒÇ“

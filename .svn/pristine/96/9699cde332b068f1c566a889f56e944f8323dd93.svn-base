@@ -1,0 +1,7 @@
+
+var cordovaScript2 = document.querySelector('script[src="cordova.js?mxinject"]');
+if(!cordovaScript2){
+	var cordovaScript = document.createElement("script");  
+	cordovaScript.setAttribute("src", "cordova.js?mxinject"); 
+	document.getElementsByTagName("head")[0].appendChild(cordovaScript);
+};

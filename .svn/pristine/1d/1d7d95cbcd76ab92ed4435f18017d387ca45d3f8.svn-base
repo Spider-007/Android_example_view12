@@ -1,0 +1,21 @@
+cordova.define("org.apache.cordova.globalization.globalization",function(t,a,e){/*
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+*/
+var o=t("cordova/argscheck"),i=t("cordova/exec"),n=(t("./GlobalizationError"),{getPreferredLanguage:function(t,a){o.checkArgs("fF","Globalization.getPreferredLanguage",arguments),i(t,a,"Globalization","getPreferredLanguage",[])},getLocaleName:function(t,a){o.checkArgs("fF","Globalization.getLocaleName",arguments),i(t,a,"Globalization","getLocaleName",[])},dateToString:function(t,a,e,n){o.checkArgs("dfFO","Globalization.dateToString",arguments);var r=t.valueOf();i(a,e,"Globalization","dateToString",[{date:r,options:n}])},stringToDate:function(t,a,e,n){o.checkArgs("sfFO","Globalization.stringToDate",arguments),i(a,e,"Globalization","stringToDate",[{dateString:t,options:n}])},getDatePattern:function(t,a,e){o.checkArgs("fFO","Globalization.getDatePattern",arguments),i(t,a,"Globalization","getDatePattern",[{options:e}])},getDateNames:function(t,a,e){o.checkArgs("fFO","Globalization.getDateNames",arguments),i(t,a,"Globalization","getDateNames",[{options:e}])},isDayLightSavingsTime:function(t,a,e){o.checkArgs("dfF","Globalization.isDayLightSavingsTime",arguments);var n=t.valueOf();i(a,e,"Globalization","isDayLightSavingsTime",[{date:n}])},getFirstDayOfWeek:function(t,a){o.checkArgs("fF","Globalization.getFirstDayOfWeek",arguments),i(t,a,"Globalization","getFirstDayOfWeek",[])},numberToString:function(t,a,e,n){o.checkArgs("nfFO","Globalization.numberToString",arguments),i(a,e,"Globalization","numberToString",[{number:t,options:n}])},stringToNumber:function(t,a,e,n){o.checkArgs("sfFO","Globalization.stringToNumber",arguments),i(a,e,"Globalization","stringToNumber",[{numberString:t,options:n}])},getNumberPattern:function(t,a,e){o.checkArgs("fFO","Globalization.getNumberPattern",arguments),i(t,a,"Globalization","getNumberPattern",[{options:e}])},getCurrencyPattern:function(t,a,e){o.checkArgs("sfF","Globalization.getCurrencyPattern",arguments),i(a,e,"Globalization","getCurrencyPattern",[{currencyCode:t}])}});e.exports=n});

@@ -1,0 +1,21 @@
+
+„squid:S1845"mRename field "OA_UserName" to prevent any misunderstanding/clash with field "oA_UserName" defined on line 21.(×Ñœ›
+nsquid:S00116"QRename this field "UserID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢£ÿŒøÿÿÿÿ
+psquid:S00116"SRename this field "UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿§äèøÿÿÿÿ
+ssquid:S00116"VRename this field "oA_UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îó•ˆüÿÿÿÿ
+nsquid:S00116"VRename this field "oA_DeptName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú€‡
+qsquid:S00116"TRename this field "OA_UserId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¬·åÿÿÿÿÿ
+nsquid:S00116"VRename this field "OA_UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ñœ›
+lsquid:S00116"TRename this field "OA_UnitId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀŠØ
+vsquid:S00116"^Rename this field "ThirdDepartmentName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Â…—
+tsquid:S00116"\Rename this field "ThirdDepartmentId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åğúô
+msquid:S00116 "URename this field "MRS_UserId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š½‹¡
+ssquid:S00116!"VRename this field "NetworkName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­§œÒøÿÿÿÿ
+usquid:S00116#"XRename this field "LogFunctionId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óä˜ÿÿÿÿÿ
+qsquid:S00116("TRename this field "IsEMIUser" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î½ûÿÿÿÿ
+msquid:S00116)"URename this field "login_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öü”
+usquid:S00116*"XRename this field "group_corp_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¾šÖüÿÿÿÿ
+osquid:S00116/"RRename this field "PN_List" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤€¤Õûÿÿÿÿ
+@squid:S1948/"$Make "PN_List" private or transient.(¤€¤Õûÿÿÿÿ
+Ksquid:S1068"/Remove this unused "oA_UserName" private field.(Îó•ˆüÿÿÿÿ
+Fsquid:S1068"/Remove this unused "oA_DeptName" private field.(Ú€‡

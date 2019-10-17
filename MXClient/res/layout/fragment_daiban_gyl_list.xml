@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/ll_parent"
+    android:orientation="vertical"
+    android:background="@color/color_daiban_yiban_back">
+
+    <RelativeLayout
+        android:id="@+id/ll_top_soso"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:id="@+id/daiban_rv_serach"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="11dp"
+            android:layout_marginRight="57dp"
+
+            android:layout_weight="1"
+            android:background="@drawable/search_back"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/daiban_iv_serach"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="center"
+                android:src="@drawable/mx_search_bar_icon_normal" />
+
+            <TextView
+                android:id="@+id/daiban_tv_serach"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/daiban_iv_serach"
+                android:text="请输入标题关键字搜索"
+                android:textColor="#FFBEBEBE"
+                android:textSize="14dp" />
+
+        </RelativeLayout>
+
+        <SearchView
+            android:id="@+id/daiban_sv_search"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/search_back"
+            android:iconifiedByDefault="false"
+            android:layout_marginLeft="11dp"
+            android:layout_marginRight="57dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:layout_gravity="center_vertical"
+            android:imeOptions="actionSearch"
+            android:inputType="textCapWords"
+
+            android:queryHint="请输入要搜索的提标"
+            android:searchMode="queryRewriteFromText"
+            android:showAsAction="collapseActionView"
+            android:visibility="gone"></SearchView>
+
+        <LinearLayout
+            android:id="@+id/ll_serach"
+            android:layout_width="46dp"
+            android:layout_alignParentRight="true"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                skin:enable="true"
+                android:background="@drawable/btn_todolist_screen" />
+
+        </LinearLayout>
+    </RelativeLayout>
+
+
+
+    <LinearLayout
+        android:id="@+id/ll_toptab"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+
+        <com.htmitech.emportal.ui.widget.NewTopTabIndicator
+            android:id="@+id/topTabIndicator_detail_gyl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1" />
+
+        <ImageView
+            android:id="@+id/iv_direction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/btn_todolist_screen_open" />
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/rl_button_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <SlidingDrawer
+                android:id="@+id/daiban_slidingDrawer_daiban_list"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:content="@+id/ll_general_from_child"
+                android:handle="@+id/layout_daiban_list">
+
+                <!--<include-->
+                <!--android:id="@id/content"-->
+                <!--layout="@layout/slidingdrawer_content" />-->
+                <LinearLayout
+                    android:id="@+id/ll_general_from_child"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:clipToPadding="true"
+                    android:fitsSystemWindows="true"
+                    android:orientation="vertical"></LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_daiban_list"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/color_daiban_yiban_back"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <LinearLayout
+                        android:id="@+id/ll_Handle_daiban_list"
+                        android:layout_width="fill_parent"
+                        android:layout_height="28dp"
+                        android:background="@drawable/btn_gest_bg"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:paddingBottom="1dp"
+                        android:paddingLeft="100dp"
+                        android:paddingRight="100dp"
+                        android:paddingTop="1dp"
+                        android:visibility="gone">
+
+                        <ImageView
+                            android:id="@+id/daiban_imageviewHandle_daiban_list"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:src="@drawable/btn_gest" />
+                    </LinearLayout>
+                </LinearLayout>
+            </SlidingDrawer>
+
+            <include
+                android:id="@+id/ll_ryb_bom"
+                layout="@layout/activity_ryb_buttom" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_content_soso"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/layout_daiban_titlebar"
+            android:background="@color/transparent"
+            android:orientation="vertical"
+            android:focusable="true"
+            android:visibility="gone">
+
+
+            <com.htmitech.htworkflowformpluginnew.fragment.GYLStatiscalReportFragment
+                android:id="@+id/content_soso"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="200dp"
+                android:background="@color/white"
+                android:focusable="true"
+                android:orientation="vertical"></com.htmitech.htworkflowformpluginnew.fragment.GYLStatiscalReportFragment>
+
+            <TextView
+                android:id="@+id/tv_buttom"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:minHeight="100dp" />
+        </LinearLayout>
+
+    </RelativeLayout>
+</LinearLayout>

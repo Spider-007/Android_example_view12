@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+    android:background="@drawable/bg_signature">
+
+        
+        
+         <!-- 金格控件  -->
+        <com.kinggrid.iapprevision.iAppRevisionView
+            android:id="@+id/demo_revision_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        
+        <!-- 按钮 -->
+
+        <RelativeLayout
+            android:id="@+id/btns"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/icon_blue"
+            android:layout_below="@id/demo_revision_view" >
+            
+
+            <include
+                android:id="@+id/manager_btn_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                layout="@layout/write_btn_layout" />
+
+            <TextView
+                android:id="@+id/common_word"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_centerInParent="true"
+                android:drawableLeft="@drawable/icon_commonword"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="8dp"
+                android:visibility="gone" />
+            
+            <TextView
+                android:id="@+id/demo_btn"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_centerInParent="true"
+                android:drawableLeft="@drawable/icon_demo"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="8dp"
+                android:visibility="gone" />
+
+        </RelativeLayout>
+        
+
+</RelativeLayout>

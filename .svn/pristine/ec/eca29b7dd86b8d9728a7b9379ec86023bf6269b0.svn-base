@@ -1,0 +1,21 @@
+cordova.define("org.apache.cordova.file.FileWriter",function(t,e,r){/*
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+*/
+var n=t("cordova/exec"),o=t("./FileError"),i=t("./ProgressEvent"),a=function(t){this.fileName="",this.length=0,t&&(this.localURL=t.localURL||t,this.length=t.size||0),this.position=0,this.readyState=0,this.result=null,this.error=null,this.onwritestart=null,this.onprogress=null,this.onwrite=null,this.onwriteend=null,this.onabort=null,this.onerror=null};a.INIT=0,a.WRITING=1,a.DONE=2,a.prototype.abort=function(){if(this.readyState===a.DONE||this.readyState===a.INIT)throw new o(o.INVALID_STATE_ERR);this.error=new o(o.ABORT_ERR),this.readyState=a.DONE,"function"==typeof this.onabort&&this.onabort(new i("abort",{target:this})),"function"==typeof this.onwriteend&&this.onwriteend(new i("writeend",{target:this}))},a.prototype.write=function(t){var e,r=this,s="undefined"!=typeof window.Blob&&"undefined"!=typeof window.ArrayBuffer,w="windows8"===cordova.platformId||"windows"===cordova.platformId;if(t instanceof File||!w&&s&&t instanceof Blob){var f=new FileReader;return f.onload=function(){a.prototype.write.call(r,this.result)},void(s?f.readAsArrayBuffer(t):f.readAsText(t))}if(e=s&&t instanceof ArrayBuffer,e&&"windowsphone"===cordova.platformId&&(t=Array.apply(null,new Uint8Array(t))),this.readyState===a.WRITING)throw new o(o.INVALID_STATE_ERR);this.readyState=a.WRITING;var h=this;"function"==typeof h.onwritestart&&h.onwritestart(new i("writestart",{target:h})),n(function(t){h.readyState!==a.DONE&&(h.position+=t,h.length=h.position,h.readyState=a.DONE,"function"==typeof h.onwrite&&h.onwrite(new i("write",{target:h})),"function"==typeof h.onwriteend&&h.onwriteend(new i("writeend",{target:h})))},function(t){h.readyState!==a.DONE&&(h.readyState=a.DONE,h.error=new o(t),"function"==typeof h.onerror&&h.onerror(new i("error",{target:h})),"function"==typeof h.onwriteend&&h.onwriteend(new i("writeend",{target:h})))},"File","write",[this.localURL,t,this.position,e])},a.prototype.seek=function(t){if(this.readyState===a.WRITING)throw new o(o.INVALID_STATE_ERR);(t||0===t)&&(t<0?this.position=Math.max(t+this.length,0):t>this.length?this.position=this.length:this.position=t)},a.prototype.truncate=function(t){if(this.readyState===a.WRITING)throw new o(o.INVALID_STATE_ERR);this.readyState=a.WRITING;var e=this;"function"==typeof e.onwritestart&&e.onwritestart(new i("writestart",{target:this})),n(function(t){e.readyState!==a.DONE&&(e.readyState=a.DONE,e.length=t,e.position=Math.min(e.position,t),"function"==typeof e.onwrite&&e.onwrite(new i("write",{target:e})),"function"==typeof e.onwriteend&&e.onwriteend(new i("writeend",{target:e})))},function(t){e.readyState!==a.DONE&&(e.readyState=a.DONE,e.error=new o(t),"function"==typeof e.onerror&&e.onerror(new i("error",{target:e})),"function"==typeof e.onwriteend&&e.onwriteend(new i("writeend",{target:e})))},"File","truncate",[this.localURL,t])},r.exports=a});

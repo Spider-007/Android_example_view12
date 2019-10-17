@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF5F5F5"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/layout_circle_titlebar"
+        layout="@layout/layout_titlebar2" />
+
+    <RelativeLayout
+        android:id="@+id/rl_opinion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_circle_titlebar"
+        android:gravity="center_vertical" >
+
+        <ListView
+            android:id="@+id/options_listview"
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:background="#FFFFFF"
+            android:cacheColorHint="@android:color/transparent"
+            android:descendantFocusability="beforeDescendants"
+            android:divider="@null"
+            android:dividerHeight="1dp"
+            android:fadingEdge="none"
+            android:fastScrollEnabled="true" >
+        </ListView>
+    </RelativeLayout>
+
+
+
+    <ImageView
+        android:id="@+id/iv_no_messages"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="200dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/img_no_messages" />
+
+    <TextView
+        android:id="@+id/text_no_messages"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_no_messages"
+        android:gravity="center"
+        android:text="当前没有常用意见，快去新增一条吧！"
+        android:textSize="15sp" />
+
+
+    <TextView
+        android:id="@+id/tv_newoptions"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        skin:enable="true"
+        android:background="@color/ht_hred_title"
+        android:gravity="center"
+        android:text="新增常用意见"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+</RelativeLayout>

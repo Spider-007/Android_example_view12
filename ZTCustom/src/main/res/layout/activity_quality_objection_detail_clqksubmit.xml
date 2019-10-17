@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/allbackground"
+    tools:context="com.htmitech.ztcustom.zt.chinarailway.QualityObjectionDetailCLQKSubmitActivity">
+
+
+    <RelativeLayout
+        android:id="@+id/ll_quality_objection_detail_submit_theme"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:layout_alignParentTop="true"
+        android:background="@color/title_color"
+        android:gravity="center_vertical">
+
+        <ImageButton
+            android:id="@+id/ib_quality_objection_detail_submit_back"
+            android:clickable="true"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:gravity="center"
+            android:src="@drawable/btn_back" />
+
+        <TextView
+            android:id="@+id/tv_quality_objection_detail_submit_title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="处理情况"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/title_textsize" />
+
+        <Button
+            android:id="@+id/bt_quality_objection_detail_submit_right_top"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="8dp"
+            android:background="@color/transparent"
+            android:text="提交"
+            android:textColor="#F8F8F8"
+            android:textSize="@dimen/quality_objection_top_textsize" />
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/et_quality_objection_detail_submit_clqk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_quality_objection_detail_submit_theme"
+        android:layout_margin="20dp"
+        android:background="@drawable/quality_objection_detail_submit_edittext_shape"
+        android:gravity="top"
+        android:hint="请输入处理情况..."
+        android:maxLines="14"
+        android:minLines="8"
+        android:padding="5dp"
+        android:textColor="#C7C7CA"
+        android:textSize="12sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_quality_objection_detail_submit_clqk"
+        android:layout_marginLeft="20dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iv_quality_objection_detail_submit_image1"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/btn_clqk_addphoto" />
+
+        <ImageView
+            android:id="@+id/iv_quality_objection_detail_submit_image2"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/btn_clqk_addphoto" />
+
+        <ImageView
+            android:id="@+id/iv_quality_objection_detail_submit_image3"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/btn_clqk_addphoto" />
+
+    </LinearLayout>
+
+</RelativeLayout>

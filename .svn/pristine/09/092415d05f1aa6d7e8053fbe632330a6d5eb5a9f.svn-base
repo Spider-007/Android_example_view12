@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.htmitech.emportal.ui.daiban.MineFaQiFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/faqi_rv_serach"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginBottom="6dp"
+            android:layout_marginLeft="11dp"
+            android:layout_marginRight="11dp"
+            android:layout_marginTop="6dp"
+            android:background="@drawable/search_back"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/faqi_iv_serach"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="center"
+                android:src="@drawable/mx_search_bar_icon_normal" />
+
+            <TextView
+                android:id="@+id/faqi_tv_serach"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/faqi_iv_serach"
+                android:text="搜索"
+                android:textColor="#FFBEBEBE"
+                android:textSize="14sp" />
+        </RelativeLayout>
+
+        <SearchView
+            android:id="@+id/faqi_sv_search"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:iconifiedByDefault="false"
+            android:imeOptions="actionSearch"
+            android:inputType="textCapWords"
+            android:queryHint="请输入要搜索的提标"
+            android:searchMode="queryRewriteFromText"
+            android:showAsAction="collapseActionView"
+            android:visibility="gone"></SearchView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="6dp"
+        android:layout_weight="1">
+
+        <com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView
+            android:id="@+id/faqi_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@color/color_daiban_yiban_back"
+            android:dividerHeight="10dp"
+            android:listSelector="@null"
+            ptr:mx_ptrAnimationStyle="rotate"
+            ptr:mx_ptrHeaderSubTextColor="@color/black"
+            ptr:mx_ptrHeaderTextColor="@color/black"
+            ptr:mx_ptrMode="both" />
+
+        <LinearLayout
+            android:id="@+id/faqi_layout_search_no"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/img_search_fruitless" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="@string/seratch_no"
+                android:textColor="@color/huise" />
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</LinearLayout>

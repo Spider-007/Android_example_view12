@@ -1,0 +1,21 @@
+cordova.define("org.apache.cordova.dialogs.notification",function(i,o,n){/*
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+*/
+var t=i("cordova/exec"),r=i("cordova/platform");n.exports={alert:function(i,o,n,r){t(o,null,"Notification","alert",[i,n||"Alert",r||"OK"])},confirm:function(i,o,n,a){var e=n||"Confirm",c=a||["OK","Cancel"];if("string"==typeof c&&console.log("Notification.confirm(string, function, string, string) is deprecated.  Use Notification.confirm(string, function, string, array)."),"amazon-fireos"==r.id||"android"==r.id||"ios"==r.id||"windowsphone"==r.id||"firefoxos"==r.id||"ubuntu"==r.id||"windows8"==r.id||"windows"==r.id)"string"==typeof c&&(c=c.split(","));else if(Array.isArray(c)){var f=c;c=f.toString()}t(o,null,"Notification","confirm",[i,e,c])},prompt:function(i,o,n,r,a){t(o,null,"Notification","prompt",[i||"Prompt message",n||"Prompt",r||["OK","Cancel"],a||""])},beep:function(i){t(null,null,"Notification","beep",[i||1])}}});

@@ -1,0 +1,40 @@
+apply plugin: 'com.android.library'
+//apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 23
+    buildToolsVersion '25.0.0'
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    lintOptions {
+        abortOnError false
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+    useLibrary 'org.apache.http.legacy'
+}
+
+repositories {
+    flatDir {
+        dirs '../ComponentLibrary/libs'
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'top.zibin:Luban:1.1.2'
+    compile project(':MXKit')
+    compile(name: 'Chartkit', ext: 'aar')
+    //    compile files('libs/fastjson-1.2.7.jar')
+    //    compile files('libs/fastjson-1.2.7.jar')
+    compile(name: 'iAppRevisionLib_V3.2.0.296Beta', ext: 'aar')
+    compile(name: 'iAppPDFLib_V3.1.0.320_20180710D', ext: 'aar')
+    compile files('libs/xcl-charts.jar')
+}

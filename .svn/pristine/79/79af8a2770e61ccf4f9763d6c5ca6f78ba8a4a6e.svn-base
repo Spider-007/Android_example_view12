@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="fragment_detail_list_back">#002450</color>
+    <color name="huise">#CCCCCC</color>
+    <color name="railway_back">#002B53</color>
+    <color name="trans">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <declare-styleable name="FanView"><attr name="legend_align"><enum name="left" value="0"/><enum name="right" value="1"/><enum name="button" value="3"/><enum name="gone" value="2"/></attr><attr format="float" name="circle_center_scale_size"/><attr format="float" name="title_hint_text_color"/><attr format="dimension" name="title_hint_text_size"/><attr format="color|reference" name="circle_center_color"/><attr format="dimension" name="circle_center_text_size"/><attr format="color|reference" name="circle_center_text_color"/></declare-styleable>
+    <declare-styleable name="FromView"><attr format="string" name="from_title"/><attr format="color|reference" name="from_title_back"/><attr name="from_title_text_align"><enum name="left" value="0"/><enum name="right" value="1"/><enum name="center" value="2"/></attr><attr format="dimension" name="from_title_text_size"/><attr format="color|reference" name="from_title_text_color"/><attr name="from_text_align"><enum name="left" value="0"/><enum name="right" value="1"/><enum name="center" value="2"/></attr><attr format="boolean" name="from_watermark_show"/><attr format="string|reference" name="from_watermark_text"/><attr name="from_watermark_displayType"><enum name="single" value="0"/><enum name="repeat" value="1"/></attr><attr format="color|reference" name="from_watermark_back_color"/></declare-styleable>
+    <dimen name="from_hight">51dp</dimen>
+    <dimen name="from_wight">81dp</dimen>
+    <string name="app_name">ChatKit</string>
+</resources>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    android:clickable="false"
+    android:focusable="false">
+
+    <RelativeLayout
+        android:id="@+id/rl_advert"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/iv_advert"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/tv_advert_time"
+            android:layout_width="66dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/advert_time_background"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="3s 跳过"
+            android:textColor="#FEFEFE"
+            android:textSize="14sp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_advert_pop_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="126dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="91dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/iv_advert_pop_window"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:clickable="false"
+            android:focusable="false"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/tv_advert_pop_time"
+            android:layout_width="32dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/advert_time_background"
+            android:gravity="center"
+            android:text=""
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_advert_pop_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="57dp"
+            android:lineSpacingExtra="14sp"
+            android:text=""
+            android:textSize="26sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tv_advert_pop_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_advert_pop_title"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="12dp"
+            android:text=""
+            android:textSize="14sp"
+            android:visibility="gone"
+            skin:enable="true" />
+
+
+        <Button
+            android:id="@+id/bt_advert_pop_detail"
+            android:layout_width="148dp"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="15.33dp"
+            android:background="@drawable/btn_advert_pop_details" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/iv_advert_pop_close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/btn_windows_close"
+        android:visibility="gone" />
+
+</RelativeLayout>

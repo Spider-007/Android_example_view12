@@ -1,0 +1,11 @@
+
+qsquid:S1450>"URemove the "userID" field and declare it as a local variable in the relevant methods.(³ ûÁÿÿÿÿÿ
+Tsquid:S10689"6Remove this unused "mHTMRDataTableTemp" private field.(Žž±°8ÕþêüÜ-
+@squid:S1148»"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+gsquid:S2674Ù"JCheck the return value of the "read" call to see how many bytes were read.(ë¥áïøÿÿÿÿ
+@squid:S1185Ü"(Remove this method to simply inherit it.(ˆÏ€¶
+Bsquid:S1068<",Remove this unused "calendar" private field.(½™ÿf
+Psquid:S1197Ø"8Move the array designator from the variable to the type.(™â•©
+@squid:S1148µ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1185G"(Remove this method to simply inherit it.(ßìê¯
+Esquid:S1185á"(Remove this method to simply inherit it.(Ç™²“øÿÿÿÿ

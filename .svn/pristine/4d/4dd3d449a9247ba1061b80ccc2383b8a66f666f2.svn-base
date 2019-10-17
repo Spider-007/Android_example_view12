@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical">
+
+
+    <com.htmitech.emportal.ui.detail.ObservableScrollView
+        android:id="@+id/zoom"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/textview_text_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/linearlayout_text_operate"
+            android:background="@drawable/rectangel_bg_white"
+            android:editable="false"
+            android:focusable="false"
+            android:gravity="top"
+            android:hint="正文文字部分获取中..."
+            android:padding="10dp"
+            android:textColor="@color/color_ff555555"
+            android:textSize="15sp" />
+    </com.htmitech.emportal.ui.detail.ObservableScrollView>
+
+    <LinearLayout
+        android:id="@+id/linearlayout_text_operate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_text_download"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:drawableLeft="@drawable/icon_time_read"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="#FAFAFA"
+            android:padding="8dp"
+            android:text="正文读取中"
+            android:textColor="#555555"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/btn_text_share"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:background="@color/ht_hred_title"
+            android:gravity="center"
+            android:padding="8dp"
+            android:text="分享"
+            android:textColor="@color/color_ff555555"
+            android:textSize="15sp"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearlayout_text_download"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearlayout_text_operate"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textview_text_tip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="正文下载中:"
+            android:textColor="@color/color_ff555555"
+            android:textSize="15sp"
+            android:visibility="gone" />
+
+        <ProgressBar
+            android:id="@+id/progressbar_text_download"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:indeterminate="false"
+            android:visibility="visible" />
+    </LinearLayout>
+</RelativeLayout>

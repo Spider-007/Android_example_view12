@@ -1,0 +1,147 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:from="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/allbackground"
+    tools:context="com.htmitech.ztcustom.zt.fragment.NewFindInjuryFragment">
+
+    <LinearLayout
+        android:id="@+id/ll_new_find_injury_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF2B3253"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/bt_new_find_injury_zd"
+            android:layout_width="0dp"
+            android:layout_height="29dp"
+            android:layout_marginBottom="14dp"
+            android:layout_marginLeft="63dp"
+            android:layout_marginTop="13dp"
+            android:layout_weight="1"
+            android:background="@drawable/newfindinjury_pressed_left_shape"
+            android:gravity="center"
+            android:text="折断"
+            android:textColor="#FFFAFAFA"
+            android:textSize="13sp" />
+
+        <Button
+            android:id="@+id/bt_new_find_injury_zs"
+            android:layout_width="0dp"
+            android:layout_height="29dp"
+            android:layout_marginBottom="14dp"
+            android:layout_marginRight="63dp"
+            android:layout_marginTop="13dp"
+            android:layout_weight="1"
+            android:background="@drawable/newfindinjury_unpressed_right_shape"
+            android:gravity="center"
+            android:text="重伤"
+            android:textColor="#FF3A9BFC"
+            android:textSize="13sp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_new_find_injury_day_month_year"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/ll_new_find_injury_bt"
+        android:background="#FF2B3253">
+
+        <RelativeLayout
+            android:id="@+id/rl_new_find_injury_day"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/bt_new_find_injury_day"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:background="@drawable/newfindinjury_day_button_pressed"
+                android:text="本日"
+                android:textColor="#FFF8F8F8"
+                android:textSize="14sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_new_find_injury_month"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/bt_new_find_injury_month"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:background="@drawable/newfindinjury_day_button_unpressed"
+                android:text="本月"
+                android:textColor="#FFF8F8F8"
+                android:textSize="14sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_new_find_injury_year"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/bt_new_find_injury_year"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:background="@drawable/newfindinjury_day_button_unpressed"
+                android:text="本年"
+                android:textColor="#FFF8F8F8"
+                android:textSize="14sp" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_new_find_injury_return_previous"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_new_find_injury_day_month_year"
+        android:src="@drawable/btn_return_previous" />
+
+    <TextView
+        android:id="@+id/tv_new_find_injury_midtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_new_find_injury_day_month_year"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        android:text="新发折断数量"
+        android:textColor="#FFF8F8F8"
+        android:textSize="16sp" />
+
+    <mobilereport.com.chatkit.myView.FromLayout
+        android:id="@+id/fromlayout_new_find_injury"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_new_find_injury_midtitle"
+        android:layout_marginTop="12dp"
+        android:background="@color/allbackground"
+        android:orientation="vertical"
+        from:from_text_align="center"
+        from:from_title="新发折断数量"
+        from:from_title_back="#00000000"
+        from:from_title_text_align="center"
+        from:from_title_text_color="#FFF8F8F8"
+        from:from_title_text_size="16sp"
+        from:from_watermark_back_color="#C5C1AA"
+        from:from_watermark_displayType="repeat"
+        from:from_watermark_show="false"
+        from:from_watermark_text="水印背景仝玉池">
+
+    </mobilereport.com.chatkit.myView.FromLayout>
+
+
+</RelativeLayout>

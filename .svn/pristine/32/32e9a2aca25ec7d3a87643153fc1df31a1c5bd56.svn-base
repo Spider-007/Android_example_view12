@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".BookActivity">
+
+    <!-- <fragment -->
+    <!-- android:name="com.htmitech.fragment.AddressFragment" -->
+    <!-- android:id="@+id/article_fragment" -->
+    <!-- android:layout_width="fill_parent" -->
+    <!-- android:layout_height="fill_parent" /> -->
+    <RelativeLayout
+        android:id="@+id/layout_daiban_titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        android:background="@color/ht_hred_title"
+        skin:enable="true">
+
+
+
+        <ImageView
+            android:id="@+id/btn_daiban_person"
+            style="@style/title_button"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/mx_btn_back"
+            android:scaleType="center"
+            skin:enable="true" />
+
+        <TextView
+            android:id="@+id/daibantopTabIndicator_bbslist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="个人详细信息"
+            android:textColor="@color/ht_title_text_color"
+            android:textSize="18dp"
+            skin:enable="true" />
+
+    </RelativeLayout>
+
+    <com.htmitech.app.widget.UserMessageScrollView
+        android:id="@+id/scroll_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fadingEdge="none"
+        android:focusable="false"
+        android:overScrollMode="never"
+        android:layout_below="@id/layout_daiban_titlebar"
+        android:scrollbars="none">
+
+        <ListView
+            android:id="@+id/lv_people_message"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="10dp"
+            android:divider="@drawable/list_divide_line"
+            android:dividerHeight="0.5dip"
+            android:scrollbars="none" />
+    </com.htmitech.app.widget.UserMessageScrollView>
+</RelativeLayout>

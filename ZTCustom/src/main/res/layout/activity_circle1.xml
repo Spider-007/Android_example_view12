@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000931"
+   >
+
+
+	<com.htmitech.ztcustom.zt.view.circledemo.CircleBar
+    	android:id="@+id/circle"
+        android:layout_width="350dp"
+    	android:layout_height="350dp"
+    	android:layout_gravity="center"
+    />
+
+</LinearLayout>

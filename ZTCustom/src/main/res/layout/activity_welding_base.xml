@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/allbackground"
+    tools:context="com.htmitech.ztcustom.zt.chinarailway.WeldingBaseActivity">
+
+    <RelativeLayout
+        android:id="@+id/ll_welding_base_title_theme"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:layout_alignParentTop="true"
+        android:background="@color/title_color"
+        android:gravity="center_vertical">
+
+        <ImageButton
+            android:id="@+id/ib_welding_base_back"
+            android:clickable="true"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:gravity="center"
+            android:src="@drawable/btn_back" />
+
+        <TextView
+            android:id="@+id/tv_welding_base_title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="焊轨基地"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/title_textsize" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_welding_base_tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_welding_base_title_theme"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:id="@+id/rl_welding_base_dhg"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="true">
+
+            <TextView
+                android:id="@+id/tv_welding_base_dhg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="待焊轨"
+                android:textColor="#FFF8F8F8"
+                android:textSize="@dimen/generalinfomation_top_textsize" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_below="@id/tv_welding_base_dhg"
+                android:layout_marginTop="16dp"
+                android:background="#FF3955D2"
+                android:visibility="visible" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_welding_base_cpg"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="true">
+
+            <TextView
+                android:id="@+id/tv_welding_base_cpg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="成品轨"
+                android:textColor="#FFF8F8F8"
+                android:textSize="@dimen/generalinfomation_top_textsize" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_below="@id/tv_welding_base_cpg"
+                android:layout_marginTop="16dp"
+                android:background="#FF3955D2"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+    <com.htmitech.ztcustom.zt.view.MainViewPager
+        android:id="@+id/vp_welding_base"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/ll_welding_base_tab"
+        android:layout_marginBottom="20dp"
+        >
+
+    </com.htmitech.ztcustom.zt.view.MainViewPager>
+
+</RelativeLayout>

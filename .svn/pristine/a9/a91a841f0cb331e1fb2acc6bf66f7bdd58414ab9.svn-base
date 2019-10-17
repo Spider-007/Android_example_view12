@@ -1,0 +1,2 @@
+launcher=com.minxing.kit.plugin.android.mail.Mail;
+launcher_params=start;

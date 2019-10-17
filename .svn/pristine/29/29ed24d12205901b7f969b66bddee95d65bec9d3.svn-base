@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="addresslistitem">#80FFFFFF</color>
+    <color name="province_line_border">#D0D0D0</color>
+    <color name="yellow_page_search_bg">#fffffbfa</color>
+    <color name="text_color">#555555</color>
+    <color name="black">#ff000000</color>
+    <color name="login_form_hint">#ffb5b5b5</color>
+    <color name="transparent">#00000000</color>
+    <color name="yellow_light">#ffefa717</color>
+    <color name="white">@android:color/white</color>
+    <color name="bantouming">#e0000000</color>
+    <color name="red">#ff565400</color>
+    <color name="huise">#80f0f0f0</color>
+    <color name="yubaise">#FFFFF0</color>
+    <color name="transparent_red">#ddff5654</color>
+    <color name="lanse">#436EEE</color>
+    <color name="dark_green">#E1564A</color>
+
+    <!--指定title_color-->
+    <color name="ht_hred_title_duibi">#297BFB</color>
+    <!--企业蓝色版-->
+    <color name="ht_red_dangzheng">#DF3031</color>
+    <!--党政版的红色-->
+    <color name="reveal_color">#3b4169E1</color>
+    <color name="ht_ccc">#FFCCCCCC</color>
+    <color name="ht_title_text_color">#ffffff</color>
+    <color name="blueaddress">#297bfb</color>
+    <color name="grayaddress">#c4c4c4</color>
+    <color name="gray">#AFAFAF</color>
+    <color name="orange_text">#F78A00</color>
+    <color name="buttom_color">#FF555555</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="line_color">#CCCCCC</color>
+    <color name="name_color">#333333</color>
+
+    <color name="bg">#65BBF6</color>
+    <color name="qian_black">#444444</color>
+
+
+    <!--表单上的颜色 方便水印透明度调节-->
+    <color name="form_bg_line">#668A8A8A</color>
+    <color name="form_bg_blue">#664876FF</color>
+    <color name="form_bg_white">#22ffffff</color>
+    <color name="form_bg_must">#66FFFACD</color>
+    <color name="form_bg_user">#297BFB</color>
+    <color name="form_bg_ziti">#464C63</color>
+    <color name="form_bg_user_red">#DF3031</color>
+    <color name="form_bg_uncontent">#555555</color>
+</resources>

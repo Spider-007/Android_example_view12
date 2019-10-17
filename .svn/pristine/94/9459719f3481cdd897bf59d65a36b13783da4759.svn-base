@@ -1,0 +1,50 @@
+// Generated code from Butter Knife. Do not modify!
+package com.htmitech.proxy.activity;
+
+import android.view.View;
+import butterknife.ButterKnife.Finder;
+
+public class ScheduleMainActivity$$ViewInjector {
+  public static void inject(Finder finder, final com.htmitech.proxy.activity.ScheduleMainActivity target, Object source) {
+    View view;
+    view = finder.findRequiredView(source, 2131362166, "field 'llCalendarPopup'");
+    target.llCalendarPopup = (android.widget.LinearLayout) view;
+    view = finder.findRequiredView(source, 2131362169, "field 'mPullToRefreshListView'");
+    target.mPullToRefreshListView = (com.htmitech.commonx.pulltorefresh.library.PullToRefreshListView) view;
+    view = finder.findRequiredView(source, 2131362168, "field 'emptyLayoutRoot'");
+    target.emptyLayoutRoot = (com.htmitech.MyView.EmptyLayout) view;
+    view = finder.findRequiredView(source, 2131362167, "field 'calendarView'");
+    target.calendarView = (com.htmitech.emportal.ui.calendarwidget.calendar.CollapseCalendarView) view;
+    view = finder.findRequiredView(source, 2131363013, "field 'titleLeftButton'");
+    target.titleLeftButton = (android.widget.ImageButton) view;
+    view = finder.findRequiredView(source, 2131364161, "field 'titleLeftButtonHome'");
+    target.titleLeftButtonHome = (android.widget.ImageButton) view;
+    view = finder.findRequiredView(source, 2131364165, "field 'llScheduleRight'");
+    target.llScheduleRight = (android.widget.LinearLayout) view;
+    view = finder.findRequiredView(source, 2131364166, "field 'btScheduleTodat'");
+    target.btScheduleTodat = (android.widget.Button) view;
+    view = finder.findRequiredView(source, 2131364167, "field 'btScheduleSearch'");
+    target.btScheduleSearch = (android.widget.Button) view;
+    view = finder.findRequiredView(source, 2131364162, "field 'scheduleTitleNameBack'");
+    target.scheduleTitleNameBack = (android.widget.TextView) view;
+    view = finder.findRequiredView(source, 2131364163, "field 'scheduleTitleNameHome'");
+    target.scheduleTitleNameHome = (android.widget.TextView) view;
+    view = finder.findRequiredView(source, 2131361867, "field 'function'");
+    target.function = (com.htmitech.emportal.ui.widget.flatingactionButton.AddFloatingActionButton) view;
+  }
+
+  public static void reset(com.htmitech.proxy.activity.ScheduleMainActivity target) {
+    target.llCalendarPopup = null;
+    target.mPullToRefreshListView = null;
+    target.emptyLayoutRoot = null;
+    target.calendarView = null;
+    target.titleLeftButton = null;
+    target.titleLeftButtonHome = null;
+    target.llScheduleRight = null;
+    target.btScheduleTodat = null;
+    target.btScheduleSearch = null;
+    target.scheduleTitleNameBack = null;
+    target.scheduleTitleNameHome = null;
+    target.function = null;
+  }
+}

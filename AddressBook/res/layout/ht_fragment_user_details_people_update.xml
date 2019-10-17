@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00ffffff"
+    android:id="@+id/main"
+    android:orientation="vertical" >
+
+    <com.htmitech.app.widget.UserMessageScrollView
+        android:id="@+id/set_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fadingEdge="none"
+        android:layout_weight="1"
+        android:focusable="false"
+        android:paddingRight="5dp"
+        android:paddingLeft="5dp"
+        android:overScrollMode="never"
+        android:scrollbars="none"
+        android:fillViewport="false">
+        <LinearLayout
+            android:id="@+id/layout_grid_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:background="#00ffffff"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical" >
+        </LinearLayout>
+    </com.htmitech.app.widget.UserMessageScrollView>
+
+    <LinearLayout
+        android:id="@+id/layout_message"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <com.htmitech.app.widget.DrawableCenterTextView
+            android:id="@+id/tv_add_friends"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@drawable/send_message"
+            android:drawableLeft="@drawable/ht_add_friends"
+            android:gravity="center_vertical"
+            android:text="加为联系人"
+            android:drawablePadding="8dp"
+            android:textColor="#297BFB"
+            android:textSize="14sp" />
+
+        <com.htmitech.app.widget.DrawableCenterTextView
+            android:id="@+id/tv_send"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@drawable/send_message"
+            android:drawableLeft="@drawable/ht_sendmessage"
+            android:gravity="center_vertical"
+            android:drawablePadding="8dp"
+            android:text="发消息"
+            android:textColor="#297BFB"
+            android:textSize="14sp" />
+
+        <com.htmitech.app.widget.DrawableCenterTextView
+            android:id="@+id/tv_change_vip"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@drawable/special_focus"
+            android:drawableLeft="@drawable/ht_change_vip"
+            android:gravity="center_vertical"
+            android:drawablePadding="8dp"
+            android:text="特别关注"
+            android:visibility="gone"
+            android:textColor="#297BFB"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</LinearLayout>

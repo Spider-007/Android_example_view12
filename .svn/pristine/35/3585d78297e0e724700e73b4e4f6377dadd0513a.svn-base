@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/transparent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/form_fielditem_option_name"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:minHeight="@dimen/formdetail_minheight"
+            android:paddingLeft="5dp"
+            android:textIsSelectable="true"
+            android:textColor="@color/color_55555555"
+            android:textSize="17sp"></TextView>
+
+        <TextView
+            android:id="@+id/form_fielditem_option_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:minHeight="@dimen/formdetail_minheight"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:textIsSelectable="true"
+            android:textColor="@color/color_55555555"
+            android:textSize="17sp"></TextView>
+
+        <TextView
+            android:id="@+id/form_fielditem_option_username"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:minHeight="@dimen/formdetail_minheight"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:textIsSelectable="true"
+            android:paddingLeft="5dp"
+            android:text="淮政玮"
+            skin:enable="true"
+            android:textColor="@color/ht_hred_title"
+            android:textSize="17sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/form_fielditem_option_saveTime"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:textIsSelectable="true"
+            android:minHeight="@dimen/formdetail_minheight"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:textColor="@color/color_55555555"
+            android:textSize="17sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/form_fielditem_option_newoption"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:textIsSelectable="true"
+            android:minHeight="@dimen/formdetail_minheight"
+            android:layout_margin="2dp"
+            android:layout_weight="2"
+            android:gravity="center_vertical"
+            android:textColor="@android:color/black"
+            android:textSize="17sp"
+            android:visibility="gone">
+
+        </TextView>
+    </LinearLayout>
+
+
+    <!--<ImageView-->
+        <!--android:id="@+id/form_fielditem_editimage"-->
+        <!--android:layout_width="20dp"-->
+        <!--android:layout_height="20dp"-->
+        <!--android:layout_marginRight="5dp"-->
+        <!--android:layout_marginTop="5dp"-->
+        <!--android:src="@drawable/ic_editflag"-->
+        <!--android:visibility="gone" />-->
+
+</LinearLayout>

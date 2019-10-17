@@ -1,0 +1,17 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="htmitech.com.componentlibrary">
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="15"
+        tools:overrideLibrary="top.zibin.luban,mobilereport.com.chatkit"
+        />
+
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+    <application>
+        <activity android:name=".MediaPlayerActivity"></activity>
+    </application>
+
+</manifest>

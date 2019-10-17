@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:id="@+id/linearlayout_newtabindicator"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/color_f7f7f7"
+    android:orientation="vertical">
+
+    <HorizontalScrollView
+        android:id="@+id/head_scrollview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/linearLayout_newtabindicator_bar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout_newtabindicator_background"
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <View
+            android:id="@+id/v_newtabindicator_left"
+            android:layout_width="wrap_content"
+            android:layout_height="2dp" />
+
+        <ImageView
+            android:id="@+id/imageview_newtabindicator_cursor"
+            android:layout_width="50dp"
+            android:layout_height="2dp"
+            android:layout_gravity="center"
+            android:background="@color/ht_hred_title"
+            android:scaleType="matrix"
+            skin:enable="true" />
+
+        <View
+            android:id="@+id/v_newtabindicator_right"
+            android:layout_width="wrap_content"
+            android:layout_height="2dp" />
+    </LinearLayout>
+
+</LinearLayout>

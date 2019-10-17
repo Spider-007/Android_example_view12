@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    skin:enable="true"
+    tools:context="com.htmitech.htworkflowformplugin.activity.MuliteRouteSelectPeopleActivity">
+
+    <include
+        android:id="@+id/system_title"
+        layout="@layout/system_title" />
+
+    <Button
+        android:id="@+id/bt_mulite_route_select_people"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/ht_hred_title"
+        android:text="确定"
+        android:textColor="@color/ht_title_text_color"
+        android:textSize="18sp"
+        skin:enable="true" />
+
+    <ListView
+        android:id="@+id/lv_mulite_route_select_people"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bt_mulite_route_select_people"
+        android:layout_below="@id/system_title"
+        android:background="#F8F8F8">
+
+    </ListView>
+
+</RelativeLayout>

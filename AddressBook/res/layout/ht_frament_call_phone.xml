@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pop_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent">
+
+    <com.htmitech.app.widget.UserMessageScrollView
+        android:id="@+id/set_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dip"
+        android:layout_marginRight="5dip"
+        android:fadingEdge="none"
+        android:layout_weight="1"
+        android:focusable="false"
+        android:overScrollMode="never"
+        android:background="@drawable/activity_text_back_not_pad"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/ll_add_call_phone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+    </com.htmitech.app.widget.UserMessageScrollView>
+</LinearLayout>

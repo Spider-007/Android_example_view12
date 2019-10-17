@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_diamond_none.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\img_diamond_none.png"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher_background.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_bg_line_long.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\img_bg_line_long.png"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_bg_other_chat.9.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\img_bg_other_chat.9.png"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edit_flag.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\edit_flag.png"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_headportrait_self.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\img_headportrait_self.png"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_bg_my_chat.9.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\img_bg_my_chat.9.png"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_slide_block.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\btn_slide_block.png"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_bg_line_short.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\img_bg_line_short.png"
+    },
+    {
+        "merged": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_trophy_finish.png",
+        "source": "F:\\schedule259\\basewidgetlibrary\\build\\intermediates\\exploded-aar\\schedule259\\AddressBook\\unspecified\\res\\drawable-mdpi-v4\\img_trophy_finish.png"
+    }
+]

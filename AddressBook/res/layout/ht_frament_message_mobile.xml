@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:id="@+id/pop_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/activity_text_back_not_pad"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/bt_call"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="@color/white"
+            android:text="@string/user_call"
+            android:textColor="#555555"
+            android:textSize="16dip"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/bt_send"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/activity_text_buttom_back"
+            android:text="@string/user_send_message"
+            android:textColor="#555555"
+            android:textSize="16dip"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="#CCCCCC"/>
+
+        <Button
+            android:id="@+id/bt_save"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/activity_text_buttom_back"
+            android:text="@string/user_save"
+            android:textColor="#555555"
+            android:textSize="16dip"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/bt_copy"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/activity_text_buttom_back"
+            android:text="@string/user_copy"
+            android:textColor="#555555"
+            android:textSize="16dip"
+            android:textStyle="bold" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_ffffffff"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/layout_circle_titlebar"
+        layout="@layout/layout_titlebar2" />
+
+    <RelativeLayout
+        android:id="@+id/rl_opinion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="选择常用意见"
+            android:textColor="#FF555555"
+            android:textSize="15sp" />
+
+        <Spinner
+            android:id="@+id/spinner_optioninput_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/image_mute"
+            android:layout_toRightOf="@+id/textView1"
+            android:background="@drawable/layout_tablecell_bg"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/image_mute"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingRight="2dp"
+            android:scaleType="center"
+            android:src="@drawable/header_arrow_right"
+            android:visibility="visible" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view_divider_height"
+        android:background="#ffcccccc" />
+
+    <EditText
+        android:id="@+id/edittext_optioninput_input"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/option_input_shape"
+        android:gravity="top"
+        android:hint="请输入审批意见"
+        android:textColor="@color/color_ff999999"
+        android:textSize="15sp" />
+
+
+    <RelativeLayout
+        android:id="@+id/rl_option_always"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFF5F5F5">
+
+        <TextView
+            android:id="@+id/tv_newoptions"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/ht_hred_title"
+            android:gravity="center"
+            android:text="新增常用意见"
+            android:textColor="@color/ht_title_text_color"
+            android:textSize="18sp"
+            skin:enable="true" />
+
+        <RelativeLayout
+            android:id="@+id/rl_opinion_down"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/tv_newoptions"
+            android:gravity="center_vertical">
+
+            <ListView
+                android:id="@+id/options_listview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#FFFFFF"
+                android:cacheColorHint="@android:color/transparent"
+                android:descendantFocusability="beforeDescendants"
+                android:divider="@null"
+                android:dividerHeight="1dp"
+                android:fadingEdge="none"
+                android:fastScrollEnabled="true"></ListView>
+
+            <ImageView
+                android:id="@+id/iv_no_messages"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:src="@drawable/img_no_messages" />
+
+            <TextView
+                android:id="@+id/text_no_messages"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/iv_no_messages"
+                android:gravity="center"
+                android:text="当前没有常用意见，快去新增一条吧！"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

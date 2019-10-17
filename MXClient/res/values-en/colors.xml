@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="floralwhite">#FFFAF0</color>
+
+    <!-- 暗灰色 -->
+    <color name="dimgrey">#696969</color>
+
+    <color name="grey">#808080</color>
+
+
+    <!-- 敏行用到的颜色 begin-->
+    <color name="transparent">#00000000</color>
+    <color name="mx_transparent">#00000000</color>
+    <color name="white">@android:color/white</color>
+    <color name="half_alpha_black">#7f000000</color>
+    <color name="text_common_dark_grey">#707070</color>
+    <color name="text_common_lightblue">#1a85ff</color>
+    <color name="dark_gray">#707070</color>
+    <color name="bg_grey_light">#f7f7f7</color>
+    <color name="bg_grey_dark">#f5f5f5</color>
+    <color name="dark_blue">#2665B4</color>
+    <color name="dark_green">#ffdbf5e2</color>
+    <color name="black">@android:color/black</color>
+    <color name="bantouming">#e0000000</color>
+    <color name="red">#ff0000</color>
+
+    <color name="bg_gesture_pwd_view">#004191</color>
+    <color name="lightblue_3">#2868b6</color>
+    <!-- 敏行用到的颜色 end-->
+    <!--<color name="mx_title_bar_color">#6fb7ff</color>-->
+    <!--<color name="mx_dark_blue">#6fb7ff</color>-->
+    <!--<color name="color_main_tab_text_p">#6fb7ff</color>-->
+    <!--原始绿色风格颜色为32c75c，改蓝色风格时修改为当前值  -->
+    <color name="color_main_tab_text_n">#828282</color>
+    <color name="color_bg">#24262f</color>
+    <!--和ios版本不一致需要蓝色#FAFAFA改成#031D42-->
+    <color name="ht_hred_title">#FAFAFA</color> <!--指定title_color-->
+
+   <!-- <color name="ht_tabhost_selected">#DF3031</color>-->
+    <color name="ht_title_text_color">#ffffff</color>
+
+	<color name="color_title">#DF3031</color>
+	<color name="color_daibanheadercolor">#f6f7fa</color>
+	<color name="color_mustinputback">#22FEFAEB</color>
+    <color name="color_mustinputtouming">#00000000</color>
+	<color name="color_daiban_yiban_back">#F7F7F7</color>
+
+    <color name="color_ff262831">#262831</color>
+        <!-- 端内颜色变量统一化 begin -->
+    <color name="gray">#DCDDE0</color>
+    <color name="gray2">#F6F7FA</color>
+    <color name="color_f3f3f3">#f3f3f3</color>
+    <color name="color_dbdbdb">#dbdbdb</color>
+    <color name="color_f7f7f7">#f7f7f7</color>
+    <color name="color_f2f2f2">#f2f2f2</color>
+    <color name="color_fff5f5f5">#f5f5f5</color>
+    <color name="color_ffe35720">#ffe35720</color>
+    <color name="color_a2a2a2">#a2a2a2</color>
+    <color name="color_fff2f2f2">#f2f2f2</color>
+    <color name="color_ffffffff">#ffffffff</color>
+    <color name="color_ffd0e9ff">#ffd0e9ff</color>
+    <color name="color_fff5faff">#fff5faff</color>
+    <color name="color_3f000000">#3f000000</color>
+    <color name="color_ff00529f">#ff00529f</color>
+    <color name="color_ffd3d6da">#ffd3d6da</color>
+    <color name="color_ff000000">#ff000000</color>
+    <color name="color_ff222222">#ff222222</color>
+    <color name="color_fff1f3f5">#fff1f3f5</color>
+    <color name="color_ffe5e5e5">#ffe5e5e5</color>
+    <color name="color_55000000">#55000000</color>
+    <color name="color_ff333333">#ff555555</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_55555555">#ff555555</color>
+    <color name="color_80000000">#80000000</color>
+    <color name="color_ffaaaaaa">#ffaaaaaa</color>
+    <color name="color_ff5d5d5d">#ff5d5d5d</color>
+    <color name="color_ff3c3c42">#ff3c3c42</color>
+    <color name="color_ff1f1f25">#ff1f1f25</color>
+    <color name="color_ffff3802">#ffff3802</color>
+    <color name="color_ff0068d0">#ff0068d0</color>
+    <color name="color_ffe0e0e0">#ffe0e0e0</color>
+    <color name="color_ff606060">#ff606060</color>
+    <color name="color_ff666666">#ff666666</color>
+    <color name="color_ff777777">#ff777777</color>
+    <color name="color_fff0f0f0">#fff0f0f0</color>
+    <color name="color_fffafafa">#fffafafa</color>
+    <color name="color_ff09479b">#ff09479b</color>
+    <color name="color_ff949fab">#ff949fab</color>
+    <color name="color_00000000">#00000000</color>
+    <color name="color_ff2ca30b">#ff2ca30b</color>
+    <color name="color_ffbebebe">#ffbebebe</color>
+    <color name="color_ffc7c9cc">#ffc7c9cc</color>
+    <color name="color_ffeeeeee">#eeeeee</color>
+    <color name="color_ff555555">#555555</color>
+    <color name="color_ff888888">#888888</color>
+    <color name="color_ffF38300">#F38300</color>
+    <color name="color_ffEEEFF3">#EEEFF3</color>
+    <color name="color_fff9fafa">#fff9fafa</color>
+    <color name="color_ff9296a3">#ff9296a3</color>
+    <color name="color_ff999999">#ff999999</color>
+    <color name="color_fffdfdfd">#fffdfdfd</color>
+    <color name="color_ff217fe8">#ff217fe8</color>
+    <color name="color_ffff2929">#ffff2929</color>
+    <color name="color_ff16bb54">#ff16bb54</color>
+    <color name="color_ffcdcdd1">#ffcdcdd1</color>
+    <color name="color_ffeef0f3">#ffeef0f3</color>
+    <color name="color_ffeceef0">#ffeceef0</color>
+    <color name="color_ffd8d8d8">#ffd8d8d8</color>
+    <color name="color_ff141414">#ff141414</color>
+    <color name="color_ff6b6b6b">#ff6b6b6b</color>
+    <color name="color_26ffffff">#26ffffff</color>
+    <color name="color_33000000">#33000000</color>
+    <color name="color_ff1f2228">#ff1f2228</color>
+    <color name="color_ff282c33">#ff282c33</color>
+    <color name="color_fff5f7f9">#fff5f7f9</color>
+    <color name="color_fffe7900">#fffe7900</color>
+    <color name="color_ffdadada">#dadada</color>
+    <color name="color_ffedecec">#ffedecec</color>
+    <color name="color_ff39393b">#ff39393b</color>
+    <color name="color_ff25a606">#ff25a606</color>
+    <color name="color_ffdcdcdc">#ffdcdcdc</color>
+    <color name="color_ffe3e3e3">#ffe3e3e3</color>
+    <color name="color_ffd4d4d4">#ffd4d4d4</color>
+    <color name="color_fff28383">#fff28383</color>
+    <color name="color_fff4f4f4">#fff4f4f4</color>
+    <color name="color_fff8f8f8">#fff8f8f8</color>
+    <color name="color_ffb2b2b2">#ffb2b2b2</color>
+    <color name="color_44b2b2b2">#44b2b2b2</color>
+    <color name="color_55A9A9A9">#55A9A9A9</color>
+    <color name="color_66000000">#66000000</color>
+    <color name="color_ffe2e2e2">#ffe2e2e2</color>
+    <color name="color_ffececec">#ffececec</color>
+    <color name="color_ff31b56">#ff31b156</color>
+    <color name="color_ffc4c4c4">#ffc4c4c4</color>
+    <color name="color_ffc1c1c1">#ffc1c1c1</color>
+    <color name="color_ffdbf5e2">#fff</color>
+    <color name="color_ffEEFFF3">#EEFFF3</color>
+    <color name="color_ffced0d1">#ced0d1</color>
+    <color name="color_ff32c65c">#32c65c</color>
+    <color name="black_translucent">#ffffffff</color>
+    <color name="color_ff32c75c">#32c75c</color>
+    <color name="color_ff3ba5ff">#3ba5ff</color>
+    <color name="color_ff2797f5">#2797f5</color>
+    <color name="color_ff2799fa">#2799fa</color>
+    <color name="color_ffc8c8c8">#c8c8c8</color>
+    <color name="color_ff6db8ff">#6db8ff</color>
+    <color name="color_ffedf7ff">#edf7ff</color>
+    <color name="color_ffcfcfcf">#cfcfcf</color>
+    <color name="color_ff2e93f1">#2e93f1</color>
+    <color name="color_ff68baff">#ff68baff</color>
+    <color name="color_ff9c9c9c">#ff9c9c9c</color>
+    <color name="railway_back">#002B53</color>
+    <color name="item_back">#0081fd</color>
+    <color name="item_light_blue">#00103d</color>
+
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <!--     <color name="white">#fafafa</color> -->
+    <!--<color name="white_pressed">#6fb7ff</color>-->
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+
+    <color name="holo_green_dark_new">#38B832</color>
+    <color name="holo_green_light_new">#30c126</color>
+
+    <color name="radio_button_selected_color">#ff33b5e5</color>
+    <color name="radio_button_unselected_color">@android:color/transparent</color>
+    <color name="form_gray">#22F5F5F5</color>
+<!--下拉选择框的背景颜色-->
+    <color name="pitch_off">#22FFFFFF</color>
+    <color name="pitch_on">#22EEEEEE</color>
+    <color name="imageline">#22B4B4B4</color>
+    <color name="ismustinput">#22FDFAEB</color>
+</resources>

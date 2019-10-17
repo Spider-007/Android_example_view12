@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\Android\Wroking\Branch_2.5.8_dev_\ArchiverModule\src\main\assets"/><source path="F:\Android\Wroking\Branch_2.5.8_dev_\ArchiverModule\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\Android\Wroking\Branch_2.5.8_dev_\ArchiverModule\src\debug\assets"/></dataSet></merger>

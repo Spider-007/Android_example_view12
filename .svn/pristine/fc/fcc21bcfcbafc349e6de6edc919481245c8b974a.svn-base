@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EBEBEB"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/layout_daiban_titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        skin:enable="true"
+        android:background="@color/ht_hred_title" >
+
+        <ImageView
+            android:id="@+id/btn_daiban_person"
+            style="@style/title_button"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            skin:enable="true"
+            android:background="@drawable/mx_btn_back"
+            android:scaleType="center" />
+
+        <TextView
+            android:id="@+id/daibantopTabIndicator_bbslist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:text="通讯录"/>
+
+    </RelativeLayout>
+    <com.htmitech.app.widget.CustomEditText
+        android:id="@+id/school_friend_member_search_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/bg_search_input"
+        android:drawableLeft="@drawable/ic_search"
+        android:drawablePadding="5dp"
+        android:drawableRight="@drawable/ic_edit_text_delbtn"
+        android:freezesText="true"
+        android:gravity="center_vertical"
+        android:hint="@string/school_friend_search_hint"
+        android:imeOptions="actionSearch"
+        android:singleLine="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/login_form_hint"
+        android:textSize="14sp" />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ListView
+            android:id="@+id/general_search_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#d9d9d9"
+            android:dividerHeight="0.1dp"
+            android:listSelector="@null"
+            android:scrollbars="none" />
+        <ProgressBar
+            android:id="@+id/progress_search"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="30dip"
+            android:layout_height="30dip"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            android:indeterminateDrawable="@anim/imofan_round_progress_bar_1" />
+    </FrameLayout>
+    <TextView
+        android:id="@+id/general_is_exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/huise"
+        android:layout_marginTop="20dp"
+        android:textSize="20dip"
+        android:visibility="gone"
+        android:text="搜索内容不存在"/>
+</LinearLayout>

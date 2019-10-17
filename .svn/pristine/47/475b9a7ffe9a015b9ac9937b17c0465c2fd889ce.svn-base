@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/allbackground">
+
+    <RelativeLayout
+        android:id="@+id/rl_file_manager_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp">
+
+        <ImageView
+            android:id="@+id/iv_file_manager_pic"
+            android:layout_width="90dp"
+            android:layout_height="60dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/rail" />
+
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/iv_file_manager_pic"
+            android:layout_alignTop="@id/iv_file_manager_pic"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/iv_file_manager_pic">
+
+            <TextView
+                android:id="@+id/tv_file_manager_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="50dp"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:text="60N 焊轨 鞍钢asdfasdf"
+                android:textColor="#D5D5D5"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tv_file_manager_size"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginRight="20dp"
+                android:gravity="center"
+                android:text=""
+                android:textColor="#9C9C9C"
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/iv_file_manager_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/btn_list_next" />
+    </RelativeLayout>
+
+</RelativeLayout>

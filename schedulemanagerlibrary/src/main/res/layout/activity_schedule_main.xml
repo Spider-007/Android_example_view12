@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget.DetailActivityLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:arc="http://schemas.android.com/apk/res-auto"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_ffffffff"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/system_title"
+            layout="@layout/system_title"
+            skin:enable="true" />
+
+        <LinearLayout
+            android:id="@+id/ll_calendar_popup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            skin:enable="true">
+
+            <calendar.CollapseCalendarView
+                android:id="@+id/calendar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                skin:enable="true" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#F0F0F0" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            skin:enable="true">
+
+            <TextView
+                android:id="@+id/tv_mine"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="我的日程"
+                android:textSize="14sp"
+                skin:enable="true" />
+
+            <TextView
+                android:id="@+id/tv_confirm"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="待确认日程"
+                android:textSize="14sp"
+                skin:enable="true" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            skin:enable="true">
+
+            <TextView
+                android:id="@+id/tv_img_mine"
+                android:layout_width="0dp"
+                android:layout_height="2dp"
+                android:layout_weight="1"
+                android:background="@drawable/mx_comm_blue_button2"
+                skin:enable="true" />
+
+            <TextView
+                android:id="@+id/tv_img_confirm"
+                android:layout_width="0dp"
+                android:layout_height="2dp"
+                android:layout_weight="1"
+                android:background="@drawable/mx_comm_blue_button2"
+                android:visibility="invisible"
+                skin:enable="true" />
+        </LinearLayout>
+
+        <widget.EmptyLayout
+            android:id="@+id/empty_layout_root"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <com.minxing.pulltorefresh.library.PullToRefreshListView
+                android:id="@+id/lv_schedule_list"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:divider="@color/color_daiban_yiban_back"
+                android:listSelector="@null"
+                android:scrollbars="none"
+                ptr:mx_ptrAnimationStyle="rotate"
+                ptr:mx_ptrHeaderSubTextColor="@color/black"
+                ptr:mx_ptrHeaderTextColor="@color/black"
+                ptr:mx_ptrMode="both" />
+
+        </widget.EmptyLayout>
+
+    </LinearLayout>
+
+    <widget.AddFloatingActionButton
+        android:id="@+id/function"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp"
+        android:layout_marginTop="100dp"
+        android:scaleType="center"
+        android:src="@mipmap/btn_date_operation_add"
+        android:visibility="visible" />
+</widget.DetailActivityLayout>

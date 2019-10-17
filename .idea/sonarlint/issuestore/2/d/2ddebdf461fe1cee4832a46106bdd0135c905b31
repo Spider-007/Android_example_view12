@@ -1,0 +1,49 @@
+
+qsquid:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(Â£‹™
+=squid:S16592"&Declare "position" on a separate line.(©ªÃ¼
+Bsquid:S1068B"+Remove this unused "list_lx" private field.(Ó´™Ò
+qsquid:S00116="TRename this field "et_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÉ¥Ğùÿÿÿÿ
+4squid:S1643Ã"Use a StringBuilder instead.(ã¿üİ
+ssquid:S00116?"[Rename this field "tv_search_submit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©–Ñ
+4squid:S1643¥"Use a StringBuilder instead.(³áÆ
+psquid:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒŒ¶…
+jsquid:S001167"RRename this field "ib_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚßÆ
+vsquid:S3012Î"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¢£•úùÿÿÿÿ
+4squid:S1643¡"Use a StringBuilder instead.(“ëÛÜ
+vsquid:S001164"^Rename this field "lv_CheJianDayReport" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¼öË
+psquid:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(º„ƒÖ
+lsquid:S001168"TRename this field "ib_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈäË‹
+vsquid:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+msquid:S14507"VRemove the "ib_back" field and declare it as a local variable in the relevant methods.(ÚßÆ
+vsquid:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëùê·ùÿÿÿÿ
+usquid:S00116<"XRename this field "ll_top_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”îƒ†ûÿÿÿÿ
+ssquid:S1450F"\Remove the "ll_layout_sum" field and declare it as a local variable in the relevant methods.(ó­‹ø
+Osquid:S2589 "7Remove this expression which always evaluates to "true"(¦»…Î
+Asquid:S1481·")Remove this unused "date" local variable.(‡©µÔ
+Gsquid:S1068@"0Remove this unused "searchString" private field.(–Õÿ
+ssquid:S1450H"\Remove the "tv_banzu_name" field and declare it as a local variable in the relevant methods.(Š“—Å
+msquid:S1450B"VRemove the "list_lx" field and declare it as a local variable in the relevant methods.(Ó´™Ò
+:squid:S16592"#Declare "month" on a separate line.(©ªÃ¼
+psquid:S00116F"XRename this field "ll_layout_sum" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó­‹ø
+rsquid:S00116>"[Rename this field "tv_search_cancle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½§Øu
+osquid:S1450C"SRemove the "Sblx" field and declare it as a local variable in the relevant methods.(”óˆ¹øÿÿÿÿ
+psquid:S00116H"XRename this field "tv_banzu_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š“—Å
+Dsquid:S1068C"(Remove this unused "Sblx" private field.(”óˆ¹øÿÿÿÿ
+jsquid:S00116A"RRename this field "list_wz" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒŒ¶…
+psquid:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ’¶›
+jsquid:S00116B"RRename this field "list_lx" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó´™Ò
+8squid:S16592"!Declare "day" on a separate line.(©ªÃ¼
+gsquid:S00116I"ORename this field "iv_i" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¯€é
+isquid:S001166"RRename this field "tv_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¹²K
+vsquid:S1450?"_Remove the "tv_search_submit" field and declare it as a local variable in the relevant methods.(©–Ñ
+jsquid:S00117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÉõÊ
+usquid:S1450>"_Remove the "tv_search_cancle" field and declare it as a local variable in the relevant methods.(½§Øu
+osquid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ÿ¸¨şÿÿÿÿ
+Osquid:S2589Â"7Remove this expression which always evaluates to "true"(¿°´ı
+psquid:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËœÒ 
+osquid:S001165"RRename this field "tv_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª »²ùÿÿÿÿ
+lsquid:S001161"TRename this field "BanZuList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ’¶›
+osquid:S00117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜“š¿üÿÿÿÿ
+lsquid:S00116C"ORename this field "Sblx" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”óˆ¹øÿÿÿÿ
+4squid:S1643Å"Use a StringBuilder instead.(²Íôİ
+Jsquid:S1172´"-Remove this unused method parameter "search".(¬Ÿ¸¨şÿÿÿÿ

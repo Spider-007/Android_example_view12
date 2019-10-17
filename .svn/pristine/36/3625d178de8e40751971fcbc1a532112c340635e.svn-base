@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item type="id" name="gridview" />
+    <item type="id" name="webview" />
+    <item type="id" name="scrollview" />
+
+    <item name="fab_expand_menu_button" type="id"/>
+    <item name="fab_label" type="id"/>
+
+    <item name="tag_history" type="id"></item>
+    <item name="tag_history_child" type="id"></item>
+
+    <item name="tag_viewhoder" type="id"></item>
+    <item name="tag_position" type="id"></item>
+</resources>

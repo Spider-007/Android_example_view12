@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="120dp"
+    android:layout_height="120dp"
+    android:gravity="top|center"
+    android:layout_gravity="center"
+    android:orientation="horizontal" >
+
+    <CheckBox
+        android:id="@+id/checkbox_griditem"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/checkbox_autologin"
+        android:button="@null"
+        android:focusable="false"
+        android:text="" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <com.htmitech.app.widget.XCRoundRectImageView
+            android:id="@+id/imageview_griditem"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/btn_add" />
+
+        <TextView
+            android:id="@+id/textview_griditem"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:singleLine="true"
+            android:layout_marginBottom="8dp"
+            android:text="title124562222232323" />
+    </LinearLayout>
+
+</LinearLayout>

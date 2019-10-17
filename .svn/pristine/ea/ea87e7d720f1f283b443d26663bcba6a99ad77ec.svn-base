@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+    <include
+        android:id="@+id/system_title"
+        layout="@layout/system_title" />
+
+    <com.htmitech.MyView.PaintView
+        android:id="@+id/paint_layout"
+        android:layout_below="@id/system_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </com.htmitech.MyView.PaintView>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:layout_alignParentBottom="true"
+        android:gravity="center|bottom"
+        android:background="@drawable/feed_back_bg"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/chexiao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_feed_back_chexiao"
+            />
+
+        <Button
+            android:id="@+id/qingkong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_feed_back_qingchu"
+             />
+
+        <Button
+            android:id="@+id/huifu"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="恢复" />
+    </LinearLayout>
+
+
+
+
+
+
+</RelativeLayout>

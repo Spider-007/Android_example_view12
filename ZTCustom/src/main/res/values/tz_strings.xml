@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="zizh_title_wei">子账号配置（未激活）</string>
+	<string name="zizh_title">子账号配置</string>
+	<string name="zizh_yanzheng">验证</string>
+	 <string name="hart_report_news">伤损实况通知播报</string>
+    <string name="listfooterview_normal">查看更多</string>
+    <string name="listfooterview_ready">松开载入更多</string>
+</resources>

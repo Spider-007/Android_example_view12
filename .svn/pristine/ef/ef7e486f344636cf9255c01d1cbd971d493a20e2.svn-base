@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="addresslistitem">#80FFFFFF</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="bantouming">#e0000000</color>
+    <color name="bg">#65BBF6</color>
+    <color name="black">#ff000000</color>
+    <color name="blueaddress">#297bfb</color>
+    <color name="buttom_color">#FF555555</color>
+    <color name="dark_green">#E1564A</color>
+    <color name="form_bg_blue">#664876FF</color>
+    <color name="form_bg_line">#668A8A8A</color>
+    <color name="form_bg_must">#66FFFACD</color>
+    <color name="form_bg_uncontent">#555555</color>
+    <color name="form_bg_user">#297BFB</color>
+    <color name="form_bg_user_red">#DF3031</color>
+    <color name="form_bg_white">#22ffffff</color>
+    <color name="form_bg_ziti">#464C63</color>
+    <color name="gray">#AFAFAF</color>
+    <color name="grayaddress">#c4c4c4</color>
+    <color name="ht_ccc">#FFCCCCCC</color>
+    <color name="ht_hred_title">#297BFB</color>
+    <color name="ht_hred_title_duibi">#297BFB</color>
+    <color name="ht_red_dangzheng">#DF3031</color>
+    <color name="ht_title_text_color">#ffffff</color>
+    <color name="huise">#80f0f0f0</color>
+    <color name="lanse">#436EEE</color>
+    <color name="line_color">#CCCCCC</color>
+    <color name="login_form_hint">#ffb5b5b5</color>
+    <color name="name_color">#333333</color>
+    <color name="orange_text">#F78A00</color>
+    <color name="province_line_border">#D0D0D0</color>
+    <color name="qian_black">#444444</color>
+    <color name="red">#ff565400</color>
+    <color name="reveal_color">#3b4169E1</color>
+    <color name="text_color">#555555</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_red">#ddff5654</color>
+    <color name="white">@android:color/white</color>
+    <color name="yellow_light">#ffefa717</color>
+    <color name="yellow_page_search_bg">#fffffbfa</color>
+    <color name="yubaise">#FFFFF0</color>
+    <declare-styleable name="GroupView"><attr format="enum" name="type"><enum name="circle" value="1"/><enum name="square" value="2"/></attr><attr format="dimension" name="padding"/><attr format="dimension" name="cornor"/><attr format="reference|color" name="backgroundGP"/></declare-styleable>
+    <declare-styleable name="ProgressWheel"><attr format="boolean" name="matProg_progressIndeterminate"/><attr format="color" name="matProg_barColor"/><attr format="color" name="matProg_rimColor"/><attr format="dimension" name="matProg_rimWidth"/><attr format="float" name="matProg_spinSpeed"/><attr format="integer" name="matProg_barSpinCycleTime"/><attr format="dimension" name="matProg_circleRadius"/><attr format="boolean" name="matProg_fillRadius"/><attr format="dimension" name="matProg_barWidth"/><attr format="boolean" name="matProg_linearProgress"/></declare-styleable>
+    <declare-styleable name="SlideBottomPanel"><attr format="reference" name="sbp_background_layout"/><attr format="dimension" name="sbp_title_height_no_display"/><attr format="dimension" name="sbp_panel_height"/><attr format="boolean" name="sbp_boundary"/><attr format="dimension" name="sbp_move_distance_trigger"/><attr format="integer" name="sbp_animation_duration"/><attr format="boolean" name="sbp_fade"/><attr format="boolean" name="sbp_hide_panel_title"/></declare-styleable>
+    <declare-styleable name="TopBar"><attr format="reference|color" name="left_button_text_back"/><attr format="color" name="title_color"/><attr format="string" name="title_name"/><attr format="dimension" name="title_size"/><attr format="reference|color" name="title_background"/><attr format="color" name="right_button_text_color"/><attr format="string" name="right_button_title"/><attr format="dimension" name="right_button_size"/><attr format="reference|color" name="right_button_text_back"/></declare-styleable>
+    <declare-styleable name="roundedimageview"><attr format="dimension" name="border_thickness"/><attr format="color" name="border_inside_color"/><attr format="color" name="border_outside_color"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="albumitem_content_height">80dp</dimen>
+    <dimen name="albumitem_height">100dp</dimen>
+    <dimen name="albumitem_image_height">20dp</dimen>
+    <dimen name="check_item_buttom">10dp</dimen>
+    <dimen name="check_item_buttom13">13dp</dimen>
+    <dimen name="check_item_buttom3">3dp</dimen>
+    <dimen name="check_item_buttom5">5dp</dimen>
+    <dimen name="check_item_ico_hight">40dp</dimen>
+    <dimen name="check_item_top">10dp</dimen>
+    <dimen name="check_queding">18sp</dimen>
+    <dimen name="checkbox_height">25dp</dimen>
+    <dimen name="collection_photo_toolbar_height">45dp</dimen>
+    <dimen name="fab_margi_h">2dp</dimen>
+    <dimen name="layout_title_content_heigh">30dp</dimen>
+    <dimen name="layout_title_heigh">55dp</dimen>
+    <dimen name="layout_title_mini_textsize">16sp</dimen>
+    <dimen name="sreach">30sp</dimen>
+    <dimen name="sticky_item_horizontalSpacing">2dp</dimen>
+    <dimen name="sticky_item_verticalSpacing">2dp</dimen>
+    <dimen name="title_size">20sp</dimen>
+    <item name="check_dialog" type="id"/>
+    <item name="node_header" type="id"/>
+    <item name="node_items" type="id"/>
+    <item name="tag_department" type="id"/>
+    <item name="tag_people" type="id"/>
+    <item name="tree_items" type="id"/>
+    <integer name="animation_default_duration">300</integer>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">AddressBook</string>
+    <string name="back">Back</string>
+    <string name="cancel">取消</string>
+    <string name="check_title">人员选择</string>
+    <string name="check_view_pager_changyong_title">常用联系人</string>
+    <string name="check_view_pager_system_title">系统选择</string>
+    <string name="check_view_pager_zuzhi_title">组织机构</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="loading">正在登录...</string>
+    <string name="login_error_msg_community">对应默认社区未配置</string>
+    <string name="login_error_msg_not_application_cfg">%s 门户应用未配置，暂时无法登陆，请联系管理员！</string>
+    <string name="login_error_msg_not_community">未找到您所在的社区</string>
+    <string name="login_error_msg_portal">对应默认门户未配置</string>
+    <string name="max_img_limit_reached">Cannot select more than %d images</string>
+    <string name="more_than_max">Exceeds the upper limit</string>
+    <string name="people_save">保存</string>
+    <string name="photo_choose">从系统相册选择</string>
+    <string name="photo_pic">照片或视频</string>
+    <string name="preview">原图</string>
+    <string name="recent_photos">选择相册</string>
+    <string name="school_friend_search_hint">姓名/拼音/手机号</string>
+    <string name="search_header">搜</string>
+    <string name="select_photos">图片选择</string>
+    <string name="shooting">拍摄</string>
+    <string name="sure">确定</string>
+    <string name="taking_pictures">Taking Pictures</string>
+    <string name="user_call">拨打电话</string>
+    <string name="user_copy">复制此号码</string>
+    <string name="user_save">保存到本地通讯录</string>
+    <string name="user_send_message">发送短信</string>
+    <style name="ActionSheetDialogAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/popshow_anim</item>
+        <item name="android:windowExitAnimation">@anim/pophidden_anim</item>
+    </style>
+    <style name="ActionSheetDialogStyle" parent="@android:style/Theme.Dialog">
+
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 浮于Activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- Dialog以外的区域模糊效果 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- Dialog进入及退出动画 -->
+        <item name="android:windowAnimationStyle">@style/ActionSheetDialogAnimation</item>
+    </style>
+    <style name="AlertDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="AnimBottom">
+        <item name="android:windowEnterAnimation">@anim/popshow_anim</item>
+ <!-- 指定显示的动画xml -->
+
+        <item name="android:windowExitAnimation">@anim/pophidden_anim</item>
+ <!-- 指定消失的动画xml -->
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="CustomCheckboxTheme" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/checkbox_style</item>
+    </style>
+    <style name="CustomDialog" parent="android:style/Theme.Dialog">
+        <!--背景颜色及透明程度-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--是否有标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!--是否浮现在activity之上-->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!--是否模糊-->
+        <item name="android:backgroundDimEnabled">true</item>
+
+        <item name="android:backgroundDimAmount">0.70</item>
+        <!-- Dialog进入及退出动画 -->
+        <item name="android:windowAnimationStyle">@style/CustomDialogDialogAnimation</item>
+    </style>
+    <style name="CustomDialogDialogAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/zoom_enter</item>
+        <item name="android:windowExitAnimation">@anim/zoom_exit</item>
+    </style>
+    <style name="FormCheckBox">
+        <item name="android:button">@drawable/formcheckbox_selector</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#333333</item>
+    </style>
+    <style name="RadiobuttonStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:drawableLeft">@drawable/formradiobutton_selector</item>
+    </style>
+    <style name="Theme.TranslucentParent" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="TreeNodeStyle">
+        <item name="android:paddingLeft">20dp</item>
+    </style>
+    <style name="title_button">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/header_bar_btn_selector</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minWidth">55dp</item>
+    </style>
+</resources>

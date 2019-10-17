@@ -1,0 +1,618 @@
+[
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_enlarge.9.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\keyboard_enlarge.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_checkbox_normal.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_checkbox_normal.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pictures_no.png",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\pictures_no.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_tape_play.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_tape_play.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\word_name_kg.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9937cbb6e26341363888342a2af8b0c2f8551456\\output\\res\\drawable-xxhdpi-v4\\word_name_kg.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_c_1.png",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\loading_c_1.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_audio.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_audio.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_btn_community_list_phone.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_btn_community_list_phone.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_c_3.png",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\loading_c_3.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_keyboard_capital_default.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_keyboard_capital_default.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_required.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_required.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_angle_spread.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_angle_spread.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_tape_plan.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_tape_plan.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_zlyy_addclqk.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_zlyy_addclqk.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_angle_retract.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_angle_retract.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_shuzi_keyboard_del_default.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_shuzi_keyboard_del_default.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_addphoto.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_addphoto.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pictures_no.png",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\pictures_no.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_accessory_download.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_accessory_download.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_clean.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_clean.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_check_normal.png",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_check_normal.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_enlarge.9.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\keyboard_enlarge.9.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_btn_community_list_phone.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_btn_community_list_phone.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_mail_ic_action_collapse_light.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_mail_ic_action_collapse_light.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_tape_pause.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_tape_pause.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_search.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_search.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_search.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_search.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_keyboard_capital_default.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_keyboard_capital_default.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_yingwen_fuhao_keyboard_del_default.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_yingwen_fuhao_keyboard_del_default.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_c_1.png",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\loading_c_1.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_dat.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_dat.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_btn_back.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_btn_back.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_date_search.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_date_search.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_work_circle_deleted.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_work_circle_deleted.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_clqk_addphoto.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_clqk_addphoto.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher_round.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_shuzi_keyboard_del_default.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_shuzi_keyboard_del_default.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_audio.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_audio.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_txt.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_txt.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img_diamond_none.png",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\img_diamond_none.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_unkonw.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_unkonw.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_jiansdw.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_jiansdw.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_radio_selected.png",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_radio_selected.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chejiandayreport_top_search.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\chejiandayreport_top_search.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_angle_retract.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_angle_retract.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_ppt.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_ppt.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_images.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_images.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher_background.png",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img_preview_video.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\img_preview_video.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_date_search.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_date_search.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_dqlc_present.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_dqlc_present.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_mail_ic_action_expand_dark.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_mail_ic_action_expand_dark.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_chehao.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_chehao.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_clqk_addphoto.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_clqk_addphoto.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_chehao.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_chehao.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_check_selected.png",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_check_selected.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_images.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_images.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_mail_ic_action_expand_light.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_mail_ic_action_expand_light.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\htmitech_shezhi.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\htmitech_shezhi.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_check_selected.png",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_check_selected.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_tape_pause.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_tape_pause.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_docx.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_docx.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_mail_ic_action_expand_dark.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_mail_ic_action_expand_dark.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_arrow_right_normal.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\ic_arrow_right_normal.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_mail_ic_action_collapse_dark.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_mail_ic_action_collapse_dark.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_radio_normal.png",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_radio_normal.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_mail_ic_action_collapse_light.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_mail_ic_action_collapse_light.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher_round.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_daozhan.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_daozhan.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_arrow_right_normal.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\ic_arrow_right_normal.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img_headportrait_self.png",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\img_headportrait_self.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_btn_back.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_btn_back.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img_trophy_finish.png",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\img_trophy_finish.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_accessory_look.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_accessory_look.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_required.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_required.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_ppt.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_ppt.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_accessory_look.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_accessory_look.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_daozhan.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_daozhan.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_mail_menu_search_selector.xml",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_mail_menu_search_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_checkbox_selected.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_checkbox_selected.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img_headportrait_self.png",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\img_headportrait_self.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_btn_back_guster.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_btn_back_guster.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_dqlc_present.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_dqlc_present.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_checkbox_selected.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_checkbox_selected.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_jiansdw.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_jiansdw.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img_preview_video.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\img_preview_video.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_c_11.png",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\loading_c_11.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_zlyy_loading.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_zlyy_loading.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_txt.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_txt.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_keyboard_capital_selected.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_keyboard_capital_selected.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_return_previous.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_return_previous.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_date_fast_today.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_date_fast_today.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_addphoto.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_addphoto.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_c_7.png",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\loading_c_7.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img_trophy_finish.png",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\img_trophy_finish.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_comm_nodata.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_comm_nodata.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_c_7.png",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\loading_c_7.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_word.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_word.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_work_circle_deleted.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_work_circle_deleted.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_mail_menu_search_selector.xml",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_mail_menu_search_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_accessory_download.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_accessory_download.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_c_5.png",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\loading_c_5.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\header_bar_btn_selector.xml",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\header_bar_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_clean.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_clean.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_c_9.png",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\loading_c_9.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_zlyy_loading.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_zlyy_loading.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_tape_plan.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_tape_plan.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_dqlc_finished.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_dqlc_finished.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_checkbox_normal.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_checkbox_normal.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img_tape_preview.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\img_tape_preview.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_btn_back_guster.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_btn_back_guster.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img_tape_preview.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\img_tape_preview.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_radio_selected.png",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_radio_selected.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_dat.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_dat.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_mail_ic_action_collapse_dark.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_mail_ic_action_collapse_dark.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_yingwen_fuhao_keyboard_del_default.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_yingwen_fuhao_keyboard_del_default.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img_diamond_none.png",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\img_diamond_none.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_comm_nodata.png",
+        "source": "F:\\ZTGG3\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_comm_nodata.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\header_bar_btn_selector.xml",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\header_bar_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_check_normal.png",
+        "source": "F:\\ZTGG\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_check_normal.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\htmitech_shezhi.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\htmitech_shezhi.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_radio_normal.png",
+        "source": "F:\\ZTGG3\\AddressBook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_radio_normal.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_dqlc_finished.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_dqlc_finished.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_c_9.png",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\loading_c_9.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_search.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_search.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_date_fast_today.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_date_fast_today.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_excle.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_excle.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_c_11.png",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\loading_c_11.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_video.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_video.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_c_3.png",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\loading_c_3.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\word_name_kg.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ce5ee4a78c4d0585110dfe82184760338f351b90\\output\\res\\drawable-xxhdpi-v4\\word_name_kg.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_docx.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_docx.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_pdf.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_pdf.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_pdf.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_pdf.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_angle_spread.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_angle_spread.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_zlyy_addclqk.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_zlyy_addclqk.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mx_mail_ic_action_expand_light.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\mx_mail_ic_action_expand_light.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_zhibsbh.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_zhibsbh.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_return_previous.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_return_previous.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chejiandayreport_top_search.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\chejiandayreport_top_search.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_tape_play.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\btn_tape_play.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_search.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\btn_search.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_keyboard_capital_selected.png",
+        "source": "F:\\ZTGG\\MXKit\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_keyboard_capital_selected.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_video.png",
+        "source": "F:\\ZTGG3\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_video.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_zhibsbh.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_zhibsbh.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_word.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_word.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_shouhdw.png",
+        "source": "F:\\ZTGG3\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_shouhdw.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_excle.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_excle.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_unkonw.png",
+        "source": "F:\\ZTGG\\ComponentLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\icon_unkonw.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher_background.png",
+        "source": "F:\\ZTGG\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\ZTGG\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_shouhdw.png",
+        "source": "F:\\ZTGG\\ZTCustom\\src\\main\\res\\drawable-xxhdpi\\icon_shouhdw.png"
+    },
+    {
+        "merged": "F:\\ZTGG3\\ZTCustom\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_c_5.png",
+        "source": "F:\\ZTGG3\\basewidgetlibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\loading_c_5.png"
+    }
+]

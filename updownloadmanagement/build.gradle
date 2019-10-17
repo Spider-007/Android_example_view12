@@ -1,0 +1,64 @@
+if (isModule.toBoolean()) {
+    // 表示当前包生成的是jar/aar
+    apply plugin: 'com.android.library'
+} else {
+    // 表示当前项目中调试
+    apply plugin: 'com.android.application'
+}
+android {
+    compileSdkVersion 23
+    buildToolsVersion '26.0.3'
+    defaultConfig {
+        if (!isModule.toBoolean()) {
+            applicationId "com.htmitech.updownloadmanagement"
+            versionCode 1
+            versionName "1.0"
+        }
+        minSdkVersion 16
+        targetSdkVersion 23
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    sourceSets {
+        main {
+            if (!isModule.toBoolean()){
+                manifest.srcFile 'src/main/debug/AndroidManifest.xml'
+            }else{
+                manifest.srcFile 'src/main/release/AndroidManifest.xml'
+            }
+        }
+    }
+    lintOptions {
+        abortOnError false
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+//    dexOptions {
+//        javaMaxHeapSize "5g"
+//        preDexLibraries false
+//    }
+
+    buildTypes {
+        if (!isModule.toBoolean()) {
+            release {
+                minifyEnabled false
+                proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            }
+        }
+    }
+    useLibrary 'org.apache.http.legacy'
+}
+
+repositories {
+    flatDir {
+        dirs '../ComponentLibrary/libs'
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile project(':httplibrary')
+    compile project(':formlibrary')
+}
